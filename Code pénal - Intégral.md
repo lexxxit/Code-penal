@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -8659,8 +8659,14 @@ condamnation est devenue définitive.
 
 ###### Article 133-4
 
-Les peines prononcées pour une contravention se prescrivent par deux années révolues à compter de la date à laquelle la
+Les peines prononcées pour une contravention se prescrivent par trois années révolues à compter de la date à laquelle la
 décision de condamnation est devenue définitive.
+
+**Nota:**
+
+(Art. 81 II de la loi n° 2002-1576 du 31 décembre 2002 : 
+
+Ces dispositions s'appliquent aux condamnations prononcées à compter du 1er janvier 2003).
 
 **Liens relatifs à cet article**
 
@@ -8672,6 +8678,10 @@ décision de condamnation est devenue définitive.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi - art. 81 (V) JORF 31 décembre 2002
 
 
 ###### Article 133-5
