@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-07-01
+Version Consolidée au 2000-07-11
 
 # Partie législative
 
@@ -552,7 +552,7 @@ Toutefois, les collectivités territoriales et leurs groupements ne sont respons
 dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public.
 
 La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes
-faits.
+faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3.
 
 **Liens relatifs à cet article**
 
@@ -1180,9 +1180,14 @@ faits.
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 8 () JORF 11 juillet 2000
+
 	**Cite**:
 
-	  - Code pénal 121-4 à 121-7
+	  - Code pénal - art. 121-3 (M)
+	  - Code pénal 121-4 à 121-7, 121-3
 
 
 ###### Article 121-3
@@ -1191,10 +1196,16 @@ Il n'y a point de crime ou de délit sans intention de le commettre.
 
 Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui.
 
-Il y a également délit, lorsque la loi le prévoit, en cas d'imprudence, de négligence ou de manquement à une obligation de
-prudence ou de sécurité prévue par la loi ou les règlements sauf si l'auteur des faits a accompli les diligences normales
-compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des
-moyens dont il disposait.
+Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une
+obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas
+accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses
+compétences ainsi que du pouvoir et des moyens dont il disposait.
+
+Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont
+créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de
+l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une
+obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et
+qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer.
 
 Il n'y a point de contravention en cas de force majeure.
 
@@ -1238,18 +1249,18 @@ Il n'y a point de contravention en cas de force majeure.
 	  - Code pénal - art. R622-1 (V)
 	  - Code pénal - art. R625-2 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
 	**Modifié par**:
 
-	  - Loi n°96-393 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
 
 
 ###### Article 121-4
@@ -8932,12 +8943,12 @@ présent article.
 
 ###### Article 221-6
 
-Le fait de causer, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de
-prudence imposée par la loi ou les règlements, la mort d'autrui constitue un homicide involontaire puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+Le fait de causer, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence,
+inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, la mort
+d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 300 000 F d'amende.
 
-En cas de manquement délibéré à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, les peines
-encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
+règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -8995,6 +9006,10 @@ encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 4 () JORF 11 juillet 2000
 
 
 ###### Article 221-7
@@ -10029,12 +10044,13 @@ La peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende s'il 
 
 ###### Article 222-19
 
-Le fait de causer à autrui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de sécurité ou
-de prudence imposée par la loi ou les règlements, une incapacité totale de travail pendant plus de trois mois est puni de
-deux ans d'emprisonnement et de 200 000 F d'amende.
+Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse,
+imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le
+règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 200 000 F
+d'amende.
 
-En cas de manquement délibéré à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, les peines
-encourues sont portées à trois ans d'emprisonnement et à 300 000 F d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
+règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 300 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10093,12 +10109,16 @@ encourues sont portées à trois ans d'emprisonnement et à 300 000 F d'amende.
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
+
 
 ###### Article 222-20
 
-Le fait de causer à autrui, par un manquement délibéré à une obligation de sécurité ou de prudence imposée par la loi ou les
-règlements, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement
-et de 100 000 F d'amende.
+Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
+imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni
+d'un an d'emprisonnement et de 100 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10128,6 +10148,10 @@ et de 100 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 6 () JORF 11 juillet 2000
 
 
 ###### Article 222-21
@@ -17465,7 +17489,7 @@ Est puni des mêmes peines :
 violences, voies de fait ou menaces ;
 
 2° Le fait de procéder ou de participer, après une adjudication publique, à une remise aux enchères sans le concours de
-l'officier ministériel compétent.
+l'officier ministériel compétent ou d'une société de ventes volontaires de meubles aux enchères publiques agréée.
 
 La tentative des infractions prévues au présent article est punie des mêmes peines.
 
@@ -17479,6 +17503,10 @@ La tentative des infractions prévues au présent article est punie des mêmes p
 
 	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2000-642 du 10 juillet 2000 - art. 16 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -18665,11 +18693,11 @@ La tentative des infractions prévues à la présente section est punie des mêm
 ###### Article 322-5
 
 La destruction, la dégradation ou la détérioration involontaire d'un bien appartenant à autrui par l'effet d'une explosion ou
-d'un incendie provoqués par manquement à une obligation de sécurité ou de prudence imposée par la loi ou les règlements est
+d'un incendie provoqués par manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement est
 punie d'un an d'emprisonnement et de 100 000 F d'amende.
 
-En cas de manquement délibéré à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, les peines
-encourues sont portées à deux ans d'emprisonnement et à 200 000 F d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence prévue par la loi ou le
+règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 200 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -18681,6 +18709,10 @@ encourues sont portées à deux ans d'emprisonnement et à 200 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 7 () JORF 11 juillet 2000
 
 	**Cité par**:
 
