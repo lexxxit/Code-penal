@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1998-07-02
+Version Consolidée au 1998-07-19
 
 # Partie législative
 
@@ -31929,16 +31929,10 @@ Dans tous les cas, l'autorisation est délivrée par écrit. Elle peut être ret
 
 Pour l'application de l'article 413-9, les niveaux de classification des renseignements, procédés, objets, documents, données
 informatisées ou fichiers présentant un caractère de secret de la défense nationale ainsi que les autorités chargées de
-définir les modalités selon lesquelles est organisée leur protection sont déterminés par le décret n° 81-514 du 12 mai 1981
-relatif à l'organisation de la protection des secrets et des informations concernant la défense nationale et la sûreté de
-l'Etat.
+définir les modalités selon lesquelles est organisée leur protection sont déterminés par le décret n° 98-608 du 17 juillet
+1998 relatif à la protection des secrets de la défense nationale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°81-514 1981-05-12
-	  - Code pénal - art. 413-9 (MMN)
 
 	**Liens**:
 
@@ -31948,9 +31942,14 @@ l'Etat.
 
 	  - Décret n°93-726 1993-03-29
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°94-167 du 25 février 1994 - art. 16 () JORF 26 février 1994 en vigueur le 1er mars 1994
+	  - Décret n°98-608 1998-07-17
+	  - Code pénal - art. 413-9 (MMN)
+
+	**Modifié par**:
+
+	  - Décret n°98-608 du 17 juillet 1998 - art. 10 () JORF 19 juillet 1998
 
 
 ### Titre III : Des atteintes à l'autorité de l'Etat
