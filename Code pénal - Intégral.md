@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-02-04
 
 # Partie législative
 
@@ -8580,6 +8580,32 @@ protection animale reconnue d'utilité publique ou déclarée, laquelle pourra l
 	  - Loi n°96-647 du 22 juillet 1996 - art. 19 () JORF 23 juillet 1996
 
 
+###### Article 132-76
+
+Les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est commise à raison de l'appartenance ou
+de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race ou une religion déterminée.
+
+La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
+de propos, écrits, images, objets ou actes de toute nature portant atteinte à l'honneur ou à la considération de la victime
+ou d'un groupe de personnes dont fait partie la victime à raison de leur appartenance ou de leur non-appartenance, vraie ou
+supposée, à une ethnie, une nation, une race ou une religion déterminée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 29 juillet 1881 - art. 48-1 (V)
+	  - Code pénal - art. R131-35 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-88 du 3 février 2003 - art. 1
+
+
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
 
 ###### Article 133-1
@@ -9386,7 +9412,10 @@ dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission
 apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition.
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+
+6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
+ou une religion déterminée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
@@ -9401,15 +9430,9 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+	  - Loi n°2003-88 du 3 février 2003 - art. 2 () JORF 4 février 2003
 
 	**Cité par**:
 
@@ -9862,6 +9885,9 @@ apparente ou connue de l'auteur ;
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée ;
+
 6° Par le conjoint ou le concubin de la victime ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
@@ -9889,15 +9915,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+	  - Loi n°2003-88 du 3 février 2003 - art. 3 () JORF 4 février 2003
 
 	**Cité par**:
 
@@ -10081,6 +10101,11 @@ apparente ou connue de l'auteur ;
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
+Article 4
+
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée ;
+
 6° Par le conjoint ou le concubin de la victime ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
@@ -10127,15 +10152,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+	  - Loi n°2003-88 du 3 février 2003 - art. 4 () JORF 4 février 2003
 
 	**Cite**:
 
@@ -10204,6 +10223,9 @@ apparente ou connue de l'auteur ;
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée ;
+
 6° Par le conjoint ou le concubin de la victime ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
@@ -10252,15 +10274,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°99-505 du 18 juin 1999 - art. 14 () JORF 19 juin 1999
+	  - Loi n°2003-88 du 3 février 2003 - art. 5 () JORF 4 février 2003
 
 	**Cite**:
 
@@ -10319,6 +10335,9 @@ apparente ou connue de l'auteur ;
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée ;
+
 6° Par le conjoint ou le concubin de la victime ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
@@ -10350,12 +10369,6 @@ précédent alinéa.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Cité par**:
 
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
@@ -10381,7 +10394,7 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 25 () JORF 10 septembre 2002
+	  - Loi n°2003-88 du 3 février 2003 - art. 6 () JORF 4 février 2003
 
 	**Cite**:
 
@@ -10409,6 +10422,9 @@ apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -10439,12 +10455,6 @@ euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Cité par**:
 
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
@@ -10462,7 +10472,7 @@ euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 25 () JORF 10 septembre 2002
+	  - Loi n°2003-88 du 3 février 2003 - art. 7 () JORF 4 février 2003
 
 
 ###### Article 222-14
@@ -20144,6 +20154,10 @@ publique, chargée d'un service public ou reconnue d'utilité publique.
 Dans le cas prévu par le 3° du présent article, l'infraction est également constituée si son auteur est le propriétaire du
 bien détruit, dégradé ou détérioré.
 
+Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
+appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
+une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 Euros d'amende.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -20175,19 +20189,13 @@ bien détruit, dégradé ou détérioré.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L114-2 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 24 () JORF 10 septembre 2002
+	  - Loi n°2003-88 du 3 février 2003 - art. 8 () JORF 4 février 2003
 
-	**Cite**:
+	**Liens**:
 
-	  - Code pénal - art. 322-1 (M)
+	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L114-2 (V)
 
 
 ###### Article 322-3
@@ -20211,17 +20219,15 @@ le fait, de porter plainte ou de déposer en justice, soit en raison de sa déno
 5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
 marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade.
 
+Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un lieu de culte, d'un
+établissement scolaire, éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également
+portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 	**Cité par**:
 
@@ -20234,11 +20240,7 @@ marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction o
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 24 () JORF 10 septembre 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 322-1 (M)
+	  - Loi n°2003-88 du 3 février 2003 - art. 9 () JORF 4 février 2003
 
 
 ###### Article 322-4
@@ -20372,6 +20374,9 @@ L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion cr
 
 2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours.
 
+3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la personne
+propriétaire ou utilisatrice du bien à une ethnie, une nation, une race ou une religion déterminée.
+
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
 
@@ -20381,14 +20386,9 @@ présent article.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-88 du 3 février 2003 - art. 10 () JORF 4 février 2003
 
 	**Cité par**:
 
