@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-05-16
 
 # Partie législative
 
@@ -19519,7 +19519,10 @@ l'exception des objets susceptibles de restitution ;
 
 10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
 
-11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
+11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+
+12° La confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis.
 
 **Liens relatifs à cet article**
 
@@ -19527,22 +19530,19 @@ l'exception des objets susceptibles de restitution ;
 
 	  - Loi n°92-685 1992-07-22
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 47 () JORF 16 mai 2001
 
 	**Cité par**:
 
 	  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-30 (Ab)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 324-1 (M)
-	  - Code pénal - art. 324-2 (M)
 
 
 ###### Article 324-8
@@ -26399,20 +26399,20 @@ laquelle l'infraction a été commise.
 ###### Article 450-1
 
 Constitue une association de malfaiteurs tout groupement formé ou entente établie en vue de la préparation, caractérisée par
-un ou plusieurs faits matériels, d'un ou plusieurs crimes ou d'un ou plusieurs délits punis de dix ans d'emprisonnement.
+un ou plusieurs faits matériels, d'un ou plusieurs crimes ou d'un ou plusieurs délits punis d'au moins cinq ans
+d'emprisonnement.
 
-La participation à une association de malfaiteurs est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+Lorsque les infractions préparées sont des crimes ou des délits punis de dix ans d'emprisonnement, la participation à une
+association de malfaiteurs est punie de dix ans d'emprisonnement et de [* taux *] 1 000 000 F d'amende.
+
+Lorsque les infractions préparées sont des délits punis d'au moins cinq ans d'emprisonnement, la participation à une
+association de malfaiteurs est punie de cinq ans d'emprisonnement et de 500 000 F d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -26450,6 +26450,15 @@ La participation à une association de malfaiteurs est punie de dix ans d'empris
 	  - Code pénal - art. 450-5 (V)
 	  - Loi n°1825-04-10 du 10 avril 1825 - art. 9 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 45 () JORF 16 mai 2001
+
 
 ###### Article 450-2
 
@@ -26475,6 +26484,37 @@ participants.
 	**Cité par**:
 
 	  - Loi n°1825-04-10 du 10 avril 1825 - art. 9 (Ab)
+
+
+###### Article 450-2-1
+
+Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
+avec une ou plusieurs personnes se livrant aux activités visées à l'article 450-1, est puni de cinq ans d'emprisonnement et
+de [* taux *] 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Créé par**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 46 () JORF 16 mai 2001
+
+	**Cité par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+	  - Décret n°2003-196 du 7 mars 2003 - art. 7 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - Code monétaire et financier - art. R153-10 (V)
+	  - Code pénal - art. 450-5 (M)
+	  - Livre des procédures fiscales - art. L10 B (V)
 
 
 ###### Article 450-3
