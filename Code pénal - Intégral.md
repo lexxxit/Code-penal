@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-04-25
 
 # Partie législative
 
@@ -3430,6 +3430,10 @@ pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'u
 L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration
 de sa peine d'emprisonnement ou de réclusion.
 
+Lorsque l'interdiction du territoire accompagne une peine privative de liberté sans sursis, son application est suspendue
+pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du
+jour où la privation de liberté a pris fin.
+
 Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction
 l'interdiction du territoire français à l'encontre :
 
@@ -3456,10 +3460,6 @@ ans ;
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
 
 	**Cité par**:
 
@@ -3529,6 +3529,10 @@ ans ;
 	  - Code pénal - art. 443-7 (V)
 	  - Code pénal - art. 444-8 (V)
 	  - Code pénal - art. 462-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-396 du 24 avril 1997 - art. 16 () JORF 25 avril 1997
 
 
 ###### Article 131-31
@@ -7662,11 +7666,13 @@ L'astreinte ne donne pas lieu à contrainte judiciaire.
 
 ###### Article 132-70-1
 
-I.  La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de
-l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ajourner le
-prononcé de la peine en enjoignant au prévenu de présenter à l'autorité administrative compétente les documents de voyage
-permettant l'exécution de la mesure d'éloignement prononcée à son encontre ou de communiquer les renseignements permettant
-cette exécution.
+I. La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de
+l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ou,
+s'agissant d'un étranger dépourvu des documents de voyage permettant l'exécution d'une mesure d'éloignement, des infractions
+prévues à l'article 19 ou au premier alinéa de l'article 27 de la même ordonnance ou d'une infraction prévue au sixième
+alinéa de l'article 33 de la même ordonnance ajourner le prononcé de la peine en enjoignant au prévenu de présenter à
+l'autorité administrative compétente les documents de voyage permettant l'exécution de la mesure d'éloignement prononcée à
+son encontre ou de communiquer les renseignements permettant cette exécution.
 
 Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de la rétention judiciaire, pour une durée de
 trois mois au plus.
@@ -7751,8 +7757,10 @@ VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de
 
 	**Cite**:
 
-	  - Ordonnance 45-2658 1945-11-02 art. 27, art. 35 bis
+	  - Ordonnance 45-2658 1945-11-02 art. 19, art. 27, art. 33, art. 35 bis
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 33 (Ab)
 	  - Code de procédure pénale 149 à 150
 
 	**Codifié par**:
@@ -7763,9 +7771,13 @@ VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-1417 1993-12-30 art. 10 JORF 1er janvier 1994
+	  - Loi n°97-396 du 24 avril 1997 - art. 17 () JORF 25 avril 1997
+
+	**Abrogé par**:
+
+	  - Loi n°98-349 du 11 mai 1998 - art. 44 (V) JORF 12 mai 1998
 
 	**Cité par**:
 
