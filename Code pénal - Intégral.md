@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1998-06-18
+Version Consolidée au 1998-07-02
 
 # Partie législative
 
@@ -26418,10 +26418,6 @@ Le fait de procéder à la distribution ou à la cession d'organes, de tissus, d
 sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
 
-Est puni des mêmes peines le fait de transformer, d'importer, d'exporter, de distribuer, de céder ou d'utiliser des organes,
-tissus, cellules ou produits du corps humain en violation des dispositions prises en application de l'article L. 665-15-1 du
-code de la santé publique.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26452,12 +26448,74 @@ code de la santé publique.
 
 	**Modifié par**:
 
-	  - Loi n°96-452 du 28 mai 1996 - art. 10 () JORF 29 mai 1996
+	  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L665-15 (Ab)
 	  - Code de la santé publique - art. L665-15-1 (Ab)
+
+
+###### Article 511-8-1
+
+Le fait de mettre en oeuvre, en vue d'un usage thérapeutique, des procédés de préparation, conservation ou transformation de
+tissus et de cellules qui ne sont pas destinés à des thérapies cellulaire ou génique, en violation des dispositions de
+l'article L. 672-15 du code de la santé publique, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-7 (M)
+	  - Code de la santé publique - art. L674-9 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L672-15 (Ab)
+
+
+###### Article 511-8-2
+
+Le fait de procéder à l'importation ou à l'exportation des organes, tissus et cellules qui ne sont pas destinées à des
+thérapies cellulaires ou géniques, en violation des dispositions prises pour l'application de l'article 18 de la loi n°
+92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité
+entre les services de police, de gendarmerie et de douane, est passible de deux ans d'emprisonnement et de 200 000 F
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Cite**:
+
+	  - Loi n°92-1477 1992-12-31 art. 18
+
+	**Créé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V) JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-8 (M)
+	  - Code de la santé publique - art. L674-10 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-8 (V)
 
 
 ###### Article 511-9
