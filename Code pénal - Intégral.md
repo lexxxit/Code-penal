@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -1799,19 +1799,14 @@ L'échelle des peines d'emprisonnement est la suivante :
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prononcer une peine de jours-amende consistant
 pour le condamné à verser au Trésor une somme dont le montant global résulte de la fixation par le juge d'une contribution
 quotidienne pendant un certain nombre de jours. Le montant de chaque jour-amende est déterminé en tenant compte des
-ressources et des charges du prévenu ; il ne peut excéder 300 euros. Le nombre de jours-amende est déterminé en tenant compte
-des circonstances de l'infraction ; il ne peut excéder trois cent soixante.
+ressources et des charges du prévenu ; il ne peut excéder 1 000 euros. Le nombre de jours-amende est déterminé en tenant
+compte des circonstances de l'infraction ; il ne peut excéder trois cent soixante.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
 	**Cité par**:
 
@@ -1847,7 +1842,7 @@ des circonstances de l'infraction ; il ne peut excéder trois cent soixante.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 2004-03-09 art. 173 1° JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 131-5-1
@@ -2968,9 +2963,9 @@ L'action en responsabilité et l'action récursoire sont portées devant les tri
 En cas de condamnation à une peine de jours-amende, le montant global est exigible à l'expiration du délai correspondant au
 nombre de jours-amende prononcés.
 
-Le défaut total ou partiel de paiement de ce montant entraîne l'incarcération du condamné pour une durée qui correspond à la
-moitié du nombre de jours-amende impayés. Il est procédé comme en matière de contrainte judiciaire. La détention ainsi subie
-est soumise au régime des peines d'emprisonnement.
+Le défaut total ou partiel du paiement de ce montant entraîne l'incarcération du condamné pour une durée correspondant au
+nombre de jours-amende impayés. Il est procédé comme en matière de contrainte judiciaire. La détention ainsi subie est
+soumise au régime des peines d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -3011,10 +3006,10 @@ est soumise au régime des peines d'emprisonnement.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 2004-03-09 art. 173 2, art. 198 V JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 131-26
@@ -7315,7 +7310,9 @@ montant en tenant compte également des ressources et des charges de l'auteur de
 	  - Code de procédure pénale - art. 362 (VD)
 
 
-##### Sous-section 1 : De la semi-liberté.
+##### Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique
+
+##### Paragraphe 1 : De la semi-liberté et du placement à l'extérieur
 
 ###### Article 132-25
 
@@ -7323,7 +7320,14 @@ Lorsque la juridiction de jugement prononce une peine égale ou inférieure à u
 l'égard du condamné qui justifie, soit de l'exercice d'une activité professionnelle, soit de son assiduité à un enseignement
 ou une formation professionnelle ou encore d'un stage ou d'un emploi temporaire en vue de son insertion sociale, soit de sa
 participation essentielle à la vie de sa famille, soit de la nécessité de subir un traitement médical, que la peine
-d'emprisonnement sera exécutée sous le régime de la semi-liberté.
+d'emprisonnement sera exécutée sous le régime de la semi-liberté. 
+
+Dans les cas prévus par l'alinéa précédent, la juridiction peut également décider que la peine d'emprisonnement sera exécutée
+sous le régime du placement à l'extérieur. 
+
+Lorsque a été ordonné le placement ou le maintien en détention du condamné en application de l'article 397-4 du code de
+procédure pénale, la juridiction qui fait application du présent article peut ordonner l'exécution provisoire de la semi-
+liberté ou du placement à l'extérieur.
 
 **Liens relatifs à cet article**
 
@@ -7342,10 +7346,14 @@ d'emprisonnement sera exécutée sous le régime de la semi-liberté.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 2004-03-09 art. 185 II, III, IV JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 397-4 (V)
 
 
 ###### Article 132-26
@@ -7354,7 +7362,13 @@ Le condamné admis au bénéfice de la semi-liberté est astreint à rejoindre l
 déterminées par le juge de l'application des peines en fonction du temps nécessaire à l'activité, à l'enseignement, à la
 formation professionnelle, au stage, à la participation à la vie de famille ou au traitement en vue duquel il a été admis au
 régime de la semi-liberté. Il est astreint à demeurer dans l'établissement pendant les jours où, pour quelque cause que ce
-soit, ses obligations extérieures se trouvent interrompues.
+soit, ses obligations extérieures se trouvent interrompues. 
+
+Le condamné admis au bénéfice du placement à l'extérieur est employé en dehors d'un établissement pénitentiaire à des travaux
+contrôlés par l'administration. 
+
+La juridiction de jugement peut également soumettre le condamné admis au bénéfice de la semi-liberté ou du placement à
+l'extérieur aux mesures prévues par les articles 132-43 à 132-46.
 
 **Liens relatifs à cet article**
 
@@ -7362,14 +7376,102 @@ soit, ses obligations extérieures se trouvent interrompues.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 2004-03-09 art. 185 II, III, V JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 723 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-73 (V)
+
+
+##### Paragraphe 2 : Du placement sous surveillance électronique
+
+###### Article 132-26-1
+
+Lorsque la juridiction de jugement prononce une peine égale ou inférieure à un an d'emprisonnement, elle peut décider à
+l'égard du condamné qui justifie soit de l'exercice d'une activité professionnelle, soit de son assiduité à un enseignement
+ou une formation professionnelle ou encore d'un stage ou d'un emploi temporaire en vue de son insertion sociale, soit de sa
+participation essentielle à la vie de sa famille, soit de la nécessité de subir un traitement médical, que la peine
+d'emprisonnement sera exécutée sous le régime du placement sous surveillance électronique. 
+
+La décision de placement sous surveillance électronique ne peut être prise qu'avec l'accord du prévenu préalablement informé
+qu'il peut demander à être assisté par son avocat, le cas échéant désigné d'office par le bâtonnier à sa demande, avant de
+donner son accord. S'il s'agit d'un mineur non émancipé, cette décision ne peut être prise qu'avec l'accord des titulaires de
+l'exercice de l'autorité parentale. Lorsque a été ordonné le placement ou le maintien en détention du condamné en application
+de l'article 397-4 du code de procédure pénale, la juridiction de jugement qui fait application de l'alinéa précédent peut
+ordonner l'exécution provisoire du placement sous surveillance électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 723-7 (VD)
+	  - Code de procédure pénale - art. 723-7-1 (V)
+	  - Code de procédure pénale - art. R57-10 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 397-4 (V)
+
+
+###### Article 132-26-2
+
+Le placement sous surveillance électronique emporte, pour le condamné, interdiction de s'absenter de son domicile ou de tout
+autre lieu désigné par le juge de l'application des peines en dehors des périodes fixées par celui-ci. Les périodes et les
+lieux sont fixés en tenant compte : de l'exercice d'une activité professionnelle par le condamné ; du fait qu'il suit un
+enseignement ou une formation, effectue un stage ou occupe un emploi temporaire en vue de son insertion sociale ; de sa
+participation à la vie de famille ; de la prescription d'un traitement médical. Le placement sous surveillance électronique
+emporte également pour le condamné l'obligation de répondre aux convocations de toute autorité publique désignée par le juge
+de l'application des peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 723-13 (V)
+	  - Code de procédure pénale - art. D147-30-20 (VT)
+
+
+###### Article 132-26-3
+
+La juridiction de jugement peut également soumettre le condamné admis au bénéfice du placement sous surveillance électronique
+aux mesures prévues par les articles 132-43 à 132-46.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 132-43 (V)
 
 
 ##### Sous-section 2 : Du fractionnement des peines
@@ -7740,10 +7842,11 @@ l'amende non assortie du sursis restant due.
 La juridiction qui prononce un emprisonnement peut, dans les conditions prévues ci-après, ordonner qu'il sera sursis à son
 exécution, la personne physique condamnée étant placée sous le régime de la mise à l'épreuve.
 
-Après le prononcé de l'emprisonnement assorti du sursis avec mise à l'épreuve, le président de la juridiction avertit le
-condamné, lorsqu'il est présent, des conséquences qu'entraînerait une condamnation pour une nouvelle infraction commise au
-cours du délai d'épreuve ou un manquement aux mesures de contrôle et aux obligations particulières qui lui sont imposées. Il
-l'informe de la possibilité qu'il aura de voir déclarer sa condamnation non avenue s'il observe une conduite satisfaisante.
+Après le prononcé de l'emprisonnement assorti du sursis avec mise à l'épreuve, le président de la juridiction notifie au
+condamné, lorsqu'il est présent, les obligations à respecter durant le sursis avec mise à l'épreuve et l'avertit des
+conséquences qu'entraînerait une condamnation pour une nouvelle infraction commise au cours du délai d'épreuve ou un
+manquement aux mesures de contrôle et aux obligations particulières qui lui sont imposées. Il l'informe de la possibilité
+qu'il aura de voir déclarer sa condamnation non avenue s'il observe une conduite satisfaisante.
 
 Lorsque la juridiction prononce, à titre de peine complémentaire, la peine d'interdiction du territoire français pour une
 durée de dix ans au plus, il est sursis à son exécution durant le temps de la mise à l'épreuve prévue au premier alinéa.
@@ -7756,7 +7859,7 @@ durée de dix ans au plus, il est sursis à son exécution durant le temps de la
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 79 () JORF 27 novembre 2003
+	  - Loi n°2004-204 du 9 mars 2004 - art. 175 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -8067,11 +8170,12 @@ oeuvre par le service de probation avec la participation, le cas échéant, de t
 Le sursis avec mise à l'épreuve peut être révoqué par la juridiction de jugement dans les conditions prévues par l'article
 132-48.
 
-Il peut également l'être par la juridiction chargée de l'application des peines, selon les modalités prévues par le code de
-procédure pénale, lorsque le condamné n'a pas satisfait aux mesures de contrôle et aux obligations particulières qui lui
-étaient imposées. Tout manquement à ces mesures et obligations commis après que la mise à l'épreuve est devenue exécutoire
-peut justifier la révocation du sursis. Toutefois, la révocation ne peut être ordonnée avant que la condamnation ait acquis
-un caractère définitif.
+Il peut également l'être par le juge de l'application des peines, selon les modalités prévues par le code de procédure
+pénale, lorsque le condamné n'a pas satisfait aux mesures de contrôle et aux obligations particulières qui lui étaient
+imposées. Tout manquement à ces mesures et obligations commis après que la mise à l'épreuve est devenue exécutoire peut
+justifier la révocation du sursis. Toutefois, la révocation ne peut être ordonnée avant que la condamnation ait acquis un
+caractère définitif. Si cette révocation est ordonnée alors que la condamnation n'avait pas encore acquis un caractère
+définitif, elle devient caduque dans le cas où cette condamnation serait ultérieurement infirmée ou annulée.
 
 **Liens relatifs à cet article**
 
@@ -8079,18 +8183,14 @@ un caractère définitif.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 350 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2004-204 du 9 mars 2004 - art. 182 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 183 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 132-48 (M)
+	  - Code pénal - art. 132-48 (V)
 
 
 ###### Article 132-48
@@ -8217,7 +8317,7 @@ par l'alinéa précédent.
 
 Si le sursis avec mise à l'épreuve a été accordé après une première condamnation déjà prononcée sous le même bénéfice, cette
 première condamnation est réputée non avenue si la seconde vient elle-même à être déclarée ou réputée non avenue dans les
-conditions et les délais prévus par le premier alinéa de l'article 132-52 ci-dessus ou par l'article 743 du code de procédure
+conditions et les délais prévus par le premier alinéa de l'article 132-52 ci-dessus ou par l'article 744 du code de procédure
 pénale.
 
 **Liens relatifs à cet article**
@@ -8226,14 +8326,9 @@ pénale.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 183 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -8243,7 +8338,7 @@ pénale.
 	**Cite**:
 
 	  - Code pénal - art. 132-52 (V)
-	  - CODE DE PROCEDURE PENALE - art. 743 (M)
+	  - CODE DE PROCEDURE PENALE - art. 744 (V)
 
 
 ##### Sous-section 5 : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général
@@ -8251,15 +8346,22 @@ pénale.
 ###### Article 132-54
 
 La juridiction peut, dans les conditions et selon les modalités prévues aux articles 132-40 et 132-41, prévoir que le
-condamné accomplira, pour une durée de quarante à deux cent quarante heures, un travail d'intérêt général au profit d'une
-personne morale de droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général.
+condamné accomplira, pour une durée de quarante à deux cent dix heures, un travail d'intérêt général au profit d'une personne
+morale de droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général. 
+
+La juridiction peut décider que les obligations imposées au condamné perdureront au-delà de l'accomplissement du travail
+d'intérêt général, dans un délai qui ne peut excéder douze mois (1). 
 
 Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général ne peut être ordonné lorsque le prévenu le refuse
-ou n'est pas présent à l'audience.
+ou n'est pas présent à l'audience. 
 
 Les modalités d'application de l'obligation d'accomplir un travail d'intérêt général sont régies par les dispositions des
 articles 131-22 à 131-24. Dès l'accomplissement de la totalité du travail d'intérêt général, la condamnation est considérée
-comme non avenue.
+comme non avenue sauf s'il a été fait application des dispositions prévues au dernier alinéa de l'article 132-55.
+
+**Nota:**
+
+(1) : Loi 2004-204 du 9 mars 2004 art. 207 VI : le présent alinéa entre en vigueur au 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -8273,40 +8375,40 @@ comme non avenue.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 177 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 178 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 132-40 (M)
-	  - Code pénal - art. 132-41 (M)
-	  - Code pénal 132-40, 132-41, 131-22 à 131-24
+	  - Code pénal - art. 131-22 (V)
+	  - Code pénal - art. 132-40 (V)
+	  - Code pénal - art. 132-55 (V)
 
 
 ###### Article 132-55
 
 Au cours du délai fixé par la juridiction pour accomplir un travail d'intérêt général, le condamné doit, outre l'obligation
-d'accomplir le travail prescrit, satisfaire aux mesures de contrôle suivantes :
+d'accomplir le travail prescrit, satisfaire aux mesures de contrôle suivantes : 
 
-1° Répondre aux convocations du juge de l'application des peines ou du travailleur social désigné ;
+1° Répondre aux convocations du juge de l'application des peines ou du travailleur social désigné ; 
 
 2° Se soumettre à l'examen médical préalable à l'exécution de la peine qui a pour but de rechercher s'il n'est pas atteint
 d'une affection dangereuse pour les autres travailleurs et de s'assurer qu'il est médicalement apte au travail auquel il est
-envisagé de l'affecter ;
+envisagé de l'affecter ; 
 
 3° Justifier des motifs de ses changements d'emploi ou de résidence qui font obstacle à l'exécution du travail d'intérêt
-général selon les modalités fixées ;
+général selon les modalités fixées ; 
 
 4° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement qui ferait obstacle à
-l'exécution du travail d'intérêt général selon les modalités fixées ;
+l'exécution du travail d'intérêt général selon les modalités fixées ; 
 
 5° Recevoir les visites du travailleur social et lui communiquer tous documents ou renseignements relatifs à l'exécution de
-la peine.
+la peine. 
 
 Il doit également satisfaire à celles des obligations particulières prévues à l'article 132-45 que la juridiction lui a
-spécialement imposées.
+spécialement imposées et dont celle-ci a précisé la durée qui ne peut excéder douze mois.
 
 **Liens relatifs à cet article**
 
@@ -8314,14 +8416,9 @@ spécialement imposées.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 124 () JORF 16 juin 2000
+	  - Loi n°2004-204 du 9 mars 2004 - art. 177 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -8334,7 +8431,7 @@ spécialement imposées.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-45 (M)
+	  - Code pénal - art. 132-45 (V)
 
 
 ###### Article 132-56
@@ -8370,12 +8467,14 @@ particulière du sursis avec mise à l'épreuve et le délai prévu à l'article
 
 ###### Article 132-57
 
-Toute juridiction ayant prononcé, pour un délit de droit commun, une condamnation comportant un emprisonnement ferme de six
-mois au plus peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie de recours par le condamné,
-ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit d'une collectivité publique,
-d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une durée qui ne pourra être
-inférieure à quarante heures ni supérieure à deux cent-quarante heures. L'exécution de l'obligation d'accomplir un travail
-d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56.
+Lorsqu'une condamnation pour un délit de droit commun comportant une peine d'emprisonnement ferme de six mois au plus a été
+prononcée, le juge de l'application des peines peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une
+voie de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au
+profit d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré
+d'une durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent-dix heures.L'exécution de l'obligation
+d'accomplir un travail d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des
+articles 132-55 et 132-56. Le juge de l'application des peines peut également décider que le condamné effectuera une peine de
+jours-amende, conformément aux dispositions des articles 131-5 et 131-25.
 
 **Liens relatifs à cet article**
 
@@ -8392,20 +8491,16 @@ d'intérêt général est soumise aux prescriptions du troisième alinéa de l'a
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 45 () JORF 9 février 1995
+	  - Loi n°2004-204 du 9 mars 2004 - art. 179 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 132-54 (M)
-	  - Code pénal - art. 132-55 (M)
-	  - Code pénal - art. 132-56 (V)
+	  - Code pénal - art. 131-25 (V)
+	  - Code pénal - art. 131-5 (V)
+	  - Code pénal - art. 132-54 (V)
+	  - Code pénal - art. 132-55 (V)
 
 
 ##### Sous-section 6 : De la dispense de peine et de l'ajournement
@@ -8603,7 +8698,9 @@ l'épreuve.
 
 A l'audience de renvoi, la juridiction peut, en tenant compte de la conduite du coupable au cours du délai d'épreuve, soit le
 dispenser de peine, soit prononcer la peine prévue par la loi, soit ajourner une nouvelle fois le prononcé de la peine dans
-les conditions et selon les modalités prévues à l'article 132-63.
+les conditions et selon les modalités prévues à l'article 132-63. Avec l'accord du procureur de la République, le juge de
+l'application des peines peut, trente jours avant l'audience de renvoi, prononcer lui-même la dispense de peine, à l'issue
+d'un débat contradictoire tenu conformément aux dispositions de l'article 712-6 du code de procédure pénale. 
 
 La décision sur la peine intervient au plus tard un an après la première décision d'ajournement.
 
@@ -8613,14 +8710,14 @@ La décision sur la peine intervient au plus tard un an après la première déc
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 180 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
 	  - Code pénal - art. 132-63 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ##### Paragraphe 4 : De l'ajournement avec injonction
