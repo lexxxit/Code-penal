@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-06-13
+Version Consolidée au 2001-07-07
 
 # Partie législative
 
@@ -12314,84 +12314,6 @@ d'amende.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2222-1 (V)
-
-
-###### Article 223-11
-
-L'interruption de la grossesse d'autrui est punie de deux ans d'emprisonnement et de 200 000 F d'amende lorsqu'elle est
-pratiquée, en connaissance de cause, dans l'une des circonstances suivantes :
-
-1° Après l'expiration du délai dans lequel elle est autorisée par la loi, sauf si elle est pratiquée pour un motif
-thérapeutique ;
-
-2° Par une personne n'ayant pas la qualité de médecin ;
-
-3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un établissement d'hospitalisation privé
-satisfaisant aux conditions prévues par la loi.
-
-Cette infraction est punie de cinq ans d'emprisonnement et de 500 000 F d'amende si le coupable la pratique habituellement.
-
-La tentative des délits prévus au présent article est punie des mêmes peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Abrogé par**:
-
-	  - Loi n°2001-588 du 4 juillet 2001 - art. 14 () JORF 7 juillet 2001
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2222-2 (M)
-	  - Code de la santé publique - art. L2414-2 (Ab)
-	  - Code de la santé publique - art. L2422-2 (M)
-	  - Code de la santé publique - art. L2431-1 (M)
-	  - Code de la santé publique - art. L2441-2 (M)
-	  - Code de la santé publique - art. R2212-2 (V)
-	  - Code pénal - art. 713-2 (Ab)
-	  - Code pénal - art. 723-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2222-2 (M)
-
-
-###### Article 223-12
-
-Le fait de fournir à la femme les moyens matériels de pratiquer une interruption de grossesse sur elle-même est puni de trois
-ans d'emprisonnement et de 300 000 F d'amende. Ces peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende si
-l'infraction est commise de manière habituelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°93-121 du 27 janvier 1993 - art. 38 () JORF 30 janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2001-588 du 4 juillet 2001 - art. 15 () JORF 7 juillet 2001
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R2212-2 (V)
 
 
 ##### Section 6 : De la provocation au suicide
@@ -28924,23 +28846,6 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 
 ### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
-#### Chapitre III : Adaptation du livre II
-
-###### Article 713-2
-
-(Abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2001-588 du 4 juillet 2001 - art. 19
-
-
 #### Chapitre VI : Adaptation du livre V
 
 ###### Article 716-1-1
@@ -29205,52 +29110,6 @@ d'emprisonnement et de 300 000 F d'amende. "
 	**Cite**:
 
 	  - Code pénal - art. 223-8 (M)
-
-
-###### Article 713-2
-
-I. -  Le 1° de l'article 223-11 est rédigé comme suit :
-
-" 1° Après la fin de la dixième semaine de grossesse, sauf si elle est pratiquée pour un motif thérapeutique. "
-
-II. - Le 3° de l'article 223-11 est rédigé comme suit :
-
-" 3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un établissement d'hospitalisation privé
-satisfaisant aux conditions prévues par la réglementation applicable localement. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi n°2001-588 du 4 juillet 2001 - art. 19 () JORF 7 juillet 2001
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-2 (M)
-	  - Code de la santé publique - art. L2431-1 (M)
-	  - Code de la santé publique - art. L2441-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-2 (M)
-	  - Code de la santé publique - art. L2431-1 (M)
-	  - Code de la santé publique - art. L2441-2 (M)
-
-	**Cite**:
-
-	  - Code pénal - art. 223-11 (Ab)
 
 
 ###### Article 713-3
