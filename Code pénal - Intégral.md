@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2001-11-17
 
 # Partie législative
 
@@ -12998,14 +12998,15 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 ###### Article 225-1
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
-de leur situation de famille, de leur état de santé, de leur handicap, de leurs moeurs, de leurs opinions politiques, de
-leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation,
-une race ou une religion déterminée.
+de leur situation de famille, de leur apparence physique, de leur patronyme, de leur état de santé, de leur handicap, de
+leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur
+appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée.
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
-de la situation de famille, de l'état de santé, du handicap, des moeurs, des opinions politiques, des activités syndicales,
-de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
-des membres ou de certains membres de ces personnes morales.
+de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des moeurs, de
+l'orientation sexuelle, de l'âge, des opinions politiques, des activités syndicales, de l'appartenance ou de la non-
+appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée des membres ou de certains
+membres de ces personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -13038,6 +13039,10 @@ des membres ou de certains membres de ces personnes morales.
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2001-1066 du 16 novembre 2001 - art. 1 () JORF 17 novembre 2001
+
 
 ###### Article 225-2
 
@@ -13053,7 +13058,10 @@ d'emprisonnement et de 200 000 F d'amende lorsqu'elle consiste :
 4° A subordonner la fourniture d'un bien ou d'un service à une condition fondée sur l'un des éléments visés à l'article
 225-1 ;
 
-5° A subordonner une offre d'emploi à une condition fondée sur l'un des éléments visés à l'article 225-1.
+5° A subordonner une offre d'emploi, une demande de stage ou une période de formation en entreprise à une condition fondée
+sur l'un des éléments visés à l'article 225-1 ;
+
+6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -13089,9 +13097,14 @@ d'emprisonnement et de 200 000 F d'amende lorsqu'elle consiste :
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2001-1066 du 16 novembre 2001 - art. 1 () JORF 17 novembre 2001
+
 	**Cite**:
 
 	  - Code pénal - art. 225-1 (M)
+	  - Code de la sécurité sociale. - art. L412-8 (M)
 
 
 ###### Article 225-3
