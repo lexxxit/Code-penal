@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1999-06-19
+Version Consolidée au 1999-07-10
 
 # Partie législative
 
@@ -25824,7 +25824,10 @@ timbres ou marques, contrefaits ou falsifiés ;
 
 2° La contrefaçon ou la falsification des papiers à en-tête ou imprimés officiels utilisés dans les assemblées instituées par
 la Constitution, les administrations publiques ou les juridictions, la vente, la distribution ainsi que l'usage de ces
-papiers ou imprimés ainsi contrefaits ou falsifiés.
+papiers ou imprimés ainsi contrefaits ou falsifiés ;
+
+3° La contrefaçon ou la falsification d'estampilles et de marques attestant l'intervention des services d'inspection ou de
+surveillance sanitaire de la France ou d'un pays étranger.
 
 **Liens relatifs à cet article**
 
@@ -25847,11 +25850,16 @@ papiers ou imprimés ainsi contrefaits ou falsifiés.
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+
 
 ###### Article 444-4
 
-L'usage frauduleux des sceaux, marques, timbres, papiers ou imprimés visés à l'article 444-3 est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+L'usage frauduleux des sceaux, marques, timbres, papiers, imprimés ou estampilles et marques attestant l'intervention des
+services d'inspection ou de surveillance sanitaire visés à l'article 444-3 est puni de trois ans d'emprisonnement et de 300
+000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25878,6 +25886,10 @@ d'emprisonnement et de 300 000 F d'amende.
 	  - Code de la santé publique - art. L655 (Ab)
 	  - Code rural - art. L205-10 (V)
 	  - Code rural et de la pêche maritime - art. L205-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
 
 	**Cite**:
 
