@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-05
 
 # Partie législative
 
@@ -19889,8 +19889,9 @@ public ;
 2° Un registre, une minute ou un acte original de l'autorité publique ;
 
 3° Un immeuble ou un objet mobilier classé ou inscrit, une découverte archéologique faite au cours de fouilles ou
-fortuitement, un terrain contenant des vestiges archéologiques ou un objet habituellement conservé ou déposé dans des musées,
-bibliothèques ou archives appartenant à une personne publique, chargée d'un service public ou reconnue d'utilité publique ;
+fortuitement, un terrain contenant des vestiges archéologiques ou un objet conservé ou déposé dans un musée de France ou dans
+les musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service public ou reconnue d'utilité
+publique ;
 
 4° Un objet présenté lors d'une exposition à caractère historique, culturel ou scientifique, organisée par une personne
 publique, chargée d'un service public ou reconnue d'utilité publique.
@@ -19937,7 +19938,7 @@ bien détruit, dégradé ou détérioré.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-5 du 4 janvier 2002 - art. 27 (Ab) JORF 5 janvier 2002
 
 	**Cite**:
 
