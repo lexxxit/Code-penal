@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-04-06
 
 # Partie législative
 
@@ -35515,6 +35515,27 @@ L'immobilisation cesse et le certificat d'immatriculation est restitué dès la 
 	**Modifié par**:
 
 	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+
+
+###### Article R131-10-1
+
+Lorsque la peine d'immobilisation concerne un véhicule déjà immobilisé et mis en fourrière en application des dispositions de
+l'article L. 325-1-1 du code de la route, l'immobilisation effectuée en application de cet article s'impute sur la durée de
+la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 5 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1-1 (V)
 
 
 ###### Article R131-11
