@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-02-20
+Version Consolidée au 2004-03-10
 
 # Partie législative
 
@@ -138,7 +138,7 @@ résultat de rendre plus sévères les peines prononcées par la décision de co
 condamnations prononcées pour des faits commis postérieurement à leur entrée en vigueur ;
 
 4° Lorsque les prescriptions ne sont pas acquises, les lois relatives à la prescription de l'action publique et à la
-prescription des peines, sauf quand elles auraient pour résultat d'aggraver la situation de l'intéressé.
+prescription des peines.
 
 **Liens relatifs à cet article**
 
@@ -146,10 +146,9 @@ prescription des peines, sauf quand elles auraient pour résultat d'aggraver la 
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 72 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -401,6 +400,34 @@ l'autorité du pays où le fait a été commis.
 	  - Code pénal - art. 435-6-2 (V)
 	  - Code pénal - art. 436-3 (V)
 	  - Code pénal - art. 511-1-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6 (V)
+
+
+###### Article 113-8-1
+
+Sans préjudice de l'application des articles 113-6 à 113-8, la loi pénale française est également applicable à tout crime ou
+à tout délit puni d'au moins cinq ans d'emprisonnement commis hors du territoire de la République par un étranger dont
+l'extradition a été refusée à l'Etat requérant par les autorités françaises aux motifs, soit que le fait à raison duquel
+l'extradition avait été demandée est puni d'une peine ou d'une mesure de sûreté contraire à l'ordre public français, soit que
+la personne réclamée aurait été jugée dans ledit Etat par un tribunal n'assurant pas les garanties fondamentales de procédure
+et de protection des droits de la défense, soit que le fait considéré revêt le caractère d'infraction politique. 
+
+La poursuite des infractions mentionnées au premier alinéa ne peut être exercée qu'à la requête du ministère public. Elle
+doit être précédée d'une dénonciation officielle, transmise par le ministre de la justice, de l'autorité du pays où le fait a
+été commis et qui avait requis l'extradition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 19 () JORF 10 mars 2004
 
 	**Cite**:
 
@@ -2655,9 +2682,9 @@ judiciaire sont applicables.
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'Etat, mais
 elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers.
 
-Lorsque la chose confisquée est un véhicule qui n'a pas été saisi au cours de la procédure, le condamné doit, sur
-l'injonction qui lui en est faite par le ministère public, remettre ce véhicule au service ou à l'organisme chargé de sa
-destruction ou de son aliénation.
+Lorsque la chose confisquée est un véhicule qui n'a pas été saisi ou mis en fourrière au cours de la procédure, le condamné
+doit, sur l'injonction qui lui en est faite par le ministère public, remettre ce véhicule au service ou à l'organisme chargé
+de sa destruction ou de son aliénation.
 
 **Liens relatifs à cet article**
 
@@ -2667,7 +2694,8 @@ destruction ou de son aliénation.
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 60 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -4232,17 +4260,22 @@ dans son ressort ;
 
 ###### Article 131-36-1
 
-Dans les cas prévus par la loi, la juridiction de jugement peut ordonner un suivi socio-judiciaire.
+Dans les cas prévus par la loi, la juridiction de jugement peut ordonner un suivi socio-judiciaire. 
 
 Le suivi socio-judiciaire emporte, pour le condamné, l'obligation de se soumettre, sous le contrôle du juge de l'application
 des peines et pendant une durée déterminée par la juridiction de jugement, à des mesures de surveillance et d'assistance
 destinées à prévenir la récidive. La durée du suivi socio-judiciaire ne peut excéder dix ans en cas de condamnation pour
-délit ou vingt ans en cas de condamnation pour crime.
+délit ou vingt ans en cas de condamnation pour crime. Toutefois, en matière correctionnelle, cette durée peut être portée à
+vingt ans par décision spécialement motivée de la juridiction de jugement ; lorsqu'il s'agit d'un crime puni de trente ans de
+réclusion criminelle, cette durée est de trente ans ; lorsqu'il s'agit d'un crime puni de la réclusion criminelle à
+perpétuité, la cour d'assises peut décider que le suivi socio-judiciaire s'appliquera sans limitation de durée, sous réserve
+de la possibilité pour le tribunal de l'application des peines de mettre fin à la mesure à l'issue d'un délai de trente ans,
+selon les modalités prévues par l'article 712-7 du code de procédure pénale. 
 
 La décision de condamnation fixe également la durée maximum de l'emprisonnement encouru par le condamné en cas
-d'inobservation des obligations qui lui sont imposées. Cet emprisonnement ne peut excéder deux ans en cas de condamnation
-pour délit et cinq ans en cas de condamnation pour crime. Les conditions dans lesquelles le juge de l'application des peines
-peut ordonner, en tout ou partie, l'exécution de l'emprisonnement sont fixées par le code de procédure pénale.
+d'inobservation des obligations qui lui sont imposées. Cet emprisonnement ne peut excéder trois ans en cas de condamnation
+pour délit et sept ans en cas de condamnation pour crime. Les conditions dans lesquelles le juge de l'application des peines
+peut ordonner, en tout ou partie, l'exécution de l'emprisonnement sont fixées par le code de procédure pénale. 
 
 Le président de la juridiction, après le prononcé de la décision, avertit le condamné des obligations qui en résultent et des
 conséquences qu'entraînerait leur inobservation.
@@ -4253,9 +4286,9 @@ conséquences qu'entraînerait leur inobservation.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+	  - Loi n°2004-204 du 9 mars 2004 - art. 46 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -4281,6 +4314,10 @@ conséquences qu'entraînerait leur inobservation.
 	  - Code pénal - art. 224-10 (V)
 	  - Code pénal - art. 227-31 (V)
 	  - Code pénal - art. 421-8 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-7 (V)
 
 
 ###### Article 131-36-2
@@ -4501,6 +4538,9 @@ Les peines criminelles ou correctionnelles encourues par les personnes morales s
 
 Le taux maximum de l'amende applicable aux personnes morales est égal au quintuple de celui prévu pour les personnes
 physiques par la loi qui réprime l'infraction.
+
+Lorsqu'il s'agit d'un crime pour lequel aucune peine d'amende n'est prévue à l'encontre des personnes physiques, l'amende
+encourue par les personnes morales est de 1 000 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -4940,10 +4980,9 @@ physiques par la loi qui réprime l'infraction.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 55 () JORF 10 mars 2004
 
 
 ###### Article 131-39
@@ -8612,17 +8651,16 @@ L'astreinte ne donne pas lieu à contrainte judiciaire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-10 art. 198 V JORF 10 mars 2004
+
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-
-##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation des peines.
+##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines
 
 ###### Article 132-71
 
@@ -8635,11 +8673,6 @@ caractérisée par un ou plusieurs faits matériels, d'une ou de plusieurs infra
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Cité par**:
 
 	  - Loi n°99-223 du 23 mars 1999 - art. 27 (Ab)
@@ -8650,6 +8683,10 @@ caractérisée par un ou plusieurs faits matériels, d'une ou de plusieurs infra
 	  - Code de la sécurité sociale. - art. L114-17 (VD)
 	  - Code du sport. - art. L232-26 (V)
 	  - Code du sport. - art. L425-9-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ###### Article 132-72
@@ -8662,10 +8699,9 @@ La préméditation est le dessein formé avant l'action de commettre un crime ou
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ###### Article 132-73
@@ -8680,10 +8716,9 @@ de clôture. Est assimilé à l'effraction l'usage de fausses clefs, de clefs in
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -8701,10 +8736,9 @@ ouverture non destinée à servir d'entrée.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ###### Article 132-75
@@ -8735,21 +8769,16 @@ protection animale reconnue d'utilité publique ou déclarée, laquelle pourra l
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 19 () JORF 23 juillet 1996
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ###### Article 132-76
 
-Les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est commise à raison de l'appartenance ou
-de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race ou une religion déterminée.
+Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
+commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
+race ou une religion déterminée.
 
 La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
 de propos, écrits, images, objets ou actes de toute nature portant atteinte à l'honneur ou à la considération de la victime
@@ -8767,9 +8796,10 @@ supposée, à une ethnie, une nation, une race ou une religion déterminée.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 1
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 38 () JORF 10 mars 2004
 
 
 ###### Article 132-77
@@ -8794,7 +8824,47 @@ vraie ou supposée.
 
 	**Créé par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
+###### Article 132-78
+
+La personne qui a tenté de commettre un crime ou un délit est, dans les cas prévus par la loi, exempte de peine si, ayant
+averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et, le cas échéant,
+d'identifier les autres auteurs ou complices.
+
+Dans les cas prévus par la loi, la durée de la peine privative de liberté encourue par une personne ayant commis un crime ou
+un délit est réduite si, ayant averti l'autorité administrative ou judiciaire, elle a permis de faire cesser l'infraction,
+d'éviter que l'infraction ne produise un dommage ou d'identifier les autres auteurs ou complices.
+
+Les dispositions de l'alinéa précédent sont également applicables lorsque la personne a permis soit d'éviter la réalisation
+d'une infraction connexe de même nature que le crime ou le délit pour lequel elle était poursuivie, soit de faire cesser une
+telle infraction, d'éviter qu'elle ne produise un dommage ou d'en identifier les auteurs ou complices.
+
+Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations émanant de personnes ayant fait l'objet des
+dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-346 du 17 mars 2014 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-63-1 (V)
+	  - Code de procédure pénale - art. 179 (VD)
+	  - Code de procédure pénale - art. 181 (VT)
+	  - Code de procédure pénale - art. 215 (V)
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
@@ -9079,22 +9149,25 @@ de l'exécution de la peine, soit de la prescription accomplie ;
 l'emprisonnement dont l'ensemble ne dépasse pas cinq ans, après un délai de dix ans à compter soit de l'expiration de la
 peine subie, soit de la prescription accomplie.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 7 mars 2008.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 769 (VT)
 	  - Code de procédure pénale - art. 783 (VD)
 	  - Code pénal - art. 133-15 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-10 art. 198 V JORF 10 mars 2004
 
 
 ###### Article 133-14
@@ -9611,7 +9684,9 @@ déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa 
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
 ou une religion déterminée ;
 
-7° A raison de l'orientation sexuelle de la victime.
+7° A raison de l'orientation sexuelle de la victime ;
+
+8° Par plusieurs personnes agissant en bande organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
@@ -9628,7 +9703,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003 Rectificatif JORF du 5 juin 2003
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -9680,6 +9755,27 @@ présent article.
 
 ###### Article 221-5-1
 
+Le fait de faire à une personne des offres ou des promesses ou de lui proposer des dons, présents ou avantages quelconques
+afin qu'elle commette un assassinat ou un empoisonnement est puni, lorsque ce crime n'a été ni commis ni tenté, de dix ans
+d'emprisonnement et de 150 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+
+	**Nouveaux textes**:
+
+	  - Code pénal - art. 221-5-2 (V)
+
+
+###### Article 221-5-2
+
 Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
 infractions définies à la présente section.
 
@@ -9700,10 +9796,6 @@ laquelle l'infraction a été commise.
 
 	**Créé par**:
 
-	  - Loi n°2001-504 du 12 juin 2001 - art. 4 () JORF 13 juin 2001
-
-	**Transféré par**:
-
 	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cite**:
@@ -9712,9 +9804,30 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code pénal - art. 221-5-2 (V)
+	  - Code pénal - art. 221-5-1 (T)
+
+
+###### Article 221-5-3
+
+Toute personne qui a tenté de commettre les crimes d'assassinat ou d'empoisonnement est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la mort de la victime et d'identifier, le cas échéant, les
+autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'un empoisonnement est ramenée à vingt ans de réclusion
+criminelle si, ayant averti l'autorité administrative ou judiciaire, il a permis d'éviter la mort de la victime et
+d'identifier, le cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ##### Section 2 : Des atteintes involontaires à la vie
@@ -10242,9 +10355,10 @@ présent article.
 
 ###### Article 222-4
 
-L'infraction définie à l'article 222-1 est punie de trente ans de réclusion criminelle lorsqu'elle est commise de manière
-habituelle sur un mineur de quinze ans ou sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie,
-à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+L'infraction définie à l'article 222-1 est punie de trente ans de réclusion criminelle lorsqu'elle est commise en bande
+organisée ou de manière habituelle sur un mineur de quinze ans ou sur une personne dont la particulière vulnérabilité, due à
+son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou
+connue de son auteur. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -10255,10 +10369,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -10267,7 +10380,7 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 	  - Code pénal - art. 222-1 (V)
 
 
@@ -10358,6 +10471,29 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 222-6-2
+
+Toute personne qui a tenté de commettre les crimes prévus par le présent paragraphe est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'un des crimes prévus au présent paragraphe est réduite
+de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'éviter que
+l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou
+complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de réclusion
+criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ##### Paragraphe 2 : Des violences
@@ -11064,6 +11200,39 @@ La peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende s'
 
 ###### Article 222-18-1
 
+Lorsqu'elles sont commises à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
+ethnie, une nation, une race ou une religion déterminée, les menaces prévues au premier alinéa de l'article 222-17 sont
+punies de deux ans d'emprisonnement et de 30 000 Euros d'amende, celles prévues au second alinéa de cet article et au premier
+alinéa de l'article 222-18 sont punies de cinq  ans d'emprisonnement et de 75 000 Euros d'amende, et celles prévues au second
+alinéa de l'article 222-18 sont punies de sept ans d'emprisonnement et de 100 000 Euros d'amende. Les mêmes peines sont
+encourues lorsque ces menaces sont proférées à raison de l'orientation sexuelle vraie ou supposée de la victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 39 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 222-17 (M)
+	  - Code pénal - art. 222-18 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. 222-18-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code pénal - art. 222-18-2 (V)
+
+
+###### Article 222-18-2
+
 Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
 infractions définies au présent paragraphe.
 
@@ -11073,8 +11242,8 @@ Les peines encourues par les personnes morales sont :
 
 2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
 
-3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa) et
-222-18.
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa),
+222-18 et 222-18-1.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -11087,10 +11256,6 @@ laquelle l'infraction a été commise.
 
 	**Créé par**:
 
-	  - Loi n°2001-504 du 12 juin 2001 - art. 7 () JORF 13 juin 2001
-
-	**Transféré par**:
-
 	  - Loi n°2004-204 du 9 mars 2004 - art. 39 () JORF 10 mars 2004
 
 	**Cite**:
@@ -11100,14 +11265,11 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal - art. 222-17 (M)
 	  - Code pénal - art. 222-18 (M)
+	  - Code pénal - art. 222-18-1 (T)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code pénal - art. 222-18-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code pénal - art. 222-18-2 (V)
+	  - Code pénal - art. 222-18-1 (T)
 
 
 ##### Section 2 : Des atteintes involontaires à l'intégrité de la personne
@@ -12307,9 +12469,10 @@ laquelle l'infraction a été commise.
 
 ###### Article 222-43
 
-La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues par les articles 222-34 à 222-40
+La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues par les articles 222-35 à 222-39
 est réduite de moitié si, ayant averti les autorités administratives ou judiciaires, il a permis de faire cesser les
-agissements incriminés et d'identifier, le cas échéant, les autres coupables.
+agissements incriminés et d'identifier, le cas échéant, les autres coupables. Dans le cas prévu à l'article 222-34, la peine
+de la réclusion criminelle à perpétuité est ramenée à vingt ans de réclusion criminelle.
 
 **Liens relatifs à cet article**
 
@@ -12317,14 +12480,31 @@ agissements incriminés et d'identifier, le cas échéant, les autres coupables.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 	**Cite**:
 
-	  - Code pénal 222-34 à 222-40
+	  - Code pénal - art. 222-34 (V)
+	  - Code pénal - art. 222-35 (V)
+
+
+###### Article 222-43-1
+
+Toute personne qui a tenté de commettre les infractions prévues par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ##### Section 5 : Peines complémentaires applicables aux personnes physiques
@@ -12532,8 +12712,8 @@ tout bien ayant servi, directement ou indirectement, à la commission de l'infra
 celle-ci, à quelque personne qu'ils appartiennent et en quelque lieu qu'ils se trouvent, dès lors que leur propriétaire ne
 pouvait en ignorer l'origine ou l'utilisation frauduleuse.
 
-Dans les cas prévus par les articles 222-34, 222-35, 222-36 et 222-38, peut également être prononcée la confiscation de tout
-ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+Dans les cas prévus par les articles 222-34, 222-35, 222-36, 222-38 et 222-39-1, peut également être prononcée la
+confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
@@ -12541,14 +12721,9 @@ ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeub
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 357 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -12563,7 +12738,8 @@ ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeub
 	  - Code pénal - art. 222-35 (M)
 	  - Code pénal - art. 222-36 (M)
 	  - Code pénal - art. 222-38 (M)
-	  - Code pénal 222-34 à 222-40, 222-34, 222-35, 222-36, 222-38
+	  - Code pénal - art. 222-39-1 (M)
+	  - Code pénal 222-34 à 222-40, 222-34, 222-35, 222-36, 222-38, 222-39-1
 
 
 ###### Article 222-50
@@ -13464,8 +13640,8 @@ présent article.
 
 ###### Article 224-3
 
-L'infraction prévue par l'article 224-1 est punie de trente ans de réclusion criminelle lorsqu'elle est commise soit en bande
-organisée, soit à l'égard de plusieurs personnes.
+L'infraction prévue par l'article 224-1 est punie de trente ans de réclusion criminelle lorsqu'elle est commise à l'égard de
+plusieurs personnes.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction.
 
@@ -13479,10 +13655,9 @@ ou l'une des victimes a subi l'une des atteintes à son intégrité physique men
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -13561,6 +13736,63 @@ présent article.
 
 	  - Code pénal - art. 132-23 (M)
 	  - Code pénal 224-1 à 224-4, 132-23
+
+
+###### Article 224-5-1
+
+Toute personne qui a tenté de commettre les crimes prévus par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'un des crimes prévus à la présente section est réduite
+de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'éviter que
+l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou
+complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de réclusion
+criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
+###### Article 224-5-2
+
+Lorsque les infractions prévues par le premier alinéa de l'article 224-1 et par les articles 224-2 à 224-5 sont commises en
+bande organisée, les peines sont portées à 1 000 000 Euros d'amende et à :
+
+1° Trente ans de réclusion criminelle si l'infraction est punie de vingt ans de réclusion criminelle ;
+
+2° La réclusion criminelle à perpétuité si l'infraction est punie de trente ans de réclusion criminelle.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables dans les cas prévus aux 1° et
+2°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-53-13 (V)
+	  - Code de procédure pénale - art. 706-73 (VT)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 224-1 (M)
+	  - Code pénal 224-1, 224-2 à 224-5, 132-23
 
 
 ##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport
@@ -13665,6 +13897,33 @@ La tentative de l'infraction prévue au présent article est punie des mêmes pe
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 224-8-1
+
+Toute personne qui a tenté de commettre les crimes prévus par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'un des crimes prévus à la présente section est réduite
+de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'éviter que
+l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou
+complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de réclusion
+criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Cité par**:
+
+	  - Loi n°94-589 du 15 juillet 1994 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques
 
 ###### Article 224-9
@@ -13747,8 +14006,8 @@ des membres ou de certains membres de ces personnes morales.
 
 ###### Article 225-2
 
-La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale, est punie de deux ans
-d'emprisonnement et de 30000 euros d'amende lorsqu'elle consiste :
+La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale, est punie de trois ans
+d'emprisonnement et de 45 000 Euros d'amende lorsqu'elle consiste :
 
 1° A refuser la fourniture d'un bien ou d'un service ;
 
@@ -13763,6 +14022,9 @@ d'emprisonnement et de 30000 euros d'amende lorsqu'elle consiste :
 sur l'un des éléments visés à l'article 225-1 ;
 
 6° A refuser d'accepter une personne à l'un des stages visés par le 2° de l'article L. 412-8 du code de la sécurité sociale.
+
+Lorsque le refus discriminatoire prévu au 1° est commis dans un lieu accueillant du public ou aux fins d'en interdire
+l'accès, les peines sont portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13793,14 +14055,9 @@ sur l'un des éléments visés à l'article 225-1 ;
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 41 () JORF 10 mars 2004
 
 	**Cite**:
 
@@ -14154,6 +14411,29 @@ ans d'emprisonnement et de 750 000 Euros d'amende.
 	**Cite**:
 
 	  - Code pénal 225-4-1 à 225-4-6
+
+
+###### Article 225-4-9
+
+Toute personne qui a tenté de commettre les infractions prévues par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues à la présente section est
+réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'éviter que l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs
+ou complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de
+réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ##### Section 2 : Du proxénétisme et des infractions qui en résultent
@@ -14515,6 +14795,29 @@ La tentative des délits prévus par la présente section est punie des mêmes p
 	  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
 	  - Code de la route - art. R243-2 (Ab)
 	  - Code de la route. - art. R212-4 (V)
+
+
+###### Article 225-11-1
+
+Toute personne qui a tenté de commettre les infractions prévues par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues à la présente section est
+réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'éviter que l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs
+ou complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de
+réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
 ###### Article 225-12
@@ -15349,9 +15652,9 @@ produits de l'infraction détenus par une personne autre que la personne se livr
 
 ###### Article 225-25
 
-Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre
-encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature,
-meubles ou immeubles, divis ou indivis.
+Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre, à
+l'exception de celle prévue par l'article 225-10-1, encourent également la peine complémentaire de confiscation de tout ou
+partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 **Liens relatifs à cet article**
 
@@ -15359,13 +15662,17 @@ meubles ou immeubles, divis ou indivis.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 37 () JORF 19 mars 2003
+	  - Loi n°2004-204 du 9 mars 2004 - art. 35 () JORF 10 mars 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-36-1 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-10-1 (V)
 
 
 #### Chapitre VI : Des atteintes à la personnalité
@@ -18096,6 +18403,9 @@ tel établissement.
 Les mêmes peines sont notamment applicables au fait, commis par un majeur, d'organiser des réunions comportant des
 exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe.
 
+Les peines sont portées à dix ans d'emprisonnement et 1 000 000 Euros d'amende lorsque les faits ont été commis en bande
+organisée.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -18130,14 +18440,9 @@ exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 
 ###### Article 227-23
@@ -18152,7 +18457,10 @@ faire importer ou de la faire exporter, est puni des mêmes peines.
 Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
 
-Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et [*taux*] 30000 euros d'amende.
+Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et 30000 euros d'amende.
+
+Les infractions prévues aux deuxième, troisième et quatrième alinéas sont punies de dix ans d'emprisonnement et de 500 000
+Euros d'amende lorsqu'elles sont commises en bande organisée.
 
 Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
 physique est celui d'un mineur, sauf s'il est établi que cette personne était âgée de dix-huit ans au jour de la fixation ou
@@ -18186,15 +18494,9 @@ de l'enregistrement de son image.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 14 () JORF 5 mars 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 
 ###### Article 227-24
@@ -18630,7 +18932,7 @@ Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 ###### Article 311-4
 
-Le vol est puni de cinq ans d'emprisonnement et de [*taux*] 75000 euros d'amende :
+Le vol est puni de cinq ans d'emprisonnement et de 75000 euros d'amende :
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une
 bande organisée ;
@@ -18652,7 +18954,10 @@ marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction o
 7° Lorsqu'il est commis dans un véhicule affecté au transport collectif de voyageurs ou dans un lieu destiné à l'accès à un
 moyen de transport collectif de voyageurs ;
 
-8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration.
+8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ;
+
+9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie,
+une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende lorsque le vol est commis dans deux des
 circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150000 euros d'amende
@@ -18680,14 +18985,9 @@ lorsque le vol est commis dans trois de ces circonstances.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 40 () JORF 10 mars 2004
 
 
 ###### Article 311-4-1
@@ -18865,6 +19165,32 @@ présent article.
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (V)
+
+
+###### Article 311-9-1
+
+Toute personne qui a tenté de commettre un vol en bande organisée prévu par l'article 311-9 est exempte de peine si, ayant
+averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices. 
+
+La peine privative de liberté encourue par l'auteur ou le complice d'un vol en bande organisée est réduite de moitié si,
+ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction en cours ou d'éviter que
+l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou
+complices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 311-9 (V)
 
 
 ###### Article 311-10
@@ -19127,7 +19453,10 @@ L'extorsion est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 pendant huit jours au plus ;
 
 2° Lorsqu'elle est commise au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à
-une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
+ethnie, une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée.
 
 **Liens relatifs à cet article**
 
@@ -19135,14 +19464,9 @@ une infirmité, à une déficience physique ou psychique ou à un état de gross
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 40 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -19287,6 +19611,33 @@ présent article.
 	  - Code pénal - art. 132-23 (V)
 
 
+###### Article 312-6-1
+
+Toute personne qui a tenté de commettre une extorsion en bande organisée prévue par l'article 312-6 est exempte de peine si,
+ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier,
+le cas échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une extorsion en bande organisée est réduite de moitié
+si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'éviter que
+l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou
+complices. Lorsque la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ramenée à vingt ans de réclusion
+criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 312-6 (M)
+
+
 ###### Article 312-7
 
 L'extorsion est punie de la réclusion criminelle à perpétuité et de 150 000 euros d'amende lorsqu'elle est précédée,
@@ -19320,6 +19671,33 @@ présent article.
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
+
+
+###### Article 312-7-1
+
+Le fait de ne pouvoir justifier de ressources correspondant à son train de vie tout en étant en relations habituelles avec
+une ou plusieurs personnes ayant commis les infractions prévues aux articles 312-6 et 312-7 ou le fait de faciliter la
+justification de ressources fictives pour ces mêmes personnes sont punis de dix ans d'emprisonnement et de 150 000 Euros
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 312-6 (M)
+	  - Code pénal - art. 312-7 (M)
 
 
 ###### Article 312-8
@@ -19692,20 +20070,16 @@ de service public ;
 d'entraide humanitaire ou sociale ;
 
 4° Au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
-déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
 
-5° En bande organisée.
+Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 euros d'amende lorsque l'escroquerie est commise en bande
+organisée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -19725,7 +20099,7 @@ déficience physique ou psychique ou à un état de grossesse, est apparente ou 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 
 ###### Article 313-3
@@ -20101,13 +20475,19 @@ L'abus de confiance est puni de trois ans d'emprisonnement et de 375 000 euros d
 
 ###### Article 314-2
 
-Les peines sont portées à sept ans d'emprisonnement et à 750000 euros d'amende lorsque l'abus de confiance est réalisé :
+Les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende lorsque l'abus de confiance est réalisé :
 
 1° Par une personne qui fait appel au public afin d'obtenir la remise de fonds ou de valeurs soit pour son propre compte,
 soit comme dirigeant ou préposé de droit ou de fait d'une entreprise industrielle ou commerciale ;
 
 2° Par toute autre personne qui, de manière habituelle, se livre ou prête son concours, même à titre accessoire, à des
-opérations portant sur les biens des tiers pour le compte desquels elle recouvre des fonds ou des valeurs.
+opérations portant sur les biens des tiers pour le compte desquels elle recouvre des fonds ou des valeurs ;
+
+3° Au préjudice d'une association qui fait appel au public en vue de la collecte de fonds à des fins d'entraide humanitaire
+ou sociale ;
+
+4° Au préjudice d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
 
 **Liens relatifs à cet article**
 
@@ -20123,14 +20503,9 @@ opérations portant sur les biens des tiers pour le compte desquels elle recouvr
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 51 () JORF 10 mars 2004
 
 
 ###### Article 314-3
@@ -21221,20 +21596,32 @@ punie d'un an d'emprisonnement et de 15000 euros d'amende.
 En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence prévue par la loi ou le
 règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 30000 euros d'amende.
 
+Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
+à deux ans d'emprisonnement et à 30 000 Euros d'amende dans le cas prévu par le premier alinéa, et à trois ans
+d'emprisonnement et à 45 000 Euros d'amende dans le cas prévu par le deuxième alinéa.
+
+Si cet incendie est intervenu dans des conditions de nature à exposer les personnes à un dommage corporel ou à créer un
+dommage irréversible à l'environnement, les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende dans
+le cas prévu par le premier alinéa, et à cinq ans d'emprisonnement et à 100 000 Euros d'amende dans le cas prévu par le
+deuxième alinéa.
+
+Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant huit jours au plus, les peines sont portées à
+cinq ans d'emprisonnement et à 75 000 Euros d'amende dans le cas prévu par le premier alinéa, et à sept ans d'emprisonnement
+et à 100 000 Euros d'amende dans le cas prévu par le deuxième alinéa.
+
+S'il a provoqué la mort d'une ou plusieurs personnes, les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros
+d'amende dans le cas prévu par le premier alinéa, et à dix ans d'emprisonnement et à 150 000 Euros d'amende dans le cas prévu
+par le deuxième alinéa.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 31 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -21250,7 +21637,11 @@ règlement, les peines encourues sont portées à deux ans d'emprisonnement et �
 
 La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui par l'effet d'une substance explosive, d'un
 incendie ou de tout autre moyen de nature à créer un danger pour les personnes est punie de dix ans d'emprisonnement et de
-150000 euros d'amende.
+150 000 euros d'amende.
+
+Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui intervenu dans des
+conditions de nature à exposer les personnes à un dommage corporel ou à créer un dommage irréversible à l'environnement, les
+peines sont portées à quinze ans de réclusion criminelle et à 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -21278,20 +21669,20 @@ incendie ou de tout autre moyen de nature à créer un danger pour les personnes
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 32 () JORF 10 mars 2004
 
 
-###### Article 322-7
+###### Article 322-6-1
 
-L'infraction définie à l'article 322-6 est punie de quinze ans de réclusion criminelle et de 150000 euros d'amende
-lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant huit jours au plus.
+Le fait de diffuser par tout moyen, sauf à destination des professionnels, des procédés permettant la fabrication d'engins de
+destruction élaborés à partir de poudre ou de substances explosives, de matières nucléaires, biologiques ou chimiques, ou à
+partir de tout autre produit destiné à l'usage domestique, industriel ou agricole, est puni d'un an d'emprisonnement et de 15
+000 Euros d'amende.
+
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion
+des procédés, un réseau de télécommunications à destination d'un public non déterminé.
 
 **Liens relatifs à cet article**
 
@@ -21299,14 +21690,35 @@ lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant h
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 du 9 mars 2004 - art. 7 () JORF 10 mars 2004
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 25
+	  - Code de procédure pénale - art. 706-73 (V)
+	  - Code de procédure pénale - art. D147-31 (V)
+	  - Code pénal - art. 421-1 (V)
+
+
+###### Article 322-7
+
+L'infraction définie à l'article 322-6 est punie de quinze ans de réclusion criminelle et de 150 000 euros d'amende
+lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant huit jours au plus.
+
+Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
+à vingt ans de réclusion criminelle et à 200 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 32 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -21319,14 +21731,17 @@ lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant h
 
 ###### Article 322-8
 
-L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150000 euros d'amende :
+L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende :
 
 1° Lorsqu'elle est commise en bande organisée ;
 
-2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours.
+2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours ;
 
 3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la personne
 propriétaire ou utilisatrice du bien à une ethnie, une nation, une race ou une religion déterminée.
+
+Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
+à trente ans de réclusion criminelle et à 200 000 euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -21339,7 +21754,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 10 () JORF 4 février 2003
+	  - Loi n°2004-204 du 9 mars 2004 - art. 32 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -21354,8 +21769,11 @@ présent article.
 
 ###### Article 322-9
 
-L'infraction définie à l'article 322-6 est punie de trente ans de réclusion criminelle et de 150000 euros d'amende
+L'infraction définie à l'article 322-6 est punie de trente ans de réclusion criminelle et de 150 000 euros d'amende
 lorsqu'elle a entraîné pour autrui une mutilation ou un infirmité permanente.
+
+Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
+à la réclusion criminelle à perpétuité et à 200 000 euros d'amende.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -21366,14 +21784,9 @@ présent article.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 32 () JORF 10 mars 2004
 
 	**Cite**:
 
@@ -23621,20 +24034,15 @@ desdites substances, définis à l'article L. 2353-13 du code de la défense ;
 
 Constitue également un acte de terrorisme, lorsqu'il est intentionnellement en relation avec une entreprise individuelle ou
 collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, le fait d'introduire dans
-l'atmosphère, sur le sol, dans le sous-sol ou dans les eaux, y compris celles de la mer territoriale, une substance de nature
-à mettre en péril la santé de l'homme ou des animaux ou le milieu naturel.
+l'atmosphère, sur le sol, dans le sous-sol, dans les aliments ou les composants alimentaires ou dans les eaux, y compris
+celles de la mer territoriale, une substance de nature à mettre en péril la santé de l'homme ou des animaux ou le milieu
+naturel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
 
 	**Cité par**:
 
@@ -23647,7 +24055,7 @@ l'atmosphère, sur le sol, dans le sous-sol ou dans les eaux, y compris celles d
 
 	**Modifié par**:
 
-	  - Loi n°96-647 1996-07-22 art. 2 JORF 23 juillet 1996
+	  - Loi n°2004-204 du 9 mars 2004 - art. 8 () JORF 10 mars 2004
 
 
 ###### Article 421-2-1
@@ -23836,12 +24244,15 @@ article.
 
 ###### Article 421-5
 
-Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de 225000 euros
-d'amende.
+Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de dix ans d'emprisonnement et de 225 000 euros
+d'amende. 
 
-La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines.
+Le fait de diriger ou d'organiser le groupement ou l'entente défini à l'article 421-2-1 est puni de vingt ans de réclusion
+criminelle et de 500 000 euros d'amende. 
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux délits prévus par le
+La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
 
 **Liens relatifs à cet article**
@@ -23850,14 +24261,9 @@ présent article.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -23876,7 +24282,7 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 	  - Code pénal - art. 421-2-1 (V)
 	  - Code pénal - art. 421-2-2 (V)
 
@@ -24852,7 +25258,7 @@ d'emprisonnement et 30 000 euros d'amende.
 
 La discrimination définie à l'article 225-1, commise à l'égard d'une personne physique ou morale par une personne dépositaire
 de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses
-fonctions ou de sa mission, est punie de trois ans d'emprisonnement et de 45000 euros d'amende lorsqu'elle consiste :
+fonctions ou de sa mission, est punie de cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elle consiste :
 
 1° A refuser le bénéfice d'un droit accordé par la loi ;
 
@@ -24879,14 +25285,9 @@ fonctions ou de sa mission, est punie de trois ans d'emprisonnement et de 45000 
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 41 () JORF 10 mars 2004
 
 	**Cite**:
 
@@ -26689,6 +27090,31 @@ pour une durée de cinq à vingt ans.
 	  - Code du travail - art. L514-10 (AbD)
 
 
+###### Article 434-7-2
+
+Sans préjudice des droits de la défense, le fait, pour toute personne qui, du fait de ses fonctions, a connaissance, en
+application des dispositions du code de procédure pénale, d'informations issues d'une enquête ou d'une instruction en cours
+concernant un crime ou un délit, de révéler, directement ou indirectement, ces informations à des personnes susceptibles
+d'être impliquées, comme auteurs, coauteurs, complices ou receleurs, dans la commission de ces infractions, lorsque cette
+révélation est de nature à entraver le déroulement des investigations ou la manifestation de la vérité, est puni de cinq ans
+d'emprisonnement et de 75 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 13 () JORF 10 mars 2004
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 814 (VD)
+	  - Code de procédure pénale - art. 880 (VD)
+
+
 ###### Article 434-8
 
 Toute menace ou tout acte d'intimidation commis envers un magistrat, un juré ou toute autre personne siégeant dans une
@@ -27345,10 +27771,12 @@ d'amende.
 
 ###### Article 434-27
 
-Constitue une évasion punissable le fait, par un détenu, de se soustraire à la garde à laquelle il est soumis, par violence,
-effraction ou corruption, lors même que celles-ci auraient été commises, de concert avec lui, par un tiers.
+Constitue une évasion punissable le fait, par un détenu, de se soustraire à la garde à laquelle il est soumis.
 
-L'évasion est punie de trois ans d'emprisonnement et de 45000 euros d'amende.
+L'évasion est punie de trois ans d'emprisonnement et de 45 000 euros d'amende.
+
+Lorsque l'évasion est réalisée par violence, effraction ou corruption, lors même que celles-ci auraient été commises, de
+concert avec le détenu, par un tiers, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27356,14 +27784,9 @@ L'évasion est punie de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 194 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -27448,11 +27871,12 @@ de détecter à distance sa présence ou son absence dans le lieu désigné par 
 ###### Article 434-30
 
 Les infractions prévues à l'article 434-27 et au 1° de l'article 434-29 sont punies de sept ans d'emprisonnement et de 100
-000 euros d'amende lorsque les violences consistent en la menace d'une arme ou d'une substance explosive, incendiaire ou
-toxique ou lorsqu'elles ont été commises dans le cadre d'une action concertée entre plusieurs détenus.
+000 euros d'amende lorsqu'elles ont été commises sous la menace d'une arme ou d'une substance explosive, incendiaire ou
+toxique. 
 
 Les peines sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsqu'il a été fait usage d'une arme ou d'une
-substance explosive, incendiaire ou toxique.
+substance explosive, incendiaire ou toxique ou lorsque les faits sont commis en bande organisée, que les membres de cette
+bande soient ou non des détenus.
 
 **Liens relatifs à cet article**
 
@@ -27460,14 +27884,10 @@ substance explosive, incendiaire ou toxique.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 194 () JORF 10 mars 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -27477,8 +27897,8 @@ substance explosive, incendiaire ou toxique.
 
 	**Cite**:
 
-	  - Code pénal - art. 434-27 (M)
-	  - Code pénal - art. 434-29 (M)
+	  - Code pénal - art. 434-27 (V)
+	  - Code pénal - art. 434-29 (V)
 
 
 ###### Article 434-31
@@ -28944,7 +29364,11 @@ laquelle l'infraction a été commise.
 
 La contrefaçon ou la falsification des pièces de monnaie ou des billets de banque ayant cours légal en France ou émis par les
 institutions étrangères ou internationales habilitées à cette fin est punie de trente ans de réclusion criminelle et de 450
-000 euros d'amende.
+000 euros d'amende. 
+
+Est punie des mêmes peines la fabrication des pièces de monnaie et des billets de banque mentionnés à l'alinéa précédent
+réalisée à l'aide d'installations ou de matériels autorisés destinés à cette fin, lorsqu'elle est effectuée en violation des
+conditions fixées par les institutions habilitées à émettre ces signes monétaires et sans l'accord de ces institutions. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -28974,29 +29398,25 @@ présent article.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 442-2
 
 Le transport, la mise en circulation ou la détention en vue de la mise en circulation des signes monétaires contrefaits ou
-falsifiés visés à l'article 442-1 est puni de dix ans d'emprisonnement et de 150000 euros d'amende.
+falsifiés mentionnés au premier alinéa de l'article 442-1 ou des signes monétaires irrégulièrement fabriqués mentionnés au
+deuxième alinéa de cet article sont punis de dix ans d'emprisonnement et de 150 000 Euros d'amende.
 
-Lorsqu'ils sont commis en bande organisée, les mêmes faits sont punis de trente ans de réclusion criminelle et de 450000
-euros d'amende.
+Les infractions prévues au précédent alinéa sont punies de trente ans de réclusion criminelle et de 450 000 Euros d'amende
+lorsqu'elles sont commises en bande organisée.
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au
 deuxième alinéa du présent article.
 
 **Liens relatifs à cet article**
@@ -29005,14 +29425,9 @@ deuxième alinéa du présent article.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -30042,6 +30457,28 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal - art. 450-1 (M)
+
+
+###### Article 450-5
+
+Les personnes physiques et morales reconnues coupables des infractions prévues au deuxième alinéa de l'article 450-1 et à
+l'article 450-2-1 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en
+soit la nature, meubles ou immeubles, divis ou indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 450-1 (M)
+	  - Code pénal - art. 450-2-1 (M)
 
 
 ## Livre V : Des autres crimes et délits
@@ -31199,8 +31636,8 @@ laquelle l'infraction a été commise.
 
 ###### Article 521-1
 
-Le fait, publiquement ou non, d'exercer des sévices graves ou de commettre un acte de cruauté envers un animal domestique, ou
-apprivoisé, ou tenu en captivité, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait, publiquement ou non, d'exercer des sévices graves, ou de nature sexuelle, ou de commettre un acte de cruauté envers
+un animal domestique, ou apprivoisé, ou tenu en captivité, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 A titre de peine complémentaire, le tribunal peut interdire la détention d'un animal, à titre définitif ou non.
 
@@ -31238,14 +31675,13 @@ animaux destinés au repeuplement.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code rural et  de la pêche maritime - art. L215-6 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 50 () JORF 10 mars 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural et  de la pêche maritime - art. L215-6 (Ab)
 
 
 ###### Article 521-2
