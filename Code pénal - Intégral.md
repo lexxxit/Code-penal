@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-03-27
+Version Consolidée au 2005-03-30
 
 # Partie législative
 
@@ -38047,15 +38047,18 @@ La diffamation non publique commise envers une personne ou un groupe de personne
 appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
 est punie de l'amende prévue pour les contraventions de la 4e classe.
 
+Est punie de la même peine la diffamation non publique commise envers une personne ou un groupe de personnes à raison de leur
+sexe, de leur orientation sexuelle ou de leur handicap.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 1 () JORF 30 mars 2005
 
 	**Cité par**:
 
@@ -38071,15 +38074,18 @@ L'injure non publique commise envers une personne ou un groupe de personnes à r
 ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée est punie de
 l'amende prévue pour les contraventions de la 4e classe.
 
+Est punie de la même peine l'injure non publique commise envers une personne ou un groupe de personnes à raison de leur sexe,
+de leur orientation sexuelle ou de leur handicap.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 2 () JORF 30 mars 2005
 
 	**Cité par**:
 
@@ -38388,7 +38394,7 @@ La récidive des contraventions prévues aux articles R. 625-2 et R. 625-3 est r
 	  - Code pénal - art. R625-2 (V)
 
 
-##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence raciales.
+##### Section 3 : De la provocation non publique à la discrimination, à la haine ou à la violence
 
 ###### Article R625-7
 
@@ -38396,7 +38402,11 @@ La provocation non publique à la discrimination, à la haine ou à la violence 
 personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une
 nation, une race ou une religion déterminée est punie de l'amende prévue pour les contraventions de la 5e classe.
 
-Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+Est punie de la même peine la provocation non publique à la haine ou à la violence à l'égard d'une personne ou d'un groupe de
+personnes à raison de leur sexe, de leur orientation sexuelle ou de leur handicap, ainsi que la provocation non publique, à
+l'égard de ces mêmes personnes, aux discriminations prévues par les articles 225-2 et 432-7.
+
+Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes :
 
 1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
@@ -38407,8 +38417,8 @@ suivantes :
 
 4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies au présent article.
 
 Les peines encourues par les personnes morales sont :
 
@@ -38416,13 +38426,9 @@ Les peines encourues par les personnes morales sont :
 
 2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
-La récidive de la contravention prévue au présent article est reprimée conformément aux articles 132-11 et 132-15.
+La récidive des contraventions prévues au présent article est reprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
@@ -38433,6 +38439,11 @@ La récidive de la contravention prévue au présent article est reprimée confo
 	  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (VT)
 	  - Décret n°2006-1411 du 20 novembre 2006 - art. 2 (VT)
 	  - Code de procédure pénale - art. R40-25 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-284 du 25 mars 2005 - art. 3 () JORF 30 mars 2005
+	  - Décret n°2005-284 du 25 mars 2005 - art. 4 () JORF 30 mars 2005
 
 	**Cite**:
 
