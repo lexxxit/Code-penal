@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1998-05-12
+Version Consolidée au 1998-06-18
 
 # Partie législative
 
@@ -2009,9 +2009,9 @@ La peine de jours-amende ne peut être prononcée cumulativement avec la peine d
 ###### Article 131-10
 
 Lorsque la loi le prévoit, un crime ou un délit peut être sanctionné d'une ou de plusieurs peines complémentaires qui,
-frappant les personnes physiques, emportent interdiction, déchéance, incapacité ou retrait d'un droit, immobilisation ou
-confiscation d'un objet, fermeture d'un établissement ou affichage de la décision prononcée ou diffusion de celle-ci soit par
-la presse écrite, soit par tout moyen de communication audiovisuelle.
+frappant les personnes physiques, emportent interdiction, déchéance, incapacité ou retrait d'un droit, injonction de soins ou
+obligation de faire, immobilisation ou confiscation d'un objet, fermeture d'un établissement ou affichage de la décision
+prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout moyen de communication audiovisuelle.
 
 **Liens relatifs à cet article**
 
@@ -2039,6 +2039,10 @@ la presse écrite, soit par tout moyen de communication audiovisuelle.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 5 () JORF 18 juin 1998
 
 
 ###### Article 131-11
@@ -4055,6 +4059,243 @@ dans son ressort ;
 	  - Code pénal - art. 131-8 (M)
 
 
+##### Sous-section 6 : Du suivi socio-judiciaire
+
+###### Article 131-36-1
+
+Dans les cas prévus par la loi, la juridiction de jugement peut ordonner un suivi socio-judiciaire.
+
+Le suivi socio-judiciaire emporte, pour le condamné, l'obligation de se soumettre, sous le contrôle du juge de l'application
+des peines et pendant une durée déterminée par la juridiction de jugement, à des mesures de surveillance et d'assistance
+destinées à prévenir la récidive. La durée du suivi socio-judiciaire ne peut excéder dix ans en cas de condamnation pour
+délit ou vingt ans en cas de condamnation pour crime.
+
+La décision de condamnation fixe également la durée maximum de l'emprisonnement encouru par le condamné en cas
+d'inobservation des obligations qui lui sont imposées. Cet emprisonnement ne peut excéder deux ans en cas de condamnation
+pour délit et cinq ans en cas de condamnation pour crime. Les conditions dans lesquelles le juge de l'application des peines
+peut ordonner, en tout ou partie, l'exécution de l'emprisonnement sont fixées par le code de procédure pénale.
+
+Le président de la juridiction, après le prononcé de la décision, avertit le condamné des obligations qui en résultent et des
+conséquences qu'entraînerait leur inobservation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R61 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. R61-2 (V)
+	  - Code de procédure pénale - art. 736 (VD)
+	  - Code de procédure pénale - art. 763-10 (V)
+	  - Code de procédure pénale - art. 763-3 (VT)
+	  - Code de procédure pénale - art. 763-5 (V)
+	  - Code de procédure pénale - art. 763-8 (V)
+	  - Code de procédure pénale - art. 775 (VD)
+	  - Code de procédure pénale - art. 777 (VD)
+	  - Code de procédure pénale - art. D115-3 (VD)
+	  - Code de procédure pénale - art. R61-32 (V)
+	  - Code pénal - art. 131-36-12 (V)
+	  - Code pénal - art. 131-36-4 (V)
+	  - Code pénal - art. 133-16 (VD)
+	  - Code pénal - art. 221-15 (V)
+	  - Code pénal - art. 221-9-1 (V)
+	  - Code pénal - art. 222-48-1 (V)
+	  - Code pénal - art. 222-65 (V)
+	  - Code pénal - art. 224-10 (V)
+	  - Code pénal - art. 227-31 (V)
+	  - Code pénal - art. 421-8 (V)
+
+
+###### Article 131-36-2
+
+Les mesures de surveillance applicables à la personne condamnée à un suivi socio-judiciaire sont celles prévues à l'article
+132-44. 
+
+Le condamné peut aussi être soumis par la décision de condamnation ou par le juge de l'application des peines aux obligations
+prévues à l'article 132-45. Il peut également être soumis à une ou plusieurs obligations suivantes : 
+
+1° S'abstenir de paraître en tout lieu ou toute catégorie de lieux spécialement désigné, et notamment les lieux accueillant
+habituellement des mineurs ; 
+
+2° S'abstenir de fréquenter ou d'entrer en relation avec certaines personnes ou certaines catégories de personnes, et
+notamment des mineurs, à l'exception, le cas échéant, de ceux désignés par la juridiction ; 
+
+3° Ne pas exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Cité par**:
+
+	  - Arrêté du 15 mai 1996 - art. 2 (Ab)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 23 (V)
+	  - CODE DE PROCEDURE PENALE - art. 723-30 (V)
+	  - Code de procédure pénale - art. 763-3 (VT)
+	  - Code de procédure pénale - art. 763-5 (V)
+	  - Code de procédure pénale - art. D129 (V)
+	  - Code de procédure pénale - art. D136 (V)
+	  - Code de procédure pénale - art. D138 (V)
+	  - Code de procédure pénale - art. D142 (V)
+	  - Code de procédure pénale - art. D147-2 (V)
+	  - Code de procédure pénale - art. D536 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal - art. 132-44 (V)
+	  - Code pénal - art. 132-45 (V)
+
+
+###### Article 131-36-3
+
+Les mesures d'assistance auxquelles est soumise la personne condamnée à un suivi socio-judiciaire ont pour objet de seconder
+ses efforts en vue de sa réinsertion sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 763-5 (V)
+	  - Code de procédure pénale - art. 763-3 (VT)
+
+
+###### Article 131-36-4
+
+Le suivi socio-judiciaire peut comprendre une injonction de soins.
+
+Cette injonction peut être prononcée par la juridiction de jugement s'il est établi après une expertise médicale, ordonnée
+dans les conditions prévues par le code de procédure pénale, que la personne poursuivie est susceptible de faire l'objet d'un
+traitement. Cette expertise est réalisée par deux experts en cas de poursuites pour meurtre ou assassinat d'un mineur précédé
+ou accompagné d'un viol, de tortures ou d'actes de barbarie. Le président avertit alors le condamné qu'aucun traitement ne
+pourra être entrepris sans son consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement
+prononcé en application du troisième alinéa de l'article 131-36-1 pourra être mis à exécution.
+
+Lorsque la juridiction de jugement prononce une injonction de soins et que la personne a été également condamnée à une peine
+privative de liberté non assortie du sursis, le président informe le condamné qu'il aura la possibilité de commencer un
+traitement pendant l'exécution de cette peine.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 723-30 (M)
+	  - CODE DE PROCEDURE PENALE - art. R61 (V)
+	  - Code de la santé publique - art. L355-33 (Ab)
+	  - Code de la santé publique - art. L3711-1 (V)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+	  - Code de procédure pénale - art. 706-47-1 (V)
+	  - Code de procédure pénale - art. 723-35 (V)
+	  - Code de procédure pénale - art. D147-2 (V)
+	  - Code de procédure pénale - art. D147-37 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (M)
+
+
+###### Article 131-36-5
+
+Lorsque le suivi socio-judiciaire accompagne une peine privative de liberté sans sursis, il s'applique, pour la durée fixée
+par la décision de condamnation, à compter du jour où la privation de liberté a pris fin.
+
+Le suivi socio-judiciaire est suspendu par toute détention intervenue au cours de son exécution.
+
+L'emprisonnement ordonné en raison de l'inobservation des obligations résultant du suivi socio-judiciaire se cumule, sans
+possibilité de confusion, avec les peines privatives de liberté prononcées pour des infractions commises pendant l'exécution
+de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+
+###### Article 131-36-6
+
+Le suivi socio-judiciaire ne peut être ordonné en même temps qu'une peine d'emprisonnement assorti, en tout ou partie, du
+sursis avec mise à l'épreuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+
+###### Article 131-36-7
+
+En matière correctionnelle, le suivi socio-judiciaire peut être ordonné comme peine principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+
+###### Article 131-36-8
+
+Les modalités d'exécution du suivi socio-judiciaire sont fixées par le titre VII bis du livre V du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+
 ##### Section 2 : Des peines applicables aux personnes morales
 
 ##### Sous-section 1 : Des peines criminelles et correctionnelles
@@ -5960,6 +6201,26 @@ même infraction.
 	  - Code pénal - art. 132-41 (V)
 
 
+###### Article 132-16-1
+
+Les délits d'agressions sexuelles et d'atteintes sexuelles sont considérés, au regard de la récidive, comme une même
+infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 10 () JORF 18 juin 1998
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 465-1 (V)
+
+
 ##### Sous-section 3 : Du prononcé des peines.
 
 ###### Article 132-17
@@ -7668,133 +7929,6 @@ L'astreinte ne donne pas lieu à contrainte judiciaire.
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Paragraphe 5 : De l'ajournement avec rétention judiciaire.
-
-###### Article 132-70-1
-
-I. La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de
-l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ou,
-s'agissant d'un étranger dépourvu des documents de voyage permettant l'exécution d'une mesure d'éloignement, des infractions
-prévues à l'article 19 ou au premier alinéa de l'article 27 de la même ordonnance ou d'une infraction prévue au sixième
-alinéa de l'article 33 de la même ordonnance ajourner le prononcé de la peine en enjoignant au prévenu de présenter à
-l'autorité administrative compétente les documents de voyage permettant l'exécution de la mesure d'éloignement prononcée à
-son encontre ou de communiquer les renseignements permettant cette exécution.
-
-Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de la rétention judiciaire, pour une durée de
-trois mois au plus.
-
-La décision d'ajournement avec rétention est exécutoire par provision.
-
-La juridiction fixe dans sa décision le jour où il sera statué sur la peine.
-
-Lorsqu'elle ajourne le prononcé de la peine, la juridiction informe l'intéressé qu'il peut, pendant la période de rétention,
-demander l'assistance d'un interprète, d'un médecin ou d'un conseil et qu'il peut, s'il le désire, communiquer avec toute
-personne de son choix et recevoir les visites autorisées par le magistrat délégué par le président de la juridiction. Ce
-magistrat ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne retenue que par une
-décision écrite et spécialement motivée au regard des nécessités de la rétention. Il peut, à titre exceptionnel, accorder une
-autorisation de sortie sous escorte. Toute démarche auprès de l'autorité consulaire est facilitée au prévenu.
-
-II.  Le prévenu est maintenu dans des locaux ne relevant pas de l'administration pénitentiaire.
-
-L'état civil des personnes placées en rétention ainsi que les conditions de leur maintien sont mentionnés sur le registre
-prévu par l'article 35 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
-
-Pendant la durée du maintien en rétention, le ministère public ainsi que le président de la juridiction dans le ressort de
-laquelle s'exécute la rétention ou un magistrat délégué par lui peuvent se transporter sur les lieux, vérifier les conditions
-de la rétention et se faire communiquer le registre mentionné à l'alinéa précédent.
-
-III.  Si le prévenu se soumet à l'injonction prévue au premier alinéa du I, le ministère public saisit, avant expiration du
-délai d'ajournement, la juridiction, soit d'office, soit sur demande du prévenu ou de son avocat, afin qu'il soit statué sur
-la peine. Il peut aussi saisir la juridiction sur demande de l'autorité administrative.
-
-Le prévenu peut également, au cours du délai d'ajournement, demander la levée de la mesure de rétention, par déclaration au
-greffe de la juridiction.
-
-La demande est constatée et datée par le greffier qui la signe ; elle est également signée par le demandeur ou son avocat. Si
-le demandeur ne peut signer, il en est fait mention par le greffier.
-
-La demande peut également être formulée par déclaration auprès du responsable des locaux dans lesquels s'effectue la mesure
-et selon les modalités prévues à l'alinéa précédent. Ce fonctionnaire l'adresse sans délai, en original ou en copie, au
-greffe de la juridiction précitée.
-
-La juridiction qui a ordonné la rétention peut prononcer d'office sa levée. Dans tous les cas, elle se prononce après
-audition du ministère public, du prévenu ou de son avocat.
-
-Selon qu'elle est du premier ou du second degré, la juridiction rend sa décision dans les dix jours ou dans les vingt jours
-de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été statué sur
-une précédente demande de levée de la mesure ou sur l'appel d'une précédente décision refusant cette levée, le délai de dix
-ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de décision à
-l'expiration de ce délai, il est mis fin à la rétention et le prévenu est mis d'office en liberté.
-
-Lorsque la décision de rejet de la demande est prise par une juridiction du premier degré, l'appel est recevable dans les dix
-jours de la signification de la décision.
-
-La décision de la juridiction est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en rétention,
-la cour se prononce dans les vingt jours de l'appel, faute de quoi le prévenu est mis d'office en liberté.
-
-Dans le cas où la mesure de rétention est levée, le prévenu est tenu de répondre à toute convocation des autorités
-compétentes tendant à s'assurer de son identité ou de son maintien à la disposition de la justice, d'informer la juridiction
-de tous ses déplacements et changements d'adresse et de se présenter le jour prévu pour l'audience de renvoi. Lorsque
-l'intéressé se soustrait volontairement à ces obligations, le ministère public saisit la juridiction afin qu'il soit statué
-sur la peine.
-
-Les décisions rendues en matière de rétention n'ont pas pour effet de modifier la date fixée par la juridiction en vertu du
-quatrième alinéa du I.
-
-IV.  A l'audience de renvoi, la juridiction peut soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la
-loi, soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues aux premier à quatrième alinéas du
-I.
-
-La décision sur la peine intervient au plus tard trois mois après la première décision d'ajournement.
-
-La durée de la rétention est imputée sur celle de la peine privative de liberté éventuellement prononcée.
-
-Lorsque, à l'audience de renvoi, la juridiction ne prononce pas de peine privative de liberté et qu'il ne peut être procédé à
-l'éloignement immédiat de l'intéressé, celui-ci peut être maintenu dans des locaux ne relevant pas de l'administration
-pénitentiaire, dans les conditions et selon les modalités prévues par l'article 35 bis de l'ordonnance n° 45-2658 du 2
-novembre 1945 précitée.
-
-V.  En cas de rétention suivie d'une relaxe en appel devenue définitive, une indemnité peut être accordée à l'intéressé pour
-le motif et selon les modalités prévues aux articles 149 à 150 du code de procédure pénale.
-
-VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de seize ans.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 19, art. 27, art. 33, art. 35 bis
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 33 (Ab)
-	  - Code de procédure pénale 149 à 150
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°97-396 du 24 avril 1997 - art. 17 () JORF 25 avril 1997
-
-	**Abrogé par**:
-
-	  - Loi n°98-349 du 11 mai 1998 - art. 44 (V) JORF 12 mai 1998
-
-	**Cité par**:
-
-	  - Loi n°98-349 du 11 mai 1998 - art. 44 (V)
-	  - Code de procédure pénale - art. 397-3-1 (V)
-	  - Code de procédure pénale - art. D548 (V)
-	  - Code de procédure pénale - art. D549 (V)
-	  - Code pénal - art. 711-1 (M)
-	  - Code pénal - art. 721-1 (V)
-
-
 ##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation des peines.
 
 ###### Article 132-71
@@ -8266,6 +8400,14 @@ dispositions des articles 133-13 et 133-14.
 La réhabilitation produit les mêmes effets que ceux qui sont prévus par les articles 133-10 et 133-11. Elle efface toutes les
 incapacités et déchéances qui résultent de la condamnation.
 
+Toutefois, lorsque la personne a été condamnée au suivi socio-judiciaire prévu à l'article 131-36-1 ou à la peine
+d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
+réhabilitation ne produit ses effets qu'à la fin de la mesure.
+
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8277,6 +8419,10 @@ incapacités et déchéances qui résultent de la condamnation.
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 41 () JORF 18 juin 1998
+
 	**Cité par**:
 
 	  - Code de la route. - art. L223-4 (V)
@@ -8284,6 +8430,7 @@ incapacités et déchéances qui résultent de la condamnation.
 
 	**Cite**:
 
+	  - Code pénal - art. 131-36-1 (M)
 	  - Code pénal - art. 133-10 (V)
 	  - Code pénal - art. 133-11 (V)
 
@@ -8959,6 +9106,26 @@ complémentaires suivantes :
 	  - Code pénal - art. 131-31 (V)
 
 
+###### Article 221-9-1
+
+Les personnes physiques coupables d'un meurtre ou d'un assassinat précédé ou accompagné d'un viol, de tortures ou d'actes de
+barbarie encourent également le suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 2 () JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal 131-36-1 à 131-36-8
+
+
 ###### Article 221-10
 
 Les personnes physiques coupables des infractions prévues par la section 2 du présent chapitre encourent également la peine
@@ -9537,7 +9704,10 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 9° Avec préméditation ;
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme ;
+
+11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
+sorties des élèves, aux abords d'un tel établissement.
 
 Les peines encourues sont portées à dix ans d'emprisonnement et à 1 000 000 F d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
@@ -9585,8 +9755,7 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
-	  - Loi n°96-647 du 22 juillet 1996 - art. 14 () JORF 23 juillet 1996
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 	**Cite**:
 
@@ -9623,7 +9792,10 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 9° Avec préméditation ;
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme ;
+
+11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
+sorties des élèves, aux abords d'un tel établissement.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque l'infraction définie au premier
 alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne
@@ -9661,8 +9833,7 @@ d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 13 () JORF 23 juillet 1996
-	  - Loi n°96-647 du 22 juillet 1996 - art. 15 () JORF 23 juillet 1996
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 
 ###### Article 222-14
@@ -9980,6 +10151,10 @@ Dans les cas visés au deuxième alinéa de l'article 222-19 est en outre encour
 
 Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise.
 
+Lorsque les agressions sexuelles sont commises à l'étranger contre un mineur par un Français ou par une personne résidant
+habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de l'article
+113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -9990,6 +10165,10 @@ Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, 
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 19 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -10005,6 +10184,11 @@ Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, 
 	  - Code pénal - art. 222-22-1 (V)
 	  - Code pénal - art. 222-33-1 (V)
 	  - Code pénal - art. 227-28-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
 
 
 ##### Paragraphe 1 : Du viol
@@ -10074,7 +10258,10 @@ victime ;
 
 6° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-7° Lorsqu'il est commis avec usage ou menace d'une arme.
+7° Lorsqu'il est commis avec usage ou menace d'une arme ;
+
+8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -10086,6 +10273,10 @@ victime ;
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -10188,7 +10379,10 @@ victime ;
 
 4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme.
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+
+6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -10200,6 +10394,10 @@ victime ;
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
 
 	**Cite**:
 
@@ -10331,9 +10529,9 @@ d'emprisonnement et de 100 000 F d'amende.
 
 ###### Article 222-33
 
-Le fait de harceler autrui en usant d'ordres, de menaces ou de contraintes, dans le but d'obtenir des faveurs de nature
-sexuelle, par une personne abusant de l'autorité que lui confèrent ses fonctions, est puni d'un an d'emprisonnement et de 100
-000 F d'amende.
+Le fait de harceler autrui en donnant des ordres, proférant des menaces, imposant des contraintes ou exerçant des pressions
+graves dans le but d'obtenir des faveurs de nature sexuelle, par une personne abusant de l'autorité que lui confèrent ses
+fonctions, est puni d'un an d'emprisonnement et de 100 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -10364,6 +10562,10 @@ sexuelle, par une personne abusant de l'autorité que lui confèrent ses fonctio
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 11 () JORF 18 juin 1998 rectificatif JORF 2 juillet 1998
 
 
 ##### Section 4 : Du trafic de stupéfiants
@@ -10853,6 +11055,9 @@ suivantes :
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ;
 
+3° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
+bénévole impliquant un contact habituel avec des mineurs.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10866,7 +11071,7 @@ suivantes :
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 356 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°98-468 du 17 juin 1998 - art. 12 () JORF 18 juin 1998
 
 	**Cite**:
 
@@ -10957,6 +11162,26 @@ infractions définies aux articles 222-34, 222-35, 222-36 et 222-38.
 	  - Code pénal - art. 222-36 (M)
 	  - Code pénal - art. 222-38 (M)
 	  - Code pénal 131-30, 222-1 à 222-8, 222-10, 222-14, 222-23 à 222-26, 222-30, 222-34 à 222-39, 222-15, 222-34, 222-35, 222-36, 222-38
+
+
+###### Article 222-48-1
+
+Les personnes coupables des infractions définies aux articles 222-23 à 222-32 peuvent également être condamnées à un suivi
+socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 3 () JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-8
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
@@ -12288,7 +12513,10 @@ santé ou au maintien de l'ordre public ;
 
 8° Avec l'emploi de la contrainte, de violences ou de manoeuvres dolosives ;
 
-9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée.
+9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée ;
+
+10° Grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de
+télécommunications.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -12315,18 +12543,14 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
-
-	  - Loi n°92-684 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE PENAL - art. 334-1 (Ab)
+	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
 
 	**Cite**:
 
@@ -12620,6 +12844,99 @@ infractions définies aux articles 225-13 à 225-15. Les peines encourues par le
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal 121-2, 225-13 à 225-15, 131-38, 131-39
+
+
+##### Section 3 bis : Du bizutage
+
+###### Article 225-16-1
+
+Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui, contre son gré ou
+non, à subir ou à commettre des actes humiliants ou dégradants lors de manifestations ou de réunions liées aux milieux
+scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. L511-3 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. 225-16-2 (V)
+	  - Code pénal - art. 225-16-3 (V)
+
+
+###### Article 225-16-2
+
+L'infraction définie à l'article 225-16-1 est punie d'un an d'emprisonnement et de 100 000 F d'amende lorsqu'elle est commise
+sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique
+ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. L511-3 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 2-8 (V)
+	  - Code pénal - art. 225-16-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-16-1 (M)
+
+
+###### Article 225-16-3
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions commises lors de manifestations ou de réunions liées aux milieux scolaire et socio-éducatif prévues par les
+articles 225-16-1 et 225-16-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 4° et 9° de l'article 131-39.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 14 () JORF 18 juin 1998
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. L511-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 225-16-1 (M)
+	  - Code pénal - art. 225-16-2 (M)
 
 
 ##### Section 4 : Des atteintes au respect dû aux morts
@@ -13944,9 +14261,9 @@ soit en raison d'une fonction ou d'une mission temporaire, est punie d'un an d'e
 L'article 226-13 n'est pas applicable dans les cas où la loi impose ou autorise la révélation du secret. En outre, il n'est
 pas applicable :
 
-1° A celui qui informe les autorités judiciaires, médicales ou administratives de sévices ou privations dont il a eu
-connaissance et qui ont été infligés à un mineur de quinze ans ou à une personne qui n'est pas en mesure de se protéger en
-raison de son âge ou de son état physique ou psychique ;
+1° A celui qui informe les autorités judiciaires, médicales ou administratives de privations ou de sévices, y compris
+lorsqu'il s'agit d'atteintes sexuelles dont il a eu connaissance et qui ont été infligés à un mineur de quinze ans ou à une
+personne qui n'est pas en mesure de se protéger en raison de son âge ou de son état physique ou psychique ;
 
 2° Au médecin qui, avec l'accord de la victime, porte à la connaissance du procureur de la République les sévices qu'il a
 constatés dans l'exercice de sa profession et qui lui permettent de présumer que des violences sexuelles de toute nature ont
@@ -14181,6 +14498,10 @@ constatés dans l'exercice de sa profession et qui lui permettent de présumer q
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 15 () JORF 18 juin 1998
 
 	**Cite**:
 
@@ -15301,8 +15622,9 @@ code civil.
 Le fait de provoquer directement un mineur à faire un usage illicite de stupéfiants est puni de cinq ans d'emprisonnement et
 de 700 000 F d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de sept ans
-d'emprisonnement et de 1 000 000 F d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
+ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
+présent article est punie de sept ans d'emprisonnement et de 1 000 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15314,6 +15636,10 @@ d'emprisonnement et de 1 000 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15331,8 +15657,9 @@ d'emprisonnement et de 1 000 000 F d'amende.
 Le fait de provoquer directement un mineur à transporter, détenir, offrir ou céder des stupéfiants est puni de sept ans
 d'emprisonnement et de 1 000 000 F d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de dix ans d'emprisonnement
-et de 2 000 000 F d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
+ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
+présent article est punie de dix ans d'emprisonnement et de 2 000 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15340,9 +15667,9 @@ et de 2 000 000 F d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-392 du 13 mai 1996 - art. 18 () JORF 14 mai 1996
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15355,8 +15682,9 @@ et de 2 000 000 F d'amende.
 Le fait de provoquer directement un mineur à la consommation habituelle et excessive de boissons alcooliques est puni de deux
 ans d'emprisonnement et de 300 000 F d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de trois ans
-d'emprisonnement et de 500 000 F d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
+ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
+présent article est punie de trois ans d'emprisonnement et de 500 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15368,6 +15696,10 @@ d'emprisonnement et de 500 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15404,8 +15736,9 @@ d'emprisonnement et de 500 000 F d'amende.
 Le fait de provoquer directement un mineur à commettre habituellement des crimes ou des délits est puni de cinq ans
 d'emprisonnement et de 1 000 000 F d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de sept ans
-d'emprisonnement et de 1 000 000 F d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
+ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
+présent article est punie de sept ans d'emprisonnement et de 1 000 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15418,6 +15751,10 @@ d'emprisonnement et de 1 000 000 F d'amende.
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
+
 	**Cité par**:
 
 	  - Code de la route. - art. R212-4 (V)
@@ -15428,7 +15765,10 @@ d'emprisonnement et de 1 000 000 F d'amende.
 
 Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 500 000
 F d'amende. Ces peines sont portées à sept ans d'emprisonnement et 700 000 F d'amende lorsque le mineur est âgé de moins de
-quinze ans.
+quinze ans ou lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de
+messages à destination d'un public non déterminé, d'un réseau de télécommunications ou que les faits sont commis à
+l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un
+tel établissement.
 
 Les mêmes peines sont notamment applicables au fait, commis par un majeur, d'organiser des réunions comportant des
 exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe.
@@ -15472,19 +15812,27 @@ exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE PENAL - art. 334-2 (Ab)
+	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
+	  - Loi n°98-468 du 17 juin 1998 - art. 16 () JORF 18 juin 1998
 
 
 ###### Article 227-23
 
-Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image d'un mineur lorsque cette image présente
-un caractère pornographique est puni d'un an d'emprisonnement et de 300 000 F d'amende.
+Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image ou la représentation d'un mineur lorsque
+cette image ou cette représentation présente un caractère pornographique est puni de trois ans d'emprisonnement et de 300 000
+F d'amende.
 
-Le fait de diffuser une telle image, par quelque moyen que ce soit, est puni des mêmes peines.
+Le fait de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de l'exporter, de la
+faire importer ou de la faire exporter, est puni des mêmes peines.
 
-Les peines sont portées à trois ans d'emprisonnement et à 500 000 F d'amende lorsqu'il s'agit d'un mineur de quinze ans.
+Les peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsqu'il a été utilisé, pour la diffusion de
+l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
+
+Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
+physique est celui d'un mineur, sauf s'il est établi que cette personne était âgée de dix-huit ans au jour de la fixation ou
+de l'enregistrement de son image.
 
 **Liens relatifs à cet article**
 
@@ -15518,6 +15866,10 @@ Les peines sont portées à trois ans d'emprisonnement et à 500 000 F d'amende 
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 17 () JORF 18 juin 1998
 
 
 ###### Article 227-24
@@ -15563,7 +15915,7 @@ personnes responsables.
 ###### Article 227-25
 
 Le fait, par un majeur, d'exercer sans violence, contrainte, menace ni surprise une atteinte sexuelle sur la personne d'un
-mineur de quinze ans est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+mineur de quinze ans est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15575,6 +15927,10 @@ mineur de quinze ans est puni de deux ans d'emprisonnement et de 200 000 F d'ame
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 18 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15605,11 +15961,10 @@ victime ;
 
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-4° Lorsqu'elle s'accompagne du versement d'une rémunération.
+4° Lorsqu'elle s'accompagne du versement d'une rémunération ;
 
-Dans le cas où l'infraction prévue par le 4° du présent article est commise à l'étranger, la loi pénale française est
-applicable par dérogation au deuxième alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8
-ne sont pas applicables.
+5° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -15624,7 +15979,8 @@ ne sont pas applicables.
 
 	**Modifié par**:
 
-	  - Loi n°95-116 du 4 février 1995 - art. 121 () JORF 5 février 1995
+	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
+	  - Loi n°98-468 du 17 juin 1998 - art. 19 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15674,6 +16030,35 @@ victime ;
 	  - Code de la route. - art. R212-4 (V)
 
 
+###### Article 227-27-1
+
+Dans le cas où les infractions prévues par les articles 227-22, 227-23 ou 227-25 à 227-27 sont commises à l'étranger par un
+Français ou par une personne résidant habituellement sur le territoire français, la loi française est applicable par
+dérogation au deuxième alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 19 () JORF 18 juin 1998
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 2-2 (M)
+	  - Code de procédure pénale - art. 2-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 227-22 (V)
+	  - Code pénal - art. 227-25 (V)
+
+
 ###### Article 227-28
 
 Lorsque les délits prévus aux articles 227-18 à 227-21 et 227-23 sont commis par la voie de la presse écrite ou
@@ -15697,6 +16082,40 @@ détermination des personnes responsables.
 	  - Code pénal - art. 227-23 (V)
 
 
+###### Article 227-28-1
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions prévues par les articles 227-18 à 227-26.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 7°, 8° et 9° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+Dans le cas prévu par le 4° de l'article 227-26, la peine mentionnée au 1° de l'article 131-39 est également encourue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 20 () JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal 121-2, 227-18 à 227-26, 131-38, 131-39
+
+
 ##### Section 6 : Peines complémentaires applicables aux personnes physiques
 
 ###### Article 227-29
@@ -15712,7 +16131,12 @@ conduite en dehors de l'activité professionnelle ;
 3° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
 plus ;
 
-4° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
+4° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+
+5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+
+6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au plus, d'exercer une activité professionnelle ou
+bénévole impliquant un contact habituel avec des mineurs.
 
 **Liens relatifs à cet article**
 
@@ -15724,6 +16148,10 @@ plus ;
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 21 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -15754,6 +16182,26 @@ complémentaire d'affichage ou de diffusion de la décision prévue par l'articl
 	**Cite**:
 
 	  - Code pénal - art. 131-35 (V)
+
+
+###### Article 227-31
+
+Les personnes coupables des infractions définies aux articles 227-22 à 227-27 peuvent également être condamnées à un suivi
+socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 4 (V) JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal 227-22 à 227-27, 131-36-1 à 131-36-8
 
 
 ## Livre III : Des crimes et délits contre les biens
@@ -20292,7 +20740,11 @@ munitions ;
 24, 28, 31 et 32 du décret-loi précité ;
 
 - les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la
-fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines.
+fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines ;
+
+- les infractions prévues par les articles 58 et 63 de la loi n° 98-467 du 17 juin 1998 relative à l'application de la
+convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes
+chimiques et sur leur destruction ;
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus.
 
@@ -20300,11 +20752,16 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	**Cite**:
 
+	  - Décret n°1870-09-04
 	  - Loi n°70-575 du 3 juillet 1970 - art. 6 (M)
 	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
 	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
-	  - Décret n°1870-09-04
-	  - Décret-loi 1939-04-18 art. 38, art. 31, art. 32, art. 24, art. 28
+	  - Loi n°98-467 du 17 juin 1998 - art. 58 (M)
+	  - Loi n°98-467 du 17 juin 1998 - art. 63 (M)
+	  - Code pénal - art. 434-6 (M)
+	  - Code pénal 431-13 à 431-17, 434-6, 441-2 à 441-5
+	  - Convention 1993-01-13, signée à Paris
+	  - Décret-loi 1939-04-18 art. 38, art. 24, art. 28, art. 31, art. 32
 	  - Loi n°1871-06-19 art. 3
 
 	**Cité par**:
@@ -20368,7 +20825,7 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 1 (V) JORF 23 juillet 1996
+	  - Loi n°98-467 du 17 juin 1998 - art. 84 () JORF 18 juin 1998
 
 
 ###### Article 421-2
@@ -22951,10 +23408,10 @@ prévue par le titre Ier du présent livre ou un acte de terrorisme prévu par l
 
 ###### Article 434-3
 
-Le fait, pour quiconque ayant eu connaissance de mauvais traitements ou privations infligés à un mineur de quinze ans ou à
-une personne qui n'est pas en mesure de se protéger en raison de son âge, d'une maladie, d'une infirmité, d'une déficience
-physique ou psychique ou d'un état de grossesse, de ne pas en informer les autorités judiciaires ou administratives est puni
-de trois ans d'emprisonnement et de 300 000 F d'amende.
+Le fait, pour quiconque ayant eu connaissance de privations, de mauvais traitements ou d'atteintes sexuelles infligés à un
+mineur de quinze ans ou à une personne qui n'est pas en mesure de se protéger en raison de son âge, d'une maladie, d'une
+infirmité, d'une déficience physique ou psychique ou d'un état de grossesse, de ne pas en informer les autorités judiciaires
+ou administratives est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
 
 Sauf lorsque la loi en dispose autrement, sont exceptées des dispositions qui précèdent les personnes astreintes au secret
 dans les conditions prévues par l'article 226-13.
@@ -22969,6 +23426,10 @@ dans les conditions prévues par l'article 226-13.
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 15 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -25600,6 +26061,38 @@ et les délits que le groupement ou l'entente avait pour objet de préparer.
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+###### Article 450-4
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
+l'infraction prévue par l'article 450-1.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 22 () JORF 18 juin 1998
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 450-1 (M)
 
 
 ## Livre V : Des autres crimes et délits
