@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-07-17
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -9326,9 +9326,11 @@ Pour l'application des règles sur la réhabilitation, la remise gracieuse d'une
 
 ## Livre II : Des crimes et délits contre les personnes
 
-### Titre Ier : Des crimes contre l'humanité
+### Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine
 
-#### Chapitre Ier : Du génocide.
+#### Sous-titre Ier : Des crimes contre l'humanité
+
+##### Chapitre Ier : Du génocide
 
 ###### Article 211-1
 
@@ -9344,9 +9346,9 @@ de faire commettre, à l'encontre de membres de ce groupe, l'un des actes suivan
 
 - mesures visant à entraver les naissances ;
 
-- transfert forcé d'enfants.
+- transfert forcé d'enfants. 
 
-Le génocide est puni de la réclusion criminelle à perpétuité.
+Le génocide est puni de la réclusion criminelle à perpétuité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu par le présent
 article.
@@ -9357,10 +9359,9 @@ article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -9372,10 +9373,10 @@ article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
-#### Chapitre II : Des autres crimes contre l'humanité.
+##### Chapitre II : Des autres crimes contre l'humanité
 
 ###### Article 212-1
 
@@ -9393,10 +9394,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -9413,7 +9413,7 @@ présent article.
 
 Lorsqu'ils sont commis en temps de guerre en exécution d'un plan concerté contre ceux qui combattent le système idéologique
 au nom duquel sont perpétrés des crimes contre l'humanité, les actes visés à l'article 212-1 sont punis de la réclusion
-criminelle à perpétuité.
+criminelle à perpétuité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes prévus par le
 présent article.
@@ -9424,15 +9424,14 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 212-1 (M)
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 212-1 (V)
 
 	**Cité par**:
 
@@ -9443,7 +9442,7 @@ présent article.
 
 La participation à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou plusieurs
 faits matériels, de l'un des crimes définis par les articles 211-1, 212-1 et 212-2 est punie de la réclusion criminelle à
-perpétuité.
+perpétuité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu au présent
 article.
@@ -9454,24 +9453,24 @@ article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 211-1 (M)
-	  - Code pénal - art. 212-1 (M)
-	  - Code pénal - art. 212-2 (M)
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 211-1 (V)
+	  - Code pénal - art. 212-1 (V)
+	  - Code pénal - art. 212-2 (V)
 
 
-#### Chapitre III : Dispositions communes.
+##### Chapitre III : Dispositions communes
 
 ###### Article 213-1
 
-Les personnes physiques coupables des infractions prévues par le présent titre encourent également les peines suivantes :
+Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
+suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26 ;
 
@@ -9487,16 +9486,9 @@ Les personnes physiques coupables des infractions prévues par le présent titre
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 
 ###### Article 213-2
@@ -9513,11 +9505,11 @@ au présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 131-30 (V)
 
 
 ###### Article 213-3
@@ -9537,10 +9529,9 @@ Les peines encourues par les personnes morales sont :
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cite**:
 
@@ -9550,9 +9541,10 @@ Les peines encourues par les personnes morales sont :
 
 ###### Article 213-4
 
-L'auteur ou le complice d'un crime visé par le présent titre ne peut être exonéré de sa responsabilité du seul fait qu'il a
-accompli un acte prescrit ou autorisé par des dispositions législatives ou réglementaires ou un acte commandé par l'autorité
-légitime. Toutefois, la juridiction tient compte de cette circonstance lorsqu'elle détermine la peine et en fixe le montant.
+L'auteur ou le complice d'un crime visé par le présent sous-titre ne peut être exonéré de sa responsabilité du seul fait
+qu'il a accompli un acte prescrit ou autorisé par des dispositions législatives ou réglementaires ou un acte commandé par
+l'autorité légitime. Toutefois, la juridiction tient compte de cette circonstance lorsqu'elle détermine la peine et en fixe
+le montant.
 
 **Liens relatifs à cet article**
 
@@ -9560,15 +9552,15 @@ légitime. Toutefois, la juridiction tient compte de cette circonstance lorsqu'e
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 
 ###### Article 213-5
 
-L'action publique relative aux crimes prévus par le présent titre, ainsi que les peines prononcées, sont imprescriptibles.
+L'action publique relative aux crimes prévus par le présent sous-titre, ainsi que les peines prononcées, sont
+imprescriptibles.
 
 **Liens relatifs à cet article**
 
@@ -9576,16 +9568,229 @@ L'action publique relative aux crimes prévus par le présent titre, ainsi que l
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 	**Cité par**:
 
 	  - Code de justice militaire. - art. L212-37 (M)
 	  - Code de procédure pénale - art. 7 (M)
 	  - Code pénal - art. 133-2 (M)
+
+
+#### Sous-titre II : Des crimes contre l'espèce humaine
+
+##### Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif
+
+###### Article 214-1
+
+Le fait de mettre en oeuvre une pratique eugénique tendant à l'organisation de la sélection des personnes est puni de trente
+ans de réclusion criminelle et de 7 500 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 2-17 (V)
+	  - Code de procédure pénale - art. 7 (V)
+	  - Code pénal - art. 133-2 (V)
+	  - Code pénal - art. 214-3 (V)
+	  - Code pénal - art. 214-4 (V)
+
+
+###### Article 214-2
+
+Le fait de procéder à une intervention ayant pour but de faire naître un enfant génétiquement identique à une autre personne
+vivante ou décédée est puni de trente ans de réclusion criminelle et de 7 500 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 9-1 (V)
+	  - Code pénal - art. 215-4 (Ab)
+
+
+###### Article 214-3
+
+Les infractions prévues par les articles 214-1 et 214-2 sont punies de la réclusion criminelle à perpétuité et de 7 500 000
+euros d'amende lorsqu'elles sont commises en bande organisée. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 214-1 (V)
+
+
+###### Article 214-4
+
+La participation à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou plusieurs
+faits matériels, de l'un des crimes définis par les articles 214-1 et 214-2 est punie de la réclusion criminelle à perpétuité
+et de 7 500 000 euros d'amende. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 214-1 (V)
+
+
+##### Chapitre II : Dispositions communes
+
+###### Article 215-1
+
+Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
+suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues à l'article 131-26 ;
+
+2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ;
+
+3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ;
+
+4° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ;
+
+5° La confiscation du matériel qui a servi à commettre l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+
+###### Article 215-2
+
+L'interdiction du territoire français peut être prononcée, dans les conditions prévues par l'article 131-30, soit à titre
+définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions prévues au
+présent sous-titre. 
+
+Les dispositions des sept derniers alinéas de l'article 131-30 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30 (V)
+
+
+###### Article 215-3
+
+Les personnes morales peuvent être déclarées responsables pénalement des infractions définies au présent sous-titre, dans les
+conditions prévues par l'article 121-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, selon les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39 ;
+
+3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 215-4
+
+L'action publique relative aux crimes prévus par le présent sous-titre, ainsi que les peines prononcées, se prescrivent par
+trente ans. 
+
+En outre, pour le crime de clonage reproductif prévu par l'article 214-2, le délai de prescription de l'action publique ne
+commence à courir, lorsque le clonage a conduit à la naissance d'un enfant, qu'à partir de la majorité de cet enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 du 22 juillet 1992
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 214-2
 
 
 ### Titre II : Des atteintes à la personne humaine
@@ -13108,22 +13313,18 @@ dispositions du code de la santé publique est puni de trois ans d'emprisonnemen
 
 Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiquée alors que le consentement a été retiré.
 
+Les dispositions du présent article ne sont pas applicables à l'examen des caractéristiques génétiques d'une personne ou à
+son identification par ses empreintes génétiques effectués à des fins de recherche scientifique.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1126-1 (VD)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L209-19 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -13140,6 +13341,11 @@ Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiqu
 	  - Code pénal - art. 223-9 (V)
 	  - Code pénal - art. 713-1 (Ab)
 	  - Code pénal - art. 723-1 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1126-1 (VD)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L209-19 (Ab)
 
 
 ###### Article 223-9
@@ -17075,11 +17281,19 @@ conçus pour réaliser de telles interceptions.
 
 ###### Article 226-16
 
-Le fait, y compris par négligence, de procéder ou de faire procéder à des traitements automatisés d'informations nominatives
-sans qu'aient été respectées les formalités préalables à leur mise en oeuvre prévues par la loi est puni de trois ans
-d'emprisonnement et de 45000 euros d'amende.
+Le fait, y compris par négligence, de procéder ou de faire procéder à des traitements de données à caractère personnel sans
+qu'aient été respectées les formalités préalables à leur mise en oeuvre prévues par la loi est puni de cinq ans
+d'emprisonnement et de 300 000 euros d'amende. 
+
+Est puni des mêmes peines le fait, y compris par négligence, de procéder ou de faire procéder à un traitement qui a fait
+l'objet de l'une des mesures prévues au 2° du I de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
 
 	**Cité par**:
 
@@ -17091,23 +17305,66 @@ d'emprisonnement et de 45000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+
+###### Article 226-16-1
+
+Le fait, hors les cas où le traitement a été autorisé dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978
+précitée, de procéder ou faire procéder à un traitement de données à caractère personnel incluant parmi les données sur
+lesquelles il porte le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques est
+puni de cinq ans d'emprisonnement et de 300 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+
+###### Article 226-16-1-A
+
+Lorsqu'il a été procédé ou fait procéder à un traitement de données à caractère personnel dans les conditions prévues par le
+I ou le II de l'article 24 de la loi n° 78-17 du 6 janvier 1978 précitée, le fait de ne pas respecter, y compris par
+négligence, les normes simplifiées ou d'exonération établies à cet effet par la Commission nationale de l'informatique et des
+libertés est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 24 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 
 ###### Article 226-17
 
-Le fait de procéder ou de faire procéder à un traitement automatisé d'informations nominatives sans prendre toutes les
-précautions utiles pour préserver la sécurité de ces informations et notamment empêcher qu'elles ne soient déformées,
-endommagées ou communiquées à des tiers non autorisés est puni de cinq ans d'emprisonnement et de 300000 euros d'amende.
+Le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans mettre en oeuvre les mesures
+prescrites à l'article 34 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans d'emprisonnement et de 300 000
+euros d'amende.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 34 (V)
 
 	**Cité par**:
 
@@ -17118,31 +17375,15 @@ endommagées ou communiquées à des tiers non autorisés est puni de cinq ans d
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 
 ###### Article 226-18
 
-Le fait de collecter des données par un moyen frauduleux, déloyal ou illicite, ou de procéder à un traitement d'informations
-nominatives concernant une personne physique malgré l'opposition de cette personne, lorsque cette opposition est fondée sur
-des raisons légitimes, est puni de cinq ans d'emprisonnement et de 300000 euros d'amende.
-
-En cas de traitement automatisé de données nominatives ayant pour fin la recherche dans le domaine de la santé, est puni des
-mêmes peines le fait de procéder à un traitement :
-
-1° Sans avoir préalablement informé individuellement les personnes sur le compte desquelles des données nominatives sont
-recueillies ou transmises de leur droit d'accès, de rectification et d'opposition, de la nature des informations transmises
-et des destinataires des données ;
-
-2° Malgré l'opposition de la personne concernée ou, lorsqu'il est prévu par la loi, en l'absence du consentement éclairé et
-exprès de la personne, ou, s'il s'agit d'une personne décédée, malgré le refus exprimé par celle-ci de son vivant.
+Le fait de collecter des données à caractère personnel par un moyen frauduleux, déloyal ou illicite est puni de cinq ans
+d'emprisonnement et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17150,14 +17391,9 @@ exprès de la personne, ou, s'il s'agit d'une personne décédée, malgré le re
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17170,15 +17406,11 @@ exprès de la personne, ou, s'il s'agit d'une personne décédée, malgré le re
 	  - Code monétaire et financier - art. L313-6 (MMN)
 
 
-###### Article 226-19
+###### Article 226-18-1
 
-Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée, sans l'accord exprès de
-l'intéressé, des données nominatives qui, directement ou indirectement, font apparaître les origines raciales ou les opinions
-politiques, philosophiques ou religieuses ou les appartenances syndicales ou les moeurs des personnes est puni de cinq ans
-d'emprisonnement et de 300000 euros d'amende.
-
-Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
-informations nominatives concernant des infractions, des condamnations ou des mesures de sûreté.
+Le fait de procéder à un traitement de données à caractère personnel concernant une personne physique malgré l'opposition de
+cette personne, lorsque ce traitement répond à des fins de prospection, notamment commerciale, ou lorsque cette opposition
+est fondée sur des motifs légitimes, est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17186,14 +17418,31 @@ informations nominatives concernant des infractions, des condamnations ou des me
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+
+###### Article 226-19
+
+Le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée, sans le consentement exprès de
+l'intéressé, des données à caractère personnel qui, directement ou indirectement, font apparaître les origines raciales ou
+ethniques, les opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales des personnes, ou qui sont
+relatives à la santé ou à l'orientation sexuelle de celles-ci, est puni de cinq ans d'emprisonnement et de 300 000 Euros
+d'amende.
+
+Est puni des mêmes peines le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des
+données à caractère personnel concernant des infractions, des condamnations ou des mesures de sûreté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17201,16 +17450,17 @@ informations nominatives concernant des infractions, des condamnations ou des me
 	  - Code pénal - art. 226-23 (V)
 
 
-###### Article 226-20
+###### Article 226-19-1
 
-I. - Le fait de conserver des informations sous une forme nominative au-delà de la durée prévue par la demande d'avis ou la
-déclaration préalable à la mise en oeuvre du traitement informatisé est puni de trois ans d'emprisonnement et de 45000 euros
-d'amende, sauf si cette conservation est effectuée à des fins historiques, statistiques ou scientifiques dans les conditions
-prévues par la loi.
+En cas de traitement de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé, est puni de
+cinq ans d'emprisonnement et de 300 000 euros d'amende le fait de procéder à un traitement :
 
-II. - Le fait de traiter des informations nominatives conservées au-delà de la durée mentionnée au I à des fins autres
-qu'historiques, statistiques ou scientifiques est puni des mêmes peines, sauf si ce traitement a été autorisé dans les
-conditions prévues par la loi.
+1° Sans avoir préalablement informé individuellement les personnes sur le compte desquelles des données à caractère personnel
+sont recueillies ou transmises de leur droit d'accès, de rectification et d'opposition, de la nature des données transmises
+et des destinataires de celles-ci ;
+
+2° Malgré l'opposition de la personne concernée ou, lorsqu'il est prévu par la loi, en l'absence du consentement éclairé et
+exprès de la personne, ou s'il s'agit d'une personne décédée, malgré le refus exprimé par celle-ci de son vivant.
 
 **Liens relatifs à cet article**
 
@@ -17218,24 +17468,44 @@ conditions prévues par la loi.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L225-2 (V)
+
+
+###### Article 226-20
+
+Le fait de conserver des données à caractère personnel au-delà de la durée prévue par la loi ou le règlement, par la demande
+d'autorisation ou d'avis, ou par la déclaration préalable adressée à la Commission nationale de l'informatique et des
+libertés, est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende, sauf si cette conservation est effectuée à des
+fins historiques, statistiques ou scientifiques dans les conditions prévues par la loi.
+
+Est puni des mêmes peines le fait, hors les cas prévus par la loi, de traiter à des fins autres qu'historiques, statistiques
+ou scientifiques des données à caractère personnel conservées au-delà de la durée mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2000-321 du 12 avril 2000 - art. 6
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 
 ###### Article 226-21
 
-Le fait, par toute personne détentrice d'informations nominatives à l'occasion de leur enregistrement, de leur classement, de
-leur transmission ou de toute autre forme de traitement, de détourner ces informations de leur finalité telle que définie par
-la disposition législative ou l'acte réglementaire autorisant le traitement automatisé, ou par la décision de la Commission
-nationale de l'informatique et des libertés autorisant un traitement automatisé ayant pour fin la recherche dans le domaine
-de la santé, ou par les déclarations préalables à la mise en oeuvre de ce traitement, est puni de cinq ans d'emprisonnement
-et de 300000 euros d'amende.
+Le fait, par toute personne détentrice de données à caractère personnel à l'occasion de leur enregistrement, de leur
+classement, de leur transmission ou de toute autre forme de traitement, de détourner ces informations de leur finalité telle
+que définie par la disposition législative, l'acte réglementaire ou la décision de la Commission nationale de l'informatique
+et des libertés autorisant le traitement automatisé, ou par les déclarations préalables à la mise en oeuvre de ce traitement,
+est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17271,26 +17541,21 @@ et de 300000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 
 ###### Article 226-22
 
 Le fait, par toute personne qui a recueilli, à l'occasion de leur enregistrement, de leur classement, de leur transmission ou
-d'une autre forme de traitement, des informations nominatives dont la divulgation aurait pour effet de porter atteinte à la
-considération de l'intéressé ou à l'intimité de sa vie privée, de porter, sans autorisation de l'intéressé, ces informations
-à la connaissance d'un tiers qui n'a pas qualité pour les recevoir est puni d'un an d'emprisonnement et de 15000 euros
+d'une autre forme de traitement, des données à caractère personnel dont la divulgation aurait pour effet de porter atteinte à
+la considération de l'intéressé ou à l'intimité de sa vie privée, de porter, sans autorisation de l'intéressé, ces données à
+la connaissance d'un tiers qui n'a pas qualité pour les recevoir est puni de cinq ans d'emprisonnement et de 300 000 euros
 d'amende.
 
-La divulgation prévue à l'alinéa précédent est punie de 7500 euros d'amende lorsqu'elle a été commise par imprudence ou
-négligence.
+La divulgation prévue à l'alinéa précédent est punie de trois ans d'emprisonnement et de 100 000 euros d'amende lorsqu'elle a
+été commise par imprudence ou négligence.
 
 Dans les cas prévus aux deux alinéas précédents, la poursuite ne peut être exercée que sur plainte de la victime, de son
 représentant légal ou de ses ayants droit.
@@ -17313,20 +17578,39 @@ représentant légal ou de ses ayants droit.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 
-###### Article 226-23
+###### Article 226-22-1
 
-Les dispositions des articles 226-17 à 226-19 sont applicables aux fichiers non automatisés ou mécanographiques dont l'usage
-ne relève pas exclusivement de l'exercice du droit à la vie privée.
+Le fait, hors les cas prévus par la loi, de procéder ou de faire procéder à un transfert de données à caractère personnel
+faisant l'objet ou destinées à faire l'objet d'un traitement vers un Etat n'appartenant pas à la Communauté européenne en
+violation des mesures prises par la Commission des Communautés européennes ou par la Commission nationale de l'informatique
+et des libertés mentionnées à l'article 70 de la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans
+d'emprisonnement et de 300 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 70 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+
+###### Article 226-22-2
+
+Dans les cas prévus aux articles 226-16 à 226-22-1, l'effacement de tout ou partie des données à caractère personnel faisant
+l'objet du traitement ayant donné lieu à l'infraction peut être ordonné. Les membres et les agents de la Commission nationale
+de l'informatique et des libertés sont habilités à constater l'effacement de ces données.
 
 **Liens relatifs à cet article**
 
@@ -17334,24 +17618,43 @@ ne relève pas exclusivement de l'exercice du droit à la vie privée.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 226-16 (V)
+
+
+###### Article 226-23
+
+Les dispositions de l'article 226-19 sont applicables aux traitements non automatisés de données à caractère personnel dont
+la mise en oeuvre ne se limite pas à l'exercice d'activités exclusivement personnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Modifié par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 226-19 (V)
 
 	**Cité par**:
 
 	  - Code pénal - art. 226-24 (M)
 
-	**Cite**:
-
-	  - Code pénal 226-17 à 226-19
-
 
 ###### Article 226-24
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 226-16 à 226-21 et 226-23 ainsi qu'au premier alinéa de l'article 226-22.
+infractions définies à la présente section.
 
 Les peines encourues par les personnes morales sont :
 
@@ -17368,28 +17671,24 @@ laquelle l'infraction a été commise.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
-	  - Code pénal - art. 226-22 (M)
-	  - Code pénal - art. 226-23 (M)
-	  - Code pénal 121-2, 226-16 à 226-21, 226-23, 226-22, 131-38, 131-39
 
 
-##### Section 6 : Des atteintes à la personne résultant de l'étude génétique de ses caractéristiques ou de l'identification par ses empreintes génétiques.
+##### Section 6 : Des atteintes à la personne résultant de l'examen de ses caractéristiques génétiques ou de l'identification par ses empreintes génétiques
 
 ###### Article 226-25
 
-Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir préalablement
-recueilli son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un an
-d'emprisonnement et de 15000 euros d'amende.
+Le fait de procéder à l'examen des caractéristiques génétiques d'une personne à des fins autres que médicales ou de recherche
+scientifique, ou à des fins médicales ou de recherche scientifique, sans avoir recueilli préalablement son consentement dans
+les conditions prévues par l'article 16-10 du code civil, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17397,16 +17696,9 @@ d'emprisonnement et de 15000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-1 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L145-17 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17424,15 +17716,20 @@ d'emprisonnement et de 15000 euros d'amende.
 	  - Code pénal - art. 713-4 (Ab)
 	  - Code pénal - art. 723-4 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-1 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-17 (Ab)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L145-15 (M)
+	  - Code civil - art. 16-10 (V)
 
 
 ###### Article 226-26
 
 Le fait de détourner de leurs finalités médicales ou de recherche scientifique les informations recueillies sur une personne
-au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+au moyen de l'examen de ses caractéristiques génétiques est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17440,15 +17737,9 @@ au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'em
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-2 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L145-18 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17460,12 +17751,17 @@ au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'em
 	  - Code de la santé publique - art. L145-21 (Ab)
 	  - Code pénal - art. 226-29 (M)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-18 (Ab)
+
 
 ###### Article 226-27
 
-Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales sans recueillir
-préalablement son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un
-an d'emprisonnement et de 15000 euros d'amende.
+Le fait de procéder à l'identification d'une personne par ses empreintes génétiques à des fins médicales ou de recherche
+scientifique sans avoir recueilli son consentement dans les conditions prévues par l'article 16-11 du code civil est puni
+d'un an d'emprisonnement et de 15 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -17473,15 +17769,10 @@ an d'emprisonnement et de 15000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-3 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L145-19 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
+	  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17499,9 +17790,14 @@ an d'emprisonnement et de 15000 euros d'amende.
 	  - Code pénal - art. 713-5 (Ab)
 	  - Code pénal - art. 723-5 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-3 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-19 (Ab)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L145-15 (M)
+	  - Code civil - art. 16-11 (M)
 
 
 ###### Article 226-28
@@ -17520,15 +17816,9 @@ l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17548,6 +17838,11 @@ l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 	  - Code pénal - art. 713-6 (Ab)
 	  - Code pénal - art. 723-6 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L145-16 (M)
@@ -17563,14 +17858,9 @@ La tentative des infractions prévues aux articles 226-25, 226-26, 226-27 et 226
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-5 (V)
-
-	**Créé par**:
-
-	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -17578,12 +17868,13 @@ La tentative des infractions prévues aux articles 226-25, 226-26, 226-27 et 226
 	  - Code de la santé publique - art. L1132-5 (T)
 	  - Code de la santé publique - art. L145-21 (Ab)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-5 (V)
+
 	**Cite**:
 
-	  - Code pénal - art. 226-25 (M)
-	  - Code pénal - art. 226-26 (M)
-	  - Code pénal - art. 226-27 (M)
-	  - Code pénal - art. 226-28 (M)
+	  - Code pénal - art. 226-25 (V)
 
 
 ###### Article 226-30
@@ -17606,19 +17897,18 @@ laquelle l'infraction a été commise.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-6 (V)
-
-	**Créé par**:
-
-	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
 
 	**Cité par**:
 
 	  - Code de la recherche - art. L221-2 (V)
 	  - Code de la santé publique - art. L1132-6 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-6 (V)
 
 	**Cite**:
 
@@ -30561,8 +30851,8 @@ soit la nature, meubles ou immeubles, divis ou indivis.
 
 ###### Article 511-1
 
-Le fait de mettre en oeuvre une pratique eugénique tendant à l'organisation de la sélection des personnes est puni de vingt
-ans de réclusion criminelle.
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait de se prêter à un prélèvement de cellules ou de
+gamètes, dans le but de faire naître un enfant génétiquement identique à une autre personne, vivante ou décédée.
 
 **Liens relatifs à cet article**
 
@@ -30570,20 +30860,71 @@ ans de réclusion criminelle.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-2 (V)
-
 	**Modifié par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-2 (V)
 
 	**Cité par**:
 
 	  - Code pénal - art. 511-1-1 (V)
 	  - Code pénal - art. 511-2 (V)
 	  - Code pénal - art. R654-1 (V)
+
+
+###### Article 511-1-1
+
+Dans le cas où le délit prévu à l'article 511-1 est commis à l'étranger par un Français ou par une personne résidant
+habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de l'article
+113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 511-1 (M)
+
+
+###### Article 511-1-2
+
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, par don, promesse, menace, ordre, abus d'autorité
+ou de pouvoir, de provoquer autrui à se prêter à un prélèvement de cellules ou de gamètes, dans le but de faire naître un
+enfant génétiquement identique à une autre personne vivante ou décédée.
+
+Est punie des mêmes peines la propagande ou la publicité, quel qu'en soit le mode, en faveur de l'eugénisme ou du clonage
+reproductif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Cité par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 1 (V)
+	  - Code de procédure pénale - art. 2-17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 29 () JORF 7 août 2004
 
 
 ##### Section 2 : De la protection du corps humain
@@ -30667,13 +31008,14 @@ pays étranger.
 
 ###### Article 511-3
 
-Le fait de prélever un organe sur une personne vivante majeure sans que le consentement de celle-ci ait été recueilli dans
-les conditions prévues par l'article L. 671-3 du code de la santé publique est puni de sept ans d'emprisonnement et de 100000
-euros d'amende.
+Le fait de prélever un organe sur une personne vivante majeure, y compris dans une finalité thérapeutique, sans que le
+consentement de celle-ci ait été recueilli dans les conditions prévues au troisième alinéa de l'article L. 1231-1 du code de
+la santé publique ou sans que l'autorisation prévue aux deuxième et cinquième alinéas du même article ait été délivrée est
+puni de sept ans d'emprisonnement et de 100 000 Euros d'amende.
 
-Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant
-l'objet d'une mesure de protection légale sans avoir respecté les conditions prévues aux articles L. 671-4 et L. 671-5 du
-code de la santé publique.
+Est puni des mêmes peines le fait de prélever un organe, un tissu ou des cellules ou de collecter un produit en vue de don
+sur une personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale,
+hormis les cas prévus aux articles L. 1241-3 et L. 1241-4 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -30681,15 +31023,9 @@ code de la santé publique.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-2 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 15 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -30707,11 +31043,16 @@ code de la santé publique.
 	  - Code pénal - art. 716-1-1 (Ab)
 	  - Code pénal - art. 726-1 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L671-3 (T)
-	  - Code de la santé publique - art. L671-4 (T)
-	  - Code de la santé publique - art. L671-5 (T)
+	  - Code de la santé publique - art. L1231-1 (M)
+	  - Code de la santé publique - art. L1241-3 (M)
+	  - Code de la santé publique - art. L1241-4 (M)
 
 
 ###### Article 511-4
@@ -30751,11 +31092,13 @@ du corps d'autrui.
 ###### Article 511-5
 
 Le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante majeure sans qu'elle ait
-exprimé son consentement est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
+exprimé son consentement dans les conditions prévues aux deuxième et troisième alinéas de l'article L. 1241-1 du code de la
+santé publique est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende. 
 
-Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
-mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale sans avoir respecté les
-conditions prévues par l'article L. 672-5 du code de la santé publique.
+Le fait de prélever sur une personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de
+protection légale des cellules hématopoïétiques issues de la moelle osseuse sans avoir respecté les conditions prévues, selon
+le cas, aux articles L. 1241-3 ou L. 1241-4 du code de la santé publique est puni de sept ans d'emprisonnement et de 100 000
+Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -30763,15 +31106,9 @@ conditions prévues par l'article L. 672-5 du code de la santé publique.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L674-5 (Ab)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 15 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -30788,9 +31125,84 @@ conditions prévues par l'article L. 672-5 du code de la santé publique.
 	  - Code pénal - art. 716-2 (Ab)
 	  - Code pénal - art. 726-2 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-5 (Ab)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L672-5 (Ab)
+	  - Code de la santé publique - art. L1241-1 (V)
+	  - Code de la santé publique - art. L1241-3 (V)
+
+
+###### Article 511-5-1
+
+Le fait de procéder à des prélèvements à des fins scientifiques sur une personne décédée sans avoir transmis le protocole
+prévu à l'article L. 1232-3 du code de la santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+Est puni des mêmes peines le fait de mettre en oeuvre un protocole suspendu ou interdit par le ministre chargé de la
+recherche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 2004-08-06 art. 15 3° JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4-1 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. 511-26 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1232-3 (M)
+
+
+###### Article 511-5-2
+
+I. - Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait de conserver et transformer à des fins
+scientifiques, y compris à des fins de recherche génétique, des organes, des tissus, des cellules ou du sang, ses composants
+et ses produits dérivés :
+
+1° Sans en avoir fait la déclaration préalable prévue à l'article L. 1243-3 du code de la santé publique ;
+
+2° Alors que le ministre chargé de la recherche s'est opposé à l'exercice de ces activités ou les a suspendues ou interdites.
+
+II. - Est puni des mêmes peines le fait de conserver et transformer, en vue de leur cession pour un usage scientifique, y
+compris à des fins de recherche génétique, des organes, des tissus, des cellules ou du sang, ses composants et ses produits
+dérivés, sans avoir préalablement obtenu l'autorisation prévue à l'article L. 1243-4 du code de la santé publique ou alors
+que cette autorisation est suspendue ou retirée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 2004-08-06 art. 15 3° JORF 7 août 2004 rectificatif JORF du 27 novembre 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4-2 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. 511-26 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1243-3 (M)
 
 
 ###### Article 511-6
@@ -30825,21 +31237,17 @@ d'emprisonnement et de 75 000 euros d'amende.
 
 ###### Article 511-7
 
-Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des greffes de
-tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules dans un établissement n'ayant pas
-obtenu l'autorisation prévue par les articles L. 671-12, L. 671-16, L. 672-7, L. 672-10 et L. 672-13 du code de la santé
-publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait de procéder à des prélèvements d'organes ou des greffes d'organes, à des prélèvements de tissus ou de cellules, à des
+greffes de tissus ou à des administrations de préparations de thérapie cellulaire, à la conservation ou à la transformation
+de tissus ou de préparations de thérapie cellulaire dans un établissement n'ayant pas obtenu l'autorisation prévue par les
+articles L. 1233-1, L. 1234-2, L. 1242-1, L. 1243-2 ou L. 1243-6 du code de la santé publique, ou après le retrait ou la
+suspension de cette autorisation, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-5 (V)
 
 	**Cité par**:
 
@@ -30857,33 +31265,33 @@ publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 2004-08-06 art. 15 4° JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-5 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L671-12 (Ab)
-	  - Code de la santé publique - art. L671-16 (Ab)
-	  - Code de la santé publique - art. L672-10 (M)
-	  - Code de la santé publique - art. L672-13 (M)
-	  - Code de la santé publique - art. L672-7 (Ab)
+	  - Code de la santé publique - art. L1233-1 (M)
+	  - Code de la santé publique - art. L1234-2 (M)
+	  - Code de la santé publique - art. L1242-1 (M)
+	  - Code de la santé publique - art. L1243-2 (M)
+	  - Code de la santé publique - art. L1243-6 (M)
 
 
 ###### Article 511-8
 
-Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains en vue d'un don
-sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
-du code de la santé publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de produits cellulaires à finalité thérapeutique
+ou de produits humains en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaire exigées en application
+des dispositions de l'article L. 1211-6 du code de la santé publique est puni de deux ans d'emprisonnement et de 30 000 euros
+d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-6 (V)
 
 	**Cité par**:
 
@@ -30904,19 +31312,22 @@ du code de la santé publique est puni de deux ans d'emprisonnement et de 30000 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 2004-08-06 art. 15 5° JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-6 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L665-15 (Ab)
-	  - Code de la santé publique - art. L665-15-1 (Ab)
+	  - Code de la santé publique - art. L1211-6 (M)
 
 
 ###### Article 511-8-1
 
-Le fait de mettre en oeuvre, en vue d'un usage thérapeutique, des procédés de préparation, conservation ou transformation de
-tissus et de cellules qui ne sont pas destinés à des thérapies cellulaire ou génique, en violation des dispositions de
-l'article L. 672-15 du code de la santé publique, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait de procéder à la distribution ou à la cession en vue d'un usage thérapeutique de tissus ou de préparations de
+thérapie cellulaire en violation des dispositions de l'article L. 1243-5 du code de la santé publique est puni de deux ans
+d'emprisonnement et de 30 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -30926,7 +31337,7 @@ l'article L. 672-15 du code de la santé publique, est puni de deux ans d'empris
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 2004-08-06 art. 15 6° JORF 7 août 2004
 
 	**Cité par**:
 
@@ -30939,16 +31350,14 @@ l'article L. 672-15 du code de la santé publique, est puni de deux ans d'empris
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L672-15 (Ab)
+	  - Code de la santé publique - art. L1243-5 (M)
 
 
 ###### Article 511-8-2
 
-Le fait de procéder à l'importation ou à l'exportation des organes, tissus et cellules qui ne sont pas destinées à des
-thérapies cellulaires ou géniques, en violation des dispositions prises pour l'application de l'article 18 de la loi n°
-92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité
-entre les services de police, de gendarmerie et de douane, est passible de deux ans d'emprisonnement et de 30000 euros
-d'amende.
+Le fait d'importer ou d'exporter des organes, tissus, cellules et produits cellulaires à finalité thérapeutique, en violation
+des dispositions prises pour l'application des articles L. 1235-1 et L. 1245-5 du code de la santé publique, est puni de cinq
+ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -30956,13 +31365,9 @@ d'amende.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Cite**:
-
-	  - Loi n°92-1477 1992-12-31 art. 18
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 2004-08-06 art. 15 7° JORF 7 août 2004
 
 	**Cité par**:
 
@@ -30972,6 +31377,11 @@ d'amende.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1235-1 (M)
+	  - Code de la santé publique - art. L1245-5 (M)
 
 
 ###### Article 511-9
@@ -31226,20 +31636,14 @@ quelle qu'en soit la forme, ou de remettre à des tiers, à titre onéreux, des 
 
 ###### Article 511-16
 
-Le fait d'obtenir des embryons humains sans respecter les conditions prévues aux articles L. 152-4 et L. 152-5 du code de la
-santé publique est puni de sept ans d'emprisonnement et de 100000 euros d'amende.
+Le fait d'obtenir des embryons humains sans respecter les conditions prévues aux articles L. 2141-5 et L. 2141-6 du code de
+la santé publique est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-2 (T)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-2 (V)
 
 	**Cité par**:
 
@@ -31257,18 +31661,23 @@ santé publique est puni de sept ans d'emprisonnement et de 100000 euros d'amend
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-2 (T)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-2 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L152-4 (Ab)
-	  - Code de la santé publique - art. L152-5 (Ab)
+	  - Code de la santé publique - art. L2141-5 (T)
+	  - Code de la santé publique - art. L2141-6 (Ab)
 
 
 ###### Article 511-17
 
-Le fait de procéder à la conception in vitro d'embryons humains à des fins industrielles ou commerciales est puni de sept ans
-d'emprisonnement et de 100000 euros d'amende.
+Le fait de procéder à la conception in vitro ou à la constitution par clonage d'embryons humains à des fins industrielles ou
+commerciales est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins industrielles ou commerciales.
 
@@ -31278,16 +31687,15 @@ Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins i
 
 	  - Loi n°92-1336 1992-12-16
 
+	**Modifié par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - TXT_ASSOCIE: Code de la santé publique - art. L152-15 (Ab)
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-3 (T)
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-3 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -31298,8 +31706,8 @@ Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins i
 
 ###### Article 511-18
 
-Le fait de procéder à la conception in vitro d'embryons humains à des fins de recherche ou d'expérimentation est puni de sept
-ans d'emprisonnement et de 100000 euros d'amende.
+Le fait de procéder à la conception in vitro ou à la constitution par clonage d'embryons humains à des fins de recherche est
+puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31307,15 +31715,9 @@ ans d'emprisonnement et de 100000 euros d'amende.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_ASSOCIE: Code de la santé publique - art. L152-18 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-4 (V)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -31323,11 +31725,16 @@ ans d'emprisonnement et de 100000 euros d'amende.
 	  - Code de la santé publique - art. L2152-4 (T)
 	  - Code de la santé publique - art. L2162-4 (MMN)
 
+	**Liens**:
 
-###### Article 511-19
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-18 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-4 (V)
 
-Le fait de procéder à une étude ou une expérimentation sur l'embryon en violation des dispositions de l'article L. 152-8 du
-code de la santé publique est puni de sept ans d'emprisonnement et de 100000 euros d'amende.
+
+###### Article 511-18-1
+
+Le fait de procéder à la constitution par clonage d'embryons humains à des fins thérapeutiques est puni de sept ans
+d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31335,15 +31742,44 @@ code de la santé publique est puni de sept ans d'emprisonnement et de 100000 eu
 
 	  - Loi n°92-1336 1992-12-16
 
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_ASSOCIE: Code de la santé publique - art. L152-17 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-6 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-5 (V)
+
+
+###### Article 511-19
+
+I. - Le fait de procéder à une étude ou une recherche sur l'embryon humain :
+
+1° Sans avoir préalablement obtenu le consentement écrit et l'autorisation visés à l'article L. 2151-5 du code de la santé
+publique, ou alors que cette autorisation est retirée, suspendue, ou que le consentement est révoqué ;
+
+2° Sans se conformer aux prescriptions législatives et réglementaires ou à celles fixées par cette autorisation,
+
+est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
+
+II. - Le fait de procéder à une étude ou une recherche sur des cellules souches embryonnaires :
+
+1° Sans avoir préalablement obtenu le consentement écrit et l'autorisation visés à l'article L. 2151-5 du code de la santé
+publique, ou alors que cette autorisation est retirée, suspendue, ou que le consentement est révoqué ;
+
+2° Sans se conformer aux prescriptions législatives et réglementaires ou à celles fixées par cette autorisation,
+
+est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -31360,9 +31796,108 @@ code de la santé publique est puni de sept ans d'emprisonnement et de 100000 eu
 	  - Code pénal - art. 716-10 (Ab)
 	  - Code pénal - art. 726-10 (V)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-17 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-6 (V)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L152-8 (Ab)
+	  - Code de la santé publique - art. L2151-5 (V)
+
+
+###### Article 511-19-1
+
+Le fait, à l'issue d'une interruption de grossesse, de prélever, conserver ou utiliser des tissus ou cellules embryonnaires
+ou fœtaux dans des conditions non conformes à celles prévues par les premier, deuxième et quatrième alinéas de l'article L.
+1241-5 du code de la santé publique ou pour des finalités autres que diagnostiques, thérapeutiques ou scientifiques est puni
+de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-9 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1241-5 (V)
+
+
+###### Article 511-19-2
+
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+
+1° Le fait de conserver des cellules souches embryonnaires sans avoir obtenu l'autorisation mentionnée à l'article L. 2151-7
+du code de la santé publique ou alors que cette autorisation est retirée ou suspendue ;
+
+2° Le fait de conserver des cellules souches embryonnaires sans se conformer aux règles mentionnées au deuxième alinéa de
+l'article L. 2151-7 du même code ;
+
+3° Le fait de céder des cellules souches embryonnaires à des organismes non titulaires de l'autorisation délivrée en
+application de l'article L. 2151-5 ou de l'article L. 2151-7 du même code ;
+
+4° Le fait d'avoir cédé des cellules souches embryonnaires sans en avoir informé préalablement l'Agence de la biomédecine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cité par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2151-5 (V)
+	  - Code de la santé publique - art. L2151-7 (V)
+
+
+###### Article 511-19-3
+
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait d'importer ou d'exporter, à des fins de recherche,
+des tissus ou des cellules embryonnaires ou fœtaux sans avoir obtenu l'autorisation mentionnée à l'article L. 2151-6 du code
+de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Cité par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2151-6 (V)
 
 
 ###### Article 511-20
@@ -31410,19 +31945,14 @@ santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amend
 
 ###### Article 511-21
 
-Le fait de méconnaître les dispositions de l'article L. 162-17 du code de la santé publique relatif au diagnostic
-préimplantatoire est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait de méconnaître les dispositions des articles L. 2131-4 et L. 2131-4-1 relatifs au diagnostic préimplantatoire est
+puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-2 (V)
 
 	**Cité par**:
 
@@ -31439,28 +31969,29 @@ préimplantatoire est puni de deux ans d'emprisonnement et de 30000 euros d'amen
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-2 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L162-17 (Ab)
+	  - Code de la santé publique - art. L2131-4 (M)
+	  - Code de la santé publique - art. L2131-4-1 (V)
 
 
 ###### Article 511-22
 
-Le fait de procéder à des activités d'assistance médicale à la procréation sans avoir recueilli l'autorisation prévue à
-l'article L. 184-1 du code de la santé publique est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait de mettre en oeuvre des activités d'assistance médicale à la procréation sans avoir recueilli l'autorisation prévue
+par le troisième alinéa de l'article L. 2142-1 du code de la santé publique ou sans se conformer aux prescriptions de cette
+dernière est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-3 (V)
 
 	**Cité par**:
 
@@ -31478,28 +32009,24 @@ l'article L. 184-1 du code de la santé publique est puni de deux ans d'emprison
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la santé publique - art. L184-1 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-3 (V)
 
 
 ###### Article 511-23
 
-Le fait de divulguer une information nominative permettant d'identifier à la fois le couple qui a renoncé à un embryon et le
-couple qui l'a accueilli est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+Le fait d'introduire des embryons humains sur le territoire où s'applique le code de la santé publique ou de les sortir de ce
+territoire sans l'autorisation prévue à l'article L. 2141-9 du code de la santé publique est puni de trois ans
+d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-4 (V)
 
 	**Cité par**:
 
@@ -31510,7 +32037,15 @@ couple qui l'a accueilli est puni de deux ans d'emprisonnement et de 30000 euros
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2141-9 (M)
 
 
 ###### Article 511-24
@@ -31559,20 +32094,26 @@ L. 2141-2 du code de la santé publique est puni de cinq ans d'emprisonnement et
 
 ###### Article 511-25
 
-Le fait de procéder au transfert d'un embryon dans les conditions fixées à l'article L. 152-5 du code de la santé publique
-sans avoir pris connaissance des résultats des tests de dépistage de maladies infectieuses exigés en application de l'article
-précité est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+I. - Le fait d'exercer les activités nécessaires à l'accueil d'un embryon humain dans des conditions fixées à l'article L.
+2141-6 du code de la santé publique :
+
+1° Sans s'être préalablement assuré qu'a été obtenue l'autorisation judiciaire prévue au deuxième alinéa dudit article ;
+
+2° Ou sans avoir pris connaissance des résultats des tests de dépistage des maladies infectieuses exigés au sixième alinéa du
+même article ;
+
+3° Ou en dehors d'un établissement autorisé conformément aux dispositions du septième alinéa du même article,
+
+est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+II. - Est puni des mêmes peines le fait de divulguer une information nominative permettant d'identifier à la fois le couple
+qui a renoncé à l'embryon et le couple qui l'a accueilli.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-1336 1992-12-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-6 (V)
 
 	**Cité par**:
 
@@ -31590,19 +32131,23 @@ précité est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-6 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L152-5 (Ab)
+	  - Code de la santé publique - art. L2141-6 (Ab)
 
 
 ##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
 
 ###### Article 511-26
 
-La tentative des délits prévus par les articles 511-2, 511-3, 511-4, 511-5, 511-6, 511-9 et 511-15 est punie des mêmes
-peines.
+La tentative des délits prévus par les articles 511-2, 511-3, 511-4, 511-5, 511-5-1, 511-5-2, 511-6, 511-9, 511-15, 511-16 et
+511-19 est punie des mêmes peines.
 
 **Liens relatifs à cet article**
 
@@ -31610,14 +32155,9 @@ peines.
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1274-3 (V)
-
-	**Créé par**:
-
-	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -31626,13 +32166,21 @@ peines.
 	  - Code de la santé publique - art. L2152-10 (T)
 	  - Code de la santé publique - art. L675-18 (Ab)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1274-3 (V)
+
 	**Cite**:
 
 	  - Code pénal - art. 511-15 (M)
+	  - Code pénal - art. 511-16 (M)
+	  - Code pénal - art. 511-19 (M)
 	  - Code pénal - art. 511-2 (M)
 	  - Code pénal - art. 511-3 (M)
 	  - Code pénal - art. 511-4 (M)
 	  - Code pénal - art. 511-5 (M)
+	  - Code pénal - art. 511-5-1 (V)
+	  - Code pénal - art. 511-5-2 (V)
 	  - Code pénal - art. 511-6 (M)
 	  - Code pénal - art. 511-9 (M)
 
