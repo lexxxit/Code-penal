@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-09-21
 
 # Partie législative
 
@@ -32483,19 +32483,15 @@ brassard tricolore.
 
 Les prescriptions relatives aux expériences ou recherches scientifiques ou expérimentales sur les animaux mentionnées à
 l'article 511-2 sont fixées par le décret n° 87-848 du 19 octobre 1987 pris pour l'application de cet article et du troisième
-alinéa de l'article 276 du code rural.
+alinéa de l'article L. 214-3 du code rural.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code pénal - art. 511-2 (M)
-	  - Code rural 276
 	  - Décret n°87-848 1987-10-19
-
-	**Cité par**:
-
-	  - Code pénal - art. R716-1 (V)
+	  - Code pénal - art. 511-2 (M)
+	  - Code rural L214-3
 
 	**Liens**:
 
@@ -32504,6 +32500,14 @@ alinéa de l'article 276 du code rural.
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+
+	**Cité par**:
+
+	  - Code pénal - art. R716-1 (V)
 
 
 ## Livre VI : Des contraventions
