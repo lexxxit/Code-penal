@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 
 # Partie législative
 
@@ -7255,13 +7255,12 @@ particulière du sursis avec mise à l'épreuve et le délai prévu à l'article
 
 ###### Article 132-57
 
-Toute juridiction ayant prononcé hors la présence du prévenu, pour un délit de droit commun, une condamnation comportant un
-emprisonnement ferme de six mois au plus peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie
-de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit
-d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une
-durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent-quarante heures. L'exécution de l'obligation
-d'accomplir un travail d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des
-articles 132-55 et 132-56.
+Toute juridiction ayant prononcé, pour un délit de droit commun, une condamnation comportant un emprisonnement ferme de six
+mois au plus peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie de recours par le condamné,
+ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit d'une collectivité publique,
+d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une durée qui ne pourra être
+inférieure à quarante heures ni supérieure à deux cent-quarante heures. L'exécution de l'obligation d'accomplir un travail
+d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56.
 
 **Liens relatifs à cet article**
 
@@ -7285,7 +7284,7 @@ articles 132-55 et 132-56.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 352 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 45 () JORF 9 février 1995
 
 	**Cite**:
 
@@ -21241,17 +21240,17 @@ sont reçus par dévolution successorale.
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
-##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics.
+##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public
 
 ###### Article 432-14
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait, par une personne dépositaire de l'autorité publique
-ou chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
-administrateur ou agent de l'Etat, d'un établissement public n'ayant pas le caractère industriel ou commercial, d'une
-collectivité territoriale ou d'un de ses établissements publics ou d'une société d'économie mixte, ou par toute personne
-agissant pour le compte de l'une de celles susvisées, de procurer ou de tenter de procurer à autrui un avantage injustifié
-par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté d'accès et
-l'égalité des candidats dans les marchés passés par l'Etat et les collectivités ou organismes mentionnés plus haut.
+Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait par une personne dépositaire de l'autorité publique ou
+chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
+administrateur ou agent de l'Etat, des collectivités territoriales, des établissements publics, des sociétés d'économie mixte
+d'intérêt national chargées d'une mission de service public et des sociétés d'économie mixte locales ou par toute personne
+agissant pour le compte de l'une de celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage
+injustifié par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté
+d'accès et l'égalité des candidats dans les marchés publics et les délégations de service public.
 
 **Liens relatifs à cet article**
 
@@ -21269,6 +21268,10 @@ l'égalité des candidats dans les marchés passés par l'Etat et les collectivi
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°95-127 du 8 février 1995 - art. 10 () JORF 9 février 1995
 
 
 ##### Paragraphe 5 : De la soustraction et du détournement de biens
