@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-05-08
+Version Consolidée au 1996-05-14
 
 # Partie législative
 
@@ -1189,8 +1189,12 @@ faits.
 
 Il n'y a point de crime ou de délit sans intention de le commettre.
 
-Toutefois, lorsque la loi le prévoit, il y a délit en cas d'imprudence, de négligence ou de mise en danger délibérée de la
-personne d'autrui.
+Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui.
+
+Il y a également délit, lorsque la loi le prévoit, en cas d'imprudence, de négligence ou de manquement à une obligation de
+prudence ou de sécurité prévue par la loi ou les règlements sauf si l'auteur des faits a accompli les diligences normales
+compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des
+moyens dont il disposait.
 
 Il n'y a point de contravention en cas de force majeure.
 
@@ -1242,6 +1246,10 @@ Il n'y a point de contravention en cas de force majeure.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°96-393 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
 
 
 ###### Article 121-4
@@ -10478,12 +10486,16 @@ présent article.
 
 ###### Article 222-38
 
-Le fait de faciliter, par tout moyen frauduleux, la justification mensongère de l'origine des ressources ou des biens de
-l'auteur de l'une des infractions mentionnées aux articles 222-34 à 222-37 ou d'apporter sciemment son concours à toute
-opération de placement, de dissimulation ou de conversion du produit d'une telle infraction est puni de dix ans
-d'emprisonnement et de 1 000 000 F d'amende [* taux *].
+Est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende le fait de faciliter, par tout moyen, la justification
+mensongère de l'origine des biens ou des revenus de l'auteur de l'une des infractions mentionnées aux articles 222-34 à
+222-37 ou d'apporter son concours à une opération de placement, de dissimulation ou de conversion du produit de l'une de ces
+infractions. La peine d'amende peut être élevée jusqu'à la moitié de la valeur des biens ou des fonds sur lesquels ont porté
+les opérations de blanchiment.
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
+Lorsque l'infraction a porté sur des biens ou des fonds provenant de l'un des crimes mentionnés aux articles 222-34, 222-35
+et 222-36, deuxième alinéa, son auteur est puni des peines prévues pour les crimes dont il a eu connaissance.
+
+Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
 
 **Liens relatifs à cet article**
@@ -10499,7 +10511,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 355 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-392 du 13 mai 1996 - art. 2 () JORF 14 mai 1996
 
 	**Cité par**:
 
@@ -10524,7 +10536,10 @@ présent article.
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
-	  - Code pénal 222-34 à 222-37, 132-23
+	  - Code pénal - art. 222-34 (M)
+	  - Code pénal - art. 222-35 (M)
+	  - Code pénal - art. 222-36 (M)
+	  - Code pénal 222-34 à 222-37, 222-34, 222-35, 222-36, 132-23
 
 
 ###### Article 222-39
@@ -10565,6 +10580,44 @@ l'alinéa précédent.
 	**Modifié par**:
 
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23 (M)
+
+
+###### Article 222-39-1
+
+Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
+avec une ou plusieurs personnes se livrant à l'une des activités réprimées par la présente section, ou avec plusieurs
+personnes se livrant à l'usage de stupéfiants, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+
+La peine d'emprisonnement est portée à dix ans lorsqu'une ou plusieurs des personnes visées à l'alinéa précédent sont
+mineures.
+
+Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables à l'infraction prévue par
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 15 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 16 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 16 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-5 (M)
+	  - Code pénal - art. 222-49 (V)
+	  - Livre des procédures fiscales - art. L10 B (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 17 () JORF 14 mai 1996
 
 	**Cite**:
 
@@ -15208,6 +15261,30 @@ d'emprisonnement et de 1 000 000 F d'amende.
 	  - Code pénal - art. 227-32 (V)
 
 
+###### Article 227-18-1
+
+Le fait de provoquer directement un mineur à transporter, détenir, offrir ou céder des stupéfiants est puni de sept ans
+d'emprisonnement et de 1 000 000 F d'amende.
+
+Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de dix ans d'emprisonnement
+et de 2 000 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 18 () JORF 14 mai 1996
+
+	**Cité par**:
+
+	  - Code de la route. - art. R212-4 (V)
+	  - Code de procédure pénale - art. 2-16 (V)
+
+
 ###### Article 227-19
 
 Le fait de provoquer directement un mineur à la consommation habituelle et excessive de boissons alcooliques est puni de deux
@@ -18585,6 +18662,313 @@ La tentative des délits prévus par les articles 323-1 à 323-3 est punie des m
 	**Cite**:
 
 	  - Code pénal 323-1 à 323-3
+
+
+#### Chapitre IV : Du blanchiment
+
+##### Section 1 : Du blanchiment simple et du blanchiment aggravé
+
+###### Article 324-1
+
+Le blanchiment est le fait de faciliter, par tout moyen, la justification mensongère de l'origine des biens ou des revenus de
+l'auteur d'un crime ou d'un délit ayant procuré à celui-ci un profit direct ou indirect.
+
+Constitue également un blanchiment le fait d'apporter un concours à une opération de placement, de dissimulation ou de
+conversion du produit direct ou indirect d'un crime ou d'un délit.
+
+Le blanchiment est puni de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°83-629 du 12 juillet 1983 - art. 12 (VT)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 26 (VT)
+	  - Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 17 (VT)
+	  - Décret n°2003-196 du 7 mars 2003 - art. 7 (Ab)
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - Arrêté du 28 septembre 2011 - art. 2 (V)
+	  - Arrêté du 28 septembre 2011 - art. 6 (V)
+	  - Arrêté du 2 novembre 2011 - art. 3 (V)
+	  - Arrêté du 2 novembre 2011 - art. 4 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Loi n°2015-993 du 17 août 2015 - art. 11
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 706-30 (Ab)
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de la sécurité intérieure - art. L612-16 (VD)
+	  - Code de la sécurité intérieure - art. L622-14 (VD)
+	  - Code de procédure pénale - art. 2-17 (V)
+	  - Code de procédure pénale - art. 2-23 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 704 (VT)
+	  - Code de procédure pénale - art. 706-55 (V)
+	  - Code de procédure pénale - art. 706-73 (V)
+	  - Code de procédure pénale - art. 706-73-1 (V)
+	  - Code des assurances - art. L322-2 (M)
+	  - Code général des collectivités territoriales - art. L1414-4 (VD)
+	  - Code monétaire et financier - art. D313-27 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L562-8 (V)
+	  - Code monétaire et financier - art. L564-2 (T)
+	  - Code monétaire et financier - art. L565-2 (T)
+	  - Code monétaire et financier - art. L566-2 (Ab)
+	  - Code monétaire et financier - art. R153-10 (V)
+	  - Code pénal - art. 324-3 (V)
+	  - Code pénal - art. 324-4 (V)
+	  - Code pénal - art. 324-7 (V)
+	  - Code pénal - art. 324-8 (V)
+	  - Code pénal - art. 324-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+
+###### Article 324-2
+
+Le blanchiment est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende :
+
+1° Lorsqu'il est commis de façon habituelle ou en utilisant les facilités que procure l'exercice d'une activité
+professionnelle ;
+
+2° Lorsqu'il est commis en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cité par**:
+
+	  - Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)
+	  - Loi n°2015-993 du 17 août 2015 - art. 11
+	  - Loi n°2016-731 du 3 juin 2016 - art. 30
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-30 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. 706-73 (M)
+	  - Code de procédure pénale - art. 706-73-1 (V)
+	  - Code des assurances - art. L322-2 (M)
+	  - Code monétaire et financier - art. D313-27 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code pénal - art. 324-3 (V)
+	  - Code pénal - art. 324-4 (V)
+	  - Code pénal - art. 324-7 (M)
+	  - Code pénal - art. 324-8 (V)
+	  - Code pénal - art. 324-9 (V)
+
+
+###### Article 324-3
+
+Les peines d'amende mentionnées aux articles 324-1 et 324-2 peuvent être élevées jusqu'à la moitié de la valeur des biens ou
+des fonds sur lesquels ont porté les opérations de blanchiment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cite**:
+
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
+
+
+###### Article 324-4
+
+Lorsque le crime ou le délit dont proviennent les biens et les fonds sur lesquels ont porté les opérations de blanchiment est
+puni d'une peine privative de liberté d'une durée supérieure à celle de l'emprisonnement encouru en application des articles
+324-1 ou 324-2, le blanchiment est puni des peines attachées à l'infraction dont son auteur a eu connaissance et, si cette
+infraction est accompagnée de circonstances aggravantes, des peines attachées aux seules circonstances dont il a eu
+connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cite**:
+
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
+
+
+###### Article 324-5
+
+Le blanchiment est assimilé, au regard de la récidive, à l'infraction à l'occasion de laquelle ont été commises les
+opérations de blanchiment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+
+
+###### Article 324-6
+
+La tentative des délits prévus à la présente section est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+
+
+##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales
+
+###### Article 324-7
+
+Les personnes physiques coupables des infractions définies aux articles 324-1 et 324-2 encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+cette interdiction étant définitive ou temporaire dans le cas prévu à l'article 324-2 et d'une durée de cinq ans au plus dans
+le cas prévu à l'article 324-1 ;
+
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+
+3° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés et d'utiliser les cartes de paiement ;
+
+4° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ;
+
+5° L'annulation du permis de conduire avec l'interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
+plus ;
+
+6° La confiscation d'un ou plusieurs véhicules appartenant au condamné ;
+
+7° La confiscation d'une ou plusieurs armes dont le condamné est le propriétaire ou dont il a la libre disposition ;
+
+8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
+l'exception des objets susceptibles de restitution ;
+
+9° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+
+10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
+
+11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cité par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-30 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
+
+
+###### Article 324-8
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
+définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
+aux articles 324-1 et 324-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
+
+
+###### Article 324-9
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 324-1 et 324-2. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 324-2 (M)
 
 
 ## Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique
