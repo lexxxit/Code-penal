@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-15
 
 # Partie législative
 
@@ -27893,6 +27893,138 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets sus
 	  - Code pénal - art. 435-2 (M)
 	  - Code pénal - art. 435-3 (M)
 	  - Code pénal - art. 435-4 (M)
+
+
+#### Chapitre VI : De la participation à une activité mercenaire
+
+###### Article 436-1
+
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait :
+
+1° Par toute personne, spécialement recrutée pour combattre dans un conflit armé et qui n'est ni ressortissante d'un Etat
+partie audit conflit armé, ni membre des forces armées de cet Etat, ni n'a été envoyée en mission par un Etat autre que l'un
+de ceux parties au conflit en tant que membre des forces armées dudit Etat, de prendre ou tenter de prendre une part directe
+aux hostilités en vue d'obtenir un avantage personnel ou une rémunération nettement supérieure à celle qui est payée ou
+promise à des combattants ayant un rang et des fonctions analogues dans les forces armées de la partie pour laquelle elle
+doit combattre ;
+
+2° Par toute personne, spécialement recrutée pour prendre part à un acte concerté de violence visant à renverser les
+institutions ou porter atteinte à l'intégrité territoriale d'un Etat et qui n'est ni ressortissante de l'Etat contre lequel
+cet acte est dirigé, ni membre des forces armées dudit Etat, ni n'a été envoyée en mission par un Etat, de prendre ou tenter
+de prendre part à un tel acte en vue d'obtenir un avantage personnel ou une rémunération importants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-340 du 14 avril 2003 - art. unique
+
+
+###### Article 436-2
+
+Le fait de diriger ou d'organiser un groupement ayant pour objet le recrutement, l'emploi, la rémunération, l'équipement ou
+l'instruction militaire d'une personne définie à l'article 436-1 est puni de sept ans d'emprisonnement et de 100 000 euros
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-340 du 14 avril 2003 - art. unique
+
+	**Cité par**:
+
+	  - Code pénal - art. 436-5 (V)
+
+
+###### Article 436-3
+
+Lorsque les faits mentionnés au présent chapitre sont commis à l'étranger par un Français ou par une personne résidant
+habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de l'article
+113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-340 du 14 avril 2003 - art. unique
+
+	**Cite**:
+
+	  - Code pénal - art. 113-8 (V)
+
+
+###### Article 436-4
+
+Les personnes physiques coupables des infractions prévues par le présent chapitre encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+
+2° La diffusion intégrale ou partielle de la décision ou d'un communiqué informant le public des motifs et du dispositif de
+celle-ci dans les conditions prévues par l'article 131-35 ; 
+
+3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-340 du 14 avril 2003 - art. unique
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35 (V)
+
+
+###### Article 436-5
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
+l'infraction définie à l'article 436-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, selon les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-340 2003-04-14 art. 1 JORF 15 avril 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 436-2 (V)
 
 
 ### Titre IV : Des atteintes à la confiance publique
