@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1997-01-01
 
 # Partie législative
 
@@ -26940,9 +26940,9 @@ travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice d
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
 
 	**Cite**:
 
@@ -26973,42 +26973,13 @@ la juridiction. Ils ne peuvent s'opposer à cette diffusion. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Cite**:
-
-	  - Code pénal - art. 131-35 (M)
-
-
-###### Article 712-3
-
-Le 7° de l'article 132-45 est rédigé comme suit :
-
-" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
 
 	**Cite**:
 
-	  - Code pénal - art. 132-45 (M)
+	  - Code pénal - art. 131-35 (M)
 
 
 #### Chapitre III : Adaptation du livre II.
@@ -27597,8 +27568,7 @@ L'article 511-8 est ainsi rédigé :
 
 " Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
 en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement ou, à défaut, celles dont la pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -27612,9 +27582,9 @@ de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 3 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -27632,48 +27602,6 @@ de 200 000 F d'amende. "
 	**Cite**:
 
 	  - Code pénal - art. 511-8 (M)
-
-
-###### Article 716-5
-
-L'article 511-11 est ainsi rédigé :
-
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
-la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement ou, à défaut, ceux dont la pratique médicale a consacré la nécessité, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-12 (M)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-12 (V)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-11 (M)
 
 
 ###### Article 716-6
@@ -27856,7 +27784,8 @@ expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
 qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit. "
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation applicable
+localement. "
 
 **Liens relatifs à cet article**
 
@@ -27870,9 +27799,9 @@ qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 5 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -27931,57 +27860,6 @@ d'emprisonnement et de 200 000 F d'amende. "
 	  - Code pénal - art. 511-20 (M)
 
 
-###### Article 716-12
-
-L'article 511-21 est ainsi rédigé :
-
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
-activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
-enfant atteint d'une maladie génétique reconnue comme incurable au moment du diagnostic, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende.
-
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
-
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
-
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
-
-" 3° Ou hors d'un établissement autorisé à cet effet. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-6 (M)
-	  - Code de la santé publique - art. L2431-5 (M)
-	  - Code de la santé publique - art. L2441-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-6 (V)
-	  - Code de la santé publique - art. L2431-5 (Ab)
-	  - Code de la santé publique - art. L2441-6 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-	  - Code pénal - art. 511-21 (M)
-
-
 ###### Article 716-13
 
 L'article 511-22 est ainsi rédigé :
@@ -28032,9 +27910,9 @@ couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en �
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
 artificielle.
 
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale en vue d'un objet autre que de remédier
-à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la transmission à un enfant
-d'une maladie d'une particulière gravité. "
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
 
 **Liens relatifs à cet article**
 
@@ -28048,9 +27926,9 @@ d'une maladie d'une particulière gravité. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 7 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -28074,8 +27952,8 @@ d'une maladie d'une particulière gravité. "
 L'article 511-25 est ainsi rédigé :
 
 " Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement ou, à défaut, de ceux dont la
-pratique médicale a consacré la nécessité est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -28089,9 +27967,9 @@ pratique médicale a consacré la nécessité est puni de deux ans d'emprisonnem
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 8 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -28319,38 +28197,7 @@ dispositions ayant le même objet applicables localement.
 
 ###### Article 722-1
 
-L'article 131-23 est rédigé comme suit :
-
-" Art. 131-23. - Le travail d'intérêt général est soumis aux prescriptions législatives et réglementaires applicables
-localement relatives au travail de nuit, à l'hygiène, à la sécurité ainsi qu'au travail des femmes et des jeunes
-travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice de l'activité professionnelle. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Cité par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-23 (V)
-
-
-###### Article 722-2
-
-Le 7° de l'article 132-45 est rédigé comme suit :
+Le 7° de l'article 132-45 est ainsi rédigé :
 
 " 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
 
@@ -28364,13 +28211,13 @@ Le 7° de l'article 132-45 est rédigé comme suit :
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°96-1240 du 30 décembre 1996 - art. 9 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
 
 	**Cite**:
 
@@ -28912,7 +28759,7 @@ personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'u
 L'article 511-7 est ainsi rédigé :
 
 " Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
-greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules dans un établissement non
+greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
 autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
@@ -28922,13 +28769,13 @@ autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'a
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°96-1240 1999-12-30 art. 10 JORF 1er janvier 1997
+
 	**Codifié par**:
 
 	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
 
 	**Cité par**:
 
@@ -28949,8 +28796,7 @@ L'article 511-8 est ainsi rédigé :
 
 " Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
 en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement ou, à défaut, celles dont la pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -28963,9 +28809,9 @@ de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 11 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -28986,8 +28832,7 @@ L'article 511-11 est ainsi rédigé :
 
 " Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
 la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement ou, à défaut, ceux dont la pratique médicale a consacré la nécessité, est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -29000,10 +28845,6 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
 	**Cité par**:
 
 	  - Code de la santé publique - art. L1517-11 (MMN)
@@ -29015,6 +28856,10 @@ d'emprisonnement et de 200 000 F d'amende. "
 	**Cite**:
 
 	  - Code pénal - art. 511-11 (M)
+
+	**Modifié par**:
+
+	  - Loi n°96-124 1996-12-30 art. 12 JORF 1er janvier 1997
 
 
 ###### Article 726-6
@@ -29180,7 +29025,7 @@ expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
 qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit. "
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat. "
 
 **Liens relatifs à cet article**
 
@@ -29193,9 +29038,9 @@ qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 13 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -29253,8 +29098,8 @@ L'article 511-21 est ainsi rédigé :
 
 " Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
 activité dans un établissement mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner naissance à un
-enfant atteint d'une maladie génétique reconnue comme incurable au moment du diagnostic est puni de deux ans d'emprisonnement
-et de 200 000 F d'amende.
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
 
 " Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
 
@@ -29275,9 +29120,9 @@ et de 200 000 F d'amende.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 14 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -29340,9 +29185,9 @@ couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en �
 la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
 artificielle.
 
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale en vue d'un objet autre que de remédier
-à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la transmission à un enfant
-d'une maladie d'une particulière gravité. "
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
 
 **Liens relatifs à cet article**
 
@@ -29355,9 +29200,9 @@ d'une maladie d'une particulière gravité. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 15 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -29378,8 +29223,8 @@ d'une maladie d'une particulière gravité. "
 L'article 511-25 est ainsi rédigé :
 
 " Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement ou, à défaut, de ceux dont la
-pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
 
 **Liens relatifs à cet article**
 
@@ -29392,9 +29237,9 @@ pratique médicale a consacré la nécessité, est puni de deux ans d'emprisonne
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -29518,6 +29363,110 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
+
+#### Chapitre VI : Adaptation du livre V.
+
+###### Article 716-12
+
+L'article 511-21 est ainsi rédigé :
+
+" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+
+" 3° Ou hors d'un établissement autorisé à cet effet. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-6 (M)
+	  - Code de la santé publique - art. L2431-5 (M)
+	  - Code de la santé publique - art. L2441-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-6 (V)
+	  - Code de la santé publique - art. L2431-5 (Ab)
+	  - Code de la santé publique - art. L2441-6 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+	  - Code pénal - art. 511-21 (M)
+
+	**Modifié par**:
+
+	  - Loi n°96-1240 1996-12-31 art. 6 JORF 1er janvier 1997
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer dans la collectivité territoriale de Mayotte.
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.
+
+#### Chapitre VI : Adaptation du livre V.
+
+###### Article 716-5
+
+L'article 511-11 est ainsi rédigé :
+
+" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°96-1240 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-12 (M)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-12 (V)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-11 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
