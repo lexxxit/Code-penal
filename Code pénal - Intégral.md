@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1997-04-25
+Version Consolidée au 1997-05-30
 
 # Partie législative
 
@@ -33821,5 +33821,418 @@ ininterrompue peut être établie.
 	**Cite**:
 
 	  - Code pénal - art. 132-11 (V)
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.
+
+#### Chapitre Ier : Dispositions générales.
+
+###### Article R711-1
+
+Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
+Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, R. 635-3 à R. 635-7 et R. 645-6, sont
+applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R645-6 (V)
+	  - Code pénal R321-1 à R321-12, R633-1 à R633-5, R635-3 à R635-7, R645-6
+
+	**Cité par**:
+
+	  - Code pénal - art. R711-3 (V)
+
+
+###### Article R711-2
+
+Les livres Ier à VI de la deuxième partie du présent code (Décrets en Conseil d'Etat) sont applicables dans les Terres
+australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+
+###### Article R711-3
+
+Pour l'application du présent code aux territoires visés à l'article R. 711-1, les termes énumérés ci-après sont remplacés
+comme suit :
+
+- " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
+
+- " département " par " territoire " ;
+
+- " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire " ;
+
+- " Banque de France " par " Institut d'émission d'outre-mer ".
+
+De même, les références à des dispositions non applicables dans ces territoires sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R711-1 (M)
+
+
+#### Chapitre II : Adaptation du livre Ier.
+
+###### Article R712-1
+
+Le deuxième alinéa de l'article R. 131-2 est rédigé comme suit :
+
+" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
+la route applicable localement, justification du droit de conduire, lorsque sont respectées les conditions fixées par la
+juridiction. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-2 (M)
+
+
+###### Article R712-2
+
+L'avant-dernier alinéa de l'article R. 131-4 est rédigé comme suit :
+
+" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
+la route applicable localement, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour
+lesquelles la juridiction a prononcé l'interdiction de conduire. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-4 (M)
+
+
+###### Article R712-3
+
+Le 1° de l'article R. 131-12 est rédigé comme suit :
+
+" 1° La copie du Journal officiel ou du Journal officiel du territoire portant publication de la déclaration de
+l'association. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-12 (M)
+
+
+###### Article R712-4
+
+La deuxième phrase du premier alinéa de l'article R. 131-13 est rédigée comme suit :
+
+" Il consulte, lorsqu'ils existent, les organismes ou services locaux de prévention de la délinquance qui ont trois mois pour
+donner leur avis. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-13 (M)
+
+
+###### Article R712-5
+
+La deuxième phrase de l'article R. 131-18 est rédigée comme suit :
+
+" Il adresse copie de la demande aux organismes ou services locaux de prévention de la délinquance lorsqu'ils existent ;
+ceux-ci ont trois mois pour donner leur avis. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-18 (M)
+
+
+###### Article R712-6
+
+L'article R. 131-25 est rédigé comme suit :
+
+" Art. R. 131-25. - Lorsqu'un condamné exerce une activité salariée, la durée hebdomadaire cumulée de cette activité et du
+travail d'intérêt général ne peut excéder de plus de douze heures la durée légale de travail en vigueur localement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-25 (V)
+
+
+###### Article R712-7
+
+Le 3° de l'article R. 131-28 est rédigé comme suit :
+
+" 3° De s'assurer, si le travail auquel le juge de l'application des peines entend l'affecter doit s'exercer dans un
+établissement ou organisme public ou privé de prévention ou de soins et l'expose à des risques de contamination, qu'il est
+immunisé contre l'hépatite B, la diphtérie, le tétanos, la poliomyélite et la fièvre typhoïde, ainsi que contre les maladies
+prévues par la réglementation applicable localement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-28 (V)
+
+
+###### Article R712-8
+
+Le deuxième alinéa de l'article R. 131-36 est rédigé comme suit :
+
+" Lorsque le personnel de cette personne morale est régi par les dispositions applicables localement relatives à la
+représentation des salariés, l'avis mentionné au premier alinéa est adressé au secrétaire du comité d'entreprise ou, le cas
+échéant, au secrétaire du comité central d'entreprise et, en l'absence de tels comités, aux délégués du personnel titulaire.
+"
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-36 (T)
+
+
+#### Chapitre VI : Adaptation du livre V.
+
+###### Article R716-1
+
+L'article R. 511-1 est rédigé comme suit :
+
+" Art. R. 511-1. - Les prescriptions relatives aux expériences ou recherches scientifiques ou expérimentales sur les animaux
+mentionnées à l'article 521-2 sont fixées par la réglementation applicable localement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. 521-2 (V)
+	  - Code pénal - art. R511-1 (M)
+
+
+### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+
+#### Chapitre Ier : Dispositions générales.
+
+###### Article R721-1
+
+Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
+Conseil d'Etat) sont applicables dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+
+###### Article R721-2
+
+Pour l'application du présent code dans la collectivité territoriale de Mayotte, les termes énumérés ci-après sont remplacés
+comme suit :
+
+- " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
+
+- " département " par " collectivité territoriale " ;
+
+- " préfet " et " sous-préfet " par " représentant du Gouvernement " ;
+
+- " Banque de France " par " Institut d'émission d'outre-mer ".
+
+De même, les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+
+#### Chapitre II : Adaptation du livre Ier.
+
+###### Article R722-1
+
+Le deuxième alinéa de l'article R. 131-2 est rédigé comme suit :
+
+" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
+la route applicable localement, justification du droit de conduire, lorsque sont respectées les conditions fixées par la
+juridiction. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-2 (M)
+
+
+###### Article R722-2
+
+L'avant-dernier alinéa de l'article R. 131-4 est rédigé comme suit :
+
+" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
+la route applicable localement, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour
+lesquelles la juridiction a prononcé l'interdiction de conduire. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-4 (M)
+
+
+###### Article R722-3
+
+La deuxième phrase du premier alinéa de l'article R. 131-13 est rédigé comme suit :
+
+" Il consulte, lorsqu'ils existent, les organismes ou services locaux de prévention de la délinquance, qui ont trois mois
+pour donner leur avis. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-13 (M)
+
+
+###### Article R722-4
+
+La deuxième phrase de l'article R. 131-18 est rédigée comme suit :
+
+" Il adresse copie de la demande aux organismes ou services locaux de prévention de la délinquance, lorsqu'ils existent ;
+ceux-ci ont trois mois pour donner leur avis. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-18 (M)
+
+
+###### Article R722-5
+
+L'article R. 131-25 est rédigé comme suit :
+
+" Art. R. 131-25. - Lorsqu'un condamné exerce une activité salariée, la durée hebdomadaire cumulée de cette activité ne peut
+excéder de plus de douze heures la durée légale de travail en vigueur localement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-25 (V)
+
+
+###### Article R722-6
+
+Le 3° de l'article R. 131-28 est rédigé comme suit :
+
+" 3° De s'assurer, si le travail auquel le juge de l'application des peines entend l'affecter doit s'exercer dans un
+établissement ou organisme public ou privé de prévention ou de soins et l'expose à des risques de contamination, qu'il est
+immunisé contre l'hépatite B, la diphtérie, le tétanos, la poliomyélite et la fièvre typhoïde, et ainsi que contre les
+maladies prévues par la réglementation applicable localement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-28 (V)
+
+
+###### Article R722-7
+
+Le deuxième alinéa de l'article R. 131-36 est rédigé comme suit :
+
+" Lorsque le personnel de cette personne morale est régi par les dispositions applicables localement relatives à la
+représentation des salariés, l'avis mentionné au premier alinéa est adressé au secrétaire du comité d'entreprise ou, le cas
+échéant, au secrétaire du comité central d'entreprise et, en l'absence de tels comités, aux délégués du personnel titulaires.
+"
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Cite**:
+
+	  - Code pénal - art. R131-36 (T)
 
 
