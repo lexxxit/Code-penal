@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1994-07-02
+Version Consolidée au 1994-07-30
 
 # Partie législative
 
@@ -14377,25 +14377,13 @@ laquelle l'infraction a été commise.
 	  - Code pénal 121-2, 226-16 à 226-21, 226-23, 226-22, 131-38, 131-39
 
 
-##### Section 6 : Peines complémentaires applicables aux personnes physiques.
+##### Section 6 : Des atteintes à la personne résultant de l'étude génétique de ses caractéristiques ou de l'identification par ses empreintes génétiques.
 
 ###### Article 226-25
 
-Les personnes physiques coupables de l'une des infractions prévues par le présent chapitre encourent également les peines
-complémentaires suivantes :
-
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
-
-2° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-27 ;
-
-3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
-
-4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
-
-5° Dans le cas prévu par les articles 226-1 à 226-3, 226-8 et 226-15, la confiscation de la chose qui a servi ou était
-destinée à commettre l'infraction ou de la chose qui en est le produit. La confiscation des appareils visés à l'article 226-3
-est obligatoire.
+Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir préalablement
+recueilli son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un an
+d'emprisonnement et de 100 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14412,7 +14400,7 @@ est obligatoire.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 361 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
 
 	**Cité par**:
 
@@ -14432,12 +14420,287 @@ est obligatoire.
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L145-15 (M)
+
+
+###### Article 226-26
+
+Le fait de détourner de leurs finalités médicales ou de recherche scientifique les informations recueillies sur une personne
+au moyen de l'étude de ses caractéristiques génétiques est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-18 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-2 (V)
+	  - Code de la santé publique - art. L1132-2 (T)
+	  - Code de la santé publique - art. L1132-5 (T)
+	  - Code de la santé publique - art. L1133-2 (V)
+	  - Code de la santé publique - art. L145-18 (Ab)
+	  - Code de la santé publique - art. L145-21 (Ab)
+	  - Code pénal - art. 226-29 (M)
+
+
+###### Article 226-27
+
+Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales sans recueillir
+préalablement son consentement dans les conditions prévues par l'article L. 145-15 du code de la santé publique est puni d'un
+an d'emprisonnement et de 100 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-3 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-19 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-2 (V)
+	  - Code de la santé publique - art. L1132-3 (T)
+	  - Code de la santé publique - art. L1132-5 (T)
+	  - Code de la santé publique - art. L145-19 (Ab)
+	  - Code de la santé publique - art. L145-21 (Ab)
+	  - Code de la santé publique - art. L1517-4 (MMN)
+	  - Code de la santé publique - art. L1525-4 (V)
+	  - Code de la santé publique - art. L1533-4 (T)
+	  - Code de la santé publique - art. L1534-4 (Ab)
+	  - Code de la santé publique - art. L1543-4 (V)
+	  - Code pénal - art. 226-29 (M)
+	  - Code pénal - art. 713-5 (Ab)
+	  - Code pénal - art. 723-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-15 (M)
+
+
+###### Article 226-28
+
+Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne seraient ni médicales
+ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure judiciaire est puni
+d'un an d'emprisonnement et de 100 000 F d'amende.
+
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
+l'agrément prévu à l'article L. 145-16 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-2 (V)
+	  - Code de la santé publique - art. L1132-4 (T)
+	  - Code de la santé publique - art. L1132-5 (T)
+	  - Code de la santé publique - art. L1133-4 (M)
+	  - Code de la santé publique - art. L145-20 (Ab)
+	  - Code de la santé publique - art. L145-21 (Ab)
+	  - Code de la santé publique - art. L1517-5 (V)
+	  - Code de la santé publique - art. L1525-5 (V)
+	  - Code de la santé publique - art. L1533-5 (T)
+	  - Code de la santé publique - art. L1534-5 (Ab)
+	  - Code pénal - art. 226-29 (M)
+	  - Code pénal - art. 226-31 (V)
+	  - Code pénal - art. 226-32 (V)
+	  - Code pénal - art. 713-6 (Ab)
+	  - Code pénal - art. 723-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-16 (M)
+
+
+###### Article 226-29
+
+La tentative des infractions prévues aux articles 226-25, 226-26, 226-27 et 226-28 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-2 (V)
+	  - Code de la santé publique - art. L1132-5 (T)
+	  - Code de la santé publique - art. L145-21 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-25 (M)
+	  - Code pénal - art. 226-26 (M)
+	  - Code pénal - art. 226-27 (M)
+	  - Code pénal - art. 226-28 (M)
+
+
+###### Article 226-30
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 7°, 8° et 9° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-2 (V)
+	  - Code de la santé publique - art. L1132-6 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+##### Section 7 : Peines complémentaires applicables aux personnes physiques
+
+###### Article 226-31
+
+Les personnes physiques coupables de l'une des infractions prévues par le présent chapitre encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+
+2° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise, suivant les modalités prévues par l'article 131-27 ; 
+
+3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ; 
+
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
+
+5° Dans le cas prévu par les articles 226-1 à 226-3, 226-8, 226-15 et 226-28, la confiscation de la chose qui a servi ou
+était destinée à commettre l'infraction ou de la chose qui en est le produit. La confiscation des appareils visés à l'article
+226-3 est obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2004-926 du 1 septembre 2004 - art. 6 (Ab)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 42 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 35 (V)
+	  - Code de l'action sociale et des familles - art. R121-7 (V)
+	  - Code de la sécurité intérieure - art. L881-1 (V)
+	  - Code du patrimoine. - art. L214-1 (V)
+
+	**Cite**:
+
 	  - Code pénal - art. 131-26 (V)
 	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (M)
-	  - Code pénal - art. 226-15 (M)
-	  - Code pénal - art. 226-8 (M)
-	  - Code pénal 131-26, 131-27, 131-35, 226-1 à 226-3, 226-8, 226-15
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 226-1 (V)
+	  - Code pénal - art. 226-15 (V)
+	  - Code pénal - art. 226-28 (V)
+	  - Code pénal - art. 226-8 (V)
+
+
+###### Article 226-32
+
+Les personnes physiques coupables des infractions prévues à l'article 226-28 et de la tentative de ces infractions ayant la
+qualité d'expert judiciaire encourent également la radiation de la liste sur laquelle elles sont inscrites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 42 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-28 (V)
 
 
 #### Chapitre VII : Des atteintes aux mineurs et à la famille
@@ -14739,20 +15002,26 @@ d'entre eux à abandonner un enfant né ou à naître est puni de six mois d'emp
 Le fait, dans un but lucratif, de s'entremettre entre une personne désireuse d'adopter un enfant et un parent désireux
 d'abandonner son enfant né ou à naître est puni d'un an d'emprisonnement et de 100 000 F d'amende.
 
+Est puni des peines prévues au deuxième alinéa le fait de s'entremettre entre une personne ou un couple désireux d'accueillir
+un enfant et une femme acceptant de porter en elle cet enfant en vue de le leur remettre. Lorsque ces faits ont été commis à
+titre habituel ou dans un but lucratif, les peines sont portées au double.
+
+La tentative des infractions prévues par les deuxième et troisième alinéas du présent article est punie des mêmes peines.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
-
-	  - Loi n°92-684 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 4 () JORF 30 juillet 1994
 
 
 ###### Article 227-13
@@ -24719,28 +24988,14 @@ et les délits que le groupement ou l'entente avait pour objet de préparer.
 
 ### Titre Ier : Des infractions en matière de santé publique
 
-#### Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux.
+#### Chapitre Ier : Des infractions en matière d'éthique biomédicale
+
+##### Section 1 : De la protection de l'espèce humaine
 
 ###### Article 511-1
 
-Le fait, sans nécessité, publiquement ou non, d'exercer des sévices graves ou de commettre un acte de cruauté envers un
-animal domestique, ou apprivoisé, ou tenu en captivité, est puni de six mois d'emprisonnement et de 50 000 F d'amende [* taux
-*].
-
-En cas d'urgence ou de péril, le juge d'instruction peut décider de confier l'animal, jusqu'au jugement, à une oeuvre de
-protection animale déclarée.
-
-En cas de condamnation du propriétaire de l'animal ou si le propriétaire est inconnu, le tribunal peut décider de remettre
-l'animal à une oeuvre de protection animale reconnue d'utilité publique ou déclarée, laquelle pourra librement en disposer.
-
-Les dispositions du présent article ne sont pas applicables aux courses de taureaux lorsqu'une tradition locale ininterrompue
-peut être invoquée. Elles ne sont pas non plus applicables aux combats de coqs dans les localités où une tradition
-ininterrompue peut être établie.
-
-Est punie des peines prévues au premier alinéa toute création d'un nouveau gallodrome.
-
-Est également puni des mêmes peines l'abandon d'un animal domestique, apprivoisé ou tenu en captivité, à l'exception des
-animaux destinés au repeuplement.
+Le fait de mettre en oeuvre une pratique eugénique tendant à l'organisation de la sélection des personnes est puni de vingt
+ans de réclusion criminelle.
 
 **Liens relatifs à cet article**
 
@@ -24753,9 +25008,9 @@ animaux destinés au repeuplement.
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 213 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
 
 	**Cité par**:
 
@@ -24764,10 +25019,18 @@ animaux destinés au repeuplement.
 	  - Code pénal - art. R654-1 (V)
 
 
+##### Section 2 : De la protection du corps humain
+
 ###### Article 511-2
 
-Le fait de pratiquer des expériences ou recherches scientifiques ou expérimentales sur les animaux sans se conformer aux
-prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues à l'article 511-1.
+Le fait d'obtenir d'une personne l'un de ses organes contre un paiement, quelle qu'en soit la forme, est puni de sept ans
+d'emprisonnement et de 700 000 F d'amende.
+
+Est puni des mêmes peines, le fait d'apporter son entremise pour favoriser l'obtention d'un organe contre le paiement de
+celui-ci, ou de céder à titre onéreux un tel organe du corps d'autrui.
+
+Les mêmes peines sont applicables dans le cas où l'organe obtenu dans les conditions prévues au premier alinéa provient d'un
+pays étranger.
 
 **Liens relatifs à cet article**
 
@@ -24817,9 +25080,9 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 
 	  - Loi n°92-1336 1992-12-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 214 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
 
 	**Cité par**:
 
@@ -24833,6 +25096,1074 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 	**Cite**:
 
 	  - Code pénal - art. 511-1 (M)
+
+
+###### Article 511-3
+
+Le fait de prélever un organe sur une personne vivante majeure sans que le consentement de celle-ci ait été recueilli dans
+les conditions prévues par l'article L. 671-3 du code de la santé publique est puni de sept ans d'emprisonnement et de 700
+000 F d'amende.
+
+Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant
+l'objet d'une mesure de protection légale sans avoir respecté les conditions prévues aux articles L. 671-4 et L. 671-5 du
+code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-2 (M)
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L1517-7 (MMN)
+	  - Code de la santé publique - art. L1525-8 (Ab)
+	  - Code de la santé publique - art. L1533-8 (T)
+	  - Code de la santé publique - art. L1534-8 (Ab)
+	  - Code de la santé publique - art. L1543-8 (Ab)
+	  - Code de la santé publique - art. L674-3 (Ab)
+	  - Code de la santé publique - art. L675-18 (Ab)
+	  - Code pénal - art. 511-26 (V)
+	  - Code pénal - art. 716-1 (Ab)
+	  - Code pénal - art. 716-1-1 (Ab)
+	  - Code pénal - art. 726-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-3 (T)
+	  - Code de la santé publique - art. L671-4 (T)
+	  - Code de la santé publique - art. L671-5 (T)
+
+
+###### Article 511-4
+
+Le fait d'obtenir d'une personne le prélèvement de tissus, de cellules ou de produits de son corps contre un paiement, quelle
+qu'en soit la forme, est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de tissus, de cellules ou de produits
+humains contre un paiement, quelle qu'en soit la forme, ou de céder à titre onéreux des tissus, des cellules ou des produits
+du corps d'autrui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-3 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-4 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-3 (M)
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L674-4 (Ab)
+	  - Code de la santé publique - art. L675-18 (Ab)
+	  - Code pénal - art. 511-26 (V)
+
+
+###### Article 511-5
+
+Le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante majeure sans qu'elle ait
+exprimé son consentement est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+
+Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
+mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale sans avoir respecté les
+conditions prévues par l'article L. 672-5 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-4 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-5 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-4 (M)
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L1517-8 (M)
+	  - Code de la santé publique - art. L1525-9 (Ab)
+	  - Code de la santé publique - art. L1533-9 (T)
+	  - Code de la santé publique - art. L1534-9 (Ab)
+	  - Code de la santé publique - art. L1543-9 (Ab)
+	  - Code de la santé publique - art. L674-5 (Ab)
+	  - Code de la santé publique - art. L675-18 (Ab)
+	  - Code pénal - art. 511-26 (V)
+	  - Code pénal - art. 716-2 (Ab)
+	  - Code pénal - art. 726-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L672-5 (Ab)
+
+
+###### Article 511-6
+
+Le fait de recueillir ou de prélever des gamètes sur une personne vivante sans son consentement écrit est puni de cinq ans
+d'emprisonnement et de 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-1 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-9 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1273-1 (M)
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L675-18 (Ab)
+	  - Code de la santé publique - art. L675-9 (Ab)
+	  - Code pénal - art. 511-26 (V)
+
+
+###### Article 511-7
+
+Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des greffes de
+tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules dans un établissement n'ayant pas
+obtenu l'autorisation prévue par les articles L. 671-12, L. 671-16, L. 672-7, L. 672-10 et L. 672-13 du code de la santé
+publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-5 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L1272-5 (M)
+	  - Code de la santé publique - art. L1517-9 (V)
+	  - Code de la santé publique - art. L1525-10 (Ab)
+	  - Code de la santé publique - art. L1533-10 (T)
+	  - Code de la santé publique - art. L1534-10 (Ab)
+	  - Code de la santé publique - art. L1543-10 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code pénal - art. 716-3 (Ab)
+	  - Code pénal - art. 726-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-12 (Ab)
+	  - Code de la santé publique - art. L671-16 (Ab)
+	  - Code de la santé publique - art. L672-10 (M)
+	  - Code de la santé publique - art. L672-13 (M)
+	  - Code de la santé publique - art. L672-7 (Ab)
+
+
+###### Article 511-8
+
+Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains en vue d'un don
+sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
+du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-6 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L1272-6 (M)
+	  - Code de la santé publique - art. L1517-10 (V)
+	  - Code de la santé publique - art. L1525-11 (Ab)
+	  - Code de la santé publique - art. L1533-11 (T)
+	  - Code de la santé publique - art. L1534-11 (Ab)
+	  - Code de la santé publique - art. L1543-11 (Ab)
+	  - Code de la santé publique - art. L673-10 (Ab)
+	  - Code de la santé publique - art. L673-11 (Ab)
+	  - Code de la santé publique - art. L674-7 (Ab)
+	  - Code de la santé publique - art. L674-8 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code pénal - art. 716-4 (Ab)
+	  - Code pénal - art. 726-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665-15 (Ab)
+
+
+###### Article 511-9
+
+Le fait d'obtenir des gamètes contre un paiement, quelle qu'en soit la forme, à l'exception du paiement des prestations
+assurées par les établissements effectuant la préparation et la conservation de ces gamètes, est puni de cinq ans
+d'emprisonnement et de 500 000 F d'amende.
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de gamètes contre un paiement, quelle
+qu'en soit la forme, ou de remettre à des tiers, à titre onéreux des gamètes provenant de dons.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-10 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L1273-2 (M)
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L675-10 (Ab)
+	  - Code de la santé publique - art. L675-18 (Ab)
+	  - Code pénal - art. 511-26 (V)
+
+
+###### Article 511-10
+
+Le fait de divulguer une information permettant à la fois d'identifier une personne ou un couple qui a fait don de gamètes et
+le couple qui les a reçus est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-3 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L1273-3 (M)
+	  - Code de la santé publique - art. L675-11 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+
+###### Article 511-11
+
+Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à la procréation
+sans procéder aux tests de dépistage des maladies transmissibles exigés en application de l'article L. 665-15 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-4 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L1273-4 (M)
+	  - Code de la santé publique - art. L1517-11 (V)
+	  - Code de la santé publique - art. L1525-12 (Ab)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1534-12 (Ab)
+	  - Code de la santé publique - art. L1543-12 (Ab)
+	  - Code de la santé publique - art. L675-12 (Ab)
+	  - Code pénal - art. 716-5 (Ab)
+	  - Code pénal - art. 726-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665-15 (Ab)
+
+
+###### Article 511-12
+
+Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons en violation de
+l'article L. 673-3 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-5 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L1273-5 (M)
+	  - Code de la santé publique - art. L1517-12 (V)
+	  - Code de la santé publique - art. L1525-13 (Ab)
+	  - Code de la santé publique - art. L1533-13 (T)
+	  - Code de la santé publique - art. L1534-13 (Ab)
+	  - Code de la santé publique - art. L1543-13 (Ab)
+	  - Code de la santé publique - art. L675-13 (Ab)
+	  - Code pénal - art. 716-6 (Ab)
+	  - Code pénal - art. 726-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-3 (Ab)
+
+
+###### Article 511-13
+
+Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une personne ayant
+volontairement accepté de procéder à un tel don en faveur d'un couple tiers en violation de l'article L. 673-7 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1273-6 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L1273-6 (M)
+	  - Code de la santé publique - art. L1517-13 (V)
+	  - Code de la santé publique - art. L1525-14 (Ab)
+	  - Code de la santé publique - art. L1533-14 (T)
+	  - Code de la santé publique - art. L1534-14 (Ab)
+	  - Code de la santé publique - art. L675-14 (Ab)
+	  - Code pénal - art. 716-7 (Ab)
+	  - Code pénal - art. 726-7 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-7 (Ab)
+
+
+###### Article 511-14
+
+Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes provenant de dons
+sans avoir recueilli l'autorisation prévue à l'article L. 673-5 du code de la santé publique est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L1273-7 (Ab)
+	  - Code de la santé publique - art. L1517-14 (MMN)
+	  - Code de la santé publique - art. L1525-15 (Ab)
+	  - Code de la santé publique - art. L1533-15 (T)
+	  - Code de la santé publique - art. L1534-15 (Ab)
+	  - Code de la santé publique - art. L1543-15 (Ab)
+	  - Code de la santé publique - art. L675-16 (Ab)
+	  - Code pénal - art. 716-8 (Ab)
+	  - Code pénal - art. 726-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-5 (Ab)
+
+
+##### Section 3 : De la protection de l'embryon humain
+
+###### Article 511-15
+
+Le fait d'obtenir des embryons humains contre un paiement, quelle qu'en soit la forme, est puni de sept ans d'emprisonnement
+et de 700 000 F d'amende.
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention d'embryons humains contre un paiement,
+quelle qu'en soit la forme, ou de remettre à des tiers, à titre onéreux, des embryons humains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-12 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-1 (T)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L152-12 (Ab)
+	  - Code de la santé publique - art. L152-19 (Ab)
+	  - Code de la santé publique - art. L2152-1 (M)
+	  - Code pénal - art. 511-26 (V)
+
+
+###### Article 511-16
+
+Le fait d'obtenir des embryons humains sans respecter les conditions prévues aux articles L. 152-4 et L. 152-5 du code de la
+santé publique est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-2 (T)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-2 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L152-11 (Ab)
+	  - Code de la santé publique - art. L2152-2 (M)
+	  - Code de la santé publique - art. L2414-2 (VT)
+	  - Code de la santé publique - art. L2414-3 (T)
+	  - Code de la santé publique - art. L2422-3 (Ab)
+	  - Code de la santé publique - art. L2431-2 (Ab)
+	  - Code de la santé publique - art. L2441-3 (V)
+	  - Code pénal - art. 511-26 (V)
+	  - Code pénal - art. 716-9 (Ab)
+	  - Code pénal - art. 726-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-4 (Ab)
+	  - Code de la santé publique - art. L152-5 (Ab)
+
+
+###### Article 511-17
+
+Le fait de procéder à la conception in vitro d'embryons humains à des fins industrielles ou commerciales est puni de sept ans
+d'emprisonnement et de 700 000 F d'amende.
+
+Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins industrielles ou commerciales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-15 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2152-3 (T)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-15 (Ab)
+	  - Code de la santé publique - art. L2152-3 (M)
+	  - Code de la santé publique - art. L2162-3 (MMN)
+
+
+###### Article 511-18
+
+Le fait de procéder à la conception in vitro d'embryons humains à des fins de recherche ou d'expérimentation est puni de sept
+ans d'emprisonnement et de 700 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-18 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-18 (Ab)
+	  - Code de la santé publique - art. L2152-4 (T)
+	  - Code de la santé publique - art. L2162-4 (MMN)
+
+
+###### Article 511-19
+
+Le fait de procéder à une étude ou une expérimentation sur l'embryon en violation des dispositions de l'article L. 152-8 du
+code de la santé publique est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-17 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2163-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
+	  - Code de la santé publique - art. L152-17 (Ab)
+	  - Code de la santé publique - art. L2152-5 (T)
+	  - Code de la santé publique - art. L2162-5 (MMN)
+	  - Code de la santé publique - art. L2414-3 (VT)
+	  - Code de la santé publique - art. L2414-4 (T)
+	  - Code de la santé publique - art. L2422-4 (Ab)
+	  - Code de la santé publique - art. L2431-3 (Ab)
+	  - Code de la santé publique - art. L2441-4 (Ab)
+	  - Code pénal - art. 511-26 (V)
+	  - Code pénal - art. 716-10 (Ab)
+	  - Code pénal - art. 726-10 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-8 (Ab)
+
+
+###### Article 511-20
+
+Le fait de procéder au diagnostic prénatal sans avoir reçu l'autorisation mentionnée à l'article L. 162-16 du code de la
+santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-1 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L162-18 (Ab)
+	  - Code de la santé publique - art. L2151-1 (T)
+	  - Code de la santé publique - art. L2414-4 (VT)
+	  - Code de la santé publique - art. L2414-5 (VT)
+	  - Code de la santé publique - art. L2414-6 (T)
+	  - Code de la santé publique - art. L2422-5 (Ab)
+	  - Code de la santé publique - art. L2422-6 (Ab)
+	  - Code de la santé publique - art. L2431-4 (Ab)
+	  - Code de la santé publique - art. L2431-5 (Ab)
+	  - Code de la santé publique - art. L2441-5 (Ab)
+	  - Code de la santé publique - art. L2441-6 (Ab)
+	  - Code pénal - art. 716-11 (Ab)
+	  - Code pénal - art. 716-12 (Ab)
+	  - Code pénal - art. 726-11 (V)
+	  - Code pénal - art. 726-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-16 (Ab)
+
+
+###### Article 511-21
+
+Le fait de méconnaître les dispositions de l'article L. 162-17 du code de la santé publique relatif au diagnostic
+préimplantatoire est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2161-2 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L162-20 (Ab)
+	  - Code de la santé publique - art. L2151-2 (T)
+	  - Code de la santé publique - art. L2414-5 (VT)
+	  - Code de la santé publique - art. L2414-6 (T)
+	  - Code de la santé publique - art. L2422-6 (Ab)
+	  - Code de la santé publique - art. L2431-5 (Ab)
+	  - Code de la santé publique - art. L2441-6 (Ab)
+	  - Code pénal - art. 716-12 (Ab)
+	  - Code pénal - art. 726-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-17 (Ab)
+
+
+###### Article 511-22
+
+Le fait de procéder à des activités d'assistance médicale à la procréation sans avoir recueilli l'autorisation prévue à
+l'article L. 184-1 du code de la santé publique est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-3 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L184-7 (Ab)
+	  - Code de la santé publique - art. L2152-6 (T)
+	  - Code de la santé publique - art. L2162-6 (T)
+	  - Code de la santé publique - art. L2414-6 (VT)
+	  - Code de la santé publique - art. L2414-7 (T)
+	  - Code de la santé publique - art. L2422-7 (Ab)
+	  - Code de la santé publique - art. L2431-6 (Ab)
+	  - Code de la santé publique - art. L2441-7 (Ab)
+	  - Code pénal - art. 716-13 (Ab)
+	  - Code pénal - art. 726-13 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-1 (Ab)
+
+
+###### Article 511-23
+
+Le fait de divulguer une information nominative permettant d'identifier à la fois le couple qui a renoncé à un embryon et le
+couple qui l'a accueilli est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-4 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L152-13 (Ab)
+	  - Code de la santé publique - art. L2152-7 (T)
+	  - Code de la santé publique - art. L2162-7 (MMN)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+
+###### Article 511-24
+
+Le fait de procéder à des activités d'assistance médicale à la procréation à des fins autres que celles définies à l'article
+L. 152-2 du code de la santé publique est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-5 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L152-14 (Ab)
+	  - Code de la santé publique - art. L2152-8 (T)
+	  - Code de la santé publique - art. L2414-2 (VT)
+	  - Code de la santé publique - art. L2414-3 (T)
+	  - Code de la santé publique - art. L2414-7 (VT)
+	  - Code de la santé publique - art. L2414-8 (T)
+	  - Code de la santé publique - art. L2422-3 (Ab)
+	  - Code de la santé publique - art. L2422-8 (Ab)
+	  - Code de la santé publique - art. L2431-2 (Ab)
+	  - Code de la santé publique - art. L2431-7 (Ab)
+	  - Code de la santé publique - art. L2441-3 (V)
+	  - Code de la santé publique - art. L2441-8 (Ab)
+	  - Code pénal - art. 716-14 (Ab)
+	  - Code pénal - art. 716-9 (Ab)
+	  - Code pénal - art. 726-14 (V)
+	  - Code pénal - art. 726-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-2 (Ab)
+
+
+###### Article 511-25
+
+Le fait de procéder au transfert d'un embryon dans les conditions fixées à l'article L. 152-5 du code de la santé publique
+sans avoir pris connaissance des résultats des tests de dépistage de maladies infectieuses exigés en application de l'article
+précité est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-6 (V)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L152-16 (Ab)
+	  - Code de la santé publique - art. L2152-9 (T)
+	  - Code de la santé publique - art. L2162-9 (T)
+	  - Code de la santé publique - art. L2414-8 (VT)
+	  - Code de la santé publique - art. L2414-9 (T)
+	  - Code de la santé publique - art. L2422-9 (Ab)
+	  - Code de la santé publique - art. L2431-8 (Ab)
+	  - Code de la santé publique - art. L2441-9 (Ab)
+	  - Code pénal - art. 716-15 (Ab)
+	  - Code pénal - art. 726-15 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-5 (Ab)
+
+
+##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
+
+###### Article 511-26
+
+La tentative des délits prévus par les articles 511-2, 511-3, 511-4, 511-5, 511-6, 511-9 et 511-15 est punie des mêmes
+peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1274-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L152-19 (Ab)
+	  - Code de la santé publique - art. L2152-10 (T)
+	  - Code de la santé publique - art. L675-18 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-15 (M)
+	  - Code pénal - art. 511-2 (M)
+	  - Code pénal - art. 511-3 (M)
+	  - Code pénal - art. 511-4 (M)
+	  - Code pénal - art. 511-5 (M)
+	  - Code pénal - art. 511-6 (M)
+	  - Code pénal - art. 511-9 (M)
+
+
+###### Article 511-27
+
+Les personnes physiques coupables des infractions prévues au présent chapitre encourent également la peine complémentaire
+d'interdiction pour une durée de dix ans au plus, d'exercer l'activité professionnelle ou sociale dans l'exercice de laquelle
+ou à l'occasion de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+
+###### Article 511-28
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies au présent chapitre. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant la modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1274-2 (V)
+	  - Code de la santé publique - art. L162-22 (Ab)
+	  - Code de la santé publique - art. L2153-2 (T)
+	  - Code de la santé publique - art. L2163-2 (MMN)
+	  - Code de la santé publique - art. L2164-2 (V)
+	  - Code de la santé publique - art. L675-17 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+### Titre II : Autres dispositions
+
+#### Chapitre unique : Des sévices graves ou actes de cruauté envers les animaux
+
+###### Article 521-1
+
+Le fait, sans nécessité, publiquement ou non, d'exercer des sévices graves ou de commettre un acte de cruauté envers un
+animal domestique, ou apprivoisé, ou tenu en captivité, est puni de six mois d'emprisonnement et de 50 000 F d'amende [* taux
+*].
+
+En cas d'urgence ou de péril, le juge d'instruction peut décider de confier l'animal, jusqu'au jugement, à une oeuvre de
+protection animale déclarée.
+
+En cas de condamnation du propriétaire de l'animal ou si le propriétaire est inconnu, le tribunal peut décider de remettre
+l'animal à une oeuvre de protection animale reconnue d'utilité publique ou déclarée, laquelle pourra librement en disposer.
+
+Les dispositions du présent article ne sont pas applicables aux courses de taureaux lorsqu'une tradition locale ininterrompue
+peut être invoquée. Elles ne sont pas non plus applicables aux combats de coqs dans les localités où une tradition
+ininterrompue peut être établie.
+
+Est punie des peines prévues au premier alinéa toute création d'un nouveau gallodrome.
+
+Est également puni des mêmes peines l'abandon d'un animal domestique, apprivoisé ou tenu en captivité, à l'exception des
+animaux destinés au repeuplement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - Code de la recherche - art. L236-1 (V)
+	  - Code de procédure pénale - art. 398-1 (M)
+	  - Code de procédure pénale - art. 837 (VD)
+	  - Code des transports - art. R3113-26 (VD)
+	  - Code des transports - art. R3211-27 (VD)
+	  - Code pénal - art. 521-2 (V)
+	  - Code pénal - art. 716-16 (V)
+	  - Code rural - art. L205-10 (V)
+	  - Code rural - art. L215-6 (M)
+	  - Code rural - art. L915-6 (T)
+	  - Code rural - art. R214-85 (V)
+	  - Code rural - art. R215-9 (V)
+	  - Code rural et de la pêche maritime - art. L205-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code rural et  de la pêche maritime - art. L215-6 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+
+###### Article 521-2
+
+Le fait de pratiquer des expériences ou recherches scientifiques ou expérimentales sur les animaux sans se conformer aux
+prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues à l'article 521-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-1336 1992-12-16
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code rural et  de la pêche maritime - art. L215-7 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 9 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 521-1 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. 716-16 (V)
+	  - Code pénal - art. R716-1 (V)
+	  - Code rural - art. L915-7 (T)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
