@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-05-29
+Version Consolidée au 1996-07-06
 
 # Partie législative
 
@@ -14933,11 +14933,10 @@ d'emprisonnement et de 100 000 F d'amende.
 
 ###### Article 227-6
 
-Le fait, pour une personne qui transfère son domicile en un autre lieu après un divorce, une séparation de corps ou une
-annulation du mariage, alors que ses enfants résident habituellement chez elle, de ne pas notifier son changement de
-domicile, dans un délai d'un mois à compter de ce changement, à ceux qui peuvent exercer à l'égard des enfants un droit de
-visite ou d'hébergement en vertu d'un jugement ou d'une convention judiciairement homologuée, est puni de six mois
-d'emprisonnement et de 50 000 F d'amende.
+Le fait, pour une personne qui transfère son domicile en un autre lieu, alors que ses enfants résident habituellement chez
+elle, de ne pas notifier son changement de domicile, dans un délai d'un mois à compter de ce changement, à ceux qui peuvent
+exercer à l'égard des enfants un droit de visite ou d'hébergement en vertu d'un jugement ou d'une convention judiciairement
+homologuée, est puni de six mois d'emprisonnement et de 50 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14953,6 +14952,10 @@ d'emprisonnement et de 50 000 F d'amende.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°96-604 du 5 juillet 1996 - art. 27 () JORF 6 juillet 1996
 
 
 ###### Article 227-7
