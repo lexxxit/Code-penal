@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1998-07-19
+Version Consolidée au 1998-07-31
 
 # Partie législative
 
@@ -12821,7 +12821,10 @@ infractions définies aux articles 225-13 à 225-15. Les peines encourues par le
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 ;
 
-2° Les peines mentionnées à l'article 131-39.
+2° Les peines mentionnées à l'article 131-39 ;
+
+3° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à
+l'article 225-14.
 
 **Liens relatifs à cet article**
 
@@ -12834,6 +12837,10 @@ infractions définies aux articles 225-13 à 225-15. Les peines encourues par le
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L651-10 (V)
@@ -12843,7 +12850,8 @@ infractions définies aux articles 225-13 à 225-15. Les peines encourues par le
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
-	  - Code pénal 121-2, 225-13 à 225-15, 131-38, 131-39
+	  - Code pénal - art. 225-14 (M)
+	  - Code pénal 121-2, 225-13 à 225-15, 131-38, 131-39, 225-14
 
 
 ##### Section 3 bis : Du bizutage
@@ -13023,7 +13031,10 @@ peines complémentaires suivantes :
 3° La fermeture, pour une durée de cinq ans au plus ou à titre définitif, de l'un, de plusieurs ou de l'ensemble des
 établissements de l'entreprise appartenant à la personne condamnée ;
 
-4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus.
+4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
+
+5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à
+l'article 225-14.
 
 **Liens relatifs à cet article**
 
@@ -13035,6 +13046,10 @@ peines complémentaires suivantes :
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 124 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13048,6 +13063,7 @@ peines complémentaires suivantes :
 
 	  - Code pénal - art. 131-26 (V)
 	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 225-14 (M)
 
 
 ###### Article 225-20
