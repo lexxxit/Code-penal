@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-06-13
 
 # Partie législative
 
@@ -4788,6 +4788,441 @@ physiques par la loi qui réprime l'infraction.
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
+###### Article 131-39
+
+Lorsque la loi le prévoit à l'encontre d'une personne morale, un crime ou un délit peut être sanctionné d'une ou de plusieurs
+des peines suivantes :
+
+1° La dissolution, lorsque la personne morale a été créée ou, lorsqu'il s'agit d'un crime ou d'un délit puni en ce qui
+concerne les personnes physiques d'une peine d'emprisonnement supérieure ou égale à trois ans, détournée de son objet pour
+commettre les faits incriminés ;
+
+2° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, d'exercer directement ou indirectement une ou
+plusieurs activités professionnelles ou sociales ;
+
+3° Le placement, pour une durée de cinq ans au plus, sous surveillance judiciaire ;
+
+4° La fermeture définitive ou pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs des
+établissements de l'entreprise ayant servi à commettre les faits incriminés ;
+
+5° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
+
+6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de faire appel public à l'épargne ;
+
+7° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser des cartes de paiement ;
+
+8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+
+9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
+communication audiovisuelle.
+
+Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes morales de droit public dont la
+responsabilité pénale est susceptible d'être engagée. Elles ne sont pas non plus applicables aux partis ou groupements
+politiques ni aux syndicats professionnels. La peine définie au 1° n'est pas applicable aux institutions représentatives du
+personnel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 21 mai 1836 - art. 3 (VT)
+	  - Loi n°1943-11-02 du 2 novembre 1943 - art. 11 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 21 quater (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 21 ter (Ab)
+	  - Loi n°46-1173 du 23 mai 1946 - art. 5 (VT)
+	  - Loi n°61-842 du 2 août 1961 - art. 7-1 (Ab)
+	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 10-4 (Ab)
+	  - Loi n°70-9 du 2 janvier 1970 - art. 18 (V)
+	  - Loi n°71-569 du 15 juillet 1971 - art. 15 (V)
+	  - Loi n°73-548 du 27 juin 1973 - art. 8-2 (V)
+	  - Loi n°75-633 du 15 juillet 1975 - art. 24-1 (Ab)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 22-4 (Ab)
+	  - Loi n°83-583 du 5 juillet 1983 - art. 10 bis (Ab)
+	  - Loi n°83-628 du 12 juillet 1983 - art. 4 (VT)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 16 (VT)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 33 (VT)
+	  - Loi n°84-46 du 24 janvier 1984 - art. 84-1 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 202 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 17-1 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 31 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 32 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 33 (M)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52-2 (Ab)
+	  - Loi n°92-3 du 3 janvier 1992 - art. 28-1 (Ab)
+	  - Loi n°93-122 du 29 janvier 1993 - art. 25 (V)
+	  - Loi n°95-66 du 20 janvier 1995 - art. 2 ter (VT)
+	  - Loi n°95-101 du 2 février 1995 - art. 81 (Ab)
+	  - Loi n°95-884 du 3 août 1995 - art. 18 (V)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 82 (Ab)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 83 (Ab)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 88 (Ab)
+	  - Loi n°96-603 du 5 juillet 1996 - art. 24 (VD)
+	  - Loi n°96-603 du 5 juillet 1996 - art. 31 (Ab)
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 40 (Ab)
+	  - Loi n°98-467 du 17 juin 1998 - art. 79 (Ab)
+	  - Loi n°98-468 du 17 juin 1998 - art. 34 (V)
+	  - Loi n°98-468 du 17 juin 1998 - art. 39 (Ab)
+	  - Loi n°98-564 du 8 juillet 1998 - art. 6 (Ab)
+	  - Loi n°99-223 du 23 mars 1999 - art. 27 (Ab)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 29 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 29-1 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 29 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 29-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 31 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 31-1 (V)
+	  - Loi n°2000-494 du 6 juin 2000 - art. 15 (VT)
+	  - Loi n°2000-646 du 10 juillet 2000 - art. 3 (VT)
+	  - Loi n°2000-642 du 10 juillet 2000 - art. 15 (Ab)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 24 (VT)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 31 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 31-1 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 16 (V)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (M)
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 35 (V)
+	  - Loi n°2005-102 du 11 février 2005 - art. 48 (Ab)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 17 (V)
+	  - Loi n°2006-686 du 13 juin 2006 - art. 51 (Ab)
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 4 (V)
+	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 9 (VT)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 5 (VT)
+	  - Décret n°2010-406 du 26 avril 2010 - art. 9 (VT)
+	  - Loi n°2010-476 du 12 mai 2010 - art. 56 (V)
+	  - Loi n°2011-334 du 29 mars 2011 - art. 14 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 21 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 1
+	  - Code de commerce - art. L225-102-3 (V)
+	  - Code de commerce - art. L441-5 (V)
+	  - Code de commerce - art. L442-3 (V)
+	  - Code de commerce - art. L443-3 (V)
+	  - Code de commerce. - art. L310-6 (V)
+	  - Code de commerce. - art. L321-15 (V)
+	  - Code de commerce. - art. L626-7 (M)
+	  - Code de commerce. - art. L654-7 (VD)
+	  - Code de justice militaire - art. 476-13 (Ab)
+	  - Code de justice militaire. - art. L333-4 (V)
+	  - Code de l'action sociale et des familles - art. L473-4 (V)
+	  - Code de l'aviation civile - art. L741-3 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L622-8 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L623-3 (V)
+	  - Code de l'environnement - art. L163-7 (VT)
+	  - Code de l'environnement - art. L173-8 (VD)
+	  - Code de l'environnement - art. L216-12 (VT)
+	  - Code de l'environnement - art. L218-24 (V)
+	  - Code de l'environnement - art. L218-25 (V)
+	  - Code de l'environnement - art. L218-57 (V)
+	  - Code de l'environnement - art. L218-70 (V)
+	  - Code de l'environnement - art. L218-80 (V)
+	  - Code de l'environnement - art. L226-10 (VT)
+	  - Code de l'environnement - art. L331-27 (V)
+	  - Code de l'environnement - art. L332-25-1 (VT)
+	  - Code de l'environnement - art. L428-7-1 (VT)
+	  - Code de l'environnement - art. L437-23 (VT)
+	  - Code de l'environnement - art. L514-18 (VT)
+	  - Code de l'environnement - art. L521-21 (V)
+	  - Code de l'environnement - art. L522-16 (VT)
+	  - Code de l'environnement - art. L541-47 (VT)
+	  - Code de l'environnement - art. L596-30 (Ab)
+	  - Code de l'urbanisme - art. L480-4-1 (T)
+	  - Code de l'urbanisme - art. L480-4-2 (VD)
+	  - Code de l'éducation - art. L131-11 (M)
+	  - Code de l'énergie - art. L433-25 (Ab)
+	  - Code de l'énergie - art. L443-11 (VD)
+	  - Code de la consommation - art. L115-16 (VT)
+	  - Code de la consommation - art. L115-20 (VT)
+	  - Code de la consommation - art. L115-22 (VT)
+	  - Code de la consommation - art. L115-24 (VT)
+	  - Code de la consommation - art. L115-26 (VT)
+	  - Code de la consommation - art. L115-30 (VT)
+	  - Code de la consommation - art. L116-1 (VT)
+	  - Code de la consommation - art. L121-104 (VT)
+	  - Code de la consommation - art. L121-23 (VT)
+	  - Code de la consommation - art. L121-6 (VT)
+	  - Code de la consommation - art. L121-72 (VT)
+	  - Code de la consommation - art. L121-79-4 (VT)
+	  - Code de la consommation - art. L122-14 (VT)
+	  - Code de la consommation - art. L122-7 (VT)
+	  - Code de la consommation - art. L122-8 (VT)
+	  - Code de la consommation - art. L213-6 (VT)
+	  - Code de la consommation - art. L217-12 (VT)
+	  - Code de la consommation - art. L341-33 (VD)
+	  - Code de la consommation - art. L451-15 (VD)
+	  - Code de la consommation - art. L451-6 (VD)
+	  - Code de la consommation - art. L452-2 (VD)
+	  - Code de la consommation - art. L452-6 (VD)
+	  - Code de la consommation - art. L453-9 (VD)
+	  - Code de la consommation - art. L454-5 (VD)
+	  - Code de la consommation - art. L531-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-6-1 (V)
+	  - Code de la construction et de l'habitation. - art. L123-3 (V)
+	  - Code de la construction et de l'habitation. - art. L152-12 (V)
+	  - Code de la construction et de l'habitation. - art. L511-6 (V)
+	  - Code de la construction et de l'habitation. - art. L521-4 (V)
+	  - Code de la défense. - art. L1333-13-18 (V)
+	  - Code de la défense. - art. L1333-13-8 (V)
+	  - Code de la défense. - art. L2339-11-4 (V)
+	  - Code de la défense. - art. L2339-18 (V)
+	  - Code de la défense. - art. L2339-2 (VD)
+	  - Code de la défense. - art. L2339-3 (VD)
+	  - Code de la défense. - art. L2341-5-2 (V)
+	  - Code de la défense. - art. L2342-78 (V)
+	  - Code de la défense. - art. L2343-11 (V)
+	  - Code de la défense. - art. L2344-9 (V)
+	  - Code de la mutualité - art. L114-55 (V)
+	  - Code de la mutualité - art. L213-5 (VT)
+	  - Code de la propriété intellectuelle - art. L335-8 (V)
+	  - Code de la propriété intellectuelle - art. L343-2 (M)
+	  - Code de la propriété intellectuelle - art. L343-6 (V)
+	  - Code de la propriété intellectuelle - art. L521-12 (V)
+	  - Code de la propriété intellectuelle - art. L521-5 (M)
+	  - Code de la propriété intellectuelle - art. L615-14-3 (V)
+	  - Code de la propriété intellectuelle - art. L623-32-2 (V)
+	  - Code de la propriété intellectuelle - art. L716-11-2 (V)
+	  - Code de la route - art. L29-10 (Ab)
+	  - Code de la route. - art. L213-6 (V)
+	  - Code de la route. - art. L317-8 (V)
+	  - Code de la route. - art. L321-4 (V)
+	  - Code de la route. - art. L413-5 (V)
+	  - Code de la santé publique - art. L1115-2 (V)
+	  - Code de la santé publique - art. L1126-2 (V)
+	  - Code de la santé publique - art. L1126-4 (V)
+	  - Code de la santé publique - art. L1133-6 (V)
+	  - Code de la santé publique - art. L1133-9 (V)
+	  - Code de la santé publique - art. L1142-26 (V)
+	  - Code de la santé publique - art. L1274-2 (V)
+	  - Code de la santé publique - art. L1337-4 (V)
+	  - Code de la santé publique - art. L162-22 (Ab)
+	  - Code de la santé publique - art. L209-19 (Ab)
+	  - Code de la santé publique - art. L209-19-1 (Ab)
+	  - Code de la santé publique - art. L2153-2 (T)
+	  - Code de la santé publique - art. L2163-2 (MMN)
+	  - Code de la santé publique - art. L2164-2 (V)
+	  - Code de la santé publique - art. L3351-6-1 (V)
+	  - Code de la santé publique - art. L3351-6-2 (V)
+	  - Code de la santé publique - art. L3353-3 (V)
+	  - Code de la santé publique - art. L3633-6 (Ab)
+	  - Code de la santé publique - art. L4161-6 (V)
+	  - Code de la santé publique - art. L4163-2 (V)
+	  - Code de la santé publique - art. L4223-1 (V)
+	  - Code de la santé publique - art. L4243-1 (V)
+	  - Code de la santé publique - art. L4314-4 (V)
+	  - Code de la santé publique - art. L4323-4 (V)
+	  - Code de la santé publique - art. L4334-1 (V)
+	  - Code de la santé publique - art. L4344-4 (V)
+	  - Code de la santé publique - art. L4353-1 (V)
+	  - Code de la santé publique - art. L4363-2 (M)
+	  - Code de la santé publique - art. L4372-1 (V)
+	  - Code de la santé publique - art. L5426-1 (VD)
+	  - Code de la santé publique - art. L5431-4 (V)
+	  - Code de la santé publique - art. L5437-4 (V)
+	  - Code de la santé publique - art. L5438-7 (VD)
+	  - Code de la santé publique - art. L5441-12 (V)
+	  - Code de la santé publique - art. L5442-12 (V)
+	  - Code de la santé publique - art. L5442-8 (V)
+	  - Code de la santé publique - art. L5451-3 (V)
+	  - Code de la santé publique - art. L5461-8 (VD)
+	  - Code de la santé publique - art. L6222-1 (V)
+	  - Code de la santé publique - art. L6242-5 (V)
+	  - Code de la santé publique - art. L6324-2 (V)
+	  - Code de la santé publique - art. L658-8 (Ab)
+	  - Code de la santé publique - art. L675-17 (Ab)
+	  - Code de la santé publique - art. L793-6 (Ab)
+	  - Code de la sécurité intérieure - art. L317-1-2 (VD)
+	  - Code de la sécurité intérieure - art. L317-3 (VD)
+	  - Code de la sécurité intérieure - art. L324-1 (V)
+	  - Code de la sécurité intérieure - art. L324-4 (VD)
+	  - Code de la sécurité intérieure - art. L324-8 (V)
+	  - Code de la sécurité intérieure - art. L617-16 (VD)
+	  - Code de la sécurité intérieure - art. L624-14 (VD)
+	  - Code de procédure pénale - art. 706-45 (MMN)
+	  - Code des assurances - art. L310-27 (V)
+	  - Code des douanes - art. 459 (V)
+	  - Code des postes et des communications électroni... - art. L19 (VD)
+	  - Code des postes et des communications électroni... - art. L29 (VD)
+	  - Code des postes et des communications électroni... - art. L39-10 (V)
+	  - Code des postes et des communications électroni... - art. L97-3 (V)
+	  - Code des postes et des communications électronique - art. L39-3 (M)
+	  - Code des transports - art. L1264-13 (V)
+	  - Code des transports - art. L1622-2 (VD)
+	  - Code des transports - art. L2135-11 (Ab)
+	  - Code des transports - art. L3114-4 (M)
+	  - Code des transports - art. L3124-10 (Ab)
+	  - Code des transports - art. L3124-12 (V)
+	  - Code des transports - art. L3124-13 (Ab)
+	  - Code des transports - art. L3124-5 (V)
+	  - Code des transports - art. L3124-7 (V)
+	  - Code des transports - art. L3143-2 (V)
+	  - Code des transports - art. L3143-4 (V)
+	  - Code des transports - art. L5241-16 (V)
+	  - Code des transports - art. L5242-13 (V)
+	  - Code des transports - art. L5253-3 (V)
+	  - Code des transports - art. L5273-2 (VD)
+	  - Code du patrimoine. - art. L214-9 (V)
+	  - Code du sport. - art. L 425-9-3 (V)
+	  - Code du sport. - art. L232-28 (V)
+	  - Code du sport. - art. L332-20 (V)
+	  - Code du sport. - art. L332-22 (Ab)
+	  - Code du tourisme. - art. L412-2 (V)
+	  - Code du travail - art. L. 8256-7-1 (VD)
+	  - Code du travail - art. L152-3-1 (AbD)
+	  - Code du travail - art. L362-6 (AbD)
+	  - Code du travail - art. L364-10 (AbD)
+	  - Code du travail - art. L7122-17 (VD)
+	  - Code du travail - art. L8224-5 (V)
+	  - Code du travail - art. L8224-5-1 (V)
+	  - Code du travail - art. L8234-2 (V)
+	  - Code du travail - art. L8234-3 (V)
+	  - Code du travail - art. L8243-2 (VD)
+	  - Code du travail - art. L8243-3 (V)
+	  - Code du travail - art. L8256-7 (V)
+	  - Code du travail - art. L8272-2 (V)
+	  - Code du travail - art. L8272-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L341-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L342-6 (V)
+	  - Code du travail maritime - art. 90-1 (V)
+	  - Code forestier (nouveau) - art. L163-1 (V)
+	  - Code forestier (nouveau) - art. L163-5 (V)
+	  - Code forestier (nouveau) - art. L174-15 (V)
+	  - Code forestier (nouveau) - art. L362-1 (V)
+	  - Code forestier (nouveau) - art. L363-1 (V)
+	  - Code forestier - art. L223-1 (VT)
+	  - Code forestier - art. L313-1-1 (VT)
+	  - Code forestier - art. L371-3 (VT)
+	  - Code général des collectivités territoriales - art. L1414-4 (VD)
+	  - Code général des collectivités territoriales - art. L1415-8 (VT)
+	  - Code général des collectivités territoriales - art. L2223-36 (V)
+	  - Code minier (nouveau) - art. L512-6 (VD)
+	  - Code minier - art. 143 (VT)
+	  - Code monétaire et financier - art. L163-10-1 (VD)
+	  - Code monétaire et financier - art. L353-4 (V)
+	  - Code monétaire et financier - art. L465-3 (V)
+	  - Code monétaire et financier - art. L571-1 (V)
+	  - Code monétaire et financier - art. L572-14 (V)
+	  - Code monétaire et financier - art. L572-15 (V)
+	  - Code monétaire et financier - art. L572-16 (V)
+	  - Code monétaire et financier - art. L572-5 (V)
+	  - Code monétaire et financier - art. L572-6 (VD)
+	  - Code monétaire et financier - art. L573-1 (V)
+	  - Code monétaire et financier - art. L573-11 (V)
+	  - Code monétaire et financier - art. L573-14 (VD)
+	  - Code monétaire et financier - art. L573-17 (VD)
+	  - Code monétaire et financier - art. L573-2 (V)
+	  - Code monétaire et financier - art. L573-7 (V)
+	  - Code pénal - art. 131-37 (V)
+	  - Code pénal - art. 132-12 (V)
+	  - Code pénal - art. 132-13 (V)
+	  - Code pénal - art. 132-32 (V)
+	  - Code pénal - art. 213-3 (V)
+	  - Code pénal - art. 215-3 (V)
+	  - Code pénal - art. 221-17 (V)
+	  - Code pénal - art. 221-5-1 (T)
+	  - Code pénal - art. 221-5-2 (V)
+	  - Code pénal - art. 221-7 (V)
+	  - Code pénal - art. 222-16-1 (V)
+	  - Code pénal - art. 222-18-1 (T)
+	  - Code pénal - art. 222-18-2 (V)
+	  - Code pénal - art. 222-21 (V)
+	  - Code pénal - art. 222-33-1 (V)
+	  - Code pénal - art. 222-42 (V)
+	  - Code pénal - art. 222-6-1 (V)
+	  - Code pénal - art. 222-61 (V)
+	  - Code pénal - art. 223-15-1 (V)
+	  - Code pénal - art. 223-15-4 (V)
+	  - Code pénal - art. 223-2 (V)
+	  - Code pénal - art. 223-7-1 (V)
+	  - Code pénal - art. 223-9 (V)
+	  - Code pénal - art. 225-12 (V)
+	  - Code pénal - art. 225-12-4 (V)
+	  - Code pénal - art. 225-16 (V)
+	  - Code pénal - art. 225-16-3 (V)
+	  - Code pénal - art. 225-18-1 (V)
+	  - Code pénal - art. 225-4 (V)
+	  - Code pénal - art. 225-4-6 (V)
+	  - Code pénal - art. 226-24 (V)
+	  - Code pénal - art. 226-30 (V)
+	  - Code pénal - art. 227-14 (V)
+	  - Code pénal - art. 227-17-2 (V)
+	  - Code pénal - art. 227-28-1 (V)
+	  - Code pénal - art. 227-4-1 (V)
+	  - Code pénal - art. 311-16 (V)
+	  - Code pénal - art. 312-15 (V)
+	  - Code pénal - art. 313-9 (V)
+	  - Code pénal - art. 314-12 (V)
+	  - Code pénal - art. 314-13 (V)
+	  - Code pénal - art. 321-12 (V)
+	  - Code pénal - art. 322-17 (V)
+	  - Code pénal - art. 323-6 (V)
+	  - Code pénal - art. 324-9 (V)
+	  - Code pénal - art. 414-7 (V)
+	  - Code pénal - art. 422-5 (V)
+	  - Code pénal - art. 431-20 (V)
+	  - Code pénal - art. 433-25 (V)
+	  - Code pénal - art. 434-41 (V)
+	  - Code pénal - art. 434-43 (V)
+	  - Code pénal - art. 434-47 (M)
+	  - Code pénal - art. 435-15 (V)
+	  - Code pénal - art. 436-5 (V)
+	  - Code pénal - art. 441-12 (V)
+	  - Code pénal - art. 442-14 (V)
+	  - Code pénal - art. 443-8 (V)
+	  - Code pénal - art. 444-9 (V)
+	  - Code pénal - art. 445-4 (V)
+	  - Code pénal - art. 446-4 (V)
+	  - Code pénal - art. 450-4 (V)
+	  - Code pénal - art. 462-5 (V)
+	  - Code pénal - art. 511-28 (V)
+	  - Code pénal - art. 521-1 (V)
+	  - Code pénal - art. 717-3 (V)
+	  - Code pénal - art. 727-3 (V)
+	  - Code pénal - art. R131-43 (V)
+	  - Code rural - art. L228-5 (M)
+	  - Code rural - art. L251-21 (M)
+	  - Code rural - art. L257-12 (V)
+	  - Code rural - art. L258-2 (V)
+	  - Code rural - art. L671-15 (V)
+	  - Code rural - art. L915-11 (T)
+	  - Code rural - art. L937-1 (T)
+	  - Code rural - art. L951-20 (T)
+	  - Code rural - art. L951-21 (T)
+	  - Code rural - art. L953-17 (T)
+	  - Code rural ancien - art. 276-10 (Ab)
+	  - Code rural ancien - art. 338 (Ab)
+	  - Code rural ancien - art. 363 (Ab)
+	  - Code rural ancien - art. 364 quater (Ab)
+	  - Code rural et  de la pêche maritime - art. L215-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L205-11 (V)
+	  - Code rural et de la pêche maritime - art. L215-10 (VD)
+	  - Code rural et de la pêche maritime - art. L215-11 (VD)
+	  - Code rural et de la pêche maritime - art. L237-1 (V)
+	  - Code rural et de la pêche maritime - art. L237-2 (V)
+	  - Code rural et de la pêche maritime - art. L237-3 (V)
+	  - Code rural et de la pêche maritime - art. L251-20 (V)
+	  - Code rural et de la pêche maritime - art. L253-17 (V)
+	  - Code rural et de la pêche maritime - art. L253-18 (V)
+	  - Code rural et de la pêche maritime - art. L671-17 (V)
+	  - Code rural et de la pêche maritime - art. L945-5 (V)
+	  - Code électoral - art. L558-43 (VD)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 24 (Ab)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 14 () JORF 13 juin 2001
+
+
 ##### Sous-section 2 : Des peines contraventionnelles
 
 ###### Article 131-40
@@ -5947,6 +6382,42 @@ en outre, les peines mentionnées à l'article 131-39, sous réserve des disposi
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Cite**:
+
+	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 132-13
+
+Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
+les personnes physiques de 700 000 F d'amende, engage sa responsabilité pénale, dans le délai de dix ans à compter de
+l'expiration ou de la prescription de la précédente peine, par un délit puni de la même peine, le taux maximum de l'amende
+applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce délit.
+
+Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
+les personnes physiques de 700 000 F d'amende, engage sa responsabilité pénale, dans le délai de cinq ans à compter de
+l'expiration ou de la prescription de la précédente peine, par un délit puni par la loi en ce qui concerne les personnes
+physiques d'une peine d'amende d'au moins 100 000 F, le taux maximum de l'amende applicable est égal à dix fois celui qui est
+prévu par la loi qui réprime ce délit.
+
+Dans les cas prévus par les deux alinéas précédents, la personne morale encourt, en outre, les peines mentionnées à l'article
+131-39, sous réserve des dispositions du dernier alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 15
 
 	**Cite**:
 
@@ -8939,6 +9410,45 @@ présent article.
 	  - Code pénal - art. 221-2 (V)
 
 
+###### Article 221-5-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 4 () JORF 13 juin 2001
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code pénal - art. 221-5-2 (V)
+
+
 ##### Section 2 : Des atteintes involontaires à la vie
 
 ###### Article 221-6
@@ -9443,6 +9953,37 @@ présent article.
 
 	  - Code pénal - art. 132-23 (V)
 	  - Code pénal - art. 222-1 (V)
+
+
+###### Article 222-6-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies au présent paragraphe.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 5 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 ##### Paragraphe 2 : Des violences
@@ -9976,6 +10517,37 @@ punis d'un an d'emprisonnement et de 100 000 F d'amende.
 	  - Code de procédure pénale - art. 837 (V)
 
 
+###### Article 222-16-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies au présent paragraphe.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 6 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
 ##### Paragraphe 3 : Des menaces
 
 ###### Article 222-17
@@ -10038,6 +10610,54 @@ La peine est portée à cinq ans d'emprisonnement et à 500 000 F d'amende s'il 
 	  - Code pénal - art. 222-18-1 (Ab)
 	  - Code pénal - art. 222-18-2 (V)
 	  - Code pénal - art. 222-18-3 (V)
+
+
+###### Article 222-18-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies au présent paragraphe.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par les articles 222-17 (deuxième alinéa) et
+222-18.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 7 () JORF 13 juin 2001
+
+	**Transféré par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 39 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 222-17 (M)
+	  - Code pénal - art. 222-18 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. 222-18-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code pénal - art. 222-18-2 (V)
 
 
 ##### Section 2 : Des atteintes involontaires à l'intégrité de la personne
@@ -10604,6 +11224,38 @@ fonctions, est puni d'un an d'emprisonnement et de 100 000 F d'amende.
 	**Modifié par**:
 
 	  - Loi n°98-468 du 17 juin 1998 - art. 11 () JORF 18 juin 1998 rectificatif JORF 2 juillet 1998
+
+
+###### Article 222-33-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies aux articles 222-22 à 222-31.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 8 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal 121-2, 222-22 à 222-31, 131-38, 131-39
 
 
 ##### Section 4 : Du trafic de stupéfiants
@@ -11520,6 +12172,41 @@ d'emprisonnement et de 200 000 F d'amende.
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
+###### Article 223-7-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions prévues aux articles 223-5 et 223-6.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 9 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 223-5 (M)
+	  - Code pénal - art. 223-6 (M)
+
+
 ##### Section 4 : De l'expérimentation sur la personne humaine
 
 ###### Article 223-8
@@ -11777,6 +12464,153 @@ personnes responsables.
 	**Cite**:
 
 	  - Code pénal - art. 223-13 (V)
+
+
+###### Article 223-15-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+
+3° La peine mentionnée au 1° de l'article 131-39 pour l'infraction prévue au deuxième alinéa de l'article 223-13.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 10 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 223-13 (M)
+
+
+##### Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse
+
+###### Article 223-15-2
+
+Est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende [*amende - taux*] l'abus frauduleux de l'état d'ignorance
+ou de la situation de faiblesse soit d'un mineur, soit d'une personne dont la particulière vulnérabilité, due à son âge, à
+une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente et connue de
+son auteur, soit d'une personne en état de sujétion psychologique ou physique résultant de l'exercice de pressions graves ou
+réitérées ou de techniques propres à altérer son jugement, pour conduire ce mineur ou cette personne à un acte ou à une
+abstention qui lui sont gravement préjudiciables.
+
+Lorsque l'infraction est commise par le dirigeant de fait ou de droit d'un groupement qui poursuit des activités ayant pour
+but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à
+ces activités, les peines sont portées à cinq ans d'emprisonnement et à 5 000 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+
+	**Cité par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 1 (V)
+	  - Loi n°2001-504 du 12 juin 2001 - art. 19 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Décret n°2003-196 du 7 mars 2003 - art. 7 (Ab)
+	  - Code de l'éducation - art. L444-6 (V)
+	  - Code de l'éducation - art. L445-1 (V)
+	  - Code de procédure pénale - art. 2-17 (V)
+	  - Code de procédure pénale - art. 2-8 (V)
+	  - Code de procédure pénale - art. 704 (VT)
+	  - Code de procédure pénale - art. 8 (M)
+	  - Code monétaire et financier - art. R153-10 (V)
+
+
+###### Article 223-15-3
+
+Les personnes physiques coupables du délit prévu à la présente section encourent également les peines complémentaires
+suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+pour une durée de cinq ans au plus ;
+
+3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de
+l'entreprise ayant servi à commettre les faits incriminés ;
+
+4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
+l'exception des objets susceptibles de restitution ;
+
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ;
+
+6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+
+7° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35 (M)
+
+
+###### Article 223-15-4
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
+l'infraction définie à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 ##### Section 7 : Peines complémentaires applicables aux personnes physiques
@@ -13053,6 +13887,41 @@ l'article 225-17 et à cinq ans d'emprisonnement et à 500 000 F d'amende pour c
 	**Cite**:
 
 	  - Code pénal - art. 225-17 (M)
+
+
+###### Article 225-18-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies aux articles 225-17 et 225-18.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 ;
+
+3° La peine mentionnée au 1° de l'article 131-39 pour les infractions définies par l'article 225-18.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 11 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 225-17 (M)
+	  - Code pénal - art. 225-18 (M)
 
 
 ##### Section 5 : Peines complémentaires applicables aux personnes physiques
@@ -15353,6 +16222,37 @@ dans un délai d'un mois à compter de ce changement, est puni de six mois d'emp
 	  - Code pénal - art. 227-3 (M)
 
 
+###### Article 227-4-1
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 des
+infractions définies à la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 12 () JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
 ##### Section 3 : Des atteintes à l'exercice de l'autorité parentale
 
 ###### Article 227-5
@@ -15716,6 +16616,43 @@ ainsi que la fermeture de l'établissement.
 	**Cite**:
 
 	  - Loi n°1882-03-28 art. 16
+
+
+###### Article 227-17-2
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 227-15 à 227-17-1.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 13 () JORF 13 juin 2001
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L131-11 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. L131-11 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal 121-2, 227-15 à 227-17-1, 131-38, 131-39
 
 
 ###### Article 227-18
@@ -17407,40 +18344,6 @@ Les dispositions de l'article 311-12 sont applicables au délit d'escroquerie.
 
 ##### Section 2 : Des infractions voisines de l'escroquerie
 
-###### Article 313-4
-
-L'abus frauduleux de l'état d'ignorance ou de la situation de faiblesse soit d'un mineur, soit d'une personne dont la
-particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un
-état de grossesse, est apparente ou connue de son auteur, pour obliger ce mineur ou cette personne à un acte ou à une
-abstention qui lui sont gravement préjudiciables, est puni de trois ans d'emprisonnement et de 2 500 000 F d'amende.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1940-09-12 du 12 septembre 1940 - art. 13 (V)
-	  - Loi n°70-1300 du 31 décembre 1970 - art. 20 (M)
-	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V)
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-	  - CODE DE PROCEDURE PENALE - art. 704 (M)
-	  - Code des assurances - art. L322-2 (M)
-	  - Code pénal - art. 313-7 (MMN)
-	  - Code rural - art. L342-14 (V)
-
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Abrogé par**:
-
-	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V) JORF 13 juin 2001
-
-
 ###### Article 313-5
 
 La filouterie est le fait par une personne qui sait être dans l'impossibilité absolue de payer ou qui est déterminée à ne pas
@@ -17519,6 +18422,81 @@ La tentative des infractions prévues au présent article est punie des mêmes p
 
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
 
+###### Article 313-7
+
+Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2 et 313-6 encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+pour une durée de cinq ans au plus ;
+
+3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de
+l'entreprise ayant servi à commettre les faits incriminés ;
+
+4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
+l'exception des objets susceptibles de restitution ;
+
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ;
+
+6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+
+7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1913-08-08 du 8 août 1913 - art. 13 (Ab)
+	  - Loi n°1929-01-23 du 23 janvier 1929 - art. 12 (V)
+	  - Loi n°1940-09-12 du 12 septembre 1940 - art. 13 (V)
+	  - Loi n°47-1635 du 30 août 1947 - art. 1 (Ab)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26 (V)
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 335 (V)
+	  - Code de commerce - art. L524-17 (V)
+	  - Code de commerce. - art. L245-2 (Ab)
+	  - Code de l'action sociale et des familles - art. L133-6 (T)
+	  - Code de l'action sociale et des familles - art. L262-46 (Ab)
+	  - Code de l'industrie cinématographique - art. 18 (Ab)
+	  - Code de la consommation - art. L122-7 (VT)
+	  - Code de la famille et de l'aide sociale. - art. 147 (Ab)
+	  - Code minier - art. 162 (VT)
+	  - Code monétaire et financier - art. L231-5 (V)
+	  - Code monétaire et financier - art. L232-1 (VD)
+	  - Code monétaire et financier - art. L353-4 (M)
+	  - Code monétaire et financier - art. L353-6 (M)
+	  - Code monétaire et financier - art. L463-2 (Ab)
+	  - Code rural - art. L342-14 (V)
+	  - Loi n°1920-08-07 du 7 août 1920 - art. 3 (Ab)
+	  - Loi n°1932-04-21 du 21 avril 1932 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V) JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 313-1 (M)
+	  - Code pénal - art. 313-2 (M)
+	  - Code pénal - art. 313-6 (M)
+
+
 ###### Article 313-8
 
 Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2 et 313-6 encourent également
@@ -17560,6 +18538,43 @@ l'exclusion des marchés publics pour une durée de cinq ans au plus.
 	  - Code pénal - art. 313-1 (M)
 	  - Code pénal - art. 313-2 (M)
 	  - Code pénal - art. 313-6 (M)
+
+
+###### Article 313-9
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 313-1 à 313-3.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V) JORF 13 juin 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal 121-2, 313-1 à 313-3, 131-38, 131-39
 
 
 #### Chapitre IV : Des détournements
@@ -24704,6 +25719,44 @@ principale ou de peine complémentaire est punie de deux ans d'emprisonnement et
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 369 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
+###### Article 434-43
+
+Lorsqu'a été prononcée contre une personne morale l'une des peines prévues à l'article 131-39, la violation par une personne
+physique des obligations qui en découlent est punie de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+Le fait, pour toute personne physique, de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une personne
+morale dont la dissolution a été prononcée en application des dispositions du 1° de l'article 131-39 est puni de trois ans
+d'emprisonnement et de 300 000 F d'amende.
+
+Lorsque la dissolution a été prononcée pour une infraction commise en récidive, ou pour l'infraction prévue à l'alinéa
+précédent, la peine est portée à cinq ans d'emprisonnement et 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 17 () JORF 13 juin 2001
+
+	**Cité par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 1 (V)
+	  - Code de procédure pénale - art. 706-45 (MMN)
+	  - Code pénal - art. 434-47 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-39 (MMN)
+
+
 ##### Section 4 : Peines complémentaires et responsabilité des personnes morales
 
 ###### Article 434-44
@@ -24803,6 +25856,57 @@ au deuxième alinéa de l'article 434-9, à l'article 434-30, au dernier alinéa
 	  - Code pénal - art. 434-32 (M)
 	  - Code pénal - art. 434-33 (M)
 	  - Code pénal - art. 434-9 (M)
+
+
+###### Article 434-47
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 434-39 et 434-43.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39 ;
+
+3° La confiscation prévue à l'article 131-21 ;
+
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+
+5° Pour les infractions prévues aux deuxième et troisième alinéas de l'article 434-43, la peine de dissolution mentionnée au
+1° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 18 () JORF 13 juin 2001
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-45 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 434-39 (M)
+	  - Code pénal - art. 434-43 (MMN)
 
 
 #### Chapitre V : Des atteintes à l'administration publique des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des organisations internationales publiques
