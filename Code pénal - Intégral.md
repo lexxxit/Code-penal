@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-09-04
 
 # Partie législative
 
@@ -27375,6 +27375,36 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 	**Abrogé par**:
 
 	  - Loi n°2001-588 du 4 juillet 2001 - art. 19
+
+
+#### Chapitre VI : Adaptation du livre V
+
+###### Article 716-1-1
+
+En Nouvelle-Calédonie, le fait de procéder à un prélèvement de moëlle osseuse en vue d'un don est puni de sept ans
+d'emprisonnement et de 100 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-773 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-3
 
 
 ## Livre VII : Dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
