@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2000-06-16
+Version Consolidée au 2000-07-01
 
 # Partie législative
 
@@ -22126,8 +22126,8 @@ La tentative des délits prévus au présent article est punie des mêmes peines
 ###### Article 432-11
 
 Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait, par une personne dépositaire de l'autorité publique,
-chargée d'une mission de service public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit,
-directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques :
+chargée d'une mission de service public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit, à
+tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques :
 
 1° Soit pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa
 fonction, sa mission ou son mandat ;
@@ -22166,6 +22166,11 @@ publique des distinctions, des emplois, des marchés ou toute autre décision fa
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
 
 
 ##### Paragraphe 3 : De la prise illégale d'intérêts
@@ -22497,8 +22502,8 @@ par l'article 131-35.
 
 ###### Article 433-1
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer, sans droit, directement ou
-indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne
+Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer, sans droit, à tout moment, directement
+ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne
 dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public :
 
 1° Soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par
@@ -22508,9 +22513,9 @@ sa fonction, sa mission ou son mandat ;
 publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 Est puni des mêmes peines le fait de céder à une personne dépositaire de l'autorité publique, chargée d'une mission de
-service public ou investie d'un mandat électif public qui sollicite, sans droit, directement ou indirectement, des offres,
-des promesses, des dons, des présents ou des avantages quelconques pour accomplir ou s'abstenir d'accomplir un acte visé au
-1° ou pour abuser de son influence dans les conditions visées au 2°.
+service public ou investie d'un mandat électif public qui sollicite, sans droit, à tout moment, directement ou indirectement,
+des offres, des promesses, des dons, des présents ou des avantages quelconques pour accomplir ou s'abstenir d'accomplir un
+acte visé au 1° ou pour abuser de son influence dans les conditions visées au 2°.
 
 **Liens relatifs à cet article**
 
@@ -22563,6 +22568,11 @@ des promesses, des dons, des présents ou des avantages quelconques pour accompl
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
 
 
 ###### Article 433-2
@@ -23676,13 +23686,13 @@ comportement dans l'exercice de ses fonctions est puni de trois ans d'emprisonne
 
 Le fait, par un magistrat, un juré ou toute autre personne siégeant dans une formation juridictionnelle, un arbitre ou un
 expert nommé soit par une juridiction, soit par les parties, ou une personne chargée par l'autorité judiciaire d'une mission
-de conciliation ou de médiation, de solliciter ou d'agréer, sans droit, directement ou indirectement, des offres, des
-promesses, des dons, des présents ou des avantages quelconques pour l'accomplissement ou l'abstention d'un acte de sa
-fonction, est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
+de conciliation ou de médiation, de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des
+offres, des promesses, des dons, des présents ou des avantages quelconques pour l'accomplissement ou l'abstention d'un acte
+de sa fonction, est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende.
 
-Le fait de céder aux sollicitations d'une personne visée à l'alinéa précédent, ou de proposer des offres, des promesses, des
-dons, des présents ou des avantages quelconques afin d'obtenir d'une de ces personnes l'accomplissement ou l'abstention d'un
-acte de sa fonction est puni des mêmes peines.
+Le fait, à tout moment, de céder aux sollicitations d'une personne visée à l'alinéa précédent, ou de proposer des offres, des
+promesses, des dons, des présents ou des avantages quelconques afin d'obtenir d'une de ces personnes l'accomplissement ou
+l'abstention d'un acte de sa fonction est puni des mêmes peines.
 
 Lorsque l'infraction définie au premier alinéa est commise par un magistrat au bénéfice ou au détriment d'une personne
 faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 1 500 000 F
@@ -23698,6 +23708,7 @@ d'amende.
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
 
 	**Cité par**:
 
@@ -23723,6 +23734,10 @@ d'amende.
 	  - Code pénal - art. 434-46 (V)
 	  - Code pénal - art. 434-48 (V)
 	  - Code pénal - art. 434-9-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
 
 
 ###### Article 434-10
@@ -24732,6 +24747,287 @@ au deuxième alinéa de l'article 434-9, à l'article 434-30, au dernier alinéa
 	  - Code pénal - art. 434-32 (M)
 	  - Code pénal - art. 434-33 (M)
 	  - Code pénal - art. 434-9 (M)
+
+
+#### Chapitre V : Des atteintes à l'administration publique des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des organisations internationales publiques
+
+##### Section 1 : De la corruption passive.
+
+###### Article 435-1
+
+Pour l'application de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés
+européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est puni de dix
+ans d'emprisonnement et de 1 000 000 F d'amende le fait par un fonctionnaire communautaire ou un fonctionnaire national d'un
+autre Etat membre de l'Union européenne ou par un membre de la Commission des Communautés européennes, du Parlement européen,
+de la Cour de justice et de la Cour des comptes des Communautés européennes de solliciter ou d'agréer, sans droit, à tout
+moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour
+accomplir ou s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa
+mission ou son mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - Code de procédure pénale - art. 2-23 (V)
+	  - Code de procédure pénale - art. 689-8 (V)
+	  - Code de procédure pénale - art. 705 (V)
+	  - Code de procédure pénale - art. 706-1 (VT)
+	  - Code de procédure pénale - art. 706-1-1 (V)
+	  - Code de procédure pénale - art. 706-1-3 (Ab)
+	  - Code pénal - art. 435-6 (Ab)
+	  - Code pénal - art. 435-6-1 (V)
+	  - Code pénal - art. 435-6-2 (V)
+
+
+##### Section 2 : De la corruption active
+
+##### Sous-section 1 : De la corruption active des fonctionnaires des Communautés européennes, des fonctionnaires des Etats membres de l'Union européenne, des membres des institutions des Communautés européennes
+
+###### Article 435-2
+
+Pour l'application de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés
+européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est puni de dix
+ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement,
+des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'un fonctionnaire communautaire
+ou d'un fonctionnaire national d'un autre Etat membre de l'Union européenne ou d'un membre de la Commission des Communautés
+européennes, du Parlement européen, de la Cour de justice et de la Cour des comptes des Communautés européennes qu'il
+accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa
+mission ou son mandat.
+
+Est puni des mêmes peines le fait de céder à une personne visée à l'alinéa précédent qui sollicite, sans droit, à tout
+moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour
+accomplir ou s'abstenir d'accomplir un acte visé audit alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 689-8 (M)
+	  - CODE DE PROCEDURE PENALE - art. 704 (M)
+	  - Code pénal - art. 435-6 (M)
+
+
+##### Sous-section 2 : De la corruption active des personnes relevant d'Etats étrangers autres que les Etats membres de l'Union européenne et d'organisations internationales publiques autres que les institutions des Communautés européennes
+
+###### Article 435-3
+
+Pour l'application de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions
+commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 1 000 000 F
+d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons,
+des présents ou des avantages quelconques pour obtenir d'une personne dépositaire de l'autorité publique, chargée d'une
+mission de service public, ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation
+internationale publique, qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son
+mandat ou facilité par sa fonction, sa mission ou son mandat, en vue d'obtenir ou conserver un marché ou un autre avantage
+indu dans le commerce international.
+
+Est puni des mêmes peines le fait de céder à une personne visée à l'alinéa précédent qui sollicite, sans droit, à tout
+moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour
+accomplir ou s'abstenir d'accomplir un acte visé audit alinéa.
+
+La poursuite des délits visés au présent article ne peut être exercée qu'à la requête du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - Arrêté du 28 septembre 2011 - art. 2 (V)
+	  - Arrêté du 28 septembre 2011 - art. 6 (V)
+	  - Arrêté du 2 novembre 2011 - art. 3 (V)
+	  - Arrêté du 2 novembre 2011 - art. 4 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (M)
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code de procédure pénale - art. 689-8 (V)
+	  - Code général des collectivités territoriales - art. L1414-4 (VD)
+	  - Code pénal - art. 435-15 (V)
+	  - Code pénal - art. 435-6 (M)
+
+
+###### Article 435-4
+
+Pour l'application de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions
+commerciales internationales signée à Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 1 000 000 F
+d'amende le fait de proposer sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons,
+des présents ou des avantages quelconques pour obtenir d'un magistrat, d'un juré ou de toute autre personne siégeant dans une
+fonction juridictionnelle, d'un arbitre ou d'un expert nommé soit par une juridiction, soit par les parties, ou d'une
+personne chargée par l'autorité judiciaire d'une mission de conciliation ou de médiation, dans un Etat étranger ou au sein
+d'une organisation internationale publique, qu'il accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa
+mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat, en vue d'obtenir ou conserver un marché ou un
+autre avantage indu dans le commerce international.
+
+Est puni des mêmes peines le fait de céder à une personne visée à l'alinéa précédent qui sollicite, sans droit, à tout
+moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour
+accomplir ou s'abstenir d'accomplir un acte visé audit alinéa.
+
+La poursuite des délits visés au présent article ne peut être exercée qu'à la requête du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - CODE DE PROCEDURE PENALE - art. 706-1 (M)
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code général des collectivités territoriales - art. L1414-4 (VD)
+	  - Code pénal - art. 435-15 (V)
+	  - Code pénal - art. 435-6 (M)
+
+
+##### Section 3 : Peines complémentaires et responsabilité des personnes morales
+
+###### Article 435-5
+
+Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+
+2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+
+3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+
+4° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution.
+
+L'interdiction du territoire français peut en outre être prononcée dans les conditions prévues par l'article 131-30 soit à
+titre définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger qui s'est rendu coupable de l'une des
+infractions visées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 131-35 (M)
+
+
+###### Article 435-6
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 435-2, 435-3 et 435-4.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Pour une durée de cinq ans au plus :
+
+- l'interdiction d'exercer directement ou indirectement l'activité professionnelle ou sociale dans laquelle ou à l'occasion
+de l'exercice de laquelle l'infraction a été commise ;
+
+- le placement sous surveillance judiciaire ;
+
+- la fermeture des établissements ou de l'un des établissements de l'entreprise ayant servi à commettre les faits
+incriminés ;
+
+- l'exclusion des marchés publics ;
+
+- l'interdiction de faire appel public à l'épargne ;
+
+- l'interdiction d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou
+ceux qui sont certifiés ou d'utiliser des cartes de paiement ;
+
+3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;
+
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2000-595 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 435-2 (M)
+	  - Code pénal - art. 435-3 (M)
+	  - Code pénal - art. 435-4 (M)
 
 
 ### Titre IV : Des atteintes à la confiance publique
