@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-03-05
 
 # Partie législative
 
@@ -13144,14 +13144,15 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
 de leur situation de famille, de leur apparence physique, de leur patronyme, de leur état de santé, de leur handicap, de
-leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur
-appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée.
+leurs caractéristiques génétiques, de leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs opinions politiques,
+de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation,
+une race ou une religion déterminée.
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
-de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des moeurs, de
-l'orientation sexuelle, de l'âge, des opinions politiques, des activités syndicales, de l'appartenance ou de la non-
-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée des membres ou de certains
-membres de ces personnes morales.
+de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des caractéristiques
+génétiques, des moeurs, de l'orientation sexuelle, de l'âge, des opinions politiques, des activités syndicales, de
+l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
+des membres ou de certains membres de ces personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -13179,14 +13180,9 @@ membres de ces personnes morales.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2001-1066 du 16 novembre 2001 - art. 1 () JORF 17 novembre 2001
+	  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
 
 
 ###### Article 225-2
@@ -13258,7 +13254,9 @@ Les dispositions de l'article précédent ne sont pas applicables :
 
 1° Aux discriminations fondées sur l'état de santé, lorsqu'elles consistent en des opérations ayant pour objet la prévention
 et la couverture du risque décès, des risques portant atteinte à l'intégrité physique de la personne ou des risques
-d'incapacité de travail ou d'invalidité ;
+d'incapacité de travail ou d'invalidité. Toutefois, ces discriminations sont punies des peines prévues à l'article précédent
+lorsqu'elles se fondent sur la prise en compte de tests génétiques prédictifs ayant pour objet une maladie qui n'est pas
+encore déclarée ou une prédisposition génétique à une maladie ;
 
 2° Aux discriminations fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un
 licenciement fondé sur l'inaptitude médicalement constatée soit dans le cadre du titre IV du livre II du code du travail,
@@ -13284,6 +13282,14 @@ publique, la condition déterminante de l'exercice d'un emploi ou d'une activit�
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
 	  - Code pénal - art. 713-3 (V)
 	  - Code pénal - art. 723-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 225-2 (M)
 
 
 ###### Article 225-4
@@ -13510,6 +13516,30 @@ présent article.
 	  - Code pénal - art. 132-23 (M)
 
 
+###### Article 225-7-1
+
+Le proxénétisme est puni de quinze ans de réclusion criminelle et de 3000000 euros d'amende lorsqu'il est commis à l'égard
+d'un mineur de quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code pénal - art. 225-11-2 (V)
+
+
 ###### Article 225-8
 
 Le proxénétisme prévu à l'article 225-7 est puni de vingt ans de réclusion criminelle et de 3000000 euros d'amende lorsqu'il
@@ -13687,6 +13717,143 @@ Les peines encourues par les personnes morales sont :
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal 121-2, 225-5 à 225-10, 131-38, 131-39
+
+
+##### Section 2 bis : Du recours à la prostitution d'un mineur
+
+###### Article 225-12-1
+
+Le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de rémunération, des
+relations de nature sexuelle de la part d'un mineur qui se livre à la prostitution, y compris de façon occasionnelle, est
+puni de trois ans d'emprisonnement et [*taux*] 45000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Loi n°2016-444 du 13 avril 2016 - art. 22 (V)
+	  - Code de commerce - art. L123-11-3 (V)
+	  - Code de l'action sociale et des familles - art. D221-19 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de procédure pénale - art. 2-3 (V)
+	  - Code de procédure pénale - art. 706-35-1 (V)
+	  - Code de procédure pénale - art. 706-47 (M)
+	  - Code de procédure pénale - art. 706-55 (V)
+	  - Code pénal - art. 225-12-3 (V)
+
+
+###### Article 225-12-2
+
+Les peines sont portées à cinq ans d'emprisonnement et [*taux*] 75000 euros d'amende :
+
+1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de plusieurs mineurs ;
+
+2° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de communication ;
+
+3° Lorsque les faits sont commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions.
+
+Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsqu'il s'agit d'un mineur de quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Décret n°2016-1352 du 10 octobre 2016 - art. 1
+	  - Code de l'action sociale et des familles - art. D221-19 (V)
+	  - Code pénal - art. 225-12-3 (M)
+
+
+###### Article 225-12-3
+
+Dans le cas où les délits prévus par les articles 225-12-1 et 225-12-2 sont commis à l'étranger par un Français ou par une
+personne résidant habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième
+alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 225-12-1 (M)
+	  - Code pénal - art. 225-12-2 (M)
+
+
+###### Article 225-12-4
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 des
+infractions prévues par la présente section.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 ##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
@@ -14088,8 +14255,8 @@ l'article 225-14.
 
 ###### Article 225-20
 
-Les personnes physiques coupables des infractions prévues par la section 2 du présent chapitre encourent également les peines
-complémentaires suivantes :
+Les personnes physiques coupables des infractions prévues par les sections 2 et 2 bis du présent chapitre encourent également
+les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
@@ -14112,19 +14279,15 @@ quelconque participation financière ;
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
-
-	  - Loi n°92-684 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CODE PENAL - art. 335-1 bis (Ab)
-	  - CODE PENAL - art. 335-3 (Ab)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
@@ -16529,10 +16692,10 @@ habituelle, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 ###### Article 227-9
 
-Les faits définis par les articles 227-5 et 227-7 sont punis de deux ans d'emprisonnement et de 30000 euros d'amende :
+Les faits définis par les articles 227-5 et 227-7 sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende : 
 
 1° Si l'enfant mineur est retenu au-delà de cinq jours sans que ceux qui ont le droit de réclamer qu'il leur soit représenté
-sachent où il se trouve ;
+sachent où il se trouve ; 
 
 2° Si l'enfant mineur est retenu indûment hors du territoire de la République.
 
@@ -16546,10 +16709,11 @@ sachent où il se trouve ;
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-305 du 4 mars 2002 - art. 16 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -16557,8 +16721,8 @@ sachent où il se trouve ;
 
 	**Cite**:
 
-	  - Code pénal - art. 227-5 (M)
-	  - Code pénal - art. 227-7 (M)
+	  - Code pénal - art. 227-5 (V)
+	  - Code pénal - art. 227-7 (V)
 
 
 ###### Article 227-10
@@ -17076,6 +17240,8 @@ faire importer ou de la faire exporter, est puni des mêmes peines.
 Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
 
+Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et [*taux*] 30000 euros d'amende.
+
 Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
 physique est celui d'un mineur, sauf s'il est établi que cette personne était âgée de dix-huit ans au jour de la fixation ou
 de l'enregistrement de son image.
@@ -17112,10 +17278,11 @@ de l'enregistrement de son image.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-305 du 4 mars 2002 - art. 14 () JORF 5 mars 2002
 
 
 ###### Article 227-24
@@ -17202,7 +17369,7 @@ mineur de quinze ans est puni de cinq ans d'emprisonnement et de 75 000 euros d'
 
 ###### Article 227-26
 
-L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
+L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de [*taux*] 150000 euros d'amende :
 
 1° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
 victime ;
@@ -17211,9 +17378,7 @@ victime ;
 
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-4° Lorsqu'elle s'accompagne du versement d'une rémunération ;
-
-5° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+4° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
 destination d'un public non déterminé, d'un réseau de télécommunications.
 
 **Liens relatifs à cet article**
@@ -17226,10 +17391,11 @@ destination d'un public non déterminé, d'un réseau de télécommunications.
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -17349,17 +17515,19 @@ Les peines encourues par les personnes morales sont :
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
-Dans le cas prévu par le 4° de l'article 227-26, la peine mentionnée au 1° de l'article 131-39 est également encourue.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 20 () JORF 18 juin 1998
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cite**:
 
