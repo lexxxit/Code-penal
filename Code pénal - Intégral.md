@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2002-01-05
+Version Consolidée au 2002-01-18
 
 # Partie législative
 
@@ -11258,9 +11258,8 @@ d'emprisonnement et de 15000 euros d'amende.
 
 ###### Article 222-33
 
-Le fait de harceler autrui en donnant des ordres, proférant des menaces, imposant des contraintes ou exerçant des pressions
-graves dans le but d'obtenir des faveurs de nature sexuelle, par une personne abusant de l'autorité que lui confèrent ses
-fonctions, est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+Le fait de harceler autrui dans le but d'obtenir des faveurs de nature sexuelle est puni d'un an d'emprisonnement et de 15000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11294,7 +11293,7 @@ fonctions, est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 179 () JORF 18 janvier 2002
 
 
 ###### Article 222-33-1
@@ -11327,6 +11326,40 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal 121-2, 222-22 à 222-31, 131-38, 131-39
+
+
+##### Section 3 bis : Du harcèlement moral
+
+###### Article 222-33-2
+
+Le fait de harceler autrui par des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de
+travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de
+compromettre son avenir professionnel, est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 145 (V)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 2 bis (V)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 2 ter (V)
+	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 225 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code du travail - art. L1152-4 (V)
+	  - Code du travail - art. L8112-2 (VT)
+	  - Code du travail applicable à Mayotte. - art. L052-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L610-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 170 () JORF 18 janvier 2002
 
 
 ##### Section 4 : Du trafic de stupéfiants
@@ -15292,6 +15325,9 @@ personne qui n'est pas en mesure de se protéger en raison de son âge ou de son
 constatés dans l'exercice de sa profession et qui lui permettent de présumer que des violences sexuelles de toute nature ont
 été commises.
 
+Aucune sanction disciplinaire ne peut être prononcée du fait du signalement de sévices par le médecin aux autorités
+compétentes dans les conditions prévues au présent article.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -15524,7 +15560,7 @@ constatés dans l'exercice de sa profession et qui lui permettent de présumer q
 
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 15 () JORF 18 juin 1998
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 89 () JORF 18 janvier 2002
 
 	**Cite**:
 
