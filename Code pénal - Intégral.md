@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2003-07-12
+Version Consolidée au 2003-11-27
 
 # Partie législative
 
@@ -3475,38 +3475,15 @@ Lorsque l'interdiction du territoire accompagne une peine privative de liberté 
 pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du
 jour où la privation de liberté a pris fin.
 
-Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction et de la
-situation personnelle et familiale de l'étranger condamné l'interdiction du territoire français, lorsque est en cause :
-
-1° Un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
-l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
-
-2° Un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
-soit antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
-conservé la nationalité française ;
-
-3° Un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ;
-
-4° Un condamné étranger qui justifie qu'il réside habituellement en France depuis plus de quinze ans ;
-
-5° Un condamné étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle servie par un organisme
-français et dont le taux d'incapacité permanente est égal ou supérieur à 20 % ;
-
-6° Un condamné étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le
-défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse bénéficier
-d'un traitement approprié dans le pays dont il est originaire.
+L'interdiction du territoire français prononcée en même temps qu'une peine d'emprisonnement ne fait pas obstacle à ce que
+cette peine fasse l'objet, aux fins de préparation d'une demande en relèvement, de mesures de semi-liberté, de placement à
+l'extérieur, de placement sous surveillance électronique ou de permissions de sortir.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
 
 	**Cité par**:
 
@@ -3579,7 +3556,120 @@ d'un traitement approprié dans le pays dont il est originaire.
 
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
+
+
+###### Article 131-30-1
+
+En matière correctionnelle, le tribunal ne peut prononcer l'interdiction du territoire français que par une décision
+spécialement motivée au regard de la gravité de l'infraction et de la situation personnelle et familiale de l'étranger
+lorsqu'est en cause :
+
+1° Un étranger, ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à
+condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
+l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins un an ;
+
+2° Un étranger marié depuis au moins deux ans avec un conjoint de nationalité française, à condition que ce mariage soit
+antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait conservé
+la nationalité française ;
+
+3° Un étranger qui justifie par tous moyens qu'il réside habituellement en France depuis plus de quinze ans, sauf s'il a été,
+pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+
+4° Un étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
+titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+
+5° Un étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
+dont le taux d'incapacité permanente est égal ou supérieur à 20 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (V)
+	  - Code de procédure pénale - art. 41 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 371-2 (M)
+
+
+###### Article 131-30-2
+
+La peine d'interdiction du territoire français ne peut être prononcée lorsqu'est en cause :
+
+1° Un étranger qui justifie par tous moyens résider en France habituellement depuis qu'il a atteint au plus l'âge de treize
+ans ;
+
+2° Un étranger qui réside régulièrement en France depuis plus de vingt ans ;
+
+3° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est
+marié depuis au moins trois ans avec un ressortissant français ayant conservé la nationalité française, à condition que ce
+mariage soit antérieur aux faits ayant entraîné sa condamnation et que la communauté de vie n'ait pas cessé ou, sous les
+mêmes conditions, avec un ressortissant étranger relevant du 1° ;
+
+4° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est père
+ou mère d'un enfant français mineur résidant en France, à condition qu'il établisse contribuer effectivement à l'entretien et
+à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de celui-ci ou
+depuis au moins un an ;
+
+5° Un étranger qui réside en France sous couvert du titre de séjour prévu par le 11° de l'article 12 bis de l'ordonnance n°
+45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France.
+
+Les dispositions prévues au 3° et au 4° ne sont toutefois pas applicables lorsque les faits à l'origine de la condamnation
+ont été commis à l'encontre du conjoint ou des enfants de l'étranger.
+
+Les dispositions du présent article ne sont pas applicables aux atteintes aux intérêts fondamentaux de la nation prévus par
+les chapitres Ier, II et IV du titre Ier du livre IV et par les articles 413-1 à 413-4, 413-10 et 413-11, ni aux actes de
+terrorisme prévus par le titre II du livre IV, ni aux infractions en matière de groupes de combat et de mouvements dissous
+prévues par les articles 431-14 à 431-17, ni aux infractions en matière de fausse monnaie prévues aux articles 442-1 à 442-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 12 bis
+	  - Loi n°98-467 du 17 juin 1998 - art. 78 (M)
+	  - Code pénal - art. 413-10 (M)
+	  - Code pénal - art. 413-11 (M)
+	  - Code pénal 413-1 à 413-4, 413-10, 413-11, 431-14 à 431-17, 442-1 à 442-4
+	  - Code civil - art. 371-2 (M)
+	  - Code civil 371-2, 213-2, 222-48, 414-6, 422-4, 431-19, 442-12
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 86 (V)
+	  - CODE DE PROCEDURE PENALE - art. 41 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L541-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (V)
 
 
 ###### Article 131-31
@@ -7546,20 +7636,18 @@ condamné, lorsqu'il est présent, des conséquences qu'entraînerait une condam
 cours du délai d'épreuve ou un manquement aux mesures de contrôle et aux obligations particulières qui lui sont imposées. Il
 l'informe de la possibilité qu'il aura de voir déclarer sa condamnation non avenue s'il observe une conduite satisfaisante.
 
+Lorsque la juridiction prononce, à titre de peine complémentaire, la peine d'interdiction du territoire français pour une
+durée de dix ans au plus, il est sursis à son exécution durant le temps de la mise à l'épreuve prévue au premier alinéa.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 79 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -7889,20 +7977,18 @@ privative de liberté sans sursis, la juridiction de jugement peut, après avis 
 la révocation en totalité ou en partie du ou des sursis antérieurement accordés. Cette révocation ne peut être ordonnée pour
 des infractions commises avant que la condamnation assortie du sursis ait acquis un caractère définitif.
 
+La mesure d'interdiction du territoire français est exécutoire de plein droit en cas de révocation totale du sursis avec mise
+à l'épreuve dans les conditions prévues au présent article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 351 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 79 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -9298,7 +9384,7 @@ Les personnes physiques coupables des infractions prévues par le présent titre
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -9306,14 +9392,9 @@ au présent titre. Les dispositions des sept derniers alinéas de l'article 131-
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cite**:
 
@@ -12400,36 +12481,26 @@ définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étra
 aux articles 222-1 à 222-8 et 222-10, aux 1° et 2° de l'article 222-14, aux articles 222-23 à 222-26, 222-30, 222-34 à 222-39
 ainsi qu'à l'article 222-15 dans les cas visés au deuxième alinéa de cet article.
 
-Les dispositions des sept derniers alinéas de l'article 131-30 ne sont pas applicables aux personnes coupables des
-infractions définies aux articles 222-34, 222-35, 222-36 et 222-38.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
-	  - Code pénal - art. 222-10 (M)
-	  - Code pénal - art. 222-14 (M)
-	  - Code pénal - art. 222-15 (M)
-	  - Code pénal - art. 222-30 (M)
-	  - Code pénal - art. 222-34 (M)
-	  - Code pénal - art. 222-35 (M)
-	  - Code pénal - art. 222-36 (M)
-	  - Code pénal - art. 222-38 (M)
-	  - Code pénal 131-30, 222-1 à 222-8, 222-10, 222-14, 222-23 à 222-26, 222-30, 222-34 à 222-39, 222-15, 222-34, 222-35, 222-36, 222-38
+	  - Code pénal - art. 131-30 (V)
+	  - Code pénal - art. 222-1 (V)
+	  - Code pénal - art. 222-10 (V)
+	  - Code pénal - art. 222-14 (V)
+	  - Code pénal - art. 222-15 (V)
+	  - Code pénal - art. 222-23 (V)
+	  - Code pénal - art. 222-30 (V)
+	  - Code pénal - art. 222-34 (V)
 
 
 ###### Article 222-48-1
@@ -23322,8 +23393,7 @@ l'exception des objets susceptibles de restitution ;
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11. Les dispositions des sept
-derniers alinéas de l'article 131-10 ne sont pas applicables.
+aux chapitres Ier, II et IV du présent titre et aux articles 413-1 à 413-4, 413-10 et 413-11.
 
 **Liens relatifs à cet article**
 
@@ -23331,14 +23401,9 @@ derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -23346,10 +23411,9 @@ derniers alinéas de l'article 131-10 ne sont pas applicables.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
-	  - Code pénal - art. 413-10 (M)
-	  - Code pénal - art. 413-11 (M)
-	  - Code pénal 131-30, 413-1 à 413-4, 413-10, 413-11
+	  - Code pénal - art. 131-30 (V)
+	  - Code pénal - art. 413-1 (V)
+	  - Code pénal - art. 413-10 (V)
 
 
 ###### Article 414-7
@@ -23907,7 +23971,7 @@ l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de 
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-au présent titre. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
+au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -23915,18 +23979,13 @@ au présent titre. Les dispositions des sept derniers alinéas de l'article 131-
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 131-30 (V)
 
 
 ###### Article 422-5
@@ -24542,7 +24601,7 @@ celle-ci, dans les conditions prévues par l'article 221-10 ;
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies à
-la présente section. Les dispositions des cinq derniers alinéas de l'article 131-10 ne sont pas applicables.
+la présente section.
 
 **Liens relatifs à cet article**
 
@@ -24550,18 +24609,13 @@ la présente section. Les dispositions des cinq derniers alinéas de l'article 1
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 131-30 (V)
 
 
 ###### Article 431-20
@@ -29189,7 +29243,7 @@ prévues par l'article 131-27.
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux articles 442-1 à 442-4. Les dispositions des sept derniers alinéas de l'article 131-10 ne sont pas applicables.
+aux articles 442-1 à 442-4.
 
 **Liens relatifs à cet article**
 
@@ -29197,14 +29251,9 @@ aux articles 442-1 à 442-4. Les dispositions des sept derniers alinéas de l'ar
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-349 du 11 mai 1998 - art. 37 () JORF 12 mai 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 78 () JORF 27 novembre 2003
 
 	**Cite**:
 
