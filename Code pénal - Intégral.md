@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2003-06-13
+Version Consolidée au 2003-07-12
 
 # Partie législative
 
@@ -33973,9 +33973,9 @@ laquelle l'infraction a été commise.
 
 ##### Section 1 : Des peines applicables aux personnes physiques
 
-#####   Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules et de l'immobilisation de véhicule
+#####   Sous-section 1 : De la suspension du permis de conduire, de l'interdiction de conduire certains véhicules, de l'immobilisation du véhicule et de l'obligation d'accomplir un stage de sensibilisation à la sécurité routière
 
-##### Paragraphe 1 : De la suspension du permis de conduire.
+##### Paragraphe 1 : De la suspension du permis de conduire
 
 ###### Article R131-1
 
@@ -33986,13 +33986,13 @@ véhicules dont la conduite est autorisée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34003,35 +34003,35 @@ véhicules dont la conduite est autorisée.
 
 L'agent de l'autorité chargé de l'exécution de la décision prononçant la suspension du permis de conduire limitée à la
 conduite en dehors de l'activité professionnelle remet au condamné, en échange de son permis suspendu, un certificat établi
-par le greffier de la juridiction. Ce certificat mentionne :
+par le greffier de la juridiction. Ce certificat mentionne : 
 
-1° La date de la décision, la juridiction qui l'a prononcée et la durée de la suspension du permis de conduire ;
+1° La date de la décision, la juridiction qui l'a prononcée et la durée de la suspension du permis de conduire ; 
 
-2° Les nom, prénoms, date et lieu de naissance et domicile de l'intéressé ;
+2° Les nom, prénoms, date et lieu de naissance et domicile de l'intéressé ; 
 
 3° Les références du permis de conduire ainsi que les diverses indications qui y sont portées, y compris éventuellement les
-limitations et restrictions de validité qu'il comporte ;
+limitations et restrictions de validité qu'il comporte ; 
 
 4° L'activité professionnelle en vue de laquelle la conduite est autorisée, les diverses conditions, notamment de lieu et de
 temps, auxquelles cette autorisation est subordonnée et, le cas échéant, la ou les catégories de véhicules dont la conduite
-est autorisée.
+est autorisée. 
 
 Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, notamment au regard de
 l'article R. 123 du code de la route, justification du droit de conduire, lorsque sont respectées les conditions fixées par
-la juridiction.
+la juridiction. 
 
 A l'issue de la période de suspension, le permis de conduire est restitué au condamné par le greffier de la juridiction
 contre remise du certificat.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34043,7 +34043,7 @@ contre remise du certificat.
 
 	**Cite**:
 
-	  - Code de la route R123
+	  - Code de la route - art. R123 (Ab)
 
 
 ##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.
@@ -34055,13 +34055,13 @@ catégories de véhicules dont la conduite est interdite et la durée de cette i
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34073,29 +34073,33 @@ catégories de véhicules dont la conduite est interdite et la durée de cette i
 ###### Article R131-4
 
 Lorsque le condamné est titulaire d'un permis de conduire, l'agent de l'autorité chargé de l'exécution de la décision lui
-remet, en échange de ce permis, un certificat établi par le greffier de la juridiction. Ce certificat mentionne :
+remet, en échange de ce permis, un certificat établi par le greffier de la juridiction. Ce certificat mentionne : 
 
-1° La date de la décision, la juridiction qui l'a prononcée et la durée de l'interdiction de conduire ;
+1° La date de la décision, la juridiction qui l'a prononcée et la durée de l'interdiction de conduire ; 
 
-2° Les nom, prénoms, date et lieu de naissance, profession et domicile de l'intéressé ;
+2° Les nom, prénoms, date et lieu de naissance, profession et domicile de l'intéressé ; 
 
 3° Les références du permis de conduire ainsi que les diverses indications qui y sont portées, y compris éventuellement les
-limitations et restrictions de validité qu'il comporte ;
+limitations et restrictions de validité qu'il comporte ; 
 
-4° La ou les catégories de véhicules pour lesquelles le permis de conduire cesse d'être valable.
+4° La ou les catégories de véhicules pour lesquelles le permis de conduire cesse d'être valable. 
 
 Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, notamment au regard des
-articles R221-1 à R221-3 du nouveau code de la route, justification du droit de conduire, à l'exception de la ou des
-catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction de conduire.
+articles R. 221-1 à R. 221-3 du nouveau code de la route, justification du droit de conduire, à l'exception de la ou des
+catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction de conduire. 
 
 A l'issue de la période d'interdiction, le permis de conduire est restitué au condamné par le greffier de la juridiction
 contre remise du certificat.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
 	**Modifié par**:
 
-	  - Décret n°2001-251 du 22 mars 2001 (V)
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34109,10 +34113,10 @@ contre remise du certificat.
 
 	**Cite**:
 
-	  - Code de la route R123
+	  - Code de la route. - art. R221-1 (V)
 
 
-##### Paragraphe 3 : De l'immobilisation de véhicule.
+##### Paragraphe 3 : De l'immobilisation de véhicule
 
 ###### Article R131-5
 
@@ -34121,13 +34125,13 @@ officier de police judiciaire ou, sous l'autorité de celui-ci, un agent de poli
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34140,13 +34144,13 @@ L'agent de l'autorité met en demeure le condamné de présenter son véhicule a
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34166,13 +34170,13 @@ d'immobilisation, les éléments d'identification du véhicule et son kilométra
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 
 ###### Article R131-8
@@ -34182,13 +34186,13 @@ technique.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34203,13 +34207,13 @@ Il rend compte au procureur de la République de tout incident d'exécution.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -34222,13 +34226,13 @@ L'immobilisation cesse et le certificat d'immatriculation est restitué dès la 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
 
 
 ###### Article R131-11
@@ -34238,13 +34242,47 @@ l'action du créancier qui disposerait d'un droit réel constitué antérieureme
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+
+
+##### Paragraphe 4 : De l'obligation d'accomplir un stage de sensibilisation à la sécurité routière
+
+###### Article R131-11-1
+
+Le stage de sensibilisation à la sécurité routière prévu par l'article 131-35-1 est dispensé, dans les conditions fixées par
+les articles R. 223-5 à R. 223-13 du code de la route, par les personnes agréées selon les modalités définies par ces
+articles. 
+
+Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des transports peut fixer un programme
+et une durée de stage différents, sans que cette durée puisse excéder cinq jours. 
+
+Les frais de stage, à la charge du condamné, ne peuvent excéder le montant maximum de l'amende encourue pour les
+contraventions de la 3e classe.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code de la route. - art. R223-5 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. R132-45 (V)
 
 
 #####   Sous-section 2 : Du travail d'intérêt général
@@ -34843,6 +34881,37 @@ secrétaire du comité central d'entreprise et, en l'absence de tels comités, a
 	**Nouveaux textes**:
 
 	  - Code pénal art. R131-46
+
+
+#### Chapitre II : Du régime des peines
+
+##### Section 2 : Des modes de personnalisation des peines
+
+##### Sous-section 4 : Du sursis avec mise à l'épreuve
+
+###### Article R132-45
+
+L'attestation de stage de sensibilisation à la sécurité routière prévue au second alinéa de l'article 131-35-1 est adressée
+au juge de l'application des peines ou au service pénitentiaire d'insertion et de probation chargé du suivi de cette
+obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 2004 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-5-1 (V)
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
@@ -36613,24 +36682,16 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 ###### Article R625-2
 
-Hors le cas prévu par l'article 222-20, le fait de causer à autrui, par maladresse, imprudence, inattention, négligence ou
-manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, dans les conditions et selon les
-distinctions prévues à l'article 121-3, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est
-puni de l'amende prévue pour les contraventions de la 5e classe.
+Hors les cas prévus par les articles 222-20 et 222-20-1, le fait de causer à autrui, par maladresse, imprudence, inattention,
+négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, dans les conditions
+et selon les distinctions prévues à l'article 121-3, une incapacité totale de travail d'une durée inférieure ou égale à trois
+mois est puni de l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°2001-883 du 20 septembre 2001 - art. 3 () JORF 27 septembre 2001
 
 	**Cité par**:
 
@@ -36643,10 +36704,14 @@ puni de l'amende prévue pour les contraventions de la 5e classe.
 	  - Code pénal - art. R625-5 (V)
 	  - Code pénal - art. R625-6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+
 	**Cite**:
 
-	  - Code pénal - art. 121-3 (M)
-	  - Code pénal - art. 222-20 (M)
+	  - Code pénal - art. 121-3 (V)
+	  - Code pénal - art. 222-20 (V)
 
 
 ###### Article R625-3
