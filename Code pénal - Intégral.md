@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2003-02-04
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -1744,7 +1744,9 @@ L'échelle des peines d'emprisonnement est la suivante :
 
 6° Un an au plus ;
 
-7° Six mois au plus.
+7° Six mois au plus ;
+
+8° Deux mois au plus.
 
 **Liens relatifs à cet article**
 
@@ -1756,12 +1758,12 @@ L'échelle des peines d'emprisonnement est la suivante :
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 du 18 mars 2003 - art. 48 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 48
 
 
 ###### Article 131-5
@@ -8606,6 +8608,31 @@ supposée, à une ethnie, une nation, une race ou une religion déterminée.
 	  - Loi n°2003-88 du 3 février 2003 - art. 1
 
 
+###### Article 132-77
+
+Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
+commise à raison de l'orientation sexuelle de la victime.
+
+La circonstance aggravante définie au premier alinéa est constituée lorsque l'infraction est précédée, accompagnée ou suivie
+de propos, écrits, utilisation d'images ou d'objets ou actes de toute nature portant atteinte à l'honneur ou à la
+considération de la victime ou d'un groupe de personnes dont fait partie la victime à raison de leur orientation sexuelle
+vraie ou supposée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 29 juillet 1881 - art. 48-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+
+
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
 
 ###### Article 133-1
@@ -9405,17 +9432,27 @@ Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est co
 3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
 physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
-ou une religion déterminée.
+ou une religion déterminée ;
+
+7° A raison de l'orientation sexuelle de la victime.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
@@ -9432,7 +9469,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 2 () JORF 4 février 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003 Rectificatif JORF du 5 juin 2003
 
 	**Cité par**:
 
@@ -9448,6 +9485,8 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
+	  - Code pénal 132-23, 2
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 221-5
@@ -9876,17 +9915,27 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ;
+
+5° ter A raison de l'orientation sexuelle de la victime ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -9917,7 +9966,9 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 3 () JORF 4 février 2003
+	  - Loi n°2003-239 2003-03-18 art. 47 III, art. 60 I, II JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -9931,6 +9982,7 @@ présent article.
 
 	  - Code pénal - art. 132-23 (M)
 	  - Code pénal - art. 222-1 (V)
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 222-4
@@ -10092,19 +10144,27 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
-Article 4
-
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ;
+
+5° ter A raison de l'orientation sexuelle de la victime ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -10154,12 +10214,16 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 4 () JORF 4 février 2003
+	  - Loi n°2003-239 2003-03-18 art. 47 IV, art. 60 I, II JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
 	  - Code pénal - art. 222-7 (V)
+	  - Code pénal 222-7, 4, 132-23
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 222-9
@@ -10214,17 +10278,27 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ;
+
+5° ter A raison de l'orientation sexuelle de la victime ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -10276,12 +10350,15 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 5 () JORF 4 février 2003
+	  - Loi n°2003-239 2003-03-18 art. 47 V, art. 60 I, II JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
 	  - Code pénal - art. 222-9 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 222-11
@@ -10326,17 +10403,27 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ;
+
+5° ter A raison de l'orientation sexuelle de la victime ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -10352,13 +10439,16 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
 sorties des élèves, aux abords d'un tel établissement ;
 
-12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
+voyageurs.
 
 Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
 personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque
-cette infraction est commise dans deux des circonstances prévues aux 1° à 12° du présent article. Les peines sont portées à
-dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+cette infraction est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont
+portées à dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 précédent alinéa.
@@ -10394,12 +10484,16 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 6 () JORF 4 février 2003
+	  - Loi n°2003-239 2003-03-18 art. 47 VI, art. 60 I, II, art. 78 I, II JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (M)
 	  - Code pénal - art. 222-11 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 222-13
@@ -10414,17 +10508,27 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de le
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire
-de la police nationale, des douanes, de l'administration pénitentiaire, un agent d'un exploitant de réseau de transport
-public de voyageurs ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public,
-dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est
-apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
+fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
+l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
+usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
+personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+
+4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
+de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
+est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
 déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ;
+
+5° ter A raison de l'orientation sexuelle de la victime ;
 
 6° Par le conjoint ou le concubin de la victime ;
 
@@ -10440,14 +10544,17 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
 sorties des élèves, aux abords d'un tel établissement ;
 
-12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
+voyageurs.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au
 premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
 personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75000 euros d'amende
 lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans
-deux des circonstances prévues aux 1° à 12° du présent article. Les peines sont portées à sept ans d'emprisonnement et 100000
-euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à sept ans d'emprisonnement et
+100000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
 
@@ -10472,7 +10579,14 @@ euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 7 () JORF 4 février 2003
+	  - Loi n°2003-239 2003-03-18 art. 47 VII, art. 60 I, II, art. 78 I, II JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ###### Article 222-14
@@ -10569,7 +10683,7 @@ mêmes cas que ceux prévus par ces articles.
 
 ###### Article 222-16
 
-Les appels téléphoniques malveillants ou les agressions sonores, réitérés en vue de troubler la tranquillité d'autrui, sont
+Les appels téléphoniques malveillants réitérés ou les agressions sonores en vue de troubler la tranquillité d'autrui, sont
 punis d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
@@ -10578,14 +10692,10 @@ punis d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 49 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 49
 
 	**Cité par**:
 
@@ -11004,7 +11114,9 @@ victime ;
 7° Lorsqu'il est commis avec usage ou menace d'une arme ;
 
 8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications.
+destination d'un public non déterminé, d'un réseau de télécommunications ;
+
+9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime.
 
 **Liens relatifs à cet article**
 
@@ -11012,14 +11124,9 @@ destination d'un public non déterminé, d'un réseau de télécommunications.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 13 () JORF 18 juin 1998
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -11199,7 +11306,9 @@ victime ;
 
 4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme.
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+
+6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime.
 
 **Liens relatifs à cet article**
 
@@ -11207,14 +11316,9 @@ victime ;
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13357,7 +13461,276 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 225-2 (M)
 
 
-##### Section 2 : Du proxénétisme et des infractions assimilées.
+##### Section 1 bis : De la traite des êtres humains
+
+###### Article 225-4-1
+
+La traite des êtres humains est le fait, en échange d'une rémunération ou de tout autre avantage ou d'une promesse de
+rémunération ou d'avantage, de recruter une personne, de la transporter, de la transférer, de l'héberger ou de l'accueillir,
+pour la mettre à la disposition d'un tiers, même non identifié, afin soit de permettre la commission contre cette personne
+des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité, de conditions de
+travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime ou délit.
+
+La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 16-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 17-1 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Loi n°2016-444 du 13 avril 2016 - art. 13
+	  - Loi n°2016-444 du 13 avril 2016 - art. 3
+	  - Loi n°2016-444 du 13 avril 2016 - art. 6
+	  - Loi n°2016-444 du 13 avril 2016 - art. 8
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R316-1 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de procédure pénale - art. 2-22 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
+	  - Code de procédure pénale - art. 706-35-1 (V)
+	  - Code de procédure pénale - art. 706-47 (M)
+	  - Code de procédure pénale - art. 706-55 (V)
+	  - Code des transports - art. R3113-26 (VD)
+	  - Code des transports - art. R3211-27 (VD)
+	  - Code du travail - art. R8252-2 (V)
+	  - Code pénal - art. 132-16-3 (V)
+	  - Code pénal - art. 225-14-2 (V)
+	  - Code pénal - art. 225-4-2 (V)
+	  - Code pénal - art. 225-4-3 (V)
+	  - Code pénal - art. 225-4-4 (V)
+	  - Code pénal - art. 225-4-5 (V)
+	  - Code pénal - art. 225-4-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+
+
+###### Article 225-4-2
+
+L'infraction prévue à l'article 225-4-1 est punie de dix ans d'emprisonnement et de 1 500 000 Euros d'amende lorsqu'elle est
+commise :
+
+1° A l'égard d'un mineur ;
+
+2° A l'égard d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° A l'égard de plusieurs personnes ;
+
+4° A l'égard d'une personne qui se trouvait hors du territoire de la République ou lors de son arrivée sur le territoire de
+la République ;
+
+5° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de télécommunications ;
+
+6° Dans des circonstances qui exposent directement la personne à l'égard de laquelle l'infraction est commise à un risque
+immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ;
+
+7° Avec l'emploi de menaces, de contraintes, de violences ou de manoeuvres dolosives visant l'intéressé, sa famille ou une
+personne étant en relation habituelle avec lui ;
+
+8° Par un ascendant légitime, naturel ou adoptif de la personne victime de l'infraction prévue à l'article 225-4-1 ou par une
+personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses fonctions ;
+
+9° Par une personne appelée à participer, par ses fonctions, à la lutte contre la traite ou au maintien de l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-73 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-4-1 (M)
+
+
+###### Article 225-4-3
+
+L'infraction prévue à l'article 225-4-1 est punie de vingt ans de réclusion criminelle et de 3 000 000 euros d'amende
+lorsqu'elle est commise en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Cité par**:
+
+	  - Code pénal - art. 225-20 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-4-1 (V)
+
+
+###### Article 225-4-4
+
+L'infraction prévue à l'article 225-4-1 commise en recourant à des tortures ou à des actes de barbarie est punie de la
+réclusion criminelle à perpétuité et de 4 500 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Cité par**:
+
+	  - Code pénal - art. 225-20 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-4-1 (V)
+
+
+###### Article 225-4-5
+
+Lorsque le crime ou le délit qui a été commis ou qui devait être commis contre la personne victime de l'infraction de traite
+des êtres humains est puni d'une peine privative de liberté d'une durée supérieure à celle de l'emprisonnement encouru en
+application des articles 225-4-1 à 225-4-3, l'infraction de traite des êtres humains est punie des peines attachées aux
+crimes ou aux délits dont son auteur a eu connaissance et, si ce crime ou délit est accompagné de circonstances aggravantes,
+des peines attachées aux seules circonstances aggravantes dont il a eu connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Cite**:
+
+	  - Code pénal - art. 225-4-1 (V)
+
+
+###### Article 225-4-6
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions prévues à la présente section. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+
+	**Cité par**:
+
+	  - Code du travail - art. R8252-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 225-4-7
+
+La tentative des délits prévus à la présente section est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 15 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 16 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 16 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+
+###### Article 225-4-8
+
+Le fait de ne pas pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles
+avec une ou plusieurs personnes victimes ou auteurs des infractions prévues aux articles 225-4-1 à 225-4-6, est puni de sept
+ans d'emprisonnement et de 750 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Abrogé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-35-1 (V)
+	  - Code pénal - art. 132-16-3 (V)
+	  - Livre des procédures fiscales - art. L10 B (V)
+
+	**Cite**:
+
+	  - Code pénal 225-4-1 à 225-4-6
+
+
+##### Section 2 : Du proxénétisme et des infractions qui en résultent
 
 ###### Article 225-5
 
@@ -13371,7 +13744,7 @@ livrant habituellement à la prostitution ;
 3° D'embaucher, d'entraîner ou de détourner une personne en vue de la prostitution ou d'exercer sur elle une pression pour
 qu'elle se prostitue ou continue à le faire.
 
-Le proxénétisme est puni de sept ans d'emprisonnement et de 150000 euros d'amende.
+Le proxénétisme est puni de sept ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13420,30 +13793,24 @@ Le proxénétisme est puni de sept ans d'emprisonnement et de 150000 euros d'ame
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 
 ###### Article 225-6
 
 Est assimilé au proxénétisme et puni des peines prévues par l'article 225-5 le fait, par quiconque, de quelque manière que ce
-soit :
+soit : 
 
 1° De faire office d'intermédiaire entre deux personnes dont l'une se livre à la prostitution et l'autre exploite ou rémunère
-la prostitution d'autrui ;
+la prostitution d'autrui ; 
 
-2° De faciliter à un proxénète la justification de ressources fictives ;
+2° De faciliter à un proxénète la justification de ressources fictives ; 
 
 3° De ne pouvoir justifier de ressources correspondant à son train de vie tout en vivant avec une personne qui se livre
 habituellement à la prostitution ou tout en étant en relations habituelles avec une ou plusieurs personnes se livrant à la
-prostitution ;
+prostitution ; 
 
 4° D'entraver l'action de prévention, de contrôle, d'assistance ou de rééducation entreprise par les organismes qualifiés à
 l'égard de personnes en danger de prostitution ou se livrant à la prostitution.
@@ -13464,18 +13831,13 @@ l'égard de personnes en danger de prostitution ou se livrant à la prostitution
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Anciens textes**:
-
-	  - CODE PENAL - art. 335-5 (Ab)
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cite**:
 
-	  - Code pénal - art. 225-5 (M)
+	  - Code pénal - art. 225-5 (V)
 
 
 ###### Article 225-7
@@ -13532,14 +13894,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cite**:
 
@@ -13548,7 +13905,7 @@ présent article.
 
 ###### Article 225-7-1
 
-Le proxénétisme est puni de quinze ans de réclusion criminelle et de 3000000 euros d'amende lorsqu'il est commis à l'égard
+Le proxénétisme est puni de quinze ans de réclusion criminelle et de 3 000 000 euros d'amende lorsqu'il est commis à l'égard
 d'un mineur de quinze ans.
 
 **Liens relatifs à cet article**
@@ -13557,13 +13914,9 @@ d'un mineur de quinze ans.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13572,8 +13925,8 @@ d'un mineur de quinze ans.
 
 ###### Article 225-8
 
-Le proxénétisme prévu à l'article 225-7 est puni de vingt ans de réclusion criminelle et de 3000000 euros d'amende lorsqu'il
-est commis en bande organisée.
+Le proxénétisme prévu à l'article 225-7 est puni de vingt ans de réclusion criminelle et de 3 000 000 euros d'amende
+lorsqu'il est commis en bande organisée. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article.
@@ -13584,14 +13937,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13600,14 +13948,14 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 225-7 (M)
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 225-7 (V)
 
 
 ###### Article 225-9
 
 Le proxénétisme commis en recourant à des tortures ou des actes de barbarie est puni de la réclusion criminelle à perpétuité
-et de 4 500 000 euros d'amende.
+et de 4 500 000 euros d'amende. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
 présent article.
@@ -13618,14 +13966,9 @@ présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13633,24 +13976,27 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 225-10
 
-Est puni de dix ans d'emprisonnement et de 750000 euros d'amende le fait, par quiconque, agissant directement ou par personne
-interposée :
+Est puni de dix ans d'emprisonnement et de 750 000 euros d'amende le fait, par quiconque, agissant directement ou par
+personne interposée : 
 
 1° De détenir, gérer, exploiter, diriger, faire fonctionner, financer ou contribuer à financer un établissement de
-prostitution ;
+prostitution ; 
 
 2° Détenant, gérant, exploitant, dirigeant, faisant fonctionner, finançant ou contribuant à financer un établissement
 quelconque ouvert au public ou utilisé par le public, d'accepter ou de tolérer habituellement qu'une ou plusieurs personnes
 se livrent à la prostitution à l'intérieur de l'établissement ou de ses annexes ou y recherchent des clients en vue de la
-prostitution ;
+prostitution ; 
 
 3° De vendre ou de tenir à la disposition d'une ou de plusieurs personnes des locaux ou emplacements non utilisés par le
-public, en sachant qu'elles s'y livreront à la prostitution.
+public, en sachant qu'elles s'y livreront à la prostitution ; 
+
+4° De vendre, de louer ou de tenir à la disposition, de quelque manière que ce soit, d'une ou plusieurs personnes, des
+véhicules de toute nature en sachant qu'elles s'y livreront à la prostitution. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par les
 1° et 2° du présent article.
@@ -13683,18 +14029,45 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 1°, art. 51 JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 51 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 51
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
+
+
+###### Article 225-10-1
+
+Le fait, par tout moyen, y compris par une attitude même passive, de procéder publiquement au racolage d'autrui en vue de
+l'inciter à des relations sexuelles en échange d'une rémunération ou d'une promesse de rémunération est puni de deux mois
+d'emprisonnement et de 3 750 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 du 22 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°2001-583 du 5 juillet 2001 - art. 7 (VT)
+	  - Décret n°2006-1411 du 20 novembre 2006 - art. 7 (VT)
+	  - Code de procédure pénale - art. 398-1 (M)
+	  - Code de procédure pénale - art. R40-27 (V)
+	  - Code pénal - art. 225-25 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 50 2° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 50
+
+	**Abrogé par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 15
 
 
 ###### Article 225-11
@@ -13707,10 +14080,9 @@ La tentative des délits prévus par la présente section est punie des mêmes p
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13736,10 +14108,9 @@ Les peines encourues par les personnes morales sont :
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
 
 	**Cite**:
 
@@ -13749,27 +14120,24 @@ Les peines encourues par les personnes morales sont :
 	  - Code pénal 121-2, 225-5 à 225-10, 131-38, 131-39
 
 
-##### Section 2 bis : Du recours à la prostitution d'un mineur
+##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.
 
 ###### Article 225-12-1
 
 Le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de rémunération, des
 relations de nature sexuelle de la part d'un mineur qui se livre à la prostitution, y compris de façon occasionnelle, est
-puni de trois ans d'emprisonnement et [*taux*] 45000 euros d'amende.
+puni de trois ans d'emprisonnement et 45 000 euros d'amende.
+
+Est puni des mêmes peines le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de
+rémunération, des relations sexuelles de la part d'une personne qui se livre à la prostitution, y compris de façon
+occasionnelle, lorsque cette personne présente une particulière vulnérabilité, apparente ou connue de son auteur, due à une
+maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -13787,14 +14155,19 @@ puni de trois ans d'emprisonnement et [*taux*] 45000 euros d'amende.
 	  - Code de procédure pénale - art. 706-55 (V)
 	  - Code pénal - art. 225-12-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 50 3°, 4° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 50
+
 
 ###### Article 225-12-2
 
-Les peines sont portées à cinq ans d'emprisonnement et [*taux*] 75000 euros d'amende :
+Les peines sont portées à cinq ans d'emprisonnement et 75000 euros d'amende :
 
-1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de plusieurs mineurs ;
+1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de plusieurs personnes ;
 
-2° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+2° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
 destination d'un public non déterminé, d'un réseau de communication ;
 
 3° Lorsque les faits sont commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions.
@@ -13807,20 +14180,16 @@ Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende l
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
-
 	**Cité par**:
 
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 	  - Décret n°2016-1352 du 10 octobre 2016 - art. 1
 	  - Code de l'action sociale et des familles - art. D221-19 (V)
 	  - Code pénal - art. 225-12-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 50 3°, 5° JORF 19 mars 2003
 
 
 ###### Article 225-12-3
@@ -13835,20 +14204,15 @@ alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 3° JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 113-6 (V)
 	  - Code pénal - art. 113-8 (V)
-	  - Code pénal - art. 225-12-1 (M)
-	  - Code pénal - art. 225-12-2 (M)
+	  - Code pénal - art. 225-12-1 (V)
 
 
 ###### Article 225-12-4
@@ -13871,13 +14235,9 @@ laquelle l'infraction a été commise.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2003-239 2003-03-18 art. 50 3° JORF 19 mars 2003
 
 	**Cite**:
 
@@ -13886,13 +14246,28 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (MMN)
 
 
-##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
+##### Section 2 ter : De l'exploitation de la mendicité
 
-###### Article 225-13
+###### Article 225-12-5
 
-Le fait d'obtenir d'une personne, en abusant de sa vulnérabilité ou de sa situation de dépendance, la fourniture de services
-non rétribués ou en échange d'une rétribution manifestement sans rapport avec l'importance du travail accompli est puni de
-deux ans d'emprisonnement et de 75000 euros d'amende.
+L'exploitation de la mendicité est le fait par quiconque de quelque manière que ce soit :
+
+1° D'organiser la mendicité d'autrui en vue d'en tirer profit ;
+
+2° De tirer profit de la mendicité d'autrui, d'en partager les bénéfices ou de recevoir des subsides d'une personne se
+livrant habituellement à la mendicité ;
+
+3° D'embaucher, d'entraîner ou de détourner une personne en vue de la livrer à la mendicité, ou d'exercer sur elle une
+pression pour qu'elle mendie ou continue de le faire ;
+
+4° D'embaucher, d'entraîner ou de détourner à des fins d'enrichissement personnel une personne en vue de la livrer à
+l'exercice d'un service moyennant un don sur la voie publique.
+
+Est assimilé à l'exploitation de la mendicité le fait de ne pouvoir justifier de ressources correspondant à son train de vie
+tout en exerçant une influence de fait, permanente ou non, sur une ou plusieurs personnes se livrant à la mendicité ou en
+étant en relation habituelle avec cette ou ces dernières.
+
+L'exploitation de la mendicité est punie de trois ans d'emprisonnement et d'une amende de 45 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -13900,14 +14275,94 @@ deux ans d'emprisonnement et de 75000 euros d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de procédure pénale - art. 706-55 (V)
+
+
+###### Article 225-12-6
+
+L'exploitation de la mendicité est punie de cinq ans d'emprisonnement et d'une amende de 75 000 euros lorsqu'elle est
+commise :
+
+1° A l'égard d'un mineur ;
+
+2° A l'égard d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° A l'égard de plusieurs personnes ;
+
+4° A l'égard d'une personne qui a été incitée à se livrer à la mendicité soit hors du territoire de la République, soit à son
+arrivée sur le territoire de la République ;
+
+5° Par un ascendant légitime, naturel ou adoptif de la personne qui mendie ou par une personne qui a autorité sur elle ou
+abuse de l'autorité que lui confèrent ses fonctions ;
+
+6° Avec l'emploi de la contrainte, de violences ou de manoeuvres dolosives sur la personne se livrant à la mendicité, sur sa
+famille ou sur une personne étant en relation habituelle avec elle ;
+
+7° Par plusieurs personnes agissant en qualité d'auteurs ou de complices, sans qu'elles constituent une bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64
+
+	**Cité par**:
+
+	  - Code du travail - art. L261-3 (AbD)
+	  - Code du travail - art. L4741-8 (VD)
+
+
+###### Article 225-12-7
+
+L'exploitation de la mendicité d'autrui est punie de dix ans d'emprisonnement et de 1 500 000 euros d'amende lorsqu'elle est
+commise en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64
+
+
+##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
+
+###### Article 225-13
+
+Le fait d'obtenir d'une personne, dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur, la
+fourniture de services non rétribués ou en échange d'une rétribution manifestement sans rapport avec l'importance du travail
+accompli est puni de cinq ans d'emprisonnement et de 150 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 33 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -13923,9 +14378,9 @@ deux ans d'emprisonnement et de 75000 euros d'amende.
 
 ###### Article 225-14
 
-Le fait de soumettre une personne, en abusant de sa vulnérabilité ou de sa situation de dépendance, à des conditions de
-travail ou d'hébergement incompatibles avec la dignité humaine est puni de deux ans d'emprisonnement et de 75000 euros
-d'amende.
+Le fait de soumettre une personne, dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur, à des
+conditions de travail ou d'hébergement incompatibles avec la dignité humaine est puni de cinq ans d'emprisonnement et de 150
+000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13933,14 +14388,13 @@ d'amende.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 34 () JORF 19 mars 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 34
 
 	**Cité par**:
 
@@ -13954,8 +14408,14 @@ d'amende.
 
 ###### Article 225-15
 
-Les infractions définies aux articles 225-13 et 225-14 sont punies de cinq ans d'emprisonnement et de 150000 euros d'amende
-lorsqu'elles sont commises à l'égard de plusieurs personnes.
+Les infractions définies aux articles 225-13 et 225-14 sont punies de sept ans d'emprisonnement et de 200000 euros d'amende
+lorsqu'elles sont commises à l'égard de plusieurs personnes. 
+
+Lorsqu'elles sont commises à l'égard d'un mineur, elles sont punies de sept ans d'emprisonnement et de 200 000 Euros
+d'amende. 
+
+Lorsqu'elles sont commises à l'égard de plusieurs personnes parmi lesquelles figurent un ou plusieurs mineurs, elles sont
+punies de dix ans d'emprisonnement et de 300 000 Euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13963,14 +14423,10 @@ lorsqu'elles sont commises à l'égard de plusieurs personnes.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 35 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 35
 
 	**Cité par**:
 
@@ -13979,8 +14435,29 @@ lorsqu'elles sont commises à l'égard de plusieurs personnes.
 
 	**Cite**:
 
-	  - Code pénal - art. 225-13 (M)
-	  - Code pénal - art. 225-14 (M)
+	  - Code pénal - art. 225-13 (V)
+
+
+###### Article 225-15-1
+
+Pour l'application des articles 225-13 et 225-14, les mineurs ou les personnes qui ont été victimes des faits décrits par ces
+articles à leur arrivée sur le territoire français sont considérés comme des personnes vulnérables ou en situation de
+dépendance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 36 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 36
+
+	**Cite**:
+
+	  - Code pénal - art. 225-13 (V)
 
 
 ###### Article 225-16
@@ -14285,8 +14762,8 @@ l'article 225-14.
 
 ###### Article 225-20
 
-Les personnes physiques coupables des infractions prévues par les sections 2 et 2 bis du présent chapitre encourent également
-les peines complémentaires suivantes :
+Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis et 2 ter du présent chapitre
+encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
@@ -14309,15 +14786,10 @@ quelconque participation financière ;
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2003-239 2003-03-18 art. 64 I, 2° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
 
 	**Cite**:
 
@@ -14328,8 +14800,8 @@ quelconque participation financière ;
 ###### Article 225-21
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
-définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies à
-la section 2 du présent chapitre.
+définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
+aux sections 1 bis, 2 et 2 ter du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -14337,14 +14809,10 @@ la section 2 du présent chapitre.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-684 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 2003-03-18 art. 64 I, 3° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
 
 	**Cite**:
 
@@ -14451,6 +14919,27 @@ produits de l'infraction détenus par une personne autre que la personne se livr
 	**Cite**:
 
 	  - Code pénal 225-5 à 225-10
+
+
+###### Article 225-25
+
+Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre
+encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature,
+meubles ou immeubles, divis ou indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 37 () JORF 19 mars 2003
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 706-36-1 (Ab)
 
 
 #### Chapitre VI : Des atteintes à la personnalité
@@ -15518,6 +16007,10 @@ personne qui n'est pas en mesure de se protéger en raison de son âge ou de son
 constatés dans l'exercice de sa profession et qui lui permettent de présumer que des violences sexuelles de toute nature ont
 été commises.
 
+3° Aux professionnels de la santé ou de l'action sociale qui informent le préfet et, à Paris, le préfet de police du
+caractère dangereux pour elles-mêmes ou pour autrui des personnes qui les consultent et dont ils savent qu'elles détiennent
+une arme ou qu'elles ont manifesté leur intention d'en acquérir une.
+
 Aucune sanction disciplinaire ne peut être prononcée du fait du signalement de sévices par le médecin aux autorités
 compétentes dans les conditions prévues au présent article.
 
@@ -15746,14 +16239,9 @@ compétentes dans les conditions prévues au présent article.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 89 () JORF 18 janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 85 () JORF 19 mars 2003
 
 	**Cite**:
 
@@ -16898,20 +17386,18 @@ Le fait, par un ascendant légitime, naturel ou adoptif ou toute autre personne 
 ayant autorité sur un mineur de quinze ans, de priver celui-ci d'aliments ou de soins au point de compromettre sa santé est
 puni de sept ans d'emprisonnement et de 100000 euros d'amende.
 
+Constitue notamment une privation de soins le fait de maintenir un enfant de moins de six ans sur la voie publique ou dans un
+espace affecté au transport collectif de voyageurs, dans le but de solliciter la générosité des passants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 44 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -17138,38 +17624,6 @@ présent article est punie de trois ans d'emprisonnement et de 75000 euros d'ame
 	  - Loi n°2016-41 du 26 janvier 2016 - art. 12
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de la santé publique - art. L3353-4 (V)
-
-
-###### Article 227-20
-
-Le fait de provoquer directement un mineur à la mendicité est puni de deux ans d'emprisonnement et de 45000 euros d'amende.
-
-Lorsqu'il s'agit d'un mineur de quinze ans, l'infraction définie par le présent article est punie de trois ans
-d'emprisonnement et de 75000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 64
-
-	**Cité par**:
-
-	  - Code du travail - art. L261-3 (M)
 
 
 ###### Article 227-21
@@ -18567,6 +19021,38 @@ Les dispositions de l'article 311-12 sont applicables aux infractions prévues p
 	  - Code pénal - art. 311-12 (M)
 
 
+##### Section 2 bis : De la demande de fonds sous contrainte
+
+###### Article 312-12-1
+
+Le fait, en réunion et de manière agressive, ou sous la menace d'un animal dangereux, de solliciter, sur la voie publique, la
+remise de fonds, de valeurs ou d'un bien est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 15 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 16 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 16 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 10
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 65 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 65
+
+
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
 
 ###### Article 312-13
@@ -18933,12 +19419,37 @@ La tentative des infractions prévues au présent article est punie des mêmes p
 	  - Code rural - art. L235-2 (Ab)
 
 
+###### Article 313-6-1
+
+Le fait de mettre à disposition d'un tiers, en vue qu'il y établisse son habitation moyennant le versement d'une contribution
+ou la fourniture de tout avantage en nature, un bien immobilier appartenant à autrui, sans être en mesure de justifier de
+l'autorisation du propriétaire ou de celle du titulaire du droit d'usage de ce bien, est puni d'un an d'emprisonnement et de
+15 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 57 1° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 57
+
+	**Cité par**:
+
+	  - Code pénal - art. 313-7 (V)
+	  - Code pénal - art. 313-8 (V)
+	  - Code pénal - art. 313-9 (V)
+
+
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
 
 ###### Article 313-7
 
-Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2 et 313-6 encourent également les peines
-complémentaires suivantes :
+Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2, 313-6 et 313-6-1 encourent également
+les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
@@ -18990,29 +19501,14 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V) JORF 13 juin 2001
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-35 (M)
-	  - Code pénal - art. 313-1 (M)
-	  - Code pénal - art. 313-2 (M)
-	  - Code pénal - art. 313-6 (M)
+	  - Loi n°2003-239 2003-03-18 art. 57 2° JORF 19 mars 2003
 
 
 ###### Article 313-8
 
-Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2 et 313-6 encourent également
+Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2, 313-6 et 313-6-1 encourent également
 l'exclusion des marchés publics pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
@@ -19041,22 +19537,22 @@ l'exclusion des marchés publics pour une durée de cinq ans au plus.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2003-239 2003-03-18 art. 57 3° JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 313-1 (M)
 	  - Code pénal - art. 313-2 (M)
 	  - Code pénal - art. 313-6 (M)
+	  - Code pénal - art. 313-6-1 (V)
 
 
 ###### Article 313-9
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles 313-1 à 313-3.
+infractions définies aux articles 313-1 à 313-3 et à l'article 313-6-1.
 
 Les peines encourues par les personnes morales sont :
 
@@ -19073,21 +19569,17 @@ laquelle l'infraction a été commise.
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2001-504 du 12 juin 2001 - art. 21 (V) JORF 13 juin 2001
+	  - Loi n°2003-239 2003-03-18 art. 57 4° JORF 19 mars 2003
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
-	  - Code pénal 121-2, 313-1 à 313-3, 131-38, 131-39
+	  - Code pénal - art. 313-6-1 (V)
+	  - Code pénal 121-2, 313-1 à 313-3, 313-6-1, 131-38, 131-39
 
 
 #### Chapitre IV : Des détournements
@@ -20259,6 +20751,38 @@ La tentative des infractions prévues à la présente section est punie des mêm
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
+###### Article 322-4-1
+
+Le fait de s'installer en réunion, en vue d'y établir une habitation, même temporaire, sur un terrain appartenant soit à une
+commune qui s'est conformée aux obligations lui incombant en vertu du schéma départemental prévu par l'article 2 de la loi n°
+2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ou qui n'est pas inscrite à ce schéma, soit
+à tout autre propriétaire autre qu'une commune, sans être en mesure de justifier de son autorisation ou de celle du titulaire
+du droit d'usage du terrain, est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+
+Lorsque l'installation s'est faite au moyen de véhicules automobiles, il peut être procédé à leur saisie, à l'exception des
+véhicules destinés à l'habitation, en vue de leur confiscation par la juridiction pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Cite**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 2 (M)
+
+	**Créé par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 53 1° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 53
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code pénal - art. 322-15-1 (V)
+
+
 ##### Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes
 
 ###### Article 322-5
@@ -20633,6 +21157,31 @@ ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12
 	  - Code pénal - art. 322-3 (M)
 	  - Code pénal - art. 322-5 (M)
 	  - Code pénal 131-26, 131-27, 322-6 à 322-10, 322-1, 322-2, 322-3, 322-5, 322-12, 322-13, 322-14, 131-31, 322-7 à 322-10
+
+
+###### Article 322-15-1
+
+Les personnes physiques coupables de l'infraction prévue à l'article 322-4-1 encourent les peines complémentaires suivantes :
+
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire ;
+
+2° La confiscation du ou des véhicules automobiles utilisés pour commettre l'infraction, à l'exception des véhicules destinés
+à l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 53 2° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 53
+
+	**Cite**:
+
+	  - Code pénal - art. 322-4-1 (V)
 
 
 ###### Article 322-16
@@ -22749,6 +23298,34 @@ l'un quelconque des actes de terrorisme prévus au présent chapitre, indépenda
 	  - Code pénal - art. 421-5 (V)
 
 
+###### Article 421-2-3
+
+Le fait de ne pouvoir justifier de ressources correspondant à son train de vie, tout en étant en relations habituelles avec
+une ou plusieurs personnes se livrant à l'un ou plusieurs des actes visés aux articles 421-1 à 421-2-2, est puni de sept ans
+d'emprisonnement et de 100 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 45 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 45
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-17 (VT)
+	  - Livre des procédures fiscales - art. L10 B (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 421-1 (V)
+	  - Code pénal - art. 421-2-2 (V)
+
+
 ###### Article 421-3
 
 Le maximum de la peine privative de liberté encourue pour les infractions mentionnées à l'article 421-1 est relevé ainsi
@@ -24558,19 +25135,30 @@ des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 ###### Article 433-3
 
-Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la menace de commettre un crime ou un délit contre les
-personnes ou les biens proférée à l'encontre d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel,
-d'un militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire
-ou de toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou
-à l'occasion de l'exercice de ses fonctions, lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou tout
-autre objet. La peine est portée à cinq ans d'emprisonnement et 75000 euros d'amende lorsqu'il s'agit d'une menace de mort ou
-d'une menace d'atteinte aux biens dangereuse pour les personnes.
+Est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende la menace de commettre un crime ou un délit contre les
+personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré,
+d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police
+nationale, des douanes, de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité publique, d'un
+sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes d'immeubles ou d'un agent
+exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en
+application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions,
+lorsque la qualité de la victime est apparente ou connue de l'auteur. Ces dispositions sont également applicables en cas de
+menace proférée à l'encontre, et du fait de ces mêmes fonctions, du conjoint, des ascendants et des descendants en ligne
+directe de cette personne ou de toute autre personne vivant habituellement à son domicile.
 
-Est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait d'user de menaces, de violences ou de commettre tout
-autre acte d'intimidation pour obtenir d'une personne mentionnée au premier alinéa ou investie d'un mandat électif public
-soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par
-sa fonction, sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une
-autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à
+l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs ou de toute autre personne chargée d'une
+mission de service public ainsi que d'un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la
+victime est apparente ou connue de l'auteur.
+
+La peine est portée à cinq ans d'emprisonnement et 75 000 Euros d'amende lorsqu'il s'agit d'une menace de mort ou d'une
+menace d'atteinte aux biens dangereuse pour les personnes.
+
+Est puni de dix ans d'emprisonnement et de 150 000 Euros d'amende le fait d'user de menaces, de violences ou de commettre
+tout autre acte d'intimidation pour obtenir d'une personne mentionnée au premier ou au deuxième alinéa soit qu'elle
+accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction,
+sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une autorité ou
+d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 **Liens relatifs à cet article**
 
@@ -24596,15 +25184,13 @@ autorité ou d'une administration publique des distinctions, des emplois, des ma
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 59 () JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L127-1 (M)
 
 
 ##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public
@@ -24700,6 +25286,33 @@ d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonne
 	**Modifié par**:
 
 	  - Loi n°2002-1138 du 9 septembre 2002 - art. 45 () JORF 10 septembre 2002
+
+
+###### Article 433-5-1
+
+Le fait, au cours d'une manifestation organisée ou réglementée par les autorités publiques, d'outrager publiquement l'hymne
+national ou le drapeau tricolore est puni de 7 500 euros d'amende.
+
+Lorsqu'il est commis en réunion, cet outrage est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Cité par**:
+
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 22-1 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 22-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 24-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-6-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code pénal - art. R645-15 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 113 () JORF 19 mars 2003
 
 
 ##### Section 5 : De la rébellion
@@ -26565,11 +27178,12 @@ de celui-ci.
 
 ###### Article 434-35
 
-Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, en quelque lieu qu'il se produise, de remettre ou de
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, en quelque lieu qu'il se produise, de remettre ou de
 faire parvenir à un détenu, ou de recevoir de lui et de transmettre des sommes d'argent, correspondances, objets ou
-substances quelconques en dehors des cas autorisés par les règlements.
+substances quelconques ainsi que de communiquer par tout moyen avec une personne détenue, en dehors des cas autorisés par les
+règlements.
 
-La peine est portée à trois ans d'emprisonnement et à 45000 euros d'amende si le coupable est chargé de la surveillance de
+La peine est portée à trois ans d'emprisonnement et à 45 000 euros d'amende si le coupable est chargé de la surveillance de
 détenus ou s'il est habilité par ses fonctions à pénétrer dans un établissement pénitentiaire ou à approcher, à quelque titre
 que ce soit, des détenus.
 
@@ -26579,19 +27193,31 @@ que ce soit, des détenus.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 73
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D274 (V)
 	  - Code pénal - art. 434-44 (M)
+
+
+###### Article 434-35-1
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de pénétrer dans un établissement pénitentiaire ou d'en
+escalader l'enceinte sans y être habilité en vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par
+les autorités compétentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 73
 
 
 ###### Article 434-36
