@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1999-01-07
+Version Consolidée au 1999-03-21
 
 # Partie législative
 
@@ -27440,17 +27440,17 @@ d'emprisonnement et de 100 000 Euros d'amende.
 	  - Code pénal - art. 511-3
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
 #### Chapitre Ier : Dispositions générales.
 
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, le livre Ier, à l'exclusion de l'article 132-70-1, et les livres II à
-V du présent code sont applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles
-Wallis et Futuna.
+V du présent code sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis
+et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -27462,9 +27462,9 @@ Wallis et Futuna.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -27501,14 +27501,14 @@ Les livres Ier à V du présent code sont applicables dans les Terres australes 
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article 711-3
 
-Dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna, les sanctions
+En Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna, les sanctions
 pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette
 monnaie du franc métropolitain.
 
@@ -27522,9 +27522,9 @@ monnaie du franc métropolitain.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -27562,9 +27562,9 @@ dispositions ayant le même objet applicables localement".
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -27593,7 +27593,7 @@ travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice d
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -27626,7 +27626,7 @@ la juridiction. Ils ne peuvent s'opposer à cette diffusion. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 2 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -27655,9 +27655,9 @@ d'emprisonnement et de 300 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -27697,9 +27697,13 @@ satisfaisant aux conditions prévues par la réglementation applicable localemen
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi n°2001-588 du 4 juillet 2001 - art. 19 () JORF 7 juillet 2001
 
 	**Cité par**:
 
@@ -27740,9 +27744,9 @@ condition déterminante de l'exercice d'un emploi ou d'une activité professionn
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -27775,9 +27779,9 @@ n'est pas recueilli. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -27822,9 +27826,9 @@ n'est pas recueilli. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -27865,9 +27869,9 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -27908,9 +27912,9 @@ public ou reconnue d'utilité publique. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -27941,11 +27945,11 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	**Cite**:
 
-	  - Code pénal - art. 421-1 (M)
 	  - Décret n°1870-09-04
 	  - Loi n°1871-06-19 art. 3
 	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
 	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
+	  - Code pénal - art. 421-1 (M)
 
 	**Liens**:
 
@@ -27955,9 +27959,9 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article 715-2
@@ -27980,9 +27984,9 @@ par la voie des télécommunications, l'utilisation ou la divulgation de leur co
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28009,9 +28013,9 @@ applicable localement, le conseil municipal ne peut décider de se réunir à hu
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28038,9 +28042,9 @@ télécommunications. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28067,9 +28071,9 @@ imprimés ou formules au lieu et place des valeurs imitées. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28112,9 +28116,9 @@ est apte. Le refus du mineur fait obstacle au prélèvement. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28152,9 +28156,9 @@ mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de prot
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -28191,9 +28195,9 @@ autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'a
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28235,7 +28239,7 @@ localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 3 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28253,6 +28257,47 @@ localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 	**Cite**:
 
 	  - Code pénal - art. 511-8 (M)
+
+
+###### Article 716-5
+
+L'article 511-11 est ainsi rédigé :
+
+" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-12 (M)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-12 (V)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-11 (M)
 
 
 ###### Article 716-6
@@ -28274,9 +28319,9 @@ est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28314,9 +28359,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28354,9 +28399,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28404,9 +28449,9 @@ recours à un tiers donneur ne peut aboutir. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28434,9 +28479,10 @@ L'article 511-19 est ainsi rédigé :
 expérimentation sur l'embryon.
 
 " L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
-qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation applicable
-localement. "
+qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un titre exceptionnel, à des fins médicales à
+condition qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son
+consentement par écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation
+applicable localement ".
 
 **Liens relatifs à cet article**
 
@@ -28452,7 +28498,7 @@ localement. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 5 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28490,9 +28536,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28509,6 +28555,57 @@ d'emprisonnement et de 200 000 F d'amende. "
 	**Cite**:
 
 	  - Code pénal - art. 511-20 (M)
+
+
+###### Article 716-12
+
+L'article 511-21 est ainsi rédigé :
+
+" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+
+" 3° Ou hors d'un établissement autorisé à cet effet. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-6 (M)
+	  - Code de la santé publique - art. L2431-5 (M)
+	  - Code de la santé publique - art. L2441-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-6 (V)
+	  - Code de la santé publique - art. L2431-5 (Ab)
+	  - Code de la santé publique - art. L2441-6 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+	  - Code pénal - art. 511-21 (M)
 
 
 ###### Article 716-13
@@ -28530,9 +28627,9 @@ L'article 511-22 est ainsi rédigé :
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28579,7 +28676,7 @@ transmission à un enfant d'une maladie d'une particulière gravité. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 7 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28620,7 +28717,7 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 8 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28656,9 +28753,9 @@ conformer aux prescriptions applicables localement est puni des peines prévues 
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28691,13 +28788,13 @@ de cinq ans au plus, l'interdiction des droits civiques, civils et de famille pr
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
 	**Cité par**:
 
 	  - Loi n°96-597 du 2 juillet 1996 - art. 107 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28731,9 +28828,9 @@ suivantes :
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28769,9 +28866,9 @@ laquelle l'infraction a été commise.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -28799,9 +28896,9 @@ du présent code sont applicables dans la collectivité territoriale de Mayotte.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28839,9 +28936,9 @@ dispositions ayant le même objet applicables localement.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 #### Chapitre II : Adaptation du livre Ier.
@@ -28858,13 +28955,13 @@ Le 7° de l'article 132-45 est ainsi rédigé :
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi organique 99-209 1999-03-21 art. 222 JORF 21 mars 1999
+
 	**Codifié par**:
 
 	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 9 () JORF 1er janvier 1997
 
 	**Cité par**:
 
@@ -28896,9 +28993,9 @@ d'emprisonnement et de 300 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28934,9 +29031,9 @@ satisfaisant aux conditions prévues par la réglementation applicable localemen
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -28973,9 +29070,9 @@ condition déterminante de l'exercice d'un emploi ou d'une activité professionn
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29007,9 +29104,9 @@ ci n'est pas recueilli. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29048,9 +29145,9 @@ ci n'est pas recueilli. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29087,9 +29184,9 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29125,9 +29222,9 @@ public ou reconnue d'utilité publique. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29158,19 +29255,23 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	**Cite**:
 
-	  - Code pénal - art. 421-1 (M)
 	  - Décret n°1870-09-04
 	  - Loi n°1871-06-19 art. 3
 	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
 	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
+	  - Code pénal - art. 421-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article 725-2
@@ -29193,9 +29294,9 @@ par la voie des télécommunications, l'utilisation ou la divulgation de leur co
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29222,9 +29323,9 @@ applicable localement, le conseil municipal ne peut décider de se réunir à hu
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29256,9 +29357,9 @@ télécommunications. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29279,9 +29380,9 @@ Les dispositions des articles 433-20 et 433-21 ne sont applicables qu'aux person
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29309,9 +29410,9 @@ imprimés ou formules au lieu et place des valeurs imitées. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29353,9 +29454,9 @@ est apte. Le refus du mineur fait obstacle au prélèvement. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29388,9 +29489,9 @@ personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'u
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29420,13 +29521,13 @@ autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'a
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°96-1240 1999-12-30 art. 10 JORF 1er janvier 1997
-
 	**Codifié par**:
 
 	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29462,7 +29563,7 @@ localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 11 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29496,6 +29597,10 @@ applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'am
 
 	  - Ordonnance 96-267 1996-03-28
 
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
 	**Cité par**:
 
 	  - Code de la santé publique - art. L1517-11 (MMN)
@@ -29507,10 +29612,6 @@ applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'am
 	**Cite**:
 
 	  - Code pénal - art. 511-11 (M)
-
-	**Modifié par**:
-
-	  - Loi n°96-124 1996-12-30 art. 12 JORF 1er janvier 1997
 
 
 ###### Article 726-6
@@ -29531,9 +29632,9 @@ est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -29567,9 +29668,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29603,9 +29704,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Nouveaux textes**:
 
@@ -29648,9 +29749,9 @@ recours à un tiers donneur ne peut aboutir. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29691,7 +29792,7 @@ qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 13 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29725,9 +29826,9 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29773,7 +29874,7 @@ de deux ans d'emprisonnement et de 200 000 F d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 14 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29808,9 +29909,9 @@ L'article 511-22 est ainsi rédigé :
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29853,7 +29954,7 @@ transmission à un enfant d'une maladie d'une particulière gravité. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 15 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29890,7 +29991,7 @@ d'emprisonnement et de 200 000 F d'amende. "
 
 	**Modifié par**:
 
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cité par**:
 
@@ -29931,9 +30032,9 @@ de cinq ans au plus, l'interdiction des droits civiques, civils et de famille pr
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -29967,9 +30068,9 @@ suivantes :
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -30005,119 +30106,15 @@ laquelle l'infraction a été commise.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
-
-
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
-
-#### Chapitre VI : Adaptation du livre V.
-
-###### Article 716-12
-
-L'article 511-21 est ainsi rédigé :
-
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
-activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
-enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
-
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
-
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
-
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
-
-" 3° Ou hors d'un établissement autorisé à cet effet. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-6 (M)
-	  - Code de la santé publique - art. L2431-5 (M)
-	  - Code de la santé publique - art. L2441-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-6 (V)
-	  - Code de la santé publique - art. L2431-5 (Ab)
-	  - Code de la santé publique - art. L2441-6 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-	  - Code pénal - art. 511-21 (M)
-
-	**Modifié par**:
-
-	  - Loi n°96-1240 1996-12-31 art. 6 JORF 1er janvier 1997
-
-
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer dans la collectivité territoriale de Mayotte.
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.
-
-#### Chapitre VI : Adaptation du livre V.
-
-###### Article 716-5
-
-L'article 511-11 est ainsi rédigé :
-
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
-la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°96-1240 du 30 décembre 1996 - art. 4 () JORF 1er janvier 1997
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-12 (M)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-12 (V)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-11 (M)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -34539,9 +34536,27 @@ ininterrompue peut être établie.
 	  - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer.
+### Titre II : Dispositions applicables à Mayotte.
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R721-1
+
+Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
+Conseil d'Etat) sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
 #### Chapitre Ier : Dispositions générales.
 
@@ -34549,13 +34564,13 @@ ininterrompue peut être établie.
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, R. 635-3 à R. 635-7 et R. 645-6, sont
-applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.
+applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34574,9 +34589,9 @@ australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 ###### Article R711-3
@@ -34597,9 +34612,9 @@ dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34618,9 +34633,9 @@ juridiction. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34637,9 +34652,9 @@ lesquelles la juridiction a prononcé l'interdiction de conduire. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34655,9 +34670,9 @@ l'association. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34673,9 +34688,9 @@ donner leur avis. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34691,9 +34706,9 @@ ceux-ci ont trois mois pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34709,9 +34724,9 @@ travail d'intérêt général ne peut excéder de plus de douze heures la durée
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34729,9 +34744,9 @@ prévues par la réglementation applicable localement. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34749,9 +34764,9 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34769,9 +34784,9 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34779,21 +34794,9 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 	  - Code pénal - art. R511-1 (M)
 
 
-### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
 
 #### Chapitre Ier : Dispositions générales.
-
-###### Article R721-1
-
-Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
-Conseil d'Etat) sont applicables dans la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
-
 
 ###### Article R721-2
 
@@ -34813,9 +34816,9 @@ dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
 #### Chapitre II : Adaptation du livre Ier.
@@ -34830,9 +34833,9 @@ juridiction. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34849,9 +34852,9 @@ lesquelles la juridiction a prononcé l'interdiction de conduire. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34867,9 +34870,9 @@ pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34885,9 +34888,9 @@ ceux-ci ont trois mois pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34903,9 +34906,9 @@ excéder de plus de douze heures la durée légale de travail en vigueur localem
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34923,9 +34926,9 @@ maladies prévues par la réglementation applicable localement. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
@@ -34943,9 +34946,9 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-544 du 28 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 	**Cite**:
 
