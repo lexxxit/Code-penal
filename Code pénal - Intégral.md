@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1996-05-01
+Version Consolidée au 1996-05-08
 
 # Partie législative
 
@@ -33142,6 +33142,43 @@ La récidive des contraventions prévues au présent article est réprimée conf
 	  - Code pénal - art. 131-48 (V)
 	  - Code pénal - art. 132-11 (M)
 	  - Code pénal - art. 132-15 (V)
+
+
+##### Section 8 : De l'intrusion dans les établissements scolaires
+
+###### Article R645-12
+
+Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de
+dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue
+pour les contraventions de la 5e classe.
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+suivantes :
+
+1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ;
+
+2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°96-378 1996-05-06
+
+	**Cité par**:
+
+	  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (M)
+	  - Code de l'éducation - art. R472-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. R472-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (M)
 
 
 ### Titre V : Des autres contraventions
