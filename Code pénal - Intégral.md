@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-07-07
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -28846,47 +28846,17 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 
 ### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
-#### Chapitre VI : Adaptation du livre V
-
-###### Article 716-1-1
-
-En Nouvelle-Calédonie, le fait de procéder à un prélèvement de moëlle osseuse en vue d'un don est puni de sept ans
-d'emprisonnement et de 100 000 Euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Créé par**:
-
-	  - Ordonnance n°98-773 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L678 (Ab)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-3
-
-
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
-
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
 
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, le livre Ier, à l'exclusion de l'article 132-70-1, et les livres II à
 V du présent code sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis
 et Futuna.
+
+**Nota:**
+
+L'article 132-70-1 du code pénal a été abrogé par l'article 44 de la loi n° 98-349 du 11 mai 1998.
 
 **Liens relatifs à cet article**
 
@@ -28900,7 +28870,7 @@ et Futuna.
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -28939,7 +28909,7 @@ Les livres Ier à V du présent code sont applicables dans les Terres australes 
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 711-3
@@ -28958,10 +28928,6 @@ monnaie du franc métropolitain.
 
 	  - Ordonnance 96-267 1996-03-28
 
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
 	**Cité par**:
 
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V)
@@ -28973,20 +28939,24 @@ monnaie du franc métropolitain.
 	  - Code rural et de la pêche maritime - art. L957-1 (VT)
 	  - Code rural et de la pêche maritime - art. L957-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
 
 ###### Article 711-4
 
 Pour l'application du présent code dans les territoires visés à l'article 711-1, les termes énumérés ci-après sont remplacés
 comme suit :
 
-" - "tribunal de grande instance" par "tribunal de première instance" ;
+- " tribunal de grande instance " par " tribunal de première instance " ;
 
-" - "département" par "territoire" ;
+- " département " par " territoire " ;
 
-" - "préfet" et "sous-préfet" par "représentant de l'Etat dans le territoire".
+- " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire ". 
 
-" De même, "les références à des dispositions non applicables dans ces territoires" sont remplacées par "les références aux
-dispositions ayant le même objet applicables localement".
+De même, " les références à des dispositions non applicables dans ces territoires " sont remplacées par " les références aux
+dispositions ayant le même objet applicables localement ".
 
 **Liens relatifs à cet article**
 
@@ -29000,50 +28970,48 @@ dispositions ayant le même objet applicables localement".
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. 711-1 (M)
+	  - Code pénal - art. 711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier.
+#### Chapitre II : Adaptation du livre Ier
 
 ###### Article 712-1
 
-L'article 131-23 est rédigé comme suit :
-
-" Art. 131-23. - Le travail d'intérêt général est soumis aux prescriptions législatives et réglementaires applicables
-localement relatives au travail de nuit, à l'hygiène, à la sécurité ainsi qu'au travail des femmes et des jeunes
-travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice de l'activité professionnelle. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 131-23 (V)
-
-
-###### Article 712-2
-
-Le dernier alinéa de l'article 131-35 est rédigé comme suit :
+Le dernier alinéa de l'article 131-35 est ainsi rédigé :
 
 " La diffusion de la décision est faite par le Journal officiel de la République française, par le Journal officiel du
 territoire, par une ou plusieurs autres publications de presse, ou par un ou plusieurs services de communication
 audiovisuelle. Les publications ou les services de communication audiovisuelle chargés de cette diffusion sont désignés par
 la juridiction. Ils ne peuvent s'opposer à cette diffusion. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35 (M)
+
+
+###### Article 712-2
+
+Le 7° de l'article 132-45 est ainsi rédigé :
+
+" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
 
 **Liens relatifs à cet article**
 
@@ -29062,14 +29030,14 @@ la juridiction. Ils ne peuvent s'opposer à cette diffusion. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 132-45 (M)
 
 
-#### Chapitre III : Adaptation du livre II.
+#### Chapitre III : Adaptation du livre II
 
 ###### Article 713-1
 
@@ -29093,7 +29061,7 @@ d'emprisonnement et de 300 000 F d'amende. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -29122,7 +29090,7 @@ ou à la fonction publique applicables localement ;
 
 " 3° Aux discriminations fondées, en matière d'embauche, sur le sexe lorsque l'appartenance à l'un ou l'autre sexe constitue,
 conformément aux dispositions applicables localement en matière de droit du travail ou de droit de la fonction publique, la
-condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle ; "
+condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle ; ".
 
 **Liens relatifs à cet article**
 
@@ -29136,7 +29104,7 @@ condition déterminante de l'exercice d'un emploi ou d'une activité professionn
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -29171,7 +29139,7 @@ n'est pas recueilli. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -29218,7 +29186,7 @@ n'est pas recueilli. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
@@ -29261,7 +29229,7 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Nouveaux textes**:
 
@@ -29281,7 +29249,7 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 	  - Code pénal - art. 226-28 (M)
 
 
-#### Chapitre IV : Adaptation du livre III.
+#### Chapitre IV : Adaptation du livre III
 
 ###### Article 714-1
 
@@ -29304,14 +29272,10 @@ public ou reconnue d'utilité publique. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 322-2 (M)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre V : Adaptation du livre IV.
+#### Chapitre V : Adaptation du livre IV
 
 ###### Article 715-1
 
@@ -29328,8 +29292,7 @@ desdites substances en infraction à la réglementation applicable localement ;
 
 " - la détention, le port ou le transport d'armes et de munitions en infraction à la réglementation applicable localement ;
 
-- les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la
-fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines.
+" - les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la défense. "
 
 **Liens relatifs à cet article**
 
@@ -29337,8 +29300,6 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	  - Décret n°1870-09-04
 	  - Loi n°1871-06-19 art. 3
-	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
-	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
 	  - Code pénal - art. 421-1 (M)
 
 	**Liens**:
@@ -29351,7 +29312,7 @@ fabrication, la détention, le stockage, l'acquisition et la cession d'armes bio
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 715-2
@@ -29376,7 +29337,7 @@ par la voie des télécommunications, l'utilisation ou la divulgation de leur co
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -29405,7 +29366,7 @@ applicable localement, le conseil municipal ne peut décider de se réunir à hu
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -29418,8 +29379,8 @@ applicable localement, le conseil municipal ne peut décider de se réunir à hu
 Le quatrième alinéa de l'article 432-13 est rédigé comme suit :
 
 " Ces dispositions sont applicables aux agents des établissements publics, des entreprises nationalisées, des sociétés
-d'économie mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 p.
-100 du capital et des exploitants publics intervenant dans le fonctionnement du service public de la poste et des
+d'économie mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 %
+du capital et des exploitants publics intervenant dans le fonctionnement du service public de la poste et des
 télécommunications. "
 
 **Liens relatifs à cet article**
@@ -29434,7 +29395,7 @@ télécommunications. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -29463,12 +29424,2029 @@ imprimés ou formules au lieu et place des valeurs imitées. "
 
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
 	  - Code pénal - art. 443-3 (M)
 
+
+#### Chapitre VI : Adaptation du livre V
+
+###### Article 716-1-1
+
+En Nouvelle-Calédonie, le fait de procéder à un prélèvement de moëlle osseuse en vue d'un don est puni de sept ans
+d'emprisonnement et de 100 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Créé par**:
+
+	  - Ordonnance n°98-773 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-3
+
+
+###### Article 716-2
+
+Le deuxième alinéa de l'article 511-5 est ainsi rédigé :
+
+" Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
+mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-9 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-9 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1339 du 18 décembre 2008 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-9 (V)
+	  - Code de la santé publique - art. L1533-9 (T)
+	  - Code de la santé publique - art. L1543-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1533-9 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-5
+
+
+###### Article 716-3
+
+L'article 511-7 est ainsi rédigé :
+
+" Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
+greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
+autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-10 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-10 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-10 (M)
+	  - Code de la santé publique - art. L1533-10 (T)
+	  - Code de la santé publique - art. L1543-10 (M)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-10 (V)
+	  - Code de la santé publique - art. L1533-10 (T)
+	  - Code de la santé publique - art. L1543-10 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-7 (M)
+
+
+###### Article 716-4
+
+L'article 511-8 est ainsi rédigé :
+
+" Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
+en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-11 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-11 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-11 (M)
+	  - Code de la santé publique - art. L1533-11 (T)
+	  - Code de la santé publique - art. L1543-11 (M)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-11 (V)
+	  - Code de la santé publique - art. L1533-11 (T)
+	  - Code de la santé publique - art. L1543-11 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-8 (M)
+
+
+###### Article 716-5
+
+L'article 511-11 est ainsi rédigé :
+
+" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-12 (M)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-12 (V)
+	  - Code de la santé publique - art. L1533-12 (T)
+	  - Code de la santé publique - art. L1543-12 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-11 (M)
+
+
+###### Article 716-6
+
+L'article 511-12 est ainsi rédigé :
+
+" Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
+est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-13 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-13 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-13 (M)
+	  - Code de la santé publique - art. L1533-13 (T)
+	  - Code de la santé publique - art. L1543-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-13 (V)
+	  - Code de la santé publique - art. L1533-13 (T)
+	  - Code de la santé publique - art. L1543-13 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-12 (M)
+
+
+###### Article 716-7
+
+L'article 511-13 est ainsi rédigé :
+
+" Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
+personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-14 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-14 (M)
+	  - Code de la santé publique - art. L1533-14 (T)
+	  - Code de la santé publique - art. L1543-14 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-14 (V)
+	  - Code de la santé publique - art. L1533-14 (T)
+	  - Code de la santé publique - art. L1543-14 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-13 (M)
+
+
+###### Article 716-9
+
+L'article 511-16 est ainsi rédigé :
+
+" Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
+ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
+exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
+décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
+et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
+
+" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
+
+" - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
+
+" - ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
+recours à un tiers donneur ne peut aboutir. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-3 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-3 (M)
+	  - Code de la santé publique - art. L2431-2 (M)
+	  - Code de la santé publique - art. L2441-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-3 (V)
+	  - Code de la santé publique - art. L2431-2 (Ab)
+	  - Code de la santé publique - art. L2441-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-16 (M)
+	  - Code pénal - art. 511-24 (M)
+
+
+###### Article 716-10
+
+L'article 511-19 est ainsi rédigé :
+
+" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
+expérimentation sur l'embryon.
+
+" L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
+qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation applicable localement
+".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-4 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-4 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-4 (M)
+	  - Code de la santé publique - art. L2431-3 (M)
+	  - Code de la santé publique - art. L2441-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-4 (V)
+	  - Code de la santé publique - art. L2431-3 (Ab)
+	  - Code de la santé publique - art. L2441-4 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-19 (M)
+
+
+###### Article 716-11
+
+L'article 511-20 est ainsi rédigé :
+
+" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-5 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-5 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-5 (M)
+	  - Code de la santé publique - art. L2431-4 (M)
+	  - Code de la santé publique - art. L2441-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-5 (V)
+	  - Code de la santé publique - art. L2431-4 (Ab)
+	  - Code de la santé publique - art. L2441-5 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+
+
+###### Article 716-12
+
+L'article 511-21 est ainsi rédigé :
+
+" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+
+" 3° Ou hors d'un établissement autorisé à cet effet. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-6 (M)
+	  - Code de la santé publique - art. L2431-5 (M)
+	  - Code de la santé publique - art. L2441-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-6 (V)
+	  - Code de la santé publique - art. L2431-5 (Ab)
+	  - Code de la santé publique - art. L2441-6 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+	  - Code pénal - art. 511-21 (M)
+
+
+###### Article 716-13
+
+L'article 511-22 est ainsi rédigé :
+
+" Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
+à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-7 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-7 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-7 (M)
+	  - Code de la santé publique - art. L2431-6 (M)
+	  - Code de la santé publique - art. L2441-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-7 (V)
+	  - Code de la santé publique - art. L2431-6 (Ab)
+	  - Code de la santé publique - art. L2441-7 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-22 (M)
+
+
+###### Article 716-14
+
+L'article 511-24 est ainsi rédigé :
+
+" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
+d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
+couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
+la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
+artificielle.
+
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-8 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-8 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-8 (M)
+	  - Code de la santé publique - art. L2431-7 (M)
+	  - Code de la santé publique - art. L2441-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-8 (V)
+	  - Code de la santé publique - art. L2431-7 (Ab)
+	  - Code de la santé publique - art. L2441-8 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-24 (M)
+
+
+###### Article 716-15
+
+L'article 511-25 est ainsi rédigé :
+
+" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-9 (Ab)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-9 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2422-9 (M)
+	  - Code de la santé publique - art. L2431-8 (M)
+	  - Code de la santé publique - art. L2441-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2422-9 (V)
+	  - Code de la santé publique - art. L2431-8 (Ab)
+	  - Code de la santé publique - art. L2441-9 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-25 (M)
+
+
+###### Article 716-16
+
+L'article 521-2 est ainsi rédigé :
+
+" Art. 521-2. - Le fait de pratiquer des expériences ou recherches scientifiques ou expérimentales sur les animaux sans se
+conformer aux prescriptions applicables localement est puni des peines prévues à l'article 521-1. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 521-1 (M)
+	  - Code pénal - art. 521-2 (V)
+
+
+#### Chapitre VII : Dispositions diverses
+
+###### Article 717-1
+
+Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
+autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
+s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction est puni de deux ans d'emprisonnement et de 200 000
+F d'amende.
+
+Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
+l'initiative.
+
+Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
+de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Cité par**:
+
+	  - Loi n°96-597 du 2 juillet 1996 - art. 107 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+###### Article 717-2
+
+Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
+des offres destinées à troubler les cours ou des sur-offres faites au prix demandé par les vendeurs, ou en utilisant tout
+autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
+d'effets publics ou privés est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+Lorsque la hausse ou la baisse arificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
+d'emprisonnement et 300 000 F d'amende.
+
+Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
+suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+
+2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. 717-3 (V)
+
+
+###### Article 717-3
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux deux premiers alinéas de l'article précédent.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie
+
+#### Chapitre VI : Adaptation du livre V.
+
+###### Article 716-8
+
+L'article 511-14 est ainsi rédigé :
+
+" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes
+provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-15 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1525-15 (M)
+	  - Code de la santé publique - art. L1533-15 (T)
+	  - Code de la santé publique - art. L1543-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1525-15 (V)
+	  - Code de la santé publique - art. L1533-15 (T)
+	  - Code de la santé publique - art. L1543-15 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-14 (M)
+
+
+### Titre II : Dispositions applicables à Mayotte.
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article 721-1
+
+Sous réserve des adaptations prévues au présent titre, le livre Ier à l'exclusion de l'article 132-70-1, et les livres II à V
+du présent code sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-1 (V)
+	  - Code de la santé publique - art. L1517-6 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-70-1 (M)
+
+
+###### Article 721-2
+
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
+
+- "tribunal de grande instance" par "tribunal de première instance" ;
+
+- "cour d'assises" par "cour criminelle" ;
+
+- "département" par "collectivité" ;
+
+- "préfet" et "sous-préfet" par "représentant du Gouvernement".
+
+De même, les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+#### Chapitre II : Adaptation du livre Ier.
+
+###### Article 722-1
+
+Le 7° de l'article 132-45 est ainsi rédigé :
+
+" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-45 (M)
+
+
+#### Chapitre III : Adaptation du livre II
+
+###### Article 723-1
+
+Le premier alinéa de l'article 223-8 est rédigé comme suit :
+
+" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
+libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
+d'emprisonnement et de 300 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-2 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-2 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 223-8 (M)
+
+
+###### Article 723-2
+
+I. - Le 1° de l'article 223-11 est rédigé comme suit :
+
+" 1° Après la fin de la 10e semaine de grossesse, sauf si elle est pratiquée pour un motif thérapeutique. "
+
+II. - Le 3° de l'article 223-11 est rédigé comme suit :
+
+" 3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un établissement d'hospitalisation privé
+satisfaisant aux conditions prévues par la réglementation applicable localement. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-2 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 223-11 (Ab)
+
+
+###### Article 723-3
+
+Les 2° et 3° de l'article 225-3 sont rédigés comme suit :
+
+" 2° Aux discriminations fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un
+licenciement fondé sur l'inaptitude médicalement constatée dans le cadre des dispositions relatives à la médecine du travail
+ou à la fonction publique applicables localement ;
+
+" 3° Aux discriminations fondées, en matière d'embauche, sur le sexe lorsque l'appartenance à l'un ou l'autre sexe constitue,
+conformément aux dispositions applicables localement en matière de droit du travail ou de droit de la fonction publique, la
+condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle ; ".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 225-3 (M)
+
+
+###### Article 723-4
+
+L'article 226-25 est rédigé comme suit :
+
+" Art. 226-25. - Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir
+préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
+" Les dispositions de l'alinéa précédent ne sont pas applicables :
+
+" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+
+" 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
+ci n'est pas recueilli. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-3 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-3 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-25 (M)
+
+
+###### Article 723-5
+
+L'article 226-27 est rédigé comme suit :
+
+" Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales
+sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
+" Les dispositions de l'alinéa précédent ne sont pas applicables :
+
+" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+
+" 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
+ci n'est pas recueilli. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-4 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-4 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-27 (M)
+
+
+###### Article 723-6
+
+L'article 226-28 est rédigé comme suit :
+
+" Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
+seraient ni médicales, ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
+judiciaire est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
+" Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans avoir fait l'objet
+d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-5 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-28 (M)
+
+
+#### Chapitre IV : Adaptation du livre III
+
+###### Article 724-1
+
+Le 3° de l'article 322-2 est rédigé comme suit :
+
+" 3° Un immeuble ou un objet mobilier classé ou inscrit ou protégé en vertu de la réglementation applicable localement, une
+découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des vestiges archéologiques ou un
+objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service
+public ou reconnue d'utilité publique. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+#### Chapitre V : Adaptation du livre IV
+
+###### Article 725-1
+
+Le 3° de l'article 421-1 est rédigé comme suit :
+
+" 3° La fabrication ou la détention de machines, engins meurtriers ou explosifs définies à l'article 3 de la loi du 19 juin
+1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre :
+
+" - la production, la vente, l'importation ou l'exportation de substances explosives en infraction à la réglementation
+applicable localement ;
+
+" - l'acquisition, la détention, le transport ou le port illégitimes de substances explosives ou d'engins fabriqués à l'aide
+desdites substances en infraction à la réglementation applicable localement ;
+
+" - la détention, le port ou le transport d'armes et de munitions en infraction à la réglementation applicable localement ;
+
+" - les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la défense ; ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1870-09-04
+	  - Loi n°1871-06-19 art. 3
+	  - Code pénal - art. 421-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 725-2
+
+Le deuxième alinéa de l'article 432-9 est rédigé comme suit :
+
+" Est puni des mêmes peines le fait, par une personne visée à l'alinéa précédent ou un agent d'un exploitant de réseau de
+télécommunications autorisé en vertu de la réglementation applicable localement en matière de postes et télécommunications ou
+d'un fournisseur de services de télécommunications, agissant dans l'exercice de ses fonctions, d'ordonner, de commettre ou de
+faciliter, hors les cas prévus par la loi, l'interception ou le détournement des correspondances émises, transmises ou reçues
+par la voie des télécommunications, l'utilisation ou la divulgation de leur contenu. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 432-9 (M)
+
+
+###### Article 725-3
+
+Le dernier alinéa de l'article 432-12 est rédigé comme suit :
+
+" Pour l'application des trois alinéas qui précèdent, la commune est représentée dans les conditions prévues à l'article L.
+122-12 du code des communes tel qu'il a été rendu applicable localement et le maire, l'adjoint ou le conseiller municipal
+intéressé doit s'abstenir de participer à la délibération du conseil municipal relative à la conclusion ou à l'approbation du
+contrat. En outre, par dérogation au deuxième alinéa de l'article L. 121-15 du code des communes tel qu'il a été rendu
+applicable localement, le conseil municipal ne peut décider de se réunir à huis clos. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-15 (M)
+	  - CODE DES COMMUNES. - art. L122-12 (Ab)
+	  - Code pénal - art. 432-12 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L5513-2 (VT)
+
+
+###### Article 725-4
+
+Le quatrième alinéa de l'article 432-13 est rédigé comme suit :
+
+" Ces dispositions sont applicables aux agents des établissements publics, des entreprises nationalisées, des sociétés
+d'économie mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 %
+du capital et des exploitants publics intervenant dans le fonctionnement du service public de la poste et des
+télécommunications. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 432-13 (M)
+
+
+###### Article 725-5
+
+Les dispositions des articles 433-20 et 433-21 ne sont applicables qu'aux personnes ayant le statut civil de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 433-20
+	  - Code pénal - art. 433-21
+
+
+###### Article 725-6
+
+L'article 443-3 est rédigé comme suit :
+
+" Art. 443-3. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende, la fabrication, la vente, le transport ou la
+distribution de tous objets, imprimés ou formules qui présentent, avec les titres ou autres valeurs fiduciaires émises par
+l'Etat, les collectivités locales, les établissements publics ou les exploitants publics intervenant dans le fonctionnement
+du service public de la poste et des télécommunications, une ressemblance de nature à faciliter l'acceptation desdits objets,
+imprimés ou formules au lieu et place des valeurs imitées. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 443-3 (M)
+
+
+#### Chapitre VI : Adaptation du livre V
+
+###### Article 726-1
+
+L'article 511-3 est ainsi rédigé :
+
+" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
+l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 700
+000 F d'amende.
+
+" Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur
+faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son
+frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation
+applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal
+du mineur.
+
+" Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
+magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
+
+" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
+
+" Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci y
+est apte. Le refus du mineur fait obstacle au prélèvement. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-7 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-7 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-3 (M)
+
+
+###### Article 726-2
+
+Le deuxième alinéa de l'article 511-5 est ainsi rédigé :
+
+" Art. 511-5. - Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une
+personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-8 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-8 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-5 (M)
+
+
+###### Article 726-3
+
+L'article 511-7 est ainsi rédigé :
+
+" Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
+greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
+autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-9 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-9 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-7 (M)
+
+
+###### Article 726-4
+
+L'article 511-8 est ainsi rédigé :
+
+" Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
+en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
+localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-10 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-10 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-10 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-8 (M)
+
+
+###### Article 726-5
+
+L'article 511-11 est ainsi rédigé :
+
+" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
+la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
+applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-11 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-11 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-11 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-11 (M)
+
+
+###### Article 726-6
+
+L'article 511-12 est ainsi rédigé :
+
+" Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
+est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-12 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-12 (MMN)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-12 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-12 (M)
+
+
+###### Article 726-7
+
+L'article 511-13 est ainsi rédigé :
+
+" Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
+personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-13 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-13 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-13 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-13 (M)
+
+
+###### Article 726-8
+
+L'article 511-14 et ainsi rédigé :
+
+" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de ces cession de gamètes
+provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-14 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1517-14 (MMN)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1517-14 (MMN)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-14 (M)
+
+
+###### Article 726-9
+
+L'article 511-16 est ainsi rédigé :
+
+" Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
+ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
+exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
+décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
+et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
+
+" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
+
+" - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
+
+" - ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
+recours à un tiers donneur ne peut aboutir. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-2 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-2 (M)
+	  - Code de la santé publique - art. L2414-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-3 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-16 (M)
+	  - Code pénal - art. 511-24 (M)
+
+
+###### Article 726-10
+
+L'article 511-19 est ainsi rédigé :
+
+" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
+expérimentation sur l'embryon.
+
+" L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
+qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
+écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat ".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-3 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-3 (M)
+	  - Code de la santé publique - art. L2414-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-4 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-19 (M)
+
+
+###### Article 726-11
+
+L'article 511-20 est ainsi rédigé :
+
+" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-4 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-4 (M)
+	  - Code de la santé publique - art. L2414-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-5 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+
+
+###### Article 726-12
+
+L'article 511-21 est ainsi rédigé :
+
+" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
+activité dans un établissement mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic est puni
+de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
+
+" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
+
+" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
+
+" 3° Ou hors d'un établissement autorisé à cet effet. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-5 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-5 (M)
+	  - Code de la santé publique - art. L2414-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-6 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+	  - Code pénal - art. 511-21 (M)
+
+
+###### Article 726-13
+
+L'article 511-22 est ainsi rédigé :
+
+" Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
+à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-6 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-6 (M)
+	  - Code de la santé publique - art. L2414-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-7 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-22 (M)
+
+
+###### Article 726-14
+
+L'article 511-24 est ainsi rédigé :
+
+" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
+d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
+couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
+la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
+artificielle.
+
+" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
+autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
+transmission à un enfant d'une maladie d'une particulière gravité. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-7 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-7 (M)
+	  - Code de la santé publique - art. L2414-8 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-8 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-24 (M)
+
+
+###### Article 726-15
+
+L'article 511-25 est ainsi rédigé :
+
+" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
+dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-8 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2414-8 (M)
+	  - Code de la santé publique - art. L2414-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2414-9 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-25 (M)
+
+
+#### Chapitre VII : Dispositions diverses
+
+###### Article 727-1
+
+Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
+l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
+s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 200
+000 F d'amende.
+
+Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
+l'initiative.
+
+Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
+de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+###### Article 727-2
+
+Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
+des offres destinées à troubler les cours ou des sur-offres faites aux prix demandés par les vendeurs, ou en utilisant tout
+autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
+d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+
+Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
+d'emprisonnement et 300 000 F d'amende.
+
+Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
+suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+
+2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues à l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. 727-3 (V)
+
+
+###### Article 727-3
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux deux premiers alinéas de l'article précédent.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues à l'article 131-38 ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
 #### Chapitre VI : Adaptation du livre V.
 
@@ -29525,1986 +31503,6 @@ est apte. Le refus du mineur fait obstacle au prélèvement. "
 	**Cite**:
 
 	  - Code pénal - art. 511-3 (M)
-
-
-###### Article 716-2
-
-Le deuxième alinéa de l'article 511-5 est ainsi rédigé :
-
-" Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
-mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-9 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-9 (V)
-	  - Code de la santé publique - art. L1533-9 (T)
-	  - Code de la santé publique - art. L1543-9 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1533-9 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-5 (M)
-
-
-###### Article 716-3
-
-L'article 511-7 est ainsi rédigé :
-
-" Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
-greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
-autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-10 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-10 (M)
-	  - Code de la santé publique - art. L1533-10 (T)
-	  - Code de la santé publique - art. L1543-10 (M)
-	  - Code de la santé publique - art. L678 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-10 (V)
-	  - Code de la santé publique - art. L1533-10 (T)
-	  - Code de la santé publique - art. L1543-10 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-7 (M)
-
-
-###### Article 716-4
-
-L'article 511-8 est ainsi rédigé :
-
-" Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
-en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-11 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-11 (M)
-	  - Code de la santé publique - art. L1533-11 (T)
-	  - Code de la santé publique - art. L1543-11 (M)
-	  - Code de la santé publique - art. L678 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-11 (V)
-	  - Code de la santé publique - art. L1533-11 (T)
-	  - Code de la santé publique - art. L1543-11 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-8 (M)
-
-
-###### Article 716-5
-
-L'article 511-11 est ainsi rédigé :
-
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
-la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-12 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-12 (M)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-12 (V)
-	  - Code de la santé publique - art. L1533-12 (T)
-	  - Code de la santé publique - art. L1543-12 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-11 (M)
-
-
-###### Article 716-6
-
-L'article 511-12 est ainsi rédigé :
-
-" Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
-est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-13 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-13 (M)
-	  - Code de la santé publique - art. L1533-13 (T)
-	  - Code de la santé publique - art. L1543-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-13 (V)
-	  - Code de la santé publique - art. L1533-13 (T)
-	  - Code de la santé publique - art. L1543-13 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-12 (M)
-
-
-###### Article 716-7
-
-L'article 511-13 est ainsi rédigé :
-
-" Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
-personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-14 (M)
-	  - Code de la santé publique - art. L1533-14 (T)
-	  - Code de la santé publique - art. L1543-14 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-14 (V)
-	  - Code de la santé publique - art. L1533-14 (T)
-	  - Code de la santé publique - art. L1543-14 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-13 (M)
-
-
-###### Article 716-8
-
-L'article 511-14 est ainsi rédigé :
-
-" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes
-provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-15 (M)
-	  - Code de la santé publique - art. L1533-15 (T)
-	  - Code de la santé publique - art. L1543-15 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-15 (V)
-	  - Code de la santé publique - art. L1533-15 (T)
-	  - Code de la santé publique - art. L1543-15 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-14 (M)
-
-
-###### Article 716-9
-
-L'article 511-16 est ainsi rédigé :
-
-" Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
-ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
-exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
-décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
-et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
-
-" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
-
-" - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
-
-" - ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
-recours à un tiers donneur ne peut aboutir. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-3 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-3 (M)
-	  - Code de la santé publique - art. L2431-2 (M)
-	  - Code de la santé publique - art. L2441-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-3 (V)
-	  - Code de la santé publique - art. L2431-2 (Ab)
-	  - Code de la santé publique - art. L2441-3 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-16 (M)
-	  - Code pénal - art. 511-24 (M)
-
-
-###### Article 716-10
-
-L'article 511-19 est ainsi rédigé :
-
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
-expérimentation sur l'embryon.
-
-" L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
-qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un titre exceptionnel, à des fins médicales à
-condition qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son
-consentement par écrit, après avis conforme d'une commission constituée dans les conditions fixées par la réglementation
-applicable localement ".
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-4 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-4 (M)
-	  - Code de la santé publique - art. L2431-3 (M)
-	  - Code de la santé publique - art. L2441-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-4 (V)
-	  - Code de la santé publique - art. L2431-3 (Ab)
-	  - Code de la santé publique - art. L2441-4 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-19 (M)
-
-
-###### Article 716-11
-
-L'article 511-20 est ainsi rédigé :
-
-" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-5 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-5 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-5 (M)
-	  - Code de la santé publique - art. L2431-4 (M)
-	  - Code de la santé publique - art. L2441-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-5 (V)
-	  - Code de la santé publique - art. L2431-4 (Ab)
-	  - Code de la santé publique - art. L2441-5 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-
-
-###### Article 716-12
-
-L'article 511-21 est ainsi rédigé :
-
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
-activité dans un établissement mentionné à l'article 511-20, la forte probabilité pour le couple de donner naissance à un
-enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic, est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
-
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
-
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
-
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
-
-" 3° Ou hors d'un établissement autorisé à cet effet. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-6 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-6 (M)
-	  - Code de la santé publique - art. L2431-5 (M)
-	  - Code de la santé publique - art. L2441-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-6 (V)
-	  - Code de la santé publique - art. L2431-5 (Ab)
-	  - Code de la santé publique - art. L2441-6 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-	  - Code pénal - art. 511-21 (M)
-
-
-###### Article 716-13
-
-L'article 511-22 est ainsi rédigé :
-
-" Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
-à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-7 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-7 (M)
-	  - Code de la santé publique - art. L2431-6 (M)
-	  - Code de la santé publique - art. L2441-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-7 (V)
-	  - Code de la santé publique - art. L2431-6 (Ab)
-	  - Code de la santé publique - art. L2441-7 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-22 (M)
-
-
-###### Article 716-14
-
-L'article 511-24 est ainsi rédigé :
-
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
-d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
-couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
-la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
-artificielle.
-
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
-autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
-transmission à un enfant d'une maladie d'une particulière gravité. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-8 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-8 (M)
-	  - Code de la santé publique - art. L2431-7 (M)
-	  - Code de la santé publique - art. L2441-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-8 (V)
-	  - Code de la santé publique - art. L2431-7 (Ab)
-	  - Code de la santé publique - art. L2441-8 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-24 (M)
-
-
-###### Article 716-15
-
-L'article 511-25 est ainsi rédigé :
-
-" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2422-9 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2441-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2422-9 (M)
-	  - Code de la santé publique - art. L2431-8 (M)
-	  - Code de la santé publique - art. L2441-9 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2422-9 (V)
-	  - Code de la santé publique - art. L2431-8 (Ab)
-	  - Code de la santé publique - art. L2441-9 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-25 (M)
-
-
-###### Article 716-16
-
-L'article 521-2 est ainsi rédigé :
-
-" Art. 521-2. - Le fait de pratiquer des expériences ou recherches scientifiques ou expérimentales sur les animaux sans se
-conformer aux prescriptions applicables localement est puni des peines prévues à l'article 521-1. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 521-1 (M)
-	  - Code pénal - art. 521-2 (V)
-
-
-#### Chapitre VII : Dispositions diverses.
-
-###### Article 717-1
-
-Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
-autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction est puni de deux ans d'emprisonnement et de 200 000
-F d'amende.
-
-Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
-l'initiative.
-
-Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
-de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Cité par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 107 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-
-
-###### Article 717-2
-
-Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
-des offres destinées à troubler les cours ou des sur-offres faites au prix demandé par les vendeurs, ou en utilisant tout
-autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
-d'effets publics ou privés est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
-
-Lorsque la hausse ou la baisse arificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
-d'emprisonnement et 300 000 F d'amende.
-
-Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
-suivantes :
-
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
-
-2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35 (M)
-
-	**Cité par**:
-
-	  - Code pénal - art. 717-3 (V)
-
-
-###### Article 717-3
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux deux premiers alinéas de l'article précédent.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
-
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-
-
-### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
-
-#### Chapitre Ier : Dispositions générales.
-
-###### Article 721-1
-
-Sous réserve des adaptations prévues au présent titre, le livre Ier à l'exclusion de l'article 132-70-1, et les livres II à V
-du présent code sont applicables dans la collectivité territoriale de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-1 (V)
-	  - Code de la santé publique - art. L1517-6 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 132-70-1 (M)
-
-
-###### Article 721-2
-
-Pour l'application du présent code dans la collectivité territoriale de Mayotte, les termes énumérés ci-après sont remplacés
-comme suit :
-
-- "tribunal de grande instance" par "tribunal de première instance" ;
-
-- "cour d'assises" par "cour criminelle" ;
-
-- "département" par "collectivité" ;
-
-- "préfet" et "sous-préfet" par "représentant du Gouvernement".
-
-De même, les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux
-dispositions ayant le même objet applicables localement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
-#### Chapitre II : Adaptation du livre Ier.
-
-###### Article 722-1
-
-Le 7° de l'article 132-45 est ainsi rédigé :
-
-" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite desquels un permis est nécessaire. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi organique 99-209 1999-03-21 art. 222 JORF 21 mars 1999
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Cité par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 216 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 132-45 (M)
-
-
-#### Chapitre III : Adaptation du livre II.
-
-###### Article 723-1
-
-Le premier alinéa de l'article 223-8 est rédigé comme suit :
-
-" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
-libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-2 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-2 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 223-8 (M)
-
-
-###### Article 723-2
-
-I. - Le 1° de l'article 223-11 est rédigé comme suit :
-
-" 1° Après la fin de la 10e semaine de grossesse, sauf si elle est pratiquée pour un motif thérapeutique. "
-
-II. - Le 3° de l'article 223-11 est rédigé comme suit :
-
-" 3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un établissement d'hospitalisation privé
-satisfaisant aux conditions prévues par la réglementation applicable localement. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-2 (Ab)
-
-	**Cite**:
-
-	  - Code pénal - art. 223-11 (Ab)
-
-
-###### Article 723-3
-
-Les 2° et 3° de l'article 225-3 sont rédigés comme suit :
-
-" 2° Aux discriminations fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un
-licenciement fondé sur l'inaptitude médicalement constatée dans le cadre des dispositions relatives à la médecine du travail
-ou à la fonction publique applicables localement ;
-
-" 3° Aux discriminations fondées, en matière d'embauche, sur le sexe lorsque l'appartenance à l'un ou l'autre sexe constitue,
-conformément aux dispositions applicables localement en matière de droit du travail ou de droit de la fonction publique, la
-condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle ; "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 225-3 (M)
-
-
-###### Article 723-4
-
-L'article 226-25 est rédigé comme suit :
-
-" Art. 226-25. - Le fait de procéder à l'étude des caractéristiques génétiques d'une personne à des fins médicales sans avoir
-préalablement recueilli son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
-
-" Les dispositions de l'alinéa précédent ne sont pas applicables :
-
-" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
-
-" 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
-ci n'est pas recueilli. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-3 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-3 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 226-25 (M)
-
-
-###### Article 723-5
-
-L'article 226-27 est rédigé comme suit :
-
-" Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales
-sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F d'amende.
-
-" Les dispositions de l'alinéa précédent ne sont pas applicables :
-
-" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
-
-" 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
-ci n'est pas recueilli. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-4 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-4 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 226-27 (M)
-
-
-###### Article 723-6
-
-L'article 226-28 est rédigé comme suit :
-
-" Art. 226-28. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins qui ne
-seraient ni médicales, ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure
-judiciaire est puni d'un an d'emprisonnement et de 100 000 F d'amende.
-
-" Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
-empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans avoir fait l'objet
-d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-5 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 226-28 (M)
-
-
-#### Chapitre IV : Adaptation du livre III.
-
-###### Article 724-1
-
-Le 3° de l'article 322-2 est rédigé comme suit :
-
-" 3° Un immeuble ou un objet mobilier classé ou inscrit ou protégé en vertu de la réglementation applicable localement, une
-découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des vestiges archéologiques ou un
-objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service
-public ou reconnue d'utilité publique. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 322-2 (M)
-
-
-#### Chapitre V : Adaptation du livre IV.
-
-###### Article 725-1
-
-Le 3° de l'article 421-1 est rédigé comme suit :
-
-" 3° La fabrication ou la détention de machines, engins meurtriers ou explosifs définies à l'article 3 de la loi du 19 juin
-1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre ;
-
-" - la production, la vente, l'importation ou l'exportation de substances explosives en infraction à la réglementation
-applicable localement ;
-
-" - l'acquisition, la détention, le transport ou le port illégitimes de substances explosives ou d'engins fabriqués à l'aide
-desdites substances en infraction à la réglementation applicable localement ;
-
-" - la détention, le port ou le transport d'armes et de munitions en infraction à la réglementation applicable localement ;
-
-- les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la
-fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1870-09-04
-	  - Loi n°1871-06-19 art. 3
-	  - Loi n°72-467 du 9 juin 1972 - art. 1 (Ab)
-	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
-	  - Code pénal - art. 421-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
-###### Article 725-2
-
-Le deuxième alinéa de l'article 432-9 est rédigé comme suit :
-
-" Est puni des mêmes peines le fait, par une personne visée à l'alinéa précédent ou un agent d'un exploitant de réseau de
-télécommunications autorisé en vertu de la réglementation applicable localement en matière de postes et télécommunications ou
-d'un fournisseur de services de télécommunications, agissant dans l'exercice de ses fonctions, d'ordonner, de commettre ou de
-faciliter, hors les cas prévus par la loi, l'interception ou le détournement des correspondances émises, transmises ou reçues
-par la voie des télécommunications, l'utilisation ou la divulgation de leur contenu. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 432-9 (M)
-
-
-###### Article 725-3
-
-Le dernier alinéa de l'article 432-12 est rédigé comme suit :
-
-" Pour l'application des trois alinéas qui précèdent, la commune est représentée dans les conditions prévues à l'article L.
-122-12 du code des communes tel qu'il a été rendu applicable localement et le maire, l'adjoint ou le conseiller municipal
-intéressé doit s'abstenir de participer à la délibération du conseil municipal relative à la conclusion ou à l'approbation du
-contrat. En outre, par dérogation au deuxième alinéa de l'article L. 121-15 du code des communes tel qu'il a été rendu
-applicable localement, le conseil municipal ne peut décider de se réunir à huis clos. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-15 (M)
-	  - CODE DES COMMUNES. - art. L122-12 (Ab)
-	  - Code pénal - art. 432-12 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L5513-2 (VT)
-
-
-###### Article 725-4
-
-Le quatrième alinéa de l'article 432-13 est rédigé comme suit :
-
-" Ces dispositions sont applicables aux agents des établissements publics, des entreprises nationalisées, des sociétés
-d'économie mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 p.
-100 du capital et des exploitants publics intervenant dans le fonctionnement du service public de la poste et des
-télécommunications. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 432-13 (M)
-
-
-###### Article 725-5
-
-Les dispositions des articles 433-20 et 433-21 ne sont applicables qu'aux personnes ayant le statut civil de droit commun.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 433-20 (M)
-	  - Code pénal - art. 433-21 (M)
-
-
-###### Article 725-6
-
-L'article 443-3 est rédigé comme suit :
-
-" Art. 443-3. - Sont punis d'un an d'emprisonnement et de 100 000 F d'amende, la fabrication, la vente, le transport ou la
-distribution de tous objets, imprimés ou formules qui présentent, avec les titres ou autres valeurs fiduciaires émises par
-l'Etat, les collectivités locales, les établissements publics ou les exploitants publics intervenant dans le fonctionnement
-du service public de la poste et des télécommunications, une ressemblance de nature à faciliter l'acceptation desdits objets,
-imprimés ou formules au lieu et place des valeurs imitées. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 443-3 (M)
-
-
-#### Chapitre VI : Adaptation du livre V.
-
-###### Article 726-1
-
-L'article 511-3 est ainsi rédigé :
-
-" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
-l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 700
-000 F d'amende.
-
-" Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur
-faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son
-frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation
-applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal
-du mineur.
-
-" Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
-magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
-
-" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
-
-" Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci y
-est apte. Le refus du mineur fait obstacle au prélèvement. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-7 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-7 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-7 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-3 (M)
-
-
-###### Article 726-2
-
-Le deuxième alinéa de l'article 511-5 est ainsi rédigé :
-
-" Art. 511-5. - Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une
-personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-8 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-8 (M)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-5 (M)
-
-
-###### Article 726-3
-
-L'article 511-7 est ainsi rédigé :
-
-" Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des transplantations d'organes, à des prélèvements ou des
-greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de cellules hors d'un établissement
-autorisé à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-9 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-9 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-7 (M)
-
-
-###### Article 726-4
-
-L'article 511-8 est ainsi rédigé :
-
-" Art. 511-8. - Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains
-en vue d'un don sans qu'aient été respectées les règles de sécurité sanitaires exigées par les dispositions applicables
-localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-10 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-10 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-10 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-8 (M)
-
-
-###### Article 726-5
-
-L'article 511-11 est ainsi rédigé :
-
-" Art. 511-11. - Le fait de recueillir ou de prélever des gamètes sur une personne vivante en vue d'une assistance médicale à
-la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en vertu de la réglementation
-applicable localement est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-11 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-11 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-11 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-11 (M)
-
-
-###### Article 726-6
-
-L'article 511-12 est ainsi rédigé :
-
-" Art. 511-12. - Le fait de procéder à une insémination artificielle par sperme frais ou mélange de sperme provenant de dons
-est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-12 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-12 (MMN)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-12 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-12 (M)
-
-
-###### Article 726-7
-
-L'article 511-13 est ainsi rédigé :
-
-" Art. 511-13. - Le fait de subordonner le bénéfice d'un don de gamètes à la désignation par le couple receveur d'une
-personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-13 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-13 (MMN)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-13 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-13 (M)
-
-
-###### Article 726-8
-
-L'article 511-14 et ainsi rédigé :
-
-" Art. 511-14. - Le fait de procéder à des activités de recueil, de traitement, de conservation et de ces cession de gamètes
-provenant de dons hors d'un établissement ou organisme à but non lucratif autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-14 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1517-14 (MMN)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1517-14 (MMN)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-14 (M)
-
-
-###### Article 726-9
-
-L'article 511-16 est ainsi rédigé :
-
-" Art. 511-16. - Le fait d'obtenir des embryons humains sans autorisation préalable de l'autorité judiciaire est puni de sept
-ans d'emprisonnement et de 700 000 F d'amende. L'autorité judiciaire ne peut délivrer une telle autorisation qu'à titre
-exceptionnel, au vu du consentement écrit du couple à l'origine de la conception ou, si l'un des membres du couple est
-décédé, du membre survivant, et après avoir vérifié que l'acte ne tombe pas sous le coup des dispositions de l'article 511-24
-et que le couple receveur offre des garanties d'accueil satisfaisantes à l'enfant à naître.
-
-" Est également puni d'une peine de sept ans d'emprisonnement et de 700 000 F d'amende le fait d'obtenir un embryon humain :
-
-" - si l'anonymat entre le couple accueillant l'embryon et celui y ayant renoncé n'est pas respecté ;
-
-" - ou si le couple accueillant l'embryon ne se trouve pas dans une situation où l'assistance médicale à la procréation sans
-recours à un tiers donneur ne peut aboutir. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-2 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-2 (M)
-	  - Code de la santé publique - art. L2414-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-3 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-16 (M)
-	  - Code pénal - art. 511-24 (M)
-
-
-###### Article 726-10
-
-L'article 511-19 est ainsi rédigé :
-
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait de procéder à une étude ou à une
-expérimentation sur l'embryon.
-
-" L'alinéa précédent n'est pas applicable à une étude réalisée, à titre exceptionnel, à des fins médicales à condition
-qu'elle ne porte pas atteinte à l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son consentement par
-écrit, après avis conforme d'une commission constituée dans les conditions fixées par décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-3 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-3 (M)
-	  - Code de la santé publique - art. L2414-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-4 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-19 (M)
-
-
-###### Article 726-11
-
-L'article 511-20 est ainsi rédigé :
-
-" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un établissement autorisé à cet effet est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-4 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-4 (M)
-	  - Code de la santé publique - art. L2414-5 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-5 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-
-
-###### Article 726-12
-
-L'article 511-21 est ainsi rédigé :
-
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que soit attestée, par un médecin exerçant son
-activité dans un établissement mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner naissance à un
-enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic est puni
-de deux ans d'emprisonnement et de 200 000 F d'amende.
-
-" Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire :
-
-" 1° Sans avoir recueilli par écrit le consentement des deux membres du couple ;
-
-" 2° Ou à d'autres fins que de rechercher l'affection, de la prévenir et de la traiter ;
-
-" 3° Ou hors d'un établissement autorisé à cet effet. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-5 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-5 (M)
-	  - Code de la santé publique - art. L2414-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-6 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-20 (M)
-	  - Code pénal - art. 511-21 (M)
-
-
-###### Article 726-13
-
-L'article 511-22 est ainsi rédigé :
-
-" Art. 511-22. - Le fait de procéder à des activités d'assistance médicale à la procréation hors d'un établissement autorisé
-à cet effet est puni de deux ans d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-6 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-6 (M)
-	  - Code de la santé publique - art. L2414-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-7 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-22 (M)
-
-
-###### Article 726-14
-
-L'article 511-24 est ainsi rédigé :
-
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait de procéder à des activités
-d'assistance médicale à la procréation lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque le
-couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en âge de procréer, mariés ou en mesure d'apporter
-la preuve d'une vie commune d'au moins deux ans et ayant préalablement consenti au transfert des embryons ou à l'insémination
-artificielle.
-
-" Est puni des mêmes peines le fait de procéder à des activités d'assistance médicale à la procréation en vue d'un objet
-autre que de remédier à une infertilité dont le caractère pathologique a été médicalement diagnostiqué ou d'éviter la
-transmission à un enfant d'une maladie d'une particulière gravité. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-7 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-7 (M)
-	  - Code de la santé publique - art. L2414-8 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-8 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-24 (M)
-
-
-###### Article 726-15
-
-L'article 511-25 est ainsi rédigé :
-
-" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris connaissance des résultats des tests de
-dépistage de maladies infectieuses exigés en application des dispositions en vigueur localement est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2414-8 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2414-8 (M)
-	  - Code de la santé publique - art. L2414-9 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2414-9 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-25 (M)
-
-
-#### Chapitre VII : Dispositions diverses.
-
-###### Article 727-1
-
-Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
-l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 200
-000 F d'amende.
-
-Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
-l'initiative.
-
-Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
-de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-
-
-###### Article 727-2
-
-Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
-des offres destinées à troubler les cours ou des sur-offres faites aux prix demandés par les vendeurs, ou en utilisant tout
-autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de services ou
-d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
-
-Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
-d'emprisonnement et 300 000 F d'amende.
-
-Les personnes physiques coupables des infractions prévues au présent article encourent également les peines complémentaires
-suivantes :
-
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
-
-2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues à l'article 131-35.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35 (M)
-
-	**Cité par**:
-
-	  - Code pénal - art. 727-3 (V)
-
-
-###### Article 727-3
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux deux premiers alinéas de l'article précédent.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues à l'article 131-38 ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 9° de l'article 131-39.
-
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
-laquelle l'infraction a été commise.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -35928,44 +35926,33 @@ ininterrompue peut être établie.
 
 ## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.
 
-### Titre II : Dispositions applicables à Mayotte.
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie
 
 #### Chapitre Ier : Dispositions générales
-
-###### Article R721-1
-
-Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
-Conseil d'Etat) sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
-
-#### Chapitre Ier : Dispositions générales.
 
 ###### Article R711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
-Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, R. 635-3 à R. 635-7 et R. 645-6, sont
-applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna.
+Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
+R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
+des îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
+	  - Code pénal - art. R321-1 (V)
+	  - Code pénal - art. R633-1 (V)
+	  - Code pénal - art. R635-3 (V)
 	  - Code pénal - art. R645-6 (V)
-	  - Code pénal R321-1 à R321-12, R633-1 à R633-5, R635-3 à R635-7, R645-6
 
 	**Cité par**:
 
@@ -35979,9 +35966,13 @@ australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R711-3
@@ -35995,27 +35986,31 @@ comme suit :
 
 - " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire " ;
 
-- " Banque de France " par " Institut d'émission d'outre-mer ".
+- " Banque de France " par " Institut d'émission d'outre-mer ". 
 
 De même, les références à des dispositions non applicables dans ces territoires sont remplacées par les références aux
 dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R711-1 (M)
+	  - Code pénal - art. R711-1 (V)
 
 
-#### Chapitre II : Adaptation du livre Ier.
+#### Chapitre II : Adaptation du livre Ier
 
 ###### Article R712-1
 
-Le deuxième alinéa de l'article R. 131-2 est rédigé comme suit :
+Le deuxième alinéa de l'article R. 131-2 est rédigé comme suit : 
 
 " Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
 la route applicable localement, justification du droit de conduire, lorsque sont respectées les conditions fixées par la
@@ -36023,18 +36018,22 @@ juridiction. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R131-2 (M)
+	  - Code pénal - art. R131-2 (V)
 
 
 ###### Article R712-2
 
-L'avant-dernier alinéa de l'article R. 131-4 est rédigé comme suit :
+L'avant-dernier alinéa de l'article R. 131-4 est rédigé comme suit : 
 
 " Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
 la route applicable localement, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour
@@ -36042,27 +36041,35 @@ lesquelles la juridiction a prononcé l'interdiction de conduire. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R131-4 (M)
+	  - Code pénal - art. R131-4 (V)
 
 
 ###### Article R712-3
 
-Le 1° de l'article R. 131-12 est rédigé comme suit :
+Le 1° de l'article R. 131-12 est rédigé comme suit : 
 
 " 1° La copie du Journal officiel ou du Journal officiel du territoire portant publication de la déclaration de
 l'association. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36078,9 +36085,13 @@ donner leur avis. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36089,20 +36100,24 @@ donner leur avis. "
 
 ###### Article R712-5
 
-La deuxième phrase de l'article R. 131-18 est rédigée comme suit :
+La deuxième phrase de l'article R. 131-18 est rédigée comme suit : 
 
 " Il adresse copie de la demande aux organismes ou services locaux de prévention de la délinquance lorsqu'ils existent ;
 ceux-ci ont trois mois pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R131-18 (M)
+	  - Code pénal - art. R131-18 (V)
 
 
 ###### Article R712-6
@@ -36114,9 +36129,13 @@ travail d'intérêt général ne peut excéder de plus de douze heures la durée
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36125,7 +36144,7 @@ travail d'intérêt général ne peut excéder de plus de douze heures la durée
 
 ###### Article R712-7
 
-Le 3° de l'article R. 131-28 est rédigé comme suit :
+Le 3° de l'article R. 131-28 est rédigé comme suit : 
 
 " 3° De s'assurer, si le travail auquel le juge de l'application des peines entend l'affecter doit s'exercer dans un
 établissement ou organisme public ou privé de prévention ou de soins et l'expose à des risques de contamination, qu'il est
@@ -36134,9 +36153,13 @@ prévues par la réglementation applicable localement. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36145,7 +36168,7 @@ prévues par la réglementation applicable localement. "
 
 ###### Article R712-8
 
-Le deuxième alinéa de l'article R. 131-36 est rédigé comme suit :
+Le deuxième alinéa de l'article R. 131-36 est rédigé comme suit : 
 
 " Lorsque le personnel de cette personne morale est régi par les dispositions applicables localement relatives à la
 représentation des salariés, l'avis mentionné au premier alinéa est adressé au secrétaire du comité d'entreprise ou, le cas
@@ -36154,16 +36177,20 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R131-36 (T)
+	  - Code pénal - art. R131-36 (V)
 
 
-#### Chapitre VI : Adaptation du livre V.
+#### Chapitre VI : Adaptation du livre V
 
 ###### Article R716-1
 
@@ -36174,9 +36201,13 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36184,14 +36215,29 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 	  - Code pénal - art. R511-1 (M)
 
 
-### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
+### Titre II : Dispositions applicables à Mayotte.
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
+
+###### Article R721-1
+
+Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
+Conseil d'Etat) sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
 
 ###### Article R721-2
 
-Pour l'application du présent code dans la collectivité territoriale de Mayotte, les termes énumérés ci-après sont remplacés
-comme suit :
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
 - " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
 
@@ -36206,12 +36252,20 @@ dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
-#### Chapitre II : Adaptation du livre Ier.
+#### Chapitre II : Adaptation du livre Ier
 
 ###### Article R722-1
 
@@ -36223,13 +36277,21 @@ juridiction. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. R131-2 (M)
+	  - Code pénal - art. R131-2
 
 
 ###### Article R722-2
@@ -36242,13 +36304,21 @@ lesquelles la juridiction a prononcé l'interdiction de conduire. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. R131-4 (M)
+	  - Code pénal - art. R131-4
 
 
 ###### Article R722-3
@@ -36260,9 +36330,13 @@ pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36271,20 +36345,24 @@ pour donner leur avis. "
 
 ###### Article R722-4
 
-La deuxième phrase de l'article R. 131-18 est rédigée comme suit :
+La deuxième phrase de l'article R. 131-18 est rédigée comme suit : 
 
 " Il adresse copie de la demande aux organismes ou services locaux de prévention de la délinquance, lorsqu'ils existent ;
 ceux-ci ont trois mois pour donner leur avis. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
-	  - Code pénal - art. R131-18 (M)
+	  - Code pénal - art. R131-18 (V)
 
 
 ###### Article R722-5
@@ -36296,9 +36374,13 @@ excéder de plus de douze heures la durée légale de travail en vigueur localem
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
@@ -36316,13 +36398,21 @@ maladies prévues par la réglementation applicable localement. "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°96-267 du 28 mars 1996
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. R131-28 (V)
+	  - Code pénal - art. R131-28
 
 
 ###### Article R722-7
@@ -36336,9 +36426,13 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 96-267 1996-03-28
+
 	**Modifié par**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cite**:
 
