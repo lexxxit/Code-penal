@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-09-27
+Version Consolidée au 2004-09-29
 
 # Partie législative
 
@@ -35449,8 +35449,7 @@ ou un état de l'actif mobilier et immobilier et du passif.
 ###### Article R131-13
 
 Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il consulte le conseil départemental de
-prévention de la délinquance, qui a trois mois pour donner son avis. Il communique ensuite la demande d'habilitation au
-président du tribunal.
+prévention, qui a trois mois pour donner son avis. Il communique ensuite la demande d'habilitation au président du tribunal.
 
 L'assemblée générale des magistrats du siège et du parquet du tribunal statue sur la demande d'habilitation, après rapport du
 juge de l'application des peines et à la majorité des membres présents.
@@ -35462,13 +35461,13 @@ L'habilitation accordée est valable pour une durée de trois ans.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 19 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -35946,29 +35945,22 @@ Guerre mondiale.
 	  - Code de la sécurité intérieure - art. R317-13 (V)
 
 
-##### Section 2 : Des peines applicables aux personnes morales.
-
 ###### Article R131-36
 
-Lorsqu'il existe, au sein d'une personne morale citée ou amenée à comparaître devant une juridiction de jugement, des
-représentants du personnel, le ministère public les avise de la date et de l'objet de l'audience, par lettre recommandée
-adressée dix jours au moins avant la date de l'audience.
+La durée du stage de citoyenneté est fixée par la juridiction en tenant compte, pour le condamné majeur de ses obligations
+familiales, sociales ou professionnelles, pour le condamné mineur de ses obligations scolaires et de sa situation familiale.
+Elle ne peut excéder un mois.
 
-Lorsque le personnel de cette personne morale est régie par les dispositions du code du travail relatives à la représentation
-des salariés, l'avis mentionné au premier alinéa est adressé au secrétaire du comité d'entreprise ou, le cas échéant, au
-secrétaire du comité central d'entreprise et, en l'absence de tels comités, aux délégués du personnel titulaire.
+La durée journalière de formation effective ne peut excéder six heures. Pour le mineur, elle doit être adaptée en fonction de
+son âge et de sa personnalité.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
@@ -35982,9 +35974,261 @@ secrétaire du comité central d'entreprise et, en l'absence de tels comités, a
 	  - Code pénal - art. R712-8 (V)
 	  - Code pénal - art. R722-7 (V)
 
+
+##### Paragraphe 2 : Organisation du stage
+
+###### Article R131-37
+
+Le stage de citoyenneté est organisé en sessions collectives, continues ou discontinues, composées d'un ou plusieurs modules
+de formation adaptés à la personnalité des condamnés et à la nature de l'infraction commise. Pour les mineurs, les modules
+sont en outre adaptés à leur âge.
+
+Ces sessions ont lieu soit dans le ressort du tribunal de grande instance, soit dans le ressort de la cour d'appel.
+
+Les stages sont mis en oeuvre sous le contrôle du délégué du procureur de la République du lieu d'exécution de la peine. Ils
+peuvent également être mis en oeuvre sous le contrôle du service pénitentiaire d'insertion ou de probation.
+
+Le contenu du stage de citoyenneté fait l'objet d'un projet élaboré par la personne ou le service chargé de procéder au
+contrôle de sa mise en oeuvre. Ce projet est validé par le procureur de la République après avis du président du tribunal de
+grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+
+###### Article R131-38
+
+Les modules du stage de citoyenneté peuvent être élaborés avec le concours des collectivités territoriales et des
+établissements publics et, le cas échéant, de personnes morales de droit privé ou de personnes physiques participant à des
+missions d'intérêt général, notamment d'accès au droit.
+
+Lorsqu'un module de formation est élaboré avec l'une des personnes publiques ou privées mentionnées à l'alinéa précédent, il
+fait l'objet d'une convention entre le procureur de la République, agissant au nom de l'Etat, et cette personne. Cette
+convention précise le contenu de ce module, sa durée, les objectifs particuliers qui lui sont assignés, les modalités de la
+prestation assurée par la personne privée ou publique ainsi que les modalités de financement des frais engagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Cité par**:
+
+	  - Code pénal - art. R131-42 (V)
+
+
+##### Paragraphe 3 : Déroulement et fin du stage.
+
+###### Article R131-39
+
+Préalablement à la mise en oeuvre du stage, la personne ou le service qui en a la charge reçoit le condamné et lui en expose
+les objectifs. Il lui précise les conséquences du non-respect de ses obligations résultant du stage, telles qu'elles
+découlent de l'article 434-41 ou telles qu'elles ont été, le cas échéant, fixées par la juridiction en application de
+l'article 131-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 434-41 (V)
+	  - Code pénal - art. R131-9 (V)
+
+
+###### Article R131-40
+
+Une attestation de fin de stage est délivrée au condamné, qui l'adresse à la personne ou au service chargé d'en contrôler la
+mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+
+##### Paragraphe 4 : Dispositions spécifiques applicables aux mineurs.
+
+###### Article R131-41
+
+Lorsque le stage de citoyenneté concerne des mineurs, il est élaboré et mis en oeuvre sous le contrôle d'un service du
+secteur public de protection judiciaire de la jeunesse. Le projet de stage est transmis par le responsable de ce service au
+directeur départemental de la protection judiciaire de la jeunesse. Pour en autoriser la mise en oeuvre, le directeur
+recueille l'avis du juge des enfants et l'accord du procureur de la République du lieu où se déroulera habituellement le
+stage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+
+###### Article R131-42
+
+La convention prévue à l'article R. 131-38 est passée entre les personnes mentionnées au premier alinéa de cet article et le
+service du secteur public de la protection judiciaire de la jeunesse.
+
+Le directeur départemental de la protection judiciaire de la jeunesse informe le juge des enfants et le procureur de la
+République de l'identité des services mettant en oeuvre des stages de citoyenneté pour les mineurs dans le département et du
+contenu de ces stages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code pénal - art. R131-38 (V)
+
+
+###### Article R131-43
+
+Les formalités prévues à l'article R. 131-39 sont accomplies en présence des parents, du tuteur, du responsable de
+l'établissement ou de la personne à qui le mineur est confié, ou ceux-ci dûment convoqués. 
+
+Le stage se déroule sous le contrôle et en présence permanente d'un personnel éducatif du service chargé de sa mise en
+oeuvre. En cas de difficulté d'exécution du stage liée notamment au comportement du mineur, le représentant du service peut
+en suspendre l'exécution. Il en informe alors sans délai le juge des enfants et le procureur de la République et leur adresse
+un rapport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 131-39 (V)
+
+
+###### Article R131-44
+
+En fin de stage, le service en charge de la mesure reçoit le mineur et les parents, le tuteur, le responsable de
+l'établissement ou la personne à qui le mineur est confié afin d'établir un bilan du déroulement du stage et de vérifier que
+ses objectifs ont été atteints.
+
+Dans le délai d'un mois suivant la fin du stage, un rapport de synthèse est transmis par le service au juge des enfants et au
+procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+
+##### Section 2 : Des peines applicables aux personnes morales.
+
+###### Article R131-45
+
+Le mandataire de justice prévu par l'article 131-46 est choisi soit parmi les personnes inscrites sur la liste prévue par
+l'article L. 811-2 du code de commerce, soit parmi celles inscrites sur l'une des listes prévues par l'article 157 du code de
+procédure pénale. Toutefois, à titre exceptionnel, la juridiction peut, par décision motivée, désigner comme mandataire une
+personne physique ne figurant sur aucune des listes précitées mais ayant une expérience ou une qualification particulière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code pénal art. R131-35
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code de commerce. - art. L811-2 (M)
+	  - Code pénal - art. 131-46 (M)
+	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+
 	**Nouveaux textes**:
 
-	  - Code pénal art. R131-46
+	  - Code pénal - art. R131-52 (V)
+
+
+###### Article R131-46
+
+Lorsqu'il existe, au sein d'une personne morale citée ou amenée à comparaître devant une juridiction de jugement, des
+représentants du personnel, le ministère public les avise de la date et de l'objet de l'audience, par lettre recommandée
+adressée dix jours au moins avant la date de l'audience.
+
+Lorsque le personnel de cette personne morale est régie par les dispositions du code du travail relatives à la représentation
+des salariés, l'avis mentionné au premier alinéa est adressé au secrétaire du comité d'entreprise ou, le cas échéant, au
+secrétaire du comité central d'entreprise et, en l'absence de tels comités, aux délégués du personnel titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code pénal art. R131-36
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Transféré par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Nouveaux textes**:
+
+	  - Code pénal - art. R131-53 (V)
 
 
 #### Chapitre II : Du régime des peines
@@ -38029,52 +38273,6 @@ La récidive de la contravention prévue au présent article est reprimée confo
 	  - Code pénal - art. 132-15 (V)
 
 
-##### Section 4 : Du racolage.
-
-###### Article R625-8
-
-Le fait, par tout moyen, de procéder publiquement au racolage d'autrui en vue de l'inciter à des relations sexuelles est puni
-de l'amende prévue pour les contraventions de la 5e classe.
-
-Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
-
-1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
-
-2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
-
-3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
-
-4° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
-
-5° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
-
-La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Cité par**:
-
-	  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 13 () JORF 29 septembre 2004
-
-	**Cite**:
-
-	  - Code pénal - art. 132-11 (M)
-
-
 ##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée
 
 ###### Article R625-9
@@ -39343,6 +39541,32 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+
+##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République
+
+###### Article R645-8-1
+
+Le fait d'accomplir les actes réservés aux délégués ou médiateurs du procureur de la République ou d'user du titre attaché à
+ces fonctions, sans y avoir été habilité ou après avoir fait l'objet d'un retrait d'habilitation, est puni de l'amende prévue
+pour les contraventions de la 5e classe.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+contraventions définies au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-1021 du 27 septembre 2004 - art. 4 () JORF 29 septembre 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
 
 
 ##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés
