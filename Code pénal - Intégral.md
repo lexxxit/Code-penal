@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-02-14
 
 # Partie législative
 
@@ -27059,6 +27059,50 @@ secrétaire du comité central d'entreprise et, en l'absence de tels comités, a
 	**Nouveaux textes**:
 
 	  - Code pénal art. R131-46
+
+
+#### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
+
+##### Section 2 : De la grâce
+
+###### Article R133-1
+
+Les recours en grâce sont instruits par le ministre de la justice après, le cas échéant, examen préalable par le ou les
+ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
+
+
+###### Article R133-2
+
+Le décret de grâce, signé par le Président de la République, est contresigné par le Premier ministre, par le ministre de la
+justice et, le cas échéant, le ou les ministres ayant procédé à l'examen préalable du recours.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°95-152 du 7 février 1995 - art. 1 () JORF 14 février 1995
 
 
 ## Livre II : Des crimes et délits contre les personnes
