@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2004-01-03
+Version Consolidée au 2004-02-20
 
 # Partie législative
 
@@ -36674,6 +36674,51 @@ Les peines encourues par les personnes morales sont :
 	  - Code pénal - art. 131-41 (V)
 	  - Code pénal - art. R624-3 (M)
 	  - Code pénal - art. R624-4 (M)
+
+
+##### Section 4 : Du manquement à l'obligation d'assiduité scolaire
+
+###### Article R624-7
+
+Le fait, pour l'un ou l'autre parent d'un enfant soumis à l'obligation scolaire ou pour toute personne exerçant à son égard
+l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par l'inspecteur d'académie et mise
+en oeuvre des procédures définies à l'article 5-2 du décret n° 66-104 du 18 février 1966 relatif au contrôle de la
+fréquentation et de l'assiduité scolaires, de ne pas imposer à l'enfant l'obligation d'assiduité scolaire sans faire
+connaître de motif légitime ou d'excuse valable ou en donnant des motifs d'absence inexacts est puni de l'amende prévue pour
+les contraventions de la 4e classe.
+
+Le fait de faciliter, par aide ou assistance, la commission de la contravention prévue au présent article est puni des mêmes
+peines.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
+l'infraction définie au présent article.
+
+La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-104 du 18 février 1966 - art. 5-2 (Ab)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2004-162 du 19 février 2004 - art. 9 () JORF 20 février 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'éducation - art. R131-19 (VD)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R131-19 (VD)
+	  - Code de l'éducation - art. R131-7 (V)
 
 
 #### Chapitre V : Des contraventions de la 5e classe contre les personnes
