@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-25
 
 # Partie législative
 
@@ -31444,67 +31444,6 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (MMN)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
-
-#### Chapitre VI : Adaptation du livre V.
-
-###### Article 716-1
-
-L'article 511-3 est ainsi rédigé :
-
-" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans
-l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 700
-000 F d'amende.
-
-" Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur
-faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son
-frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation
-applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal
-du mineur.
-
-" Les consentements prévus aux alinéas précédents sont exprimés devant le président du tribunal de première instance ou le
-magistrat désigné par lui. Ils peuvent être révoqués sans forme à tout moment.
-
-" En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
-
-" Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci
-est apte. Le refus du mineur fait obstacle au prélèvement. "
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1525-8 (Ab)
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1543-8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1525-8 (M)
-	  - Code de la santé publique - art. L1533-8 (T)
-	  - Code de la santé publique - art. L1543-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1525-8 (V)
-	  - Code de la santé publique - art. L1533-8 (T)
-	  - Code de la santé publique - art. L1543-8 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 511-3 (M)
-
-
 # Partie réglementaire - Décrets en Conseil d'Etat
 
 ## Livre Ier : Dispositions générales
@@ -33287,15 +33226,23 @@ conditions prévues à la présente section.
 Le besoin de protection est déterminé par le ministre qui a la charge des installations, du matériel ou des recherches,
 études, fabrications à caractère secret qu'il désigne.
 
+Les autorités dont relèvent les services, établissements ou entreprises concernés peuvent recevoir par décret délégation pour
+déterminer ce besoin de protection.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Décret n°2001-744 du 24 août 2001 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2001-744 du 24 août 2001 - art. 1 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -33313,15 +33260,23 @@ Lorsque l'activité principale du service, de l'établissement ou de l'entrepris
 les limites de zones protégées sont fixées par arrêté conjoint de ce ministre et du ministre ayant déterminé le besoin de
 protection.
 
+Les autorités dont relèvent ces services, établissements ou entreprises peuvent recevoir par décret délégation pour prendre
+les arrêtés prévus par le présent article.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Décret n°2001-744 du 24 août 2001 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2001-744 du 24 août 2001 - art. 2 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -33334,8 +33289,8 @@ protection.
 ###### Article R413-4
 
 L'arrêté portant création d'une zone protégée est notifié au chef du service, de l'établissement ou de l'entreprise. Celui-ci
-prend alors, sous le contrôle du ministre qui a déterminé le besoin de protection, toutes dispositions pour rendre apparentes
-les limites de la zone et les mesures d'interdiction dont elle est l'objet.
+prend alors, sous le contrôle de l'autorité qui a déterminé le besoin de protection, toutes dispositions pour rendre
+apparentes les limites de la zone et les mesures d'interdiction dont elle est l'objet.
 
 Un exemplaire de l'arrêté est adressé, pour leur information et éventuellement aux fins d'application des dispositions qui
 les concernent, au ministre de l'intérieur et aux préfets territorialement compétents.
@@ -33345,10 +33300,15 @@ les concernent, au ministre de l'intérieur et aux préfets territorialement com
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - SPEC_APPLI: Décret n°2001-744 du 24 août 2001 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2001-744 du 24 août 2001 - art. 3 () JORF 25 août 2001
 
 
 ###### Article R413-5
