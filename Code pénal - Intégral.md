@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1995-08-04
+Version Consolidée au 1996-02-27
 
 # Partie législative
 
@@ -491,6 +491,26 @@ Dans le cas prévu au 1°, la nationalité de l'auteur ou de la victime de l'inf
 
 	  - Code pénal - art. 113-6 (V)
 	  - Code pénal - art. 113-9 (V)
+
+
+###### Article 113-12
+
+La loi pénale française est applicable aux infractions commises au-delà de la mer territoriale, dès lors que les conventions
+internationales et la loi le prévoient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Créé par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 9 () JORF 27 février 1996
 
 
 ### Titre II : De la responsabilité pénale
