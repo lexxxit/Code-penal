@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 1994-07-30
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -14236,8 +14236,10 @@ traitement informatisé est puni de trois ans d'emprisonnement et de 300 000 F d
 
 Le fait, par toute personne détentrice d'informations nominatives à l'occasion de leur enregistrement, de leur classement, de
 leur transmission ou de toute autre forme de traitement, de détourner ces informations de leur finalité telle que définie par
-la disposition législative ou l'acte réglementaire autorisant le traitement automatisé, ou par les déclarations préalables à
-la mise en oeuvre de ce traitement, est puni de cinq ans d'emprisonnement et de 2 000 000 F d'amende.
+la disposition législative ou l'acte réglementaire autorisant le traitement automatisé, ou par la décision de la Commission
+nationale de l'informatique et des libertés autorisant un traitement automatisé ayant pour fin la recherche dans le domaine
+de la santé, ou par les déclarations préalables à la mise en oeuvre de ce traitement, est puni de cinq ans d'emprisonnement
+et de 2 000 000 F d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14277,6 +14279,10 @@ la mise en oeuvre de ce traitement, est puni de cinq ans d'emprisonnement et de 
 
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°95-116 1995-02-04 art. 34 JORF 5 février 1995
 
 
 ###### Article 226-22
@@ -15429,14 +15435,14 @@ mineur de quinze ans est puni de deux ans d'emprisonnement et de 200 000 F d'ame
 
 ###### Article 227-26
 
-L'infraction définie à l'article 227-25 est punie de cinq ans d'emprisonnement et de 500 000 F d'amende :
+L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
 
 1° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
 victime ;
 
 2° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
 
-3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice.
+3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
 4° Lorsqu'elle s'accompagne du versement d'une rémunération.
 
@@ -15457,7 +15463,7 @@ ne sont pas applicables.
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 15 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 121 () JORF 5 février 1995
 
 	**Cité par**:
 
