@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-06
 
 # Partie législative
 
@@ -30333,6 +30333,31 @@ pièces de monnaie qui, bien que destinés à être mis en circulation, n'ont pa
 	  - Code pénal 442-1, 442-2, 442-5 à 442-14
 
 
+###### Article 442-16
+
+Les condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne pour les infractions prévues
+au présent chapitre sont prises en compte au titre de la récidive conformément aux règles prévues par les articles 132-8 à
+132-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-750 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal 132-8 à 132-15
+
+
 #### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique
 
 ###### Article 443-1
@@ -30823,6 +30848,149 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal - art. 444-7 (V)
+
+
+#### Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique
+
+##### Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique
+
+###### Article 445-1
+
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait de proposer, à tout moment, directement ou
+indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne
+qui, sans être dépositaire de l'autorité publique ou chargée d'une mission de service public, exerce, dans le cadre d'une
+activité professionnelle ou sociale, une fonction de direction ou un travail pour une personne physique ou morale, ou un
+organisme quelconque, qu'elle accomplisse ou s'abstienne d'accomplir un acte de son activité ou de sa fonction ou facilité
+par son activité ou sa fonction, en violation de ses obligations légales, contractuelles ou professionnelles.
+
+Est puni des mêmes peines le fait de céder à une personne visée à l'alinéa précédent qui sollicite, à tout moment,
+directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour accomplir
+ou s'abstenir d'accomplir un acte visé audit alinéa, en violation de ses obligations légales, contractuelles ou
+professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - Arrêté du 28 septembre 2011 - art. 2 (V)
+	  - Arrêté du 28 septembre 2011 - art. 6 (V)
+	  - Arrêté du 2 novembre 2011 - art. 3 (V)
+	  - Arrêté du 2 novembre 2011 - art. 4 (V)
+	  - Décret n°2015-881 du 17 juillet 2015 - art. 5 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Code de procédure pénale - art. 2-23 (V)
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code de procédure pénale - art. 705 (V)
+	  - Code général des collectivités territoriales - art. L1414-4 (VD)
+	  - Code pénal - art. 445-1-1 (V)
+	  - Code pénal - art. 445-3 (V)
+	  - Code pénal - art. 445-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+
+
+###### Article 445-2
+
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par une personne qui, sans être dépositaire de
+l'autorité publique ou chargée d'une mission de service public, exerce, dans le cadre d'une activité professionnelle ou
+sociale, une fonction de direction ou un travail pour une personne physique ou morale, ou un organisme quelconque, de
+solliciter ou d'agréer, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des
+avantages quelconques pour accomplir ou s'abstenir d'accomplir un acte de son activité ou de sa fonction, ou facilité par son
+activité ou sa fonction, en violation de ses obligations légales, contractuelles ou professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code pénal - art. 445-2-1 (V)
+	  - Code pénal - art. 445-4 (V)
+
+
+##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales
+
+###### Article 445-3
+
+Les personnes physiques coupables des infractions définies aux articles 445-1 et 445-2 encourent également les peines
+complémentaires suivantes :
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+
+2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ;
+
+3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;
+
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+
+
+###### Article 445-4
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies aux articles 445-1 et 445-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende suivant les modalités prévues par l'article 131-38 ;
+
+2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de laquelle
+l'infraction a été commise ;
+
+3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;
+
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 445-1 (M)
+	  - Code pénal - art. 445-2 (M)
 
 
 ### Titre V : De la participation à une association de malfaiteurs
