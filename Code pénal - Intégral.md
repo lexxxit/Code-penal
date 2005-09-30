@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-07-06
+Version Consolidée au 2005-10-01
 
 # Partie législative
 
@@ -1994,9 +1994,9 @@ l'amende, pour les délits qui sont punis seulement d'une peine d'amende.
 
 ###### Article 131-8
 
-Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire que le condamné accomplira, pour une
-durée de quarante à deux cent quarante heures, un travail d'intérêt général non rémunéré au profit d'une personne morale de
-droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général.
+Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire, à la place de l'emprisonnement, que le
+condamné accomplira, pour une durée de quarante à deux cent dix heures, un travail d'intérêt général non rémunéré au profit
+d'une personne morale de droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général.
 
 La peine de travail d'intérêt général ne peut être prononcée contre le prévenu qui la refuse ou qui n'est pas présent à
 l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
@@ -2050,10 +2050,10 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2004-204 2004-03-09 art. 44 VII, art. 174 1° JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 131-9
