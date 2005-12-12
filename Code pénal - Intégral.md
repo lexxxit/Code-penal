@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-10-22
+Version Consolidée au 2005-12-13
 
 # Partie législative
 
@@ -2857,16 +2857,16 @@ La juridiction qui prononce la peine de travail d'intérêt général fixe le d�
 doit être accompli dans la limite de dix-huit mois. Le délai prend fin dès l'accomplissement de la totalité du travail
 d'intérêt général ; il peut être suspendu provisoirement pour motif grave d'ordre médical, familial, professionnel ou social.
 Ce délai est suspendu pendant le temps où le condamné est incarcéré ou pendant le temps où il accomplit les obligations du
-service national.
+service national. 
 
 Les modalités d'exécution de l'obligation d'accomplir un travail d'intérêt général et la suspension du délai prévu à l'alinéa
 précédent sont décidées par le juge de l'application des peines dans le ressort duquel le condamné a sa résidence habituelle
 ou, s'il n'a pas en France sa résidence habituelle, par le juge de l'application des peines du tribunal qui a statué en
-première instance.
+première instance. 
 
 Lorsque la personne a été condamnée pour un délit prévu par le code de la route ou sur le fondement des articles 221-6-1,
 222-19-1, 222-20-1 et 434-10, elle accomplit de préférence la peine de travail d'intérêt général dans un des établissements
-spécialisés dans l'accueil des blessés de la route.
+spécialisés dans l'accueil des blessés de la route. 
 
 Au cours du délai prévu par le présent article, le condamné doit satisfaire aux mesures de contrôle déterminées par l'article
 132-55.
@@ -2899,15 +2899,15 @@ Au cours du délai prévu par le présent article, le condamné doit satisfaire 
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 132-55 (M)
+	  - Code pénal - art. 132-55 (V)
 	  - Code pénal - art. 221-6-1 (V)
 	  - Code pénal - art. 222-19-1 (V)
 	  - Code pénal - art. 222-20-1 (V)
-	  - Code pénal - art. 434-10 (M)
+	  - Code pénal - art. 434-10 (V)
 
 
 ###### Article 131-23
@@ -4574,6 +4574,125 @@ Les modalités d'exécution du suivi socio-judiciaire sont fixées par le titre 
 	**Créé par**:
 
 	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+
+
+##### Sous-section 7 : Du placement sous surveillance électronique mobile à titre de mesure de sûreté
+
+###### Article 131-36-9
+
+Le suivi socio-judiciaire peut également comprendre, à titre de mesure de sûreté, le placement sous surveillance électronique
+mobile, conformément aux dispositions de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 763-10 (V)
+	  - Code de procédure pénale - art. R61-21 (V)
+
+
+###### Article 131-36-10
+
+Le placement sous surveillance électronique mobile ne peut être ordonné qu'à l'encontre d'une personne majeure condamnée à
+une peine privative de liberté d'une durée égale ou supérieure à sept ans et dont une expertise médicale a constaté la
+dangerosité, lorsque cette mesure apparaît indispensable pour prévenir la récidive à compter du jour où la privation de
+liberté prend fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
+
+	**Cité par**:
+
+	  - Code pénal - art. 131-36-12-1 (V)
+
+
+###### Article 131-36-11
+
+Lorsqu'il est ordonné par le tribunal correctionnel, le placement sous surveillance électronique mobile doit faire l'objet
+d'une décision spécialement motivée. 
+
+Lorsqu'il est ordonné par la cour d'assises, il doit être décidé dans les conditions de majorité prévues par l'article 362 du
+code de procédure pénale pour le prononcé du maximum de la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-939 du 10 août 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 362
+
+
+###### Article 131-36-12
+
+Le placement sous surveillance électronique mobile emporte pour le condamné l'obligation de porter pour une durée de deux
+ans, renouvelable une fois en matière délictuelle et deux fois en matière criminelle, un émetteur permettant à tout moment de
+déterminer à distance sa localisation sur l'ensemble du territoire national. 
+
+Le président de la juridiction avertit le condamné que le placement sous surveillance électronique mobile ne pourra être mis
+en oeuvre sans son consentement, mais que, à défaut ou s'il manque à ses obligations, l'emprisonnement prononcé en
+application du troisième alinéa de l'article 131-36-1 pourra être mis à exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. 723-35 (V)
+	  - Code de procédure pénale - art. 723-30 (V)
+	  - Code de procédure pénale - art. R61-33 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (V)
+
+
+###### Article 131-36-13
+
+Les modalités d'exécution du placement sous surveillance électronique mobile sont fixées par le titre VII ter du livre V du
+code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
 
 
 ##### Section 2 : Des peines applicables aux personnes morales
@@ -7011,7 +7130,108 @@ constituent le second terme de la récidive.
 	  - Code de la route. - art. L413-1 (V)
 
 
-##### Sous-section 3 : Du prononcé des peines.
+###### Article 132-16-3
+
+Les délits de traite des êtres humains et de proxénétisme prévus par les articles 225-4-1, 225-4-2, 225-4-8, 225-5 à 225-7 et
+225-10 sont considérés, au regard de la récidive, comme une même infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 1 () JORF 13 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 225-10 (V)
+	  - Code pénal - art. 225-4-1 (V)
+	  - Code pénal - art. 225-4-8 (Ab)
+	  - Code pénal - art. 225-5 (V)
+
+
+###### Article 132-16-4
+
+Les délits de violences volontaires aux personnes ainsi que tout délit commis avec la circonstance aggravante de violences
+sont considérés, au regard de la récidive, comme une même infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 1 () JORF 13 décembre 2005
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 465-1 (V)
+
+
+###### Article 132-16-5
+
+L'état de récidive légale peut être relevé d'office par la juridiction de jugement même lorsqu'il n'est pas mentionné dans
+l'acte de poursuites, dès lors qu'au cours de l'audience la personne poursuivie en a été informée et qu'elle a été mise en
+mesure d'être assistée d'un avocat et de faire valoir ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
+
+
+###### Article 132-16-6
+
+Les condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne sont prises en compte au
+titre de la récidive conformément aux règles prévues par la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
+
+
+##### Sous-section 3 : Des peines applicables en cas de réitération d'infractions
+
+###### Article 132-16-7
+
+Il y a réitération d'infractions pénales lorsqu'une personne a déjà été condamnée définitivement pour un crime ou un délit et
+commet une nouvelle infraction qui ne répond pas aux conditions de la récidive légale.
+
+Les peines prononcées pour l'infraction commise en réitération se cumulent sans limitation de quantum et sans possibilité de
+confusion avec les peines définitivement prononcées lors de la condamnation précédente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
+
+
+##### Sous-section 4 : Du prononcé des peines
 
 ###### Article 132-17
 
@@ -7025,10 +7245,9 @@ La juridiction peut ne prononcer que l'une des peines encourues pour l'infractio
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
 ###### Article 132-18
@@ -7052,10 +7271,9 @@ une peine d'emprisonnement qui ne peut être inférieure à un an.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
 ###### Article 132-19
@@ -7064,7 +7282,8 @@ Lorsqu'une infraction est punie d'une peine d'emprisonnement, la juridiction peu
 une durée inférieure à celle qui est encourue.
 
 En matière correctionnelle, la juridiction ne peut prononcer une peine d'emprisonnement sans sursis qu'après avoir
-spécialement motivé le choix de cette peine.
+spécialement motivé le choix de cette peine. Toutefois, il n'y a pas lieu à motivation spéciale lorsque la personne est en
+état de récidive légale.
 
 **Liens relatifs à cet article**
 
@@ -7072,10 +7291,10 @@ spécialement motivé le choix de cette peine.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 17 () JORF 13 décembre 2005
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
 ###### Article 132-20
@@ -7089,10 +7308,9 @@ qui est encourue.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -7102,7 +7320,7 @@ qui est encourue.
 ###### Article 132-21
 
 L'interdiction de tout ou partie des droits civiques, civils et de famille mentionnés à l'article 131-26 ne peut, nonobstant
-toute disposition contraire, résulter de plein droit d'une condamnation pénale.
+toute disposition contraire, résulter de plein droit d'une condamnation pénale. 
 
 Toute personne frappée d'une interdiction, déchéance ou incapacité quelconque qui résulte de plein droit, en application de
 dispositions particulières, d'une condamnation pénale, peut, par le jugement de condamnation ou par jugement ultérieur, être
@@ -7134,10 +7352,9 @@ conditions fixées par le code de procédure pénale.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 	**Cite**:
 
@@ -7156,10 +7373,9 @@ renseignements utiles de nature financière ou fiscale, sans que puisse être op
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -7169,7 +7385,7 @@ renseignements utiles de nature financière ou fiscale, sans que puisse être op
 	  - Livre des procédures fiscales - art. L141 A (V)
 
 
-##### Sous-section 4 : De la période de sûreté.
+##### Sous-section 5 : De la période de sûreté
 
 ###### Article 132-23
 
@@ -7287,10 +7503,9 @@ cette durée.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
 ##### Section 2 : Des modes de personnalisation des peines
@@ -7301,16 +7516,19 @@ Dans les limites fixées par la loi, la juridiction prononce les peines et fixe 
 l'infraction et de la personnalité de son auteur. Lorsque la juridiction prononce une peine d'amende, elle détermine son
 montant en tenant compte également des ressources et des charges de l'auteur de l'infraction.
 
+La nature, le quantum et le régime des peines prononcées sont fixés de manière à concilier la protection effective de la
+société, la sanction du condamné et les intérêts de la victime avec la nécessité de favoriser l'insertion ou la réinsertion
+du condamné et de prévenir la commission de nouvelles infractions.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -7877,11 +8095,22 @@ durée de dix ans au plus, il est sursis à son exécution durant le temps de la
 ###### Article 132-41
 
 Le sursis avec mise à l'épreuve est applicable aux condamnations à l'emprisonnement prononcées pour une durée de cinq ans au
-plus, en raison d'un crime ou d'un délit de droit commun.
+plus, en raison d'un crime ou d'un délit de droit commun. Lorsque la personne est en état de récidive légale, il est
+applicable aux condamnations à l'emprisonnement prononcées pour une durée de dix ans au plus. 
 
 Toutes les fois que la juridiction n'a pas prononcé l'exécution provisoire, la mise à l'épreuve n'est applicable qu'à compter
 du jour où la condamnation devient exécutoire selon les dispositions du deuxième alinéa de l'article 708 du code de procédure
-pénale.
+pénale. 
+
+La juridiction pénale ne peut prononcer le sursis avec mise à l'épreuve à l'encontre d'une personne ayant déjà fait l'objet
+de deux condamnations assorties du sursis avec mise à l'épreuve pour des délits identiques ou assimilés au sens des articles
+132-16 à 132-16-4 et se trouvant en état de récidive légale. Lorsqu'il s'agit soit d'un crime, soit d'un délit de violences
+volontaires, d'un délit d'agressions ou d'atteintes sexuelles ou d'un délit commis avec la circonstance aggravante de
+violences, la juridiction ne peut prononcer le sursis avec mise à l'épreuve à l'encontre d'une personne ayant déjà fait
+l'objet d'une condamnation assortie du sursis avec mise à l'épreuve pour des infractions identiques ou assimilées et se
+trouvant en état de récidive légale. Toutefois, ces dispositions ne sont pas applicables lorsque le sursis avec mise à
+l'épreuve ne porte que sur une partie de la peine d'emprisonnement prononcée en application des dispositions du dernier
+alinéa de l'article 132-42.
 
 **Liens relatifs à cet article**
 
@@ -7889,37 +8118,36 @@ pénale.
 
 	  - Loi n°92-683 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 6 () JORF 13 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 132-16 (V)
+	  - Code pénal - art. 132-42 (V)
+	  - CODE DE PROCEDURE PENALE - art. 708 (V)
 
 	**Cité par**:
 
 	  - Code pénal - art. 132-54 (M)
 
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 708 (M)
-
 
 ###### Article 132-42
 
-La juridiction pénale fixe le délai d'épreuve qui ne peut être inférieur à dix-huit mois ni supérieur à trois ans.
+La juridiction pénale fixe le délai d'épreuve qui ne peut être inférieur à douze mois ni supérieur à trois ans. Lorsque la
+personne est en état de récidive légale, ce délai peut être porté à cinq ans. Ce délai peut être porté à sept ans lorsque la
+personne se trouve à nouveau en état de récidive légale.
 
 Elle peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une partie dont elle détermine la
-durée.
+durée. Cette partie ne peut toutefois excéder cinq ans d'emprisonnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -7928,6 +8156,10 @@ durée.
 	  - Loi n°2004-204 du 9 mars 2004 - art. 207 (V)
 	  - Code pénal - art. 132-41 (V)
 	  - Code pénal - art. 132-56 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
 
 
 ##### Paragraphe 2 : Du régime de la mise à l'épreuve
@@ -8081,15 +8313,16 @@ stage de sensibilisation à la sécurité routière ;
 16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait l'auteur ou le co-auteur et qui porterait, en
 tout ou partie, sur l'infraction commise et s'abstenir de toute intervention publique relative à cette infraction ; les
 dispositions du présent alinéa ne sont applicables qu'en cas de condamnation pour crimes ou délits d'atteintes volontaires à
-la vie, d'agressions sexuelles ou d'atteintes sexuelles ; (1)
+la vie, d'agressions sexuelles ou d'atteintes sexuelles ; 
 
-17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée par décision de justice ; (1)
+17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée par décision de justice ; 
 
-18° Accomplir un stage de citoyenneté.
+18° Accomplir un stage de citoyenneté ;
 
-**Nota:**
-
-NOTA : (1) : Loi 2004-204 du 9 mars 2004 art. 207 II : les 16° et 17° entrent en vigueur le 1er janvier 2005.
+19° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce
+dernier, résider hors du domicile ou de la résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou
+cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire,
+sociale ou psychologique.
 
 **Liens relatifs à cet article**
 
@@ -8143,8 +8376,7 @@ NOTA : (1) : Loi 2004-204 du 9 mars 2004 art. 207 II : les 16° et 17° entrent 
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 176 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 35 () JORF 13 décembre 2005
 
 
 ###### Article 132-46
@@ -10557,8 +10789,8 @@ complémentaires suivantes :
 
 ###### Article 221-9-1
 
-Les personnes physiques coupables d'un meurtre ou d'un assassinat précédé ou accompagné d'un viol, de tortures ou d'actes de
-barbarie encourent également le suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+Les personnes physiques coupables des crimes prévus par la section 1 du présent chapitre encourent également le suivi socio-
+judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
 
 **Liens relatifs à cet article**
 
@@ -10566,13 +10798,13 @@ barbarie encourent également le suivi socio-judiciaire selon les modalités pr�
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 2 () JORF 18 juin 1998
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 23 () JORF 13 décembre 2005
 
 	**Cite**:
 
-	  - Code pénal 131-36-1 à 131-36-8
+	  - Code pénal - art. 131-36-1 (V)
 
 
 ###### Article 221-10
@@ -12116,7 +12348,9 @@ victime ;
 8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
 destination d'un public non déterminé, d'un réseau de télécommunications ;
 
-9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime.
+9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
+
+10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes.
 
 **Liens relatifs à cet article**
 
@@ -12126,7 +12360,7 @@ destination d'un public non déterminé, d'un réseau de télécommunications ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 32 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -12355,6 +12589,38 @@ La tentative des délits prévus par les articles 222-27 à 222-30 est punie des
 	**Cité par**:
 
 	  - Code pénal - art. 222-33-3 (V)
+
+
+###### Article 222-31-1
+
+Lorsque le viol ou l'agression sexuelle est commis contre un mineur par une personne titulaire sur celui-ci de l'autorité
+parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des
+dispositions des articles 378 et 379-1 du code civil.
+
+Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et soeurs mineurs de la victime.
+
+Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 31 () JORF 13 décembre 2005
+
+	**Cité par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 47 (V)
+	  - Code de procédure pénale - art. 356 (V)
+	  - Code de procédure pénale - art. 706-50 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 379-1 (M)
 
 
 ###### Article 222-32
@@ -13121,8 +13387,9 @@ ainsi qu'à l'article 222-15 dans les cas visés au deuxième alinéa de cet art
 
 ###### Article 222-48-1
 
-Les personnes coupables des infractions définies aux articles 222-23 à 222-32 peuvent également être condamnées à un suivi
-socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+Les personnes physiques coupables de tortures ou d'actes de barbarie ou des infractions définies aux articles 222-23 à 222-32
+peuvent également être condamnées à un suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à
+131-36-13.
 
 **Liens relatifs à cet article**
 
@@ -13130,13 +13397,13 @@ socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-
 
 	  - Loi n°92-684 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 3 () JORF 18 juin 1998
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 24 () JORF 13 décembre 2005
 
 	**Cite**:
 
-	  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-8
+	  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-13
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
@@ -14391,6 +14658,26 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 
 	  - Code pénal - art. 131-26 (V)
 	  - Code pénal - art. 131-27 (V)
+
+
+###### Article 224-10
+
+Les personnes physiques coupables des crimes prévus par la section 1 du présent chapitre encourent également le suivi socio-
+judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 23 () JORF 13 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal 131-36-1 à 131-36-13
 
 
 #### Chapitre V : Des atteintes à la dignité de la personne
@@ -19282,6 +19569,36 @@ laquelle l'infraction a été commise.
 	  - Code pénal 121-2, 227-18 à 227-26, 131-38, 131-39
 
 
+###### Article 227-28-2
+
+Lorsque l'atteinte sexuelle est commise sur la victime par une personne titulaire de l'autorité parentale, la juridiction de
+jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des dispositions des articles 378
+et 379-1 du code civil.
+
+Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et soeurs mineurs de la victime.
+
+Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 31 () JORF 13 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
+
+
 ##### Section 6 : Peines complémentaires applicables aux personnes physiques
 
 ###### Article 227-29
@@ -19353,7 +19670,7 @@ complémentaire d'affichage ou de diffusion de la décision prévue par l'articl
 ###### Article 227-31
 
 Les personnes coupables des infractions définies aux articles 227-22 à 227-27 peuvent également être condamnées à un suivi
-socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8.
+socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
 
 **Liens relatifs à cet article**
 
@@ -19363,11 +19680,12 @@ socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-
 
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 4 (V) JORF 18 juin 1998
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 24 () JORF 13 décembre 2005
 
 	**Cite**:
 
-	  - Code pénal 227-22 à 227-27, 131-36-1 à 131-36-8
+	  - Code pénal - art. 131-36-1 (V)
+	  - Code pénal - art. 227-22 (V)
 
 
 ## Livre III : Des crimes et délits contre les biens
@@ -22132,7 +22450,7 @@ dommage irréversible à l'environnement, les peines sont portées à trois ans 
 le cas prévu par le premier alinéa, et à cinq ans d'emprisonnement et à 100 000 Euros d'amende dans le cas prévu par le
 deuxième alinéa.
 
-Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant huit jours au plus, les peines sont portées à
+Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant au moins huit jours, les peines sont portées à
 cinq ans d'emprisonnement et à 75 000 Euros d'amende dans le cas prévu par le premier alinéa, et à sept ans d'emprisonnement
 et à 100 000 Euros d'amende dans le cas prévu par le deuxième alinéa.
 
@@ -22148,7 +22466,7 @@ par le deuxième alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 31 () JORF 10 mars 2004
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 25 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -22620,6 +22938,26 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 322-3 (M)
 	  - Code pénal - art. 322-5 (M)
 	  - Code pénal 121-2, 131-38, 131-39, 322-1, 322-3, 322-5, 322-12, 322-13, 322-14, 322-6 à 322-10
+
+
+###### Article 322-18
+
+Les personnes physiques coupables des infractions définies aux articles 322-6 à 322-11 peuvent également être condamnées à un
+suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 25 () JORF 13 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal 322-6 à 322-11, 131-36-1 à 131-36-13
 
 
 #### Chapitre III : Des atteintes aux systèmes de traitement automatisé de données
@@ -24486,21 +24824,10 @@ informatique définis par le livre III du présent code ;
 3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
 infractions définies par les articles 434-6 et 441-2 à 441-5 ;
 
-4° La fabrication ou la détention de machines, engins meurtriers ou explosifs, définies à l'article L. 2353-4 du code de la
+4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les 2°, 4° et 5° du I de
+l'article L. 1333-9, les articles L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes de la 6e catégorie, L.
+2341-1, L. 2341-4, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5, et l'article L. 2353-13 du code de la
 défense ;
-
-- la production, la vente, l'importation ou l'exportation de substances explosives, définies aux articles L. 2353-1, L.
-2353-5 à L. 2353-8 du code de la défense ;
-
-- l'acquisition, la détention, le transport ou le port illégitime de substances explosives ou d'engins fabriqués à l'aide
-desdites substances, définis à l'article L. 2353-13 du code de la défense ;
-
-- la détention, le port et le transport d'armes et de munitions des première et quatrième catégories, définis aux articles L.
-2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 du code précité.
-
-- les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la défense ;
-
-- les infractions prévues par les articles L. 2342-57 à L. 2342-62 du code de la défense ;
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
 
@@ -24565,27 +24892,20 @@ desdites substances, définis à l'article L. 2353-13 du code de la défense ;
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 17 () JORF 13 décembre 2005
 
 	**Cite**:
 
 	  - Code pénal - art. 434-6 (M)
 	  - Code pénal 431-13 à 431-17, 434-6, 441-2 à 441-5
+	  - Code de la défense. - art. L1333-9 (M)
 	  - Code de la défense. - art. L2339-2 (V)
 	  - Code de la défense. - art. L2339-5 (M)
 	  - Code de la défense. - art. L2339-8 (V)
 	  - Code de la défense. - art. L2339-9 (V)
-	  - Code de la défense. - art. L2341-1 (V)
-	  - Code de la défense. - art. L2341-4 (V)
-	  - Code de la défense. - art. L2342-57 (V)
-	  - Code de la défense. - art. L2342-62 (V)
-	  - Code de la défense. - art. L2353-1 (V)
-	  - Code de la défense. - art. L2353-4 (M)
 	  - Code de la défense. - art. L2353-5 (M)
-	  - Code de la défense. - art. L2353-8 (M)
 	  - Code monétaire et financier - art. L465-1 (M)
 	  - Convention 1993-01-13, signée à Paris
-	  - Décret n°1870-09-04
 
 
 ###### Article 421-2
@@ -27643,10 +27963,14 @@ pour une durée de cinq à vingt ans.
 
 Sans préjudice des droits de la défense, le fait, pour toute personne qui, du fait de ses fonctions, a connaissance, en
 application des dispositions du code de procédure pénale, d'informations issues d'une enquête ou d'une instruction en cours
-concernant un crime ou un délit, de révéler, directement ou indirectement, ces informations à des personnes susceptibles
-d'être impliquées, comme auteurs, coauteurs, complices ou receleurs, dans la commission de ces infractions, lorsque cette
-révélation est de nature à entraver le déroulement des investigations ou la manifestation de la vérité, est puni de cinq ans
-d'emprisonnement et de 75 000 Euros d'amende.
+concernant un crime ou un délit, de révéler sciemment ces informations à des personnes qu'elle sait susceptibles d'être
+impliquées comme auteurs, coauteurs, complices ou receleurs, dans la commission de ces infractions, lorsque cette révélation
+est réalisée dans le dessein d'entraver le déroulement des investigations ou la manifestation de la vérité, est puni de deux
+ans d'emprisonnement et de 30 000 euros d'amende. 
+
+Lorsque l'enquête ou l'instruction concerne un crime ou un délit puni de dix ans d'emprisonnement relevant des dispositions
+de l'article 706-73 du code de procédure pénale, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros
+d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27654,14 +27978,18 @@ d'emprisonnement et de 75 000 Euros d'amende.
 
 	  - Loi n°92-686 1992-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 13 () JORF 10 mars 2004
+	  - Loi n°2005-1549 du 12 décembre 2005 - art. 36 () JORF 13 décembre 2005
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 814 (VD)
 	  - Code de procédure pénale - art. 880 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-73 (V)
 
 
 ###### Article 434-8
@@ -30331,31 +30659,6 @@ pièces de monnaie qui, bien que destinés à être mis en circulation, n'ont pa
 	  - Code pénal - art. 442-1 (M)
 	  - Code pénal - art. 442-2 (M)
 	  - Code pénal 442-1, 442-2, 442-5 à 442-14
-
-
-###### Article 442-16
-
-Les condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne pour les infractions prévues
-au présent chapitre sont prises en compte au titre de la récidive conformément aux règles prévues par les articles 132-8 à
-132-15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2005-750 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
-
-	**Cite**:
-
-	  - Code pénal 132-8 à 132-15
 
 
 #### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique
