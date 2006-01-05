@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -26812,13 +26812,13 @@ des distinctions, des emplois, des marchés ou toute autre décision favorable.
 Est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende la menace de commettre un crime ou un délit contre les
 personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré,
 d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police
-nationale, des douanes, de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité publique, d'un
-sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes d'immeubles ou d'un agent
-exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en
-application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions,
-lorsque la qualité de la victime est apparente ou connue de l'auteur. Ces dispositions sont également applicables en cas de
-menace proférée à l'encontre, et du fait de ces mêmes fonctions, du conjoint, des ascendants et des descendants en ligne
-directe de cette personne ou de toute autre personne vivant habituellement à son domicile.
+nationale, des douanes, de l'inspection du travail, de l'administration pénitentiaire ou de toute autre personne dépositaire
+de l'autorité publique, d'un sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes
+d'immeubles ou d'un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles
+à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou
+du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur. Ces dispositions sont
+également applicables en cas de menace proférée à l'encontre, et du fait de ces mêmes fonctions, du conjoint, des ascendants
+et des descendants en ligne directe de cette personne ou de toute autre personne vivant habituellement à son domicile.
 
 Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à
 l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs ou de toute autre personne chargée d'une
@@ -26860,7 +26860,7 @@ d'une administration publique des distinctions, des emplois, des marchés ou tou
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 59 () JORF 19 mars 2003
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 97 () JORF 6 janvier 2006
 
 	**Cite**:
 
