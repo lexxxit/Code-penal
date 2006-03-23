@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -14639,10 +14639,10 @@ judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
 ###### Article 225-1
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
-de leur situation de famille, de leur apparence physique, de leur patronyme, de leur état de santé, de leur handicap, de
-leurs caractéristiques génétiques, de leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs opinions politiques,
-de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation,
-une race ou une religion déterminée.
+de leur situation de famille, de leur grossesse, de leur apparence physique, de leur patronyme, de leur état de santé, de
+leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation sexuelle, de leur âge, de leurs
+opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou supposée, à
+une ethnie, une nation, une race ou une religion déterminée.
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
 de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des caractéristiques
@@ -14678,7 +14678,7 @@ des membres ou de certains membres de ces personnes morales.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
+	  - Loi n°2006-340 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
 
 
 ###### Article 225-2
