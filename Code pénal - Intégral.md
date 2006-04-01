@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-02
 
 # Partie législative
 
@@ -14784,6 +14784,32 @@ publique, la condition déterminante de l'exercice d'un emploi ou d'une activit�
 	**Cite**:
 
 	  - Code pénal - art. 225-2 (M)
+
+
+###### Article 225-3-1
+
+Les délits prévus par la présente section sont constitués même s'ils sont commis à l'encontre d'une ou plusieurs personnes
+ayant sollicité l'un des biens, actes, services ou contrats mentionnés à l'article 225-2 dans le but de démontrer l'existence
+du comportement discriminatoire, dès lors que la preuve de ce comportement est établie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Cité par**:
+
+	  - Loi n°2004-1486 du 30 décembre 2004 - art. 2 (V)
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 37 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 45 () JORF 2 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 225-2 (V)
 
 
 ###### Article 225-4
