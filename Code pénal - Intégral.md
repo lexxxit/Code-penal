@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-04-02
+Version Consolidée au 2006-04-05
 
 # Partie législative
 
@@ -8313,10 +8313,13 @@ la vie, d'agressions sexuelles ou d'atteintes sexuelles ;
 
 18° Accomplir un stage de citoyenneté ;
 
-19° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce
-dernier, résider hors du domicile ou de la résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou
-cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire,
-sociale ou psychologique.
+19° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
+solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
+résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de
+celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
+dispositions du présent 19° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
+la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
+de la victime.
 
 **Liens relatifs à cet article**
 
@@ -8370,7 +8373,7 @@ sociale ou psychologique.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 35 () JORF 13 décembre 2005
+	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 
 ###### Article 132-46
@@ -9324,6 +9327,37 @@ conventions secrètes nécessaires au déchiffrement.
 	**Créé par**:
 
 	  - Loi n°2004-575 du 21 juin 2004 - art. 37 () JORF 22 juin 2004
+
+
+###### Article 132-80
+
+Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit sont aggravées lorsque l'infraction est
+commise par le conjoint, le concubin ou le partenaire lié à la victime par un pacte civil de solidarité.
+
+La circonstance aggravante prévue au premier alinéa est également constituée lorsque les faits sont commis par l'ancien
+conjoint, l'ancien concubin ou l'ancien partenaire lié à la victime par un pacte civil de solidarité. Les dispositions du
+présent alinéa sont applicables dès lors que l'infraction est commise en raison des relations ayant existé entre l'auteur des
+faits et la victime.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 29 juillet 1881 - art. 48-5 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 16-4 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 17-4 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 16-4 (VT)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 17-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-4 (V)
+	  - Code pénal - art. 222-14 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 7 () JORF 5 avril 2006
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
@@ -10352,6 +10386,8 @@ ou une religion déterminée ;
 
 8° Par plusieurs personnes agissant en bande organisée.
 
+9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité.
+
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
 viol, de tortures ou d'actes de barbarie, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté
@@ -10367,7 +10403,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - Loi n°2006-399 du 4 avril 2006 - art. 10 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -10969,7 +11005,7 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -10998,9 +11034,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 47 III, art. 60 I, II JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -11221,7 +11255,7 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -11269,9 +11303,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 47 IV, art. 60 I, II JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -11355,7 +11387,7 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -11405,9 +11437,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 47 V, art. 60 I, II JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -11480,7 +11510,7 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -11539,10 +11569,7 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 47 VI, art. 60 I, II, art. 78 I, II JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -11585,7 +11612,7 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ;
@@ -11634,10 +11661,7 @@ deux des circonstances prévues aux 1° et suivants du présent article. Les pei
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 47 VII, art. 60 I, II, art. 78 I, II JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -11788,6 +11812,31 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article 222-16-2
+
+Dans le cas où les crimes et délits prévus par les articles 222-8, 222-10 ou 222-12 sont commis à l'étranger sur une victime
+mineure résidant habituellement sur le territoire français, la loi française est applicable par dérogation aux dispositions
+de l'article 113-7. S'il s'agit d'un délit, les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 14 () JORF 5 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 113-7 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 222-10 (V)
+	  - Code pénal - art. 222-12 (V)
+	  - Code pénal - art. 222-8 (V)
 
 
 ##### Paragraphe 3 : Des menaces
@@ -12230,6 +12279,11 @@ Dans les cas visés au deuxième alinéa de l'article 222-19 est en outre encour
 
 Constitue une agression sexuelle toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise.
 
+Le viol et les autres agressions sexuelles sont constitués lorsqu'ils ont été imposés à la victime dans les circonstances
+prévues par la présente section, quelle que soit la nature des relations existant entre l'agresseur et sa victime, y compris
+s'ils sont unis par les liens du mariage. Dans ce cas, la présomption de consentement des époux à l'acte sexuel ne vaut que
+jusqu'à preuve du contraire.
+
 Lorsque les agressions sexuelles sont commises à l'étranger contre un mineur par un Français ou par une personne résidant
 habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de l'article
 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
@@ -12240,14 +12294,9 @@ habituellement sur le territoire français, la loi française est applicable par
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 19 () JORF 18 juin 1998
+	  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -12344,7 +12393,10 @@ destination d'un public non déterminé, d'un réseau de télécommunications ;
 
 9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
 
-10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes.
+10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ;
+
+11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de
+solidarité.
 
 **Liens relatifs à cet article**
 
@@ -12354,7 +12406,7 @@ destination d'un public non déterminé, d'un réseau de télécommunications ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 32 () JORF 13 décembre 2005
+	  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -12454,7 +12506,7 @@ Les agressions sexuelles autres que le viol sont punies de cinq ans d'emprisonne
 
 ###### Article 222-28
 
-L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 100000 euros d'amende :
+L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 100 000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 
@@ -12468,7 +12520,10 @@ victime ;
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications.
+destination d'un public non déterminé, d'un réseau de télécommunications ;
+
+7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
+de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -12476,14 +12531,9 @@ destination d'un public non déterminé, d'un réseau de télécommunications.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -13288,8 +13338,9 @@ complémentaire d'affichage ou de diffusion de la décision prévue par l'articl
 Dans les cas prévus par les articles 222-1 à 222-15, 222-23 à 222-30 et 222-34 à 222-40, peut être prononcée à titre de peine
 complémentaire l'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
 
-Dans les cas prévus par les articles 222-34 à 222-40, peut être également prononcée l'interdiction, pour une durée de cinq
-ans au plus, de quitter le territoire de la République.
+Dans les cas prévus par les articles 222-23 à 222-30, lorsqu'ils sont commis sur des mineurs, et par les articles 222-34 à
+222-40, peut être également prononcée l'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la
+République.
 
 **Liens relatifs à cet article**
 
@@ -13297,10 +13348,9 @@ ans au plus, de quitter le territoire de la République.
 
 	  - Loi n°92-684 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2006-399 du 4 avril 2006 - art. 15 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -15491,6 +15541,29 @@ réclusion criminelle.
 	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
 
 
+###### Article 225-11-2
+
+Dans le cas où le délit prévu par le 1° de l'article 225-7 est commis à l'étranger par un Français ou par une personne
+résidant habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de
+l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 225-7 (M)
+
+
 ###### Article 225-12
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
@@ -15563,16 +15636,19 @@ maladie, à une infirmité, à une déficience physique ou psychique ou à un é
 
 ###### Article 225-12-2
 
-Les peines sont portées à cinq ans d'emprisonnement et 75000 euros d'amende :
+Les peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende :
 
 1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de plusieurs personnes ;
 
 2° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
 destination d'un public non déterminé, d'un réseau de communication ;
 
-3° Lorsque les faits sont commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions.
+3° Lorsque les faits sont commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
 
-Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsqu'il s'agit d'un mineur de quinze ans.
+4° Lorsque l'auteur des faits a délibérément ou par imprudence mis la vie de la personne en danger ou a commis contre elle
+des violences.
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsqu'il s'agit d'un mineur de quinze ans.
 
 **Liens relatifs à cet article**
 
@@ -15589,7 +15665,8 @@ Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende l
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 50 3°, 5° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 50
+	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
 
 
 ###### Article 225-12-3
@@ -16176,7 +16253,10 @@ quelconque participation financière ;
 
 5° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
 
-6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
+6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+
+7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
+bénévole impliquant un contact habituel avec des mineurs.
 
 **Liens relatifs à cet article**
 
@@ -16186,8 +16266,7 @@ quelconque participation financière ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 64 I, 2° JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -17402,8 +17481,8 @@ L'article 226-13 n'est pas applicable dans les cas où la loi impose ou autorise
 pas applicable :
 
 1° A celui qui informe les autorités judiciaires, médicales ou administratives de privations ou de sévices, y compris
-lorsqu'il s'agit d'atteintes sexuelles, dont il a eu connaissance et qui ont été infligées à un mineur ou à une personne qui
-n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique ;
+lorsqu'il s'agit d'atteintes ou mutilations sexuelles, dont il a eu connaissance et qui ont été infligées à un mineur ou à
+une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique ;
 
 2° Au médecin qui, avec l'accord de la victime, porte à la connaissance du procureur de la République les sévices ou
 privations qu'il a constatés, sur le plan physique ou psychique, dans l'exercice de sa profession et qui lui permettent de
@@ -17644,7 +17723,7 @@ d'aucune sanction disciplinaire.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 11 () JORF 3 janvier 2004
+	  - Loi n°2006-399 du 4 avril 2006 - art. 14 () JORF 5 avril 2006
 
 	**Cite**:
 
@@ -19208,19 +19287,21 @@ organisée.
 ###### Article 227-23
 
 Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image ou la représentation d'un mineur lorsque
-cette image ou cette représentation présente un caractère pornographique est puni de trois ans d'emprisonnement et de 45000
-euros d'amende. La tentative est punie des mêmes peines.
+cette image ou cette représentation présente un caractère pornographique est puni de cinq ans d'emprisonnement et de 75 000
+Euros d'amende.
 
-Le fait d'offrir ou de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de
-l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
+Le fait d'offrir, de rendre disponible ou de diffuser une telle image ou représentation, par quelque moyen que ce soit, de
+l'importer ou de l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
+
+La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 
 Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et 30000 euros d'amende.
 
-Les infractions prévues aux deuxième, troisième et quatrième alinéas sont punies de dix ans d'emprisonnement et de 500 000
-Euros d'amende lorsqu'elles sont commises en bande organisée.
+Les infractions prévues au présent article sont punies de dix ans d'emprisonnement et de 500 000 Euros d'amende lorsqu'elles
+sont commises en bande organisée.
 
 Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
 physique est celui d'un mineur, sauf s'il est établi que cette personne était âgée de dix-huit ans au jour de la fixation ou
@@ -19230,9 +19311,9 @@ de l'enregistrement de son image.
 
 	**Cité par**:
 
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1 (V)
 	  - Arrêté du 11 décembre 2001 - art. 1 (V)
 	  - Arrêté du 29 juillet 2003 - art. 1 (V)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1 (V)
 	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
 	  - Loi n°2004-575 du 21 juin 2004 - art. 6-1 (V)
 	  - Arrêté du 19 février 2010 - art. (V)
@@ -19250,17 +19331,13 @@ de l'enregistrement de son image.
 	  - Code pénal - art. 227-28 (V)
 	  - Code pénal - art. 227-33 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
 	**Codifié par**:
 
 	  - Loi n°92-684 1992-07-22
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 44 () JORF 22 juin 2004
+	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
 
 
 ###### Article 227-24
@@ -19543,6 +19620,39 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 	  - Code civil - art. 378
 	  - Code civil - art. 379-1
+
+
+###### Article 227-28-3
+
+Le fait de faire à une personne des offres ou des promesses ou de lui proposer des dons, présents ou avantages quelconques
+afin qu'elle commette à l'encontre d'un mineur l'un des crimes ou délits visés aux articles 222-22 à 222-31, 225-5 à 225-11,
+227-22, 227-23 et 227-25 à 227-28 est puni, lorsque cette infraction n'a été ni commise ni tentée, de trois ans
+d'emprisonnement et 45 000 euros d'amende si cette infraction constitue un délit, et de sept ans d'emprisonnement et 100 000
+euros d'amende si elle constitue un crime.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+	  - Code de la route. - art. R212-4 (V)
+	  - Code de procédure pénale - art. 706-47-4 (V)
+	  - Code des transports - art. R3113-26 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 222-22 (V)
+	  - Code pénal - art. 225-5 (V)
+	  - Code pénal - art. 227-22 (V)
+	  - Code pénal - art. 227-25 (V)
 
 
 ##### Section 6 : Peines complémentaires applicables aux personnes physiques
@@ -20048,16 +20158,19 @@ Ne peut donner lieu à des poursuites pénales le vol commis par une personne :
 
 2° Au préjudice de son conjoint, sauf lorsque les époux sont séparés de corps ou autorisés à résider séparément.
 
+Les dispositions du présent article ne sont pas applicables lorsque le vol porte sur des objets ou documents indispensables à
+la vie quotidienne de la victime, tels que des documents d'identité, relatifs au titre de séjour ou de résidence d'un
+étranger, ou des moyens de paiement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-685 1992-07-22
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2006-399 du 4 avril 2006 - art. 9 () JORF 5 avril 2006
 
 	**Cité par**:
 
