@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -8155,7 +8155,7 @@ durée. Cette partie ne peut toutefois excéder cinq ans d'emprisonnement.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - Loi n°2004-204 du 9 mars 2004 - art. 175 () JORF 10 mars 2004 en vigueur le 31 décembre 2006
 
 
 ##### Paragraphe 2 : Du régime de la mise à l'épreuve
