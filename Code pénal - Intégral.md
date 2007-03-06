@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -1712,31 +1712,33 @@ plusieurs des peines complémentaires prévues à l'article 131-10.
 
 ###### Article 131-3
 
-Les peines correctionnelles encourues par les personnes physiques sont :
+Les peines correctionnelles encourues par les personnes physiques sont : 
 
-1° L'emprisonnement ;
+1° L'emprisonnement ; 
 
-2° L'amende ;
+2° L'amende ; 
 
-3° Le jour-amende ;
+3° Le jour-amende ; 
 
-4° Le stage de citoyenneté ;
+4° Le stage de citoyenneté ; 
 
-5° Le travail d'intérêt général ;
+5° Le travail d'intérêt général ; 
 
-6° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ;
+6° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ; 
 
-7° Les peines complémentaires prévues à l'article 131-10.
+7° Les peines complémentaires prévues à l'article 131-10 ; 
+
+8° La sanction-réparation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -1746,8 +1748,8 @@ Les peines correctionnelles encourues par les personnes physiques sont :
 
 	**Cite**:
 
-	  - Code pénal - art. 131-10 (M)
-	  - Code pénal - art. 131-6 (M)
+	  - Code pénal - art. 131-10 (V)
+	  - Code pénal - art. 131-6 (V)
 
 
 ###### Article 131-4
@@ -1990,7 +1992,8 @@ l'amende, pour les délits qui sont punis seulement d'une peine d'amende.
 
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire, à la place de l'emprisonnement, que le
 condamné accomplira, pour une durée de quarante à deux cent dix heures, un travail d'intérêt général non rémunéré au profit
-d'une personne morale de droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général.
+soit d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public
+ou d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
 
 La peine de travail d'intérêt général ne peut être prononcée contre le prévenu qui la refuse ou qui n'est pas présent à
 l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
@@ -2046,8 +2049,52 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 44 VII, art. 174 1° JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 63 () JORF 7 mars 2007
+
+
+###### Article 131-8-1
+
+Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prononcer, à la place ou en même temps que la
+peine d'emprisonnement, la peine de sanction-réparation. Il en est de même lorsqu'un délit est puni à titre de peine
+principale d'une seule peine d'amende. 
+
+La sanction-réparation consiste dans l'obligation pour le condamné de procéder, dans le délai et selon les modalités fixés
+par la juridiction, à l'indemnisation du préjudice de la victime. 
+
+Avec l'accord de la victime et du prévenu, la réparation peut être exécutée en nature. Elle peut alors consister dans la
+remise en état d'un bien endommagé à l'occasion de la commission de l'infraction ; cette remise en état est réalisée par le
+condamné lui-même ou par un professionnel qu'il choisit et dont il rémunère l'intervention. 
+
+L'exécution de la réparation est constatée par le procureur de la République ou son délégué. 
+
+Lorsqu'elle prononce la peine de sanction-réparation, la juridiction fixe la durée maximum de l'emprisonnement, qui ne peut
+excéder six mois, ou le montant maximum de l'amende, qui ne peut excéder 15 000 euros, dont le juge de l'application des
+peines pourra ordonner la mise à exécution en tout ou partie dans les conditions prévues par l'article 712-6 du code de
+procédure pénale si le condamné ne respecte pas l'obligation de réparation. Si le délit n'est puni que d'une peine d'amende,
+la juridiction ne fixe que le montant de l'amende, qui ne peut excéder 15 000 euros, qui pourra être mis à exécution. Le
+président de la juridiction en avertit le condamné après le prononcé de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L162-4 (V)
+	  - CODE DE PROCEDURE PENALE - art. D47-6-5 (VD)
+	  - Code pénal - art. 131-15-1 (V)
+	  - Code pénal - art. 131-39-1 (V)
+	  - Code pénal - art. 131-44-1 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ###### Article 131-9
@@ -2106,11 +2153,15 @@ article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'ar
 
 Lorsque la loi le prévoit, un crime ou un délit peut être sanctionné d'une ou de plusieurs peines complémentaires qui,
 frappant les personnes physiques, emportent interdiction, déchéance, incapacité ou retrait d'un droit, injonction de soins ou
-obligation de faire, immobilisation ou confiscation d'un objet, fermeture d'un établissement ou affichage de la décision
-prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout moyen de communication au public par voie
-électronique.
+obligation de faire, immobilisation ou confiscation d'un objet, confiscation d'un animal, fermeture d'un établissement ou
+affichage de la décision prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout moyen de communication
+au public par voie électronique.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 	**Cité par**:
 
@@ -2130,15 +2181,11 @@ prononcée ou diffusion de celle-ci soit par la presse écrite, soit par tout mo
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
 
 
 ###### Article 131-11
@@ -2190,11 +2237,13 @@ article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'ar
 
 ###### Article 131-12
 
-Les peines contraventionnelles encourues par les personnes physiques sont :
+Les peines contraventionnelles encourues par les personnes physiques sont : 
 
-1° L'amende ;
+1° L'amende ; 
 
-2° Les peines privatives ou restrictives de droits prévues à l'article 131-14.
+2° Les peines privatives ou restrictives de droits prévues à l'article 131-14 ; 
+
+3° La peine de sanction-réparation prévue par l'article 131-15-1. 
 
 Ces peines ne sont pas exclusives d'une ou de plusieurs des peines complémentaires prévues aux articles 131-16 et 131-17.
 
@@ -2204,20 +2253,24 @@ Ces peines ne sont pas exclusives d'une ou de plusieurs des peines complémentai
 
 	  - Loi du 21 avril 1832 - art. 18 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 131-14 (M)
-	  - Code pénal - art. 131-16 (M)
-	  - Code pénal - art. 131-17 (V)
+	  - Code pénal - art. 131-14 (V)
+	  - Code pénal - art. 131-15-1 (V)
+	  - Code pénal - art. 131-16 (V)
 
 
 ###### Article 131-13
@@ -2556,29 +2609,67 @@ Les peines privatives ou restrictives de droits énumérées à cet article peuv
 	  - Code pénal - art. 131-14 (V)
 
 
+###### Article 131-15-1
+
+Pour toutes les contraventions de la 5e classe, la juridiction peut prononcer à la place ou en même temps que la peine
+d'amende la peine de sanction-réparation selon les modalités prévues par l'article 131-8-1. 
+
+Dans ce cas, la juridiction fixe le montant maximum de l'amende, qui ne peut excéder 1 500 euros, dont le juge de
+l'application des peines pourra ordonner la mise à exécution en tout ou partie dans les conditions prévues par l'article
+712-6 du code de procédure pénale si le condamné ne respecte pas l'obligation de réparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L162-4 (V)
+	  - Code pénal - art. 131-12 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+
+
 ###### Article 131-16
 
 Le règlement qui réprime une contravention peut prévoir, lorsque le coupable est une personne physique, une ou plusieurs des
-peines complémentaires suivantes :
+peines complémentaires suivantes : 
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle sauf si le règlement exclut expressément cette limitation ;
+conduite en dehors de l'activité professionnelle sauf si le règlement exclut expressément cette limitation ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
-3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
 4° Le retrait du permis de chasser, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
-5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
 6° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de trois ans au plus ;
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
 
-7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
 
-8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté.
+8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté ; 
+
+9° L'obligation d'accomplir, à ses frais, un stage de responsabilité parentale, selon les modalités fixées à l'article
+131-35-1 ; 
+
+10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été
+commise ; 
+
+11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal.
 
 **Liens relatifs à cet article**
 
@@ -2612,11 +2703,16 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35-1 (V)
 
 
 ###### Article 131-17
@@ -2731,14 +2827,32 @@ durée de cinq ans.
 
 ###### Article 131-21
 
-La peine de confiscation est obligatoire pour les objets qualifiés, par la loi ou le règlement, dangereux ou nuisibles.
+La peine complémentaire de confiscation est encourue dans les cas prévus par la loi ou le règlement. Elle est également
+encourue de plein droit pour les crimes et pour les délits punis d'une peine d'emprisonnement d'une durée supérieure à un an,
+à l'exception des délits de presse.
 
-La confiscation porte sur la chose qui a servi ou était destinée à commettre l'infraction ou sur la chose qui en est le
-produit, à l'exception des objets susceptibles de restitution. En outre, elle peut porter sur tout objet mobilier défini par
-la loi ou le règlement qui réprime l'infraction.
+La confiscation porte sur tous les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis, ayant servi à
+commettre l'infraction ou qui étaient destinés à la commettre, et dont le condamné est propriétaire ou, sous réserve des
+droits du propriétaire de bonne foi, dont il a la libre disposition.
 
-La chose qui est l'objet de l'infraction est assimilée à la chose qui a servi à commettre l'infraction ou qui en est le
-produit au sens du deuxième alinéa.
+Elle porte également sur tous les biens qui sont l'objet ou le produit direct ou indirect de l'infraction, à l'exception des
+biens susceptibles de restitution à la victime. Si le produit de l'infraction a été mêlé à des fonds d'origine licite pour
+l'acquisition d'un ou plusieurs biens, la confiscation peut ne porter sur ces biens qu'à concurrence de la valeur estimée de
+ce produit.
+
+La confiscation peut en outre porter sur tout bien meuble ou immeuble défini par la loi ou le règlement qui réprime
+l'infraction.
+
+S'il s'agit d'un crime ou d'un délit puni d'au moins cinq ans d'emprisonnement et ayant procuré un profit direct ou indirect,
+la confiscation porte également sur les biens meubles ou immeubles, quelle qu'en soit la nature, divis ou indivis,
+appartenant au condamné lorsque celui-ci, mis en mesure de s'expliquer sur les biens dont la confiscation est envisagée, n'a
+pu en justifier l'origine.
+
+Lorsque la loi qui réprime le crime ou le délit le prévoit, la confiscation peut aussi porter sur tout ou partie des biens
+appartenant au condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+La confiscation est obligatoire pour les objets qualifiés de dangereux ou nuisibles par la loi ou le règlement, ou dont la
+détention est illicite, que ces biens soient ou non la propriété du condamné.
 
 Lorsque la chose confisquée n'a pas été saisie ou ne peut être représentée, la confiscation est ordonnée en valeur. Pour le
 recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte
@@ -2756,11 +2870,6 @@ de sa destruction ou de son aliénation.
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 60 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -2843,6 +2952,70 @@ de sa destruction ou de son aliénation.
 	  - Code rural ancien - art. 211-4 (Ab)
 	  - Code rural et de la pêche maritime - art. L250-9 (V)
 	  - Code rural et de la pêche maritime - art. L945-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+
+
+###### Article 131-21-1
+
+Lorsqu'elle est encourue comme peine complémentaire, la confiscation d'un animal ou d'une catégorie d'animal concerne
+l'animal qui a été utilisé pour commettre ou tenter de commettre l'infraction ou à l'encontre duquel l'infraction a été
+commise. 
+
+Elle concerne également les animaux dont le condamné est propriétaire ou dont il a la libre disposition, si ces animaux
+étaient susceptibles d'être utilisés pour commettre l'infraction ou si l'infraction aurait pu être commise à leur encontre. 
+
+La juridiction qui prononce la confiscation de l'animal prévoit qu'il sera remis à une fondation ou à une association de
+protection animale reconnue d'utilité publique ou déclarée, qui pourra librement en disposer. 
+
+Si l'animal n'a pas été placé en cours de procédure, le condamné doit, sur injonction qui lui est faite par le ministère
+public, le remettre à l'organisme visé à l'alinéa précédent. Les dispositions du quatrième alinéa de l'article 131-21 sont
+également applicables. 
+
+Lorsque l'animal a été placé en cours de procédure, la juridiction qui ordonne sa confiscation peut mettre les frais de
+placement à la charge du condamné. 
+
+Lorsqu'il s'agit d'un animal dangereux, la juridiction peut ordonner qu'il soit procédé à son euthanasie, le cas échéant aux
+frais du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21 (V)
+
+	**Cité par**:
+
+	  - Code pénal - art. R131-50 (V)
+
+
+###### Article 131-21-2
+
+Lorsqu'elle est encourue à titre de peine complémentaire, l'interdiction de détenir un animal peut être limitée à certains
+animaux ou certaines catégories d'animaux.
+
+Lorsqu'elle est encourue pour un crime ou un délit, cette interdiction est soit définitive, soit temporaire ; dans ce dernier
+cas, elle ne peut excéder une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25 () JORF 7 mars 2007
 
 
 ###### Article 131-22
@@ -4247,8 +4420,11 @@ Ils ne peuvent s'opposer à cette diffusion.
 ###### Article 131-35-1
 
 Lorsqu'elle est encourue à titre de peine complémentaire, l'obligation d'accomplir un stage de sensibilisation à la sécurité
-routière est exécutée aux frais du condamné, dans un délai de six mois à compter de la date à laquelle la condamnation est
-définitive.
+routière, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ou un stage de responsabilité parentale
+est exécutée dans un délai de six mois à compter de la date à laquelle la condamnation est définitive.
+
+La juridiction précise si le stage est exécuté aux frais du condamné. Le stage de sensibilisation à la sécurité routière est
+toujours exécuté aux frais du condamné.
 
 L'accomplissement du stage donne lieu à la remise au condamné d'une attestation que celui-ci adresse au procureur de la
 République.
@@ -4258,10 +4434,6 @@ République.
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -4285,23 +4457,30 @@ République.
 	  - Code pénal - art. 322-15 (V)
 	  - Code pénal - art. R131-11-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+
 
 ###### Article 131-36
 
-Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de la présente sous-section.
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de la présente sous-section. 
 
 Ce décret détermine également les conditions dans lesquelles s'exécutera l'activité des condamnés à la peine de travail
-d'intérêt général ainsi que la nature des travaux proposés.
+d'intérêt général ainsi que la nature des travaux proposés. 
 
-Il détermine en outre les conditions dans lesquelles :
+Il détermine en outre les conditions dans lesquelles : 
 
 1° Le juge de l'application des peines établit, après avis du ministère public et consultation de tout organisme public
 compétent en matière de prévention de la délinquance, la liste des travaux d'intérêt général susceptibles d'être accomplis
-dans son ressort ;
+dans son ressort ; 
 
-2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ;
+2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ; 
 
-3° Sont habilitées les associations mentionnées au premier alinéa de l'article 131-8.
+3° Sont habilitées les associations mentionnées au premier alinéa de l'article 131-8 ; 
+
+4° Sont désignées les personnes physiques ou morales chargées de participer à la mise en oeuvre des stages mentionnés à
+l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -4314,6 +4493,10 @@ dans son ressort ;
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 2007-03-05 art. 53 1° JORF 7 mars 2007
+
 	**Cité par**:
 
 	  - Décret n°2016-1709 du 12 décembre 2016 (V)
@@ -4323,7 +4506,8 @@ dans son ressort ;
 
 	**Cite**:
 
-	  - Code pénal - art. 131-8 (M)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 131-8 (V)
 
 
 ##### Sous-section 6 : Du suivi socio-judiciaire
@@ -4697,11 +4881,14 @@ code de procédure pénale.
 
 ###### Article 131-37
 
-Les peines criminelles ou correctionnelles encourues par les personnes morales sont :
+Les peines criminelles ou correctionnelles encourues par les personnes morales sont : 
 
-1° L'amende ;
+1° L'amende ; 
 
-2° Dans les cas prévus par la loi, les peines énumérées à l'article 131-39.
+2° Dans les cas prévus par la loi, les peines énumérées à l'article 131-39. 
+
+En matière correctionnelle, les personnes morales encourent également la peine de sanction-réparation prévue par l'article
+131-39-1.
 
 **Liens relatifs à cet article**
 
@@ -4714,9 +4901,14 @@ Les peines criminelles ou correctionnelles encourues par les personnes morales s
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39-1 (V)
 
 	**Cité par**:
 
@@ -5201,7 +5393,12 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser d
 8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
 
 9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
-communication au public par voie électronique.
+communication au public par voie électronique ;
+
+10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été
+commise ;
+
+11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal.
 
 Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes morales de droit public dont la
 responsabilité pénale est susceptible d'être engagée. Elles ne sont pas non plus applicables aux partis ou groupements
@@ -5601,22 +5798,55 @@ personnel.
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
+###### Article 131-39-1
+
+En matière délictuelle, la juridiction peut prononcer à la place ou en même temps que l'amende encourue par la personne
+morale la peine de sanction-réparation selon les modalités prévues par l'article 131-8-1. 
+
+Dans ce cas, la juridiction fixe le montant maximum de l'amende, qui ne peut excéder ni 75 000 euros ni l'amende encourue par
+la personne morale pour le délit considéré, dont le juge de l'application des peines pourra ordonner la mise à exécution en
+tout ou partie dans les conditions prévues par l'article 712-6 du code de procédure pénale si le condamné ne respecte pas
+l'obligation de réparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L162-4 (V)
+	  - Code pénal - art. 131-37 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+
+
 ##### Sous-section 2 : Des peines contraventionnelles
 
 ###### Article 131-40
 
-Les peines contraventionnelles encourues par les personnes morales sont :
+Les peines contraventionnelles encourues par les personnes morales sont : 
 
-1° L'amende ;
+1° L'amende ; 
 
-2° Les peines privatives ou restrictives de droits prévues à l'article 131-42.
+2° Les peines privatives ou restrictives de droits prévues à l'article 131-42 ; 
+
+3° La peine de sanction-réparation prévue par l'article 131-44-1. 
 
 Ces peines ne sont pas exclusives d'une ou de plusieurs des peines complémentaires prévues à l'article 131-43.
 
@@ -5634,19 +5864,24 @@ Ces peines ne sont pas exclusives d'une ou de plusieurs des peines complémentai
 	  - Code de la consommation - art. R217-1 (Ab)
 	  - Code de la consommation - art. R452-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
 	**Cite**:
 
 	  - Code pénal - art. 131-42 (V)
-	  - Code pénal - art. 131-43 (M)
+	  - Code pénal - art. 131-43 (V)
+	  - Code pénal - art. 131-44-1 (V)
 
 
 ###### Article 131-41
@@ -5878,9 +6113,9 @@ par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser des car
 
 ###### Article 131-43
 
-Le règlement qui réprime une contravention peut prévoir, lorsque le coupable est une personne morale, la peine complémentaire
-mentionnée au 5° de l'article 131-16. Pour les contraventions de la cinquième classe, le règlement peut, en outre, prévoir la
-peine complémentaire mentionnée au premier alinéa de l'article 131-17.
+Le règlement qui réprime une contravention peut prévoir, lorsque le coupable est une personne morale, les peines
+complémentaires mentionnées aux 5°, 10° et 11° de l'article 131-16. Pour les contraventions de la 5e classe, le règlement
+peut, en outre, prévoir la peine complémentaire mentionnée au premier alinéa de l'article 131-17.
 
 **Liens relatifs à cet article**
 
@@ -5896,18 +6131,22 @@ peine complémentaire mentionnée au premier alinéa de l'article 131-17.
 	  - Code rural et de la pêche maritime - art. R237-5 (VD)
 	  - Code rural et de la pêche maritime - art. R237-8 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
+
 	**Cite**:
 
-	  - Code pénal - art. 131-16 (M)
+	  - Code pénal - art. 131-16 (V)
 	  - Code pénal - art. 131-17 (V)
 
 
@@ -5930,6 +6169,35 @@ juridiction peut ne prononcer que la peine complémentaire ou l'une ou plusieurs
 	**Cite**:
 
 	  - Code pénal - art. 131-43 (V)
+
+
+###### Article 131-44-1
+
+Pour les contraventions de la 5e classe, la juridiction peut prononcer à la place ou en même temps que l'amende encourue par
+la personne morale la peine de sanction-réparation selon les modalités prévues par l'article 131-8-1. 
+
+Dans ce cas, la juridiction fixe le montant maximum de l'amende, qui ne peut excéder 7 500 euros, dont le juge de
+l'application des peines pourra ordonner la mise à exécution en tout ou partie dans les conditions prévues par l'article
+712-6 du code de procédure pénale si le condamné ne respecte pas l'obligation de réparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code pénal - art. 131-40 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-8-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
 
 
 ##### Sous-section 3 : Du contenu et des modalités d'application de certaines peines
@@ -7516,6 +7784,10 @@ La nature, le quantum et le régime des peines prononcées sont fixés de maniè
 société, la sanction du condamné et les intérêts de la victime avec la nécessité de favoriser l'insertion ou la réinsertion
 du condamné et de prévenir la commission de nouvelles infractions.
 
+En matière correctionnelle, lorsque l'infraction est commise en état de récidive légale ou de réitération, la juridiction
+motive spécialement le choix de la nature, du quantum et du régime de la peine qu'elle prononce au regard des peines
+encourues.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7524,7 +7796,7 @@ du condamné et de prévenir la commission de nouvelles infractions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 68 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -8270,41 +8542,44 @@ de nature à mettre obstacle à l'exécution de ses obligations, pour tout chang
 ###### Article 132-45
 
 La juridiction de condamnation ou le juge de l'application des peines peut imposer spécialement au condamné l'observation de
-l'une ou de plusieurs des obligations suivantes :
+l'une ou de plusieurs des obligations suivantes : 
 
-1° Exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle ;
+1° Exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle ; 
 
-2° Etablir sa résidence en un lieu déterminé ;
+2° Etablir sa résidence en un lieu déterminé ; 
 
-3° Se soumettre à des mesures d'examen médical, de traitement ou de soins, même sous le régime de l'hospitalisation ;
+3° Se soumettre à des mesures d'examen médical, de traitement ou de soins, même sous le régime de l'hospitalisation. Ces
+mesures peuvent consister en l'injonction thérapeutique prévue par les articles L. 3413-1 à L. 3413-4 du code de la santé
+publique, lorsqu'il apparaît que le condamné fait usage de stupéfiants ou fait une consommation habituelle et excessive de
+boissons alcooliques ; 
 
 4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les pensions alimentaires dont il est
-débiteur ;
+débiteur ; 
 
 5° Réparer en tout ou partie, en fonction de ses facultés contributives, les dommages causés par l'infraction, même en
-l'absence de décision sur l'action civile ;
+l'absence de décision sur l'action civile ; 
 
 6° Justifier qu'il acquitte en fonction de ses facultés contributives les sommes dues au Trésor public à la suite de la
-condamnation ;
+condamnation ; 
 
-7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ;
+7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ; 
 
-8° Ne pas se livrer à l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ;
+8° Ne pas se livrer à l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ; 
 
-9° S'abstenir de paraître en tout lieu spécialement désigné ;
+9° S'abstenir de paraître en tout lieu spécialement désigné ; 
 
-10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ;
+10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ; 
 
-11° Ne pas fréquenter les débits de boissons ;
+11° Ne pas fréquenter les débits de boissons ; 
 
-12° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ;
+12° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ; 
 
-13° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction.
+13° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction. 
 
-14° Ne pas détenir ou porter une arme ;
+14° Ne pas détenir ou porter une arme ; 
 
 15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, accomplir, à ses frais, un
-stage de sensibilisation à la sécurité routière ;
+stage de sensibilisation à la sécurité routière ; 
 
 16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait l'auteur ou le co-auteur et qui porterait, en
 tout ou partie, sur l'infraction commise et s'abstenir de toute intervention publique relative à cette infraction ; les
@@ -8313,7 +8588,7 @@ la vie, d'agressions sexuelles ou d'atteintes sexuelles ;
 
 17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée par décision de justice ; 
 
-18° Accomplir un stage de citoyenneté ;
+18° Accomplir un stage de citoyenneté ; 
 
 19° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
 solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
@@ -8375,7 +8650,11 @@ de la victime.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 49 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3413-1 (V)
 
 
 ###### Article 132-46
@@ -9107,6 +9386,22 @@ caractérisée par un ou plusieurs faits matériels, d'une ou de plusieurs infra
 	**Modifié par**:
 
 	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
+###### Article 132-71-1
+
+Le guet-apens consiste dans le fait d'attendre un certain temps une ou plusieurs personnes dans un lieu déterminé pour
+commettre à leur encontre une ou plusieurs infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 
 ###### Article 132-72
@@ -10716,38 +11011,41 @@ Dans les cas visés au second alinéa de l'article 221-6, est en outre encourue 
 ###### Article 221-8
 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
 conduite en dehors de l'activité professionnelle ; dans les cas prévus par l'article 221-6-1, la suspension ne peut pas être
 assortie du sursis, même partiellement, et ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ;
 dans les cas prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1, la durée de cette suspension est de dix ans au
-plus ;
+plus ; 
 
 4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
 
-5° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+4° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les
+modalités fixées à l'article 131-35-1 ; 
+
+5° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
 6° Le retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
 
 7° Dans les cas prévus par l'article 221-6-1, l'interdiction de conduire certains véhicules terrestres à moteur, y compris
-ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
 8° Dans les cas prévus par l'article 221-6-1, l'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
-sécurité routière ;
+sécurité routière ; 
 
 9° Dans les cas prévus par l'article 221-6-1, l'immobilisation, pendant une durée d'un an au plus, du véhicule dont le
-condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
+condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ; 
 
 10° Dans les cas prévus par l'article 221-6-1, la confiscation du véhicule dont le condamné s'est servi pour commettre
-l'infraction, s'il en est le propriétaire.
+l'infraction, s'il en est le propriétaire. 
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1 donne lieu de plein droit
 à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus. En cas de
@@ -10762,8 +11060,7 @@ motivée, prévoir que cette interdiction est définitive.
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+	  - Loi n°2007-297 2007-03-05 art. 53 2° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -10776,11 +11073,6 @@ motivée, prévoir que cette interdiction est définitive.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L232-1 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 221-6-1 (V)
 
 
 ###### Article 221-9
@@ -11014,7 +11306,7 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme.
 
@@ -11036,7 +11328,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -11264,7 +11556,7 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme.
 
@@ -11305,7 +11597,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -11396,7 +11688,7 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme.
 
@@ -11439,7 +11731,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -11519,17 +11811,19 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme ;
 
-11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
-sorties des élèves, aux abords d'un tel établissement ;
+11° Dans des établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées
+ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
 
 12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
 
 13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
-voyageurs.
+voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.
 
 Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
@@ -11571,7 +11865,9 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 54 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -11621,17 +11917,19 @@ l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme ;
 
-11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des
-sorties des élèves, aux abords d'un tel établissement ;
+11° Dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées
+ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
 
 12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
 
 13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
-voyageurs.
+voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au
 premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
@@ -11663,7 +11961,9 @@ deux des circonstances prévues aux 1° et suivants du présent article. Les pei
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 8 () JORF 5 avril 2006
+	  - Loi n°2007-297 2007-03-05 art. 44 II, art. 48 II , art. 54 2° JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -11730,10 +12030,55 @@ présent article.
 	  - Code pénal - art. 132-23 (M)
 
 
+###### Article 222-14-1
+
+Lorsqu'elles sont commises en bande organisée ou avec guet-apens, les violences commises avec usage ou menace d'une arme sur
+un fonctionnaire de la police nationale, un militaire de la gendarmerie, un membre du personnel de l'administration
+pénitentiaire ou toute autre personne dépositaire de l'autorité publique, ou sur un sapeur-pompier civil ou militaire ou un
+agent d'un exploitant de réseau de transport public de voyageurs dans l'exercice, à l'occasion de l'exercice ou en raison de
+ses fonctions ou de sa mission, sont punies : 
+
+1° De trente ans de réclusion criminelle lorsqu'elles ont entraîné la mort de la victime ; 
+
+2° De vingt ans de réclusion criminelle lorsqu'elles ont entraîné une mutilation ou une infirmité permanente ; 
+
+3° De quinze ans de réclusion criminelle lorsqu'elles ont entraîné une incapacité totale de travail pendant plus de huit
+jours ; 
+
+4° De dix ans d'emprisonnement et de 150 000 euros d'amende lorsqu'elles n'ont pas entraîné une incapacité totale de travail
+pendant plus de huit jours. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
+présent article. 
+
+L'incapacité totale de travail est, à la demande de la victime ou de la personne poursuivie, constatée par un médecin expert
+selon les modalités prévues par les articles 157 et suivants du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code des transports - art. L1632-2 (VD)
+	  - Code pénal - art. 132-19-2 (VT)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23 (V)
+	  - Code de procédure pénale - art. 157 (V)
+
+
 ###### Article 222-15
 
 L'administration de substances nuisibles ayant porté atteinte à l'intégrité physique ou psychique d'autrui est punie des
-peines mentionnées aux articles 222-7 à 222-14 suivant les distinctions prévues par ces articles.
+peines mentionnées aux articles 222-7 à 222-14-1 suivant les distinctions prévues par ces articles. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction dans les
 mêmes cas que ceux prévus par ces articles.
@@ -11756,10 +12101,43 @@ mêmes cas que ceux prévus par ces articles.
 	  - Code de la sécurité intérieure - art. L312-3 (V)
 	  - Code pénal - art. 222-48 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal 222-7 à 222-14, 132-23
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 222-7 (V)
+
+
+###### Article 222-15-1
+
+Constitue une embuscade le fait d'attendre un certain temps et dans un lieu déterminé un fonctionnaire de la police
+nationale, un militaire de la gendarmerie, un membre du personnel de l'administration pénitentiaire ou toute autre personne
+dépositaire de l'autorité publique, ainsi qu'un sapeur-pompier civil ou militaire ou un agent d'un exploitant de réseau de
+transport public de voyageurs, dans le but, caractérisé par un ou plusieurs faits matériels, de commettre à son encontre, à
+l'occasion de l'exercice de ses fonctions ou de sa mission, des violences avec usage ou menace d'une arme.
+
+L'embuscade est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende.
+
+Lorsque les faits sont commis en réunion, les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code des transports - art. L1632-2 (VD)
+	  - Code pénal - art. 132-19-2 (VT)
 
 
 ###### Article 222-16
@@ -12398,7 +12776,10 @@ destination d'un public non déterminé, d'un réseau de télécommunications ;
 10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ;
 
 11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de
-solidarité.
+solidarité ;
+
+12° Lorsqu'il est commis par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -12408,7 +12789,7 @@ solidarité.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
+	  - Loi n°2007-297 2007-03-05 art. 54 3° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -12525,7 +12906,10 @@ victime ;
 destination d'un public non déterminé, d'un réseau de télécommunications ;
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
-de solidarité.
+de solidarité ;
+
+8° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -12535,7 +12919,7 @@ de solidarité.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 11 () JORF 5 avril 2006
+	  - Loi n°2007-297 2007-03-05 art. 54 4° JORF 7 mars 2007
 
 	**Cite**:
 
@@ -12588,7 +12972,10 @@ victime ;
 
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
 
-6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime.
+6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime ;
+
+7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -12598,7 +12985,7 @@ victime ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 47 () JORF 19 mars 2003
+	  - Loi n°2007-297 2007-03-05 art. 53 5° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -12806,6 +13193,40 @@ compromettre son avenir professionnel, est puni d'un an d'emprisonnement et de 1
 	**Créé par**:
 
 	  - Loi n°2002-73 du 17 janvier 2002 - art. 170 () JORF 18 janvier 2002
+
+
+##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence
+
+###### Article 222-33-3
+
+Est constitutif d'un acte de complicité des atteintes volontaires à l'intégrité de la personne prévues par les articles 222-1
+à 222-14-1 et 222-23 à 222-31 et est puni des peines prévues par ces articles le fait d'enregistrer sciemment, par quelque
+moyen que ce soit, sur tout support que ce soit, des images relatives à la commission de ces infractions. 
+
+Le fait de diffuser l'enregistrement de telles images est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende. 
+
+Le présent article n'est pas applicable lorsque l'enregistrement ou la diffusion résulte de l'exercice normal d'une
+profession ayant pour objet d'informer le public ou est réalisé afin de servir de preuve en justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 222-1 (V)
+	  - Code pénal - art. 222-31 (V)
 
 
 ##### Section 4 : Du trafic de stupéfiants
@@ -13046,10 +13467,12 @@ présent article.
 ###### Article 222-39
 
 La cession ou l'offre illicites de stupéfiants à une personne en vue de sa consommation personnelle sont punies de cinq ans
-d'emprisonnement et de 75000 euros d'amende.
+d'emprisonnement et de 75 000 euros d'amende. 
 
 La peine d'emprisonnement est portée à dix ans lorsque les stupéfiants sont offerts ou cédés, dans les conditions définies à
-l'alinéa précédent, à des mineurs ou dans des centres d'enseignement ou d'éducation ou dans les locaux de l'administration.
+l'alinéa précédent, à des mineurs ou dans des établissements d'enseignement ou d'éducation ou dans les locaux de
+l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci,
+aux abords de ces établissements ou locaux. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par
 l'alinéa précédent.
@@ -13080,11 +13503,11 @@ l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 222-40
@@ -13220,36 +13643,43 @@ l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisatio
 ###### Article 222-44
 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
 conduite en dehors de l'activité professionnelle ; dans les cas prévus par les articles 222-19-1 et 222-20-1, la suspension
 ne peut pas être assortie du sursis, même partiellement, et ne peut pas être limitée à la conduite en dehors de l'activité
 professionnelle ; dans les cas prévus par les 1° à 6° et le dernier alinéa des articles 222-19-1 et 222-20-1, la durée de
-cette suspension est de dix ans au plus ;
+cette suspension est de dix ans au plus ; 
 
 4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
 
-5° La confiscation d'un ou plusieurs véhicules appartenant au condamné ;
+5° La confiscation d'un ou plusieurs véhicules appartenant au condamné ; 
 
-6° La confiscation d'une ou plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+6° La confiscation d'une ou plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
-7° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+7° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
 8° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'interdiction de conduire certains véhicules terrestres à
-moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
+moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ; 
 
 9° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'obligation d'accomplir, à leurs frais, un stage de
-sensibilisation à la sécurité routière ;
+sensibilisation à la sécurité routière ; 
+
+9° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les
+modalités fixées à l'article 131-35-1 ; 
 
 10° Dans les cas prévus par les articles 222-19-1 et 222-20-1, l'immobilisation, pendant une durée d'un an au plus, du
-véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ; 
+
+11° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ; 
+
+12° L'interdiction, à titre définitif ou temporaire, de détenir un animal. 
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
 droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
@@ -13262,8 +13692,8 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+	  - Loi n°2007-297 2007-03-05 art. 25 II 6°, art 53 3° JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
 
 	**Cité par**:
 
@@ -13276,26 +13706,22 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
 
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 222-19-1 (V)
-	  - Code pénal - art. 222-20-1 (V)
-
 
 ###### Article 222-45
 
 Les personnes physiques coupables des infractions prévues par les sections 1, 3 et 4 encourent également les peines
-suivantes :
+suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ; 
 
 3° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs ;
+bénévole impliquant un contact habituel avec des mineurs ; 
 
-4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
+4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ; 
+
+5° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -13305,12 +13731,13 @@ bénévole impliquant un contact habituel avec des mineurs ;
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26 (V)
 	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35-1 (V)
 	  - Code pénal - art. 131-5-1 (V)
 
 
@@ -13395,6 +13822,19 @@ Les personnes physiques coupables de tortures ou d'actes de barbarie ou des infr
 peuvent également être condamnées à un suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à
 131-36-13.
 
+Les personnes physiques coupables des infractions définies aux articles 222-8, 222-10, 222-12, 222-13 et 222-14 peuvent
+également être condamnées à un suivi socio-judiciaire, selon les modalités prévues par les articles 131-36-1 à 131-36-13,
+lorsque l'infraction est commise soit par le conjoint ou le concubin de la victime ou par le partenaire lié à celle-ci par un
+pacte civil de solidarité, ou par son ancien conjoint, son ancien concubin ou l'ancien partenaire lié à elle par un pacte
+civil de solidarité, soit, sur un mineur de quinze ans, par un ascendant légitime, naturel ou adoptif, ou par toute autre
+personne ayant autorité sur la victime.
+
+Pour les infractions prévues par l'alinéa précédent, le suivi socio-judiciaire est obligatoire en matière correctionnelle
+lorsqu'il s'agit de violences habituelles, sauf en cas de condamnation à une peine d'emprisonnement assortie du sursis avec
+mise à l'épreuve ou si le tribunal correctionnel considère, par décision spécialement motivée, qu'il n'y a pas lieu de
+prononcer cette mesure ; en matière criminelle, la cour d'assises délibère de façon spécifique sur le prononcé d'un suivi
+socio-judiciaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13403,11 +13843,16 @@ peuvent également être condamnées à un suivi socio-judiciaire selon les moda
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 24 () JORF 13 décembre 2005
+	  - Loi n°2007-297 du 5 mars 2007 - art. 33 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-13
+	  - Code pénal - art. 222-10 (M)
+	  - Code pénal - art. 222-12 (M)
+	  - Code pénal - art. 222-13 (M)
+	  - Code pénal - art. 222-14 (M)
+	  - Code pénal - art. 222-8 (M)
+	  - Code pénal 222-23 à 222-32, 131-36-1 à 131-36-13, 222-8, 222-10, 222-12, 222-13, 222-14
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
@@ -14162,31 +14607,36 @@ pour une durée de cinq ans au plus.
 
 ###### Article 223-18
 
-Les personnes physiques coupables de l'infraction prévue à l'article 223-1 encourent également les peines suivantes :
+Les personnes physiques coupables de l'infraction prévue à l'article 223-1 encourent également les peines suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
 
-2° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
+2° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ; 
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
 conduite en dehors de l'activité professionnelle ; si le délit a été commis à l'occasion de la conduite d'un véhicule
 terrestre à moteur, la suspension ne peut pas être assortie du sursis, même partiellement, et ne peut pas être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
 4° L'annulation du permis de conduire, avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
+
+4° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les
+modalités fixées à l'article 131-35-1 ; 
+
+4° ter L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1 ; 
 
 5° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'interdiction de
 conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas
-exigé, pour une durée de cinq ans au plus ;
+exigé, pour une durée de cinq ans au plus ; 
 
 6° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'obligation d'accomplir,
-à leurs frais, un stage de sensibilisation à la sécurité routière ;
+à leurs frais, un stage de sensibilisation à la sécurité routière ; 
 
 7° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'immobilisation, pendant
 une durée d'un an au plus, du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le
-propriétaire ;
+propriétaire ; 
 
 8° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, la confiscation du
 véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
@@ -14199,13 +14649,14 @@ véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 5 () JORF 13 juin 2003
-	  - Loi n°2003-495 du 12 juin 2003 - art. 6 () JORF 13 juin 2003
+	  - Loi n°2007-297 2007-03-05 art. 53 2°, art. 65 II 4° JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 	**Cite**:
 
 	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 223-1 (M)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 223-1 (V)
 
 
 ###### Article 223-19
@@ -14645,7 +15096,10 @@ suivantes :
 2° L'interdiction, selon les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer l'activité
 professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
 
-3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation.
+3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
+
+4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation d'accomplir un stage de responsabilité
+parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -14658,10 +15112,9 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 
 ###### Article 224-10
@@ -16251,7 +16704,9 @@ quelconque participation financière ;
 6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
 
 7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs.
+bénévole impliquant un contact habituel avec des mineurs ;
+
+8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -16261,12 +16716,7 @@ bénévole impliquant un contact habituel avec des mineurs.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 
 ###### Article 225-21
@@ -17473,20 +17923,21 @@ soit en raison d'une fonction ou d'une mission temporaire, est punie d'un an d'e
 ###### Article 226-14
 
 L'article 226-13 n'est pas applicable dans les cas où la loi impose ou autorise la révélation du secret. En outre, il n'est
-pas applicable :
+pas applicable : 
 
 1° A celui qui informe les autorités judiciaires, médicales ou administratives de privations ou de sévices, y compris
 lorsqu'il s'agit d'atteintes ou mutilations sexuelles, dont il a eu connaissance et qui ont été infligées à un mineur ou à
-une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique ;
+une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique ; 
 
 2° Au médecin qui, avec l'accord de la victime, porte à la connaissance du procureur de la République les sévices ou
 privations qu'il a constatés, sur le plan physique ou psychique, dans l'exercice de sa profession et qui lui permettent de
-présumer que des violences physiques, sexuelles ou psychiques de toute nature ont été commises. Lorsque la victime est
-mineure, son accord n'est pas nécessaire ;
+présumer que des violences physiques, sexuelles ou psychiques de toute nature ont été commises. Lorsque la victime est un
+mineur ou une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou
+psychique, son accord n'est pas nécessaire ; 
 
 3° Aux professionnels de la santé ou de l'action sociale qui informent le préfet et, à Paris, le préfet de police du
 caractère dangereux pour elles-mêmes ou pour autrui des personnes qui les consultent et dont ils savent qu'elles détiennent
-une arme ou qu'elles ont manifesté leur intention d'en acquérir une.
+une arme ou qu'elles ont manifesté leur intention d'en acquérir une. 
 
 Le signalement aux autorités compétentes effectué dans les conditions prévues au présent article ne peut faire l'objet
 d'aucune sanction disciplinaire.
@@ -17718,11 +18169,12 @@ d'aucune sanction disciplinaire.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 14 () JORF 5 avril 2006
+	  - Loi n°2003-239 du 18 mars 2003 - art. 85
+	  - Loi n°2007-297 du 5 mars 2007 - art. 34 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-13 (V)
 
 
 ##### Paragraphe 2 : De l'atteinte au secret des correspondances
@@ -19107,11 +19559,12 @@ Les peines encourues par les personnes morales sont :
 ###### Article 227-18
 
 Le fait de provoquer directement un mineur à faire un usage illicite de stupéfiants est puni de cinq ans d'emprisonnement et
-de 100000 euros d'amende.
+de 100 000 euros d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
-ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de sept ans d'emprisonnement et de 150000 euros d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis dans les établissements d'enseignement ou d'éducation
+ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très
+voisin de celles-ci, aux abords de ces établissements ou locaux, l'infraction définie par le présent article est punie de
+sept ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19126,7 +19579,7 @@ présent article est punie de sept ans d'emprisonnement et de 150000 euros d'ame
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -19142,11 +19595,12 @@ présent article est punie de sept ans d'emprisonnement et de 150000 euros d'ame
 ###### Article 227-18-1
 
 Le fait de provoquer directement un mineur à transporter, détenir, offrir ou céder des stupéfiants est puni de sept ans
-d'emprisonnement et de 150000 euros d'amende.
+d'emprisonnement et de 150 000 euros d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
-ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de dix ans d'emprisonnement et de 300000 euros d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis dans des établissements d'enseignement ou d'éducation
+ou dans les locaux de l'administration, ainsi que, lors des entrées ou sortie des élèves ou du public ou dans un temps très
+voisin de celles-ci, aux abords de ces établissements ou locaux, l'infraction définie par le présent article est punie de dix
+ans d'emprisonnement et de 300 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19156,7 +19610,7 @@ présent article est punie de dix ans d'emprisonnement et de 300000 euros d'amen
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -19167,11 +19621,12 @@ présent article est punie de dix ans d'emprisonnement et de 300000 euros d'amen
 ###### Article 227-19
 
 Le fait de provoquer directement un mineur à la consommation habituelle et excessive de boissons alcooliques est puni de deux
-ans d'emprisonnement et de 45000 euros d'amende.
+ans d'emprisonnement et de 45 000 euros d'amende.
 
-Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif
-ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement, l'infraction définie par le
-présent article est punie de trois ans d'emprisonnement et de 75000 euros d'amende.
+Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis dans des établissements d'enseignement ou d'éducation
+ou dans les locaux de l'administration, ainsi que lors des entrées ou sorties des élèves ou du public ou dans un temps très
+voisin de celles-ci, aux abords de ces établissements ou locaux, l'infraction définie par le présent article est punie de
+trois ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19186,7 +19641,7 @@ présent article est punie de trois ans d'emprisonnement et de 75000 euros d'ame
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -19197,13 +19652,14 @@ présent article est punie de trois ans d'emprisonnement et de 75000 euros d'ame
 
 ###### Article 227-21
 
-Le fait de provoquer directement un mineur à commettre un crime ou un délit est puni de cinq ans d'emprisonnement et de
-150000 euros d'amende.
+Le fait de provoquer directement un mineur à commettre un crime ou un délit est puni de cinq ans d'emprisonnement et de 150
+000 euros d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans, que le mineur est provoqué à commettre habituellement des crimes ou des délits ou
-que les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties
-des élèves, aux abords d'un tel établissement, l'infraction définie par le présent article est punie de sept ans
-d'emprisonnement et de 150000 euros d'amende.
+que les faits sont commis dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi
+que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces
+établissements ou locaux, l'infraction définie par le présent article est punie de sept ans d'emprisonnement et de 150 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -19218,7 +19674,7 @@ d'emprisonnement et de 150000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 28 () JORF 10 septembre 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -19231,9 +19687,10 @@ d'emprisonnement et de 150000 euros d'amende.
 Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 75000
 euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque le mineur est âgé de
 moins de quinze ans ou lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la
-diffusion de messages à destination d'un public non déterminé, d'un réseau de télécommunications ou que les faits sont commis
-à l'intérieur d'un établissement scolaire ou éducatif ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un
-tel établissement.
+diffusion de messages à destination d'un public non déterminé, d'un réseau de communications électroniques ou que les faits
+sont commis dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des
+entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou
+locaux.
 
 Les mêmes peines sont notamment applicables au fait, commis par un majeur, d'organiser des réunions comportant des
 exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe.
@@ -19277,7 +19734,33 @@ organisée.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+
+
+###### Article 227-22-1
+
+Le fait pour un majeur de faire des propositions sexuelles à un mineur de quinze ans ou à une personne se présentant comme
+telle en utilisant un moyen de communication électronique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+Ces peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende lorsque les propositions ont été suivies d'une
+rencontre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+
+	**Cité par**:
+
+	  - Code de la route. - art. R212-4 (V)
 
 
 ###### Article 227-23
@@ -19290,7 +19773,7 @@ Le fait d'offrir, de rendre disponible ou de diffuser une telle image ou représ
 l'importer ou de l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion de
-l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
+l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de communications électroniques.
 
 La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 
@@ -19335,7 +19818,8 @@ de l'enregistrement de son image.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 29 () JORF 6 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
 
 
 ###### Article 227-24
@@ -19345,9 +19829,9 @@ Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce 
 d'un tel message, est puni de trois ans d'emprisonnement et de 75000 euros d'amende lorsque ce message est susceptible d'être
 vu ou perçu par un mineur.
 
-Lorsque les infractions prévues au présent article sont soumises par la voie de la presse écrite ou audiovisuelle, les
-dispositions particulières des lois qui régissent ces matières sont applicables en ce qui concerne la détermination des
-personnes responsables.
+Lorsque les infractions prévues au présent article sont soumises par la voie de la presse écrite ou audiovisuelle ou de la
+communication au public en ligne, les dispositions particulières des lois qui régissent ces matières sont applicables en ce
+qui concerne la détermination des personnes responsables.
 
 **Liens relatifs à cet article**
 
@@ -19379,7 +19863,8 @@ personnes responsables.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
+	  - Loi n°2007-297 du 5 mars 2007 - art. 35
 
 
 ###### Article 227-25
@@ -19432,7 +19917,10 @@ victime ;
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
 4° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications.
+destination d'un public non déterminé, d'un réseau de télécommunications ;
+
+5° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
+stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -19448,7 +19936,7 @@ destination d'un public non déterminé, d'un réseau de télécommunications.
 
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 13 (V) JORF 5 mars 2002
+	  - Loi n°2007-297 2007-03-05 art. 54 6° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -19673,7 +20161,9 @@ plus ;
 5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
 
 6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au plus, d'exercer une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs.
+bénévole impliquant un contact habituel avec des mineurs ;
+
+7° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -19688,16 +20178,12 @@ bénévole impliquant un contact habituel avec des mineurs.
 
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 21 () JORF 18 juin 1998
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 	**Cité par**:
 
 	  - Code du travail - art. L261-3 (AbD)
 	  - Code du travail - art. L4741-8 (VD)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
 
 
 ###### Article 227-30
@@ -19740,6 +20226,52 @@ socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-
 
 	  - Code pénal - art. 131-36-1 (V)
 	  - Code pénal - art. 227-22 (V)
+
+
+###### Article 227-32
+
+Les personnes physiques coupables des infractions définies aux articles 227-18 et 227-18-1 encourent également la peine
+complémentaire d'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les
+modalités fixées à l'article 131-35-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 227-18 (V)
+
+
+##### Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales
+
+###### Article 227-33
+
+Les personnes physiques ou morales coupables des infractions prévues au troisième alinéa de l'article 227-22 et au sixième
+alinéa de l'article 227-23 encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens,
+quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 227-22 (M)
+	  - Code pénal - art. 227-23 (M)
 
 
 ## Livre III : Des crimes et délits contre les biens
@@ -20752,7 +21284,10 @@ l'exception des objets susceptibles de restitution ;
 
 5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ;
+
+7° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
+fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -20762,17 +21297,7 @@ l'exception des objets susceptibles de restitution ;
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-5-1 (V)
-	  - Code pénal - art. 312-1 (M)
-	  - Code pénal - art. 312-10 (M)
-	  - Code pénal - art. 312-2 (M)
-	  - Code pénal 131-26, 312-3 à 312-7, 312-1, 312-2, 312-10, 131-31, 131-5-1
+	  - Loi n°2007-297 2007-03-05 art. 53 4° JORF 7 mars 2007
 
 
 ###### Article 312-14
@@ -22171,7 +22696,9 @@ l'exception des objets susceptibles de restitution ;
 8° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus aux articles 321-1 à
 321-4 ;
 
-9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+
+10° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -22188,19 +22715,9 @@ l'exception des objets susceptibles de restitution ;
 	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-35 (M)
-	  - Code pénal - art. 321-1 (M)
-	  - Code pénal - art. 321-2 (M)
-	  - Code pénal - art. 321-4 (V)
-	  - Code pénal - art. 321-6 (M)
-	  - Code pénal - art. 321-7 (M)
-	  - Code pénal - art. 321-8 (M)
-	  - Code pénal 131-26, 131-27, 321-2, 321-4, 321-1, 321-6, 321-7, 321-8, 131-31, 321-1 à 321-4, 131-35
+	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
 
 
 ###### Article 321-10
@@ -22790,6 +23307,49 @@ La tentative du délit prévu par l'article 322-6 est punie des mêmes peines.
 	  - Code pénal - art. 322-6 (M)
 
 
+###### Article 322-11-1
+
+La détention ou le transport de substances ou produits incendiaires ou explosifs ainsi que d'éléments ou substances destinés
+à entrer dans la composition de produits ou engins incendiaires ou explosifs en vue de la préparation, caractérisée par un ou
+plusieurs faits matériels, des infractions définies à l'article 322-6 ou d'atteintes aux personnes est puni de cinq ans
+d'emprisonnement et de 75 000 euros d'amende.
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque ces faits sont commis en bande
+organisée.
+
+Hors les cas prévus aux deux premiers alinéas, est puni d'un an d'emprisonnement et de 15 000 euros d'amende la détention ou
+le transport sans motif légitime :
+
+1° De substances ou produits explosifs permettant de commettre les infractions définies à l'article 322-6, lorsque ces
+substances ou produits ne sont pas soumis, pour la détention ou le transport, à un régime particulier ;
+
+2° De substances ou produits incendiaires permettant de commettre les infractions définies à l'article 322-6 ainsi que
+d'éléments ou substances destinés à entrer dans la composition de produits ou engins incendiaires ou explosifs, lorsque leur
+détention ou leur transport ont été interdit par arrêté préfectoral en raison de l'urgence ou du risque de trouble à l'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-685 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 45 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 25
+	  - Loi n°2016-731 du 3 juin 2016 - art. 47
+	  - Code de procédure pénale - art. 78-2-2 (V)
+	  - Code pénal - art. 421-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 322-6 (M)
+
+
 ##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes
 
 ###### Article 322-12
@@ -22908,7 +23468,10 @@ ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à
 322-10 ;
 
-5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
+5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ;
+
+6° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
+fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
@@ -22918,7 +23481,7 @@ ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-297 2007-03-05 art. 53 5° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -22926,21 +23489,6 @@ ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12
 	  - Code des transports - art. L6372-4 (V)
 	  - Code forestier (nouveau) - art. L163-13 (V)
 	  - Code forestier (nouveau) - art. L163-4 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-5-1 (V)
-	  - Code pénal - art. 322-1 (M)
-	  - Code pénal - art. 322-12 (M)
-	  - Code pénal - art. 322-13 (MMN)
-	  - Code pénal - art. 322-14 (M)
-	  - Code pénal - art. 322-2 (M)
-	  - Code pénal - art. 322-3 (M)
-	  - Code pénal - art. 322-5 (M)
-	  - Code pénal 131-26, 131-27, 322-6 à 322-10, 322-1, 322-2, 322-3, 322-5, 322-12, 322-13, 322-14, 131-31, 322-7 à 322-10, 131-5-1
 
 
 ###### Article 322-15-1
@@ -27182,9 +27730,9 @@ l'autorité publique, des décisions ou mandats de justice.
 
 ###### Article 433-7
 
-La rébellion est punie de six mois d'emprisonnement et de 7500 euros d'amende.
+La rébellion est punie d'un an d'emprisonnement et de 15 000 euros d'amende.
 
-La rébellion commise en réunion est punie d'un an d'emprisonnement et de 15000 euros d'amende.
+La rébellion commise en réunion est punie de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27199,7 +27747,7 @@ La rébellion commise en réunion est punie d'un an d'emprisonnement et de 15000
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -27216,9 +27764,9 @@ La rébellion commise en réunion est punie d'un an d'emprisonnement et de 15000
 
 ###### Article 433-8
 
-La rébellion armée est punie de trois ans d'emprisonnement et de 45000 euros d'amende.
+La rébellion armée est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
-La rébellion armée commise en réunion est punie de sept ans d'emprisonnement et de 100000 euros d'amende.
+La rébellion armée commise en réunion est punie de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27233,7 +27781,7 @@ La rébellion armée commise en réunion est punie de sept ans d'emprisonnement 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -27274,8 +27822,8 @@ l'infraction à raison de laquelle il était détenu.
 ###### Article 433-10
 
 La provocation directe à la rébellion, manifestée soit par des cris ou des discours publics, soit par des écrits affichés ou
-distribués, soit par tout autre moyen de transmission de l'écrit, de la parole ou de l'image, est punie de 7500 euros
-d'amende.
+distribués, soit par tout autre moyen de transmission de l'écrit, de la parole ou de l'image, est punie de deux mois
+d'emprisonnement et de 7 500 euros d'amende.
 
 Lorsque le délit prévu à l'alinéa précédent est commis par la voie de la presse écrite ou audiovisuelle, les dispositions
 particulières des lois qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes
@@ -27294,7 +27842,7 @@ responsables.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -28019,6 +28567,27 @@ manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement 
 	  - Code de procédure pénale - art. 56-4 (V)
 	  - Code pénal - art. 434-4-2 (V)
 	  - Code pénal - art. 434-44 (V)
+
+
+###### Article 434-4-1
+
+Le fait pour une personne ayant connaissance de la disparition d'un mineur de quinze ans de ne pas en informer les autorités
+judiciaires ou administratives, en vue d'empêcher ou de retarder la mise en oeuvre des procédures de recherche prévues par
+l'article 74-1 du code de procédure pénale, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 41 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 74-1 (V)
 
 
 ###### Article 434-5
@@ -29240,16 +29809,17 @@ Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation, 
 interdictions résultant des peines de suspension ou d'annulation du permis de conduire, d'interdiction de conduire certains
 véhicules terrestres à moteur, d'interdiction de paraître dans certains lieux ou de rencontrer certaines personnes,
 d'obligation d'accomplir un stage, d'interdiction de détenir ou de porter une arme, de retrait du permis de chasser,
-d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture d'établissement ou d'exclusion des
-marchés publics prononcées en application des articles 131-5-1, 131-6, 131-10, 131-14, 131-16 ou 131-17.
+d'interdiction de détenir un animal, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture
+d'établissement ou d'exclusion des marchés publics prononcées en application des articles 131-5-1, 131-6, 131-10, 131-14,
+131-16 ou 131-17.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
-véhicule, une arme ou tout autre objet confisqués en application des articles 131-6, 131-10, 131-14 ou 131-16.
+véhicule, une arme, tout autre objet ou un animal confisqués en application des articles 131-6, 131-10, 131-14 ou 131-16.
 
 Est également puni des mêmes peines le fait, par une personne recevant la notification d'une décision prononçant à son égard,
 en application des articles précités, la suspension ou l'annulation du permis de conduire, le retrait du permis de chasser ou
-la confiscation d'un véhicule, d'une arme ou de tout autre objet, de refuser de remettre le permis suspendu, annulé ou retiré
-ou la chose confisquée à l'agent de l'autorité chargé de l'exécution de cette décision.
+la confiscation d'un véhicule, d'une arme, de tout autre objet ou d'un animal, de refuser de remettre le permis suspendu,
+annulé ou retiré, la chose ou l'animal confisqué à l'agent de l'autorité chargé de l'exécution de cette décision.
 
 **Liens relatifs à cet article**
 
@@ -29259,8 +29829,7 @@ ou la chose confisquée à l'agent de l'autorité chargé de l'exécution de cet
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 44 XV, XVI JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2007-297 du 5 mars 2007 - art. 25
 
 	**Cité par**:
 
@@ -30832,6 +31401,27 @@ pièces de monnaie qui, bien que destinés à être mis en circulation, n'ont pa
 	  - Code pénal - art. 442-1 (M)
 	  - Code pénal - art. 442-2 (M)
 	  - Code pénal 442-1, 442-2, 442-5 à 442-14
+
+
+###### Article 442-16
+
+Les personnes physiques ou morales coupables des crimes et délits prévus aux articles 442-1 à 442-3 encourent également la
+peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
+divis ou indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-686 1992-07-22
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 66 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code pénal 442-1 à 442-3
 
 
 #### Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique
