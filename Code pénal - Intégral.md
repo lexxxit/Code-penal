@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-04-27
 
 # Partie législative
 
@@ -27155,27 +27155,34 @@ municipal ne peut décider de se réunir à huis clos.
 
 ###### Article 432-13
 
-Est puni de deux ans d'emprisonnement et de 30000 euros d'amende le fait, par une personne ayant été chargée, en tant que
-fonctionnaire public ou agent ou préposé d'une administration publique, à raison même de sa fonction, soit d'assurer la
-surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une entreprise
-privée, soit d'exprimer son avis sur les opérations effectuées par une entreprise privée, de prendre ou de recevoir une
-participation par travail, conseil ou capitaux dans l'une de ces entreprises avant l'expiration d'un délai de cinq ans
-suivant la cessation de cette fonction.
+Est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait, par une personne ayant été chargée, en tant que
+fonctionnaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a effectivement exercées, soit
+d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une
+entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à l'autorité compétente des
+décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur de telles décisions, de
+prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces entreprises avant l'expiration
+d'un délai de trois ans suivant la cessation de ces fonctions. 
 
-Est punie des mêmes peines toute participation par travail, conseil ou capitaux, dans une entreprise privée qui possède au
-moins 30 p. 100 de capital commun ou a conclu un contrat comportant une exclusivité de droit ou de fait avec l'une des
-entreprises mentionnées à l'alinéa qui précède.
+Est punie des mêmes peines toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au
+moins 30 % de capital commun ou a conclu un contrat comportant une exclusivité de droit ou de fait avec l'une des entreprises
+mentionnées au premier alinéa. 
 
-Au sens du présent article, est assimilée à une entreprise privée toute entreprise publique exerçant son activité dans un
-secteur concurrentiel et conformément aux règles du droit privé.
+Pour l'application des deux premiers alinéas, est assimilée à une entreprise privée toute entreprise publique exerçant son
+activité dans un secteur concurrentiel et conformément aux règles du droit privé. 
 
-Ces dispositions sont applicables aux agents des établissements publics, des entreprises nationalisées, des sociétés
-d'économie mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 p.
-100 du capital et des exploitants publics prévus par la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service
-public de la poste et des télécommunications.
+Ces dispositions sont applicables aux agents des établissements publics, des entreprises publiques, des sociétés d'économie
+mixte dans lesquelles l'Etat ou les collectivités publiques détiennent directement ou indirectement plus de 50 % du capital
+et des exploitants publics prévus par la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la
+poste et à France Télécom. 
 
-L'infraction n'est pas constituée en cas de participation au capital de sociétés cotées en bourse ou lorsque les capitaux
+L'infraction n'est pas constituée par la seule participation au capital de sociétés cotées en bourse ou lorsque les capitaux
 sont reçus par dévolution successorale.
+
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -27208,20 +27215,15 @@ sont reçus par dévolution successorale.
 
 	**Cite**:
 
-	  - Loi n°90-568 1990-07-02
+	  - Loi n°90-568 du 2 juillet 1990 (V)
 
 	**Codifié par**:
 
 	  - Loi n°92-686 1992-07-22
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-148 du 2 février 2007 - art. 17 () JORF 6 février 2007 en vigueur le 27 avril 2007
 
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public
