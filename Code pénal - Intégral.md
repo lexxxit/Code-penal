@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-08-11
+Version Consolidée au 2007-09-28
 
 # Partie législative
 
@@ -36925,30 +36925,39 @@ contraventions de la 3e classe.
 
 #####   Sous-section 2 : Du travail d'intérêt général
 
-##### Paragraphe 1 : Des modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général
+##### Paragraphe 1 : Des modalités d'habilitation des personnes morales et d'établissement de la liste des travaux d'intérêt général
 
-##### A. : Des modalités d'habilitation des associations.
+##### A. : Des modalités d'habilitation des personnes morales
 
 ###### Article R131-12
 
-Les associations qui désirent obtenir l'habilitation prévue au premier alinéa de l'article 131-8 en font la demande au juge
-de l'application des peines du ressort dans lequel elles envisagent de mettre en oeuvre des travaux d'intérêt général.
+Les personnes morales de droit privé chargées d'une mission de service public ou les associations qui désirent obtenir
+l'habilitation prévue au premier alinéa de l'article 131-8 en font la demande au juge de l'application des peines du ressort
+dans lequel elles envisagent de mettre en oeuvre des travaux d'intérêt général. 
 
-La demande comporte :
+Pour les personnes morales de droit privé chargées d'une mission de service public, la demande comporte : 
+
+1° La copie des statuts de la personne morale ; 
+
+2° Un extrait du registre du commerce et des sociétés (extraits K ou K bis) datant de moins de trois mois ; 
+
+3° Une copie des comptes annuels et des bilans du dernier exercice. 
+
+Pour les associations, la demande comporte : 
 
 1° La copie du Journal officiel portant publication de la déclaration de l'association ou, pour les associations déclarées
 dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du tribunal
-d'instance ;
+d'instance ; 
 
-2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ;
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ; 
 
-3° La liste des établissements de l'association avec indication de leur siège ;
+3° La liste des établissements de l'association avec indication de leur siège ; 
 
 4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
-de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
 
 5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
-d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de leurs représentants locaux ;
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de leurs représentants locaux ; 
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
 ou un état de l'actif mobilier et immobilier et du passif.
@@ -36974,9 +36983,14 @@ ou un état de l'actif mobilier et immobilier et du passif.
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 2007-09-26 art. 2 I, II JORF 28 septembre 2007
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 131-8 (M)
+	  - Code pénal - art. R131-8 (V)
 
 
 ###### Article R131-13
@@ -37000,7 +37014,7 @@ L'habilitation accordée est valable pour une durée de trois ans.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 19 () JORF 29 septembre 2004
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -37012,7 +37026,7 @@ L'habilitation accordée est valable pour une durée de trois ans.
 ###### Article R131-14
 
 En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
-République, habiliter provisoirement l'association.
+République, habiliter provisoirement la personne morale.
 
 L'habilitation provisoire est valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
 
@@ -37026,6 +37040,15 @@ L'habilitation provisoire est valable jusqu'à la décision de la prochaine asse
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 2007-09-26 art. 2 I, III JORF 28 septembre 2007
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
+
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R416 (V)
@@ -37033,8 +37056,8 @@ L'habilitation provisoire est valable jusqu'à la décision de la prochaine asse
 
 ###### Article R131-15
 
-L'association habilitée porte à la connaissance du juge de l'application des peines toute modification de l'un des éléments
-mentionnés à l'article R. 131-12. Elle est tenue de faire parvenir chaque année le budget et ses comptes.
+La personne morale habilitée porte à la connaissance du juge de l'application des peines toute modification de l'un des
+éléments mentionnés à l'article R. 131-12. Elle est tenue de faire parvenir chaque année le budget et ses comptes.
 
 **Liens relatifs à cet article**
 
@@ -37045,6 +37068,15 @@ mentionnés à l'article R. 131-12. Elle est tenue de faire parvenir chaque ann�
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 2007-09-26 art. 2 I, III JORF 28 septembre 2007
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. R131-12 (V)
 
 
 ###### Article R131-16
@@ -37068,21 +37100,26 @@ restreinte.
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
 
-##### B. : De l'établissement de la liste des travaux d'intérêt général.
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
+
+##### B. : De l'établissement de la liste des travaux d'intérêt général
 
 ###### Article R131-17
 
-Les collectivités publiques, les établissements publics et les associations qui désirent faire inscrire des travaux d'intérêt
-général sur la liste prévue par l'article R. 131-36 (1) en font la demande au juge de l'application des peines du ressort
-dans lequel ils envisagent de faire exécuter ces travaux.
+Les collectivités publiques, les établissements publics, les personnes morales de droit privé chargées d'une mission de
+service public et les associations qui désirent faire inscrire des travaux d'intérêt général sur la liste prévue par
+l'article R. 131-36 (1) en font la demande au juge de l'application des peines du ressort dans lequel ils envisagent de faire
+exécuter ces travaux.
 
 Pour les collectivités publiques et les établissements publics, la demande mentionne les nom, prénoms, date et lieu de
 naissance ainsi que les fonctions des représentants qualifiés.
 
-Pour les associations qui ne sont pas encore habilitées, la demande prévue par le premier alinéa du présent article est
-jointe à la demande d'habilitation. Pour les associations déjà habilitées, elle comporte mention de la date de cette
-habilitation.
+Pour les personnes morales de droit privé qui ne sont pas encore habilitées, la demande prévue par le premier alinéa du
+présent article est jointe à la demande d'habilitation. Pour les personnes morales de droit privé déjà habilitées, elle
+comporte mention de la date de cette habilitation.
 
 A la demande est annexée une note indiquant la nature et les modalités d'exécution des travaux proposés, les nom, prénoms,
 date et lieu de naissance et qualité des personnes chargées de l'encadrement technique ainsi que le nombre de postes de
@@ -37101,6 +37138,11 @@ travail susceptibles d'être offerts.
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 2007-09-26 art. 2 I, IV JORF 28 septembre 2007
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -37126,6 +37168,10 @@ demande au conseil départemental de prévention de la délinquance.
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
 	**Cité par**:
 
 	  - Code pénal - art. R131-19 (V)
@@ -37149,6 +37195,10 @@ d'insertion sociale ou professionnelle qu'ils offrent aux condamnés.
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
 	**Cité par**:
 
 	  - Code pénal - art. R131-20 (V)
@@ -37168,8 +37218,16 @@ La radiation d'un travail inscrit sur la liste peut être prononcée selon la pr
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
 
-##### C. : Dispositions diverses.
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. R131-19 (V)
+
+
+##### C. : Dispositions diverses
 
 ###### Article R131-21
 
@@ -37189,6 +37247,10 @@ du garde des sceaux et du préfet par le juge de l'application des peines.
 
 	  - Décret n°93-726 1993-03-29
 
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+
 
 ###### Article R131-22
 
@@ -37204,6 +37266,10 @@ peines.
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
 
 
 ##### Paragraphe 2 : De l'exécution du travail d'intérêt général
@@ -37693,9 +37759,176 @@ procureur de la République.
 	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 
-##### Section 2 : Des peines applicables aux personnes morales.
+#####   Sous-section 4 : De la peine de sanction-réparation.
 
 ###### Article R131-45
+
+Dès que la condamnation est exécutoire, la personne condamnée à la peine de sanction-réparation est informée par le procureur
+de la République ou par son délégué qu'elle doit lui adresser, au plus tard à l'expiration du délai fixé pour indemniser la
+victime ou procéder à la remise en état des lieux, la justification qu'il a été procédé à cette indemnisation ou à cette
+remise en état. Si l'indemnisation se fait en plusieurs fois selon des modalités fixées par la juridiction, la justification
+doit intervenir pour chaque versement, sauf décision contraire du procureur ou de son délégué.
+
+Lorsque la réparation s'exécute en nature et consiste en une remise en état des lieux, ou en cas de retard dans
+l'indemnisation de la victime, le délégué du procureur peut convoquer le condamné, le cas échéant avec la partie civile, afin
+de faciliter l'exécution de la peine ou d'en vérifier l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+
+#####   Sous-section 5 : De la peine de stage de sensibilisation aux dangers de l'usage de produits stupéfiants.
+
+###### Article R131-46
+
+Le stage de sensibilisation aux dangers de l'usage de produits stupéfiants prévu à l'article 131-35-1 a pour objet de faire
+prendre conscience au condamné des conséquences dommageables pour la santé humaine et pour la société de l'usage de tels
+produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-5-1 (V)
+
+
+###### Article R131-47
+
+Les dispositions des articles R. 131-36 à R. 131-44 sont applicables à ces stages, dont les modules peuvent être élaborés
+avec le concours des personnes privées dont l'activité est d'assister ou d'aider les usagers de stupéfiants, telles que les
+associations de lutte contre la toxicomanie et le trafic de stupéfiants prévues à l'article 2-16 du code de procédure
+pénale. 
+
+Si les frais du stage sont mis à la charge du condamné, ils ne peuvent excéder le montant maximum de l'amende encourue pour
+les contraventions de la 3e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36 (V)
+	  - Code de procédure pénale - art. 2-16 (V)
+
+
+#####   Sous-section 6 : De la peine de stage de responsabilité parentale.
+
+###### Article R131-48
+
+Le stage de responsabilité parentale prévu à l'article 131-35-1 a pour objet de rappeler au condamné les obligations
+juridiques, économiques, sociales et morales qu'implique l'éducation d'un enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-5-1 (V)
+
+
+###### Article R131-49
+
+Les dispositions des articles R. 131-36 à R. 131-44 sont applicables à ce stage, dont les modules peuvent être élaborés avec
+le concours des personnes publiques ou privées mettant en oeuvre les accompagnements parentaux prévus par l'article L. 141-1
+du code de l'action sociale et des familles ou les contrats de responsabilité parentale prévus par l'article L. 222-4-1 du
+même code. 
+
+Si les frais du stage sont mis à la charge du condamné, ils ne peuvent excéder le montant maximum de l'amende encourue pour
+les contraventions de la 3e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36 (V)
+	  - Code de l'action sociale et des familles - art. L141-1 (VT)
+	  - Code de l'action sociale et des familles - art. L222-4-1 (Ab)
+
+
+#####   Sous-section 7 : De la peine de confiscation d'un animal.
+
+###### Article R131-50
+
+Lorsque la juridiction qui prononce la peine de confiscation d'un animal prévue par l'article 131-21-1 ordonne que l'animal
+sera remis à une fondation ou à une association sans préciser l'identité de cette personne morale, le procureur de la
+République met à exécution cette peine auprès de la personne morale qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21-1 (V)
+
+
+###### Article R131-51
+
+Lorsqu'en application des dispositions de l'article 99-1 du code de procédure pénale l'animal confisqué a été placé au cours
+d'une procédure dirigée contre une personne qui n'en est pas propriétaire, la juridiction se prononce sur la mise à la charge
+du condamné des frais de placement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-726 1993-03-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 99-1 (V)
+
+
+##### Section 2 : Des peines applicables aux personnes morales
+
+###### Article R131-52
 
 Le mandataire de justice prévu par l'article 131-46 est choisi soit parmi les personnes inscrites sur la liste prévue par
 l'article L. 811-2 du code de commerce, soit parmi celles inscrites sur l'une des listes prévues par l'article 157 du code de
@@ -37704,34 +37937,26 @@ personne physique ne figurant sur aucune des listes précitées mais ayant une e
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code pénal art. R131-35
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
 
 	**Créé par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
-
-	**Transféré par**:
-
 	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
 
 	**Cite**:
 
-	  - Code de commerce. - art. L811-2 (M)
-	  - Code pénal - art. 131-46 (M)
-	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+	  - Code de commerce - art. L811-2 (V)
+	  - Code pénal - art. 131-46 (V)
+	  - Code de procédure pénale - art. 157 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code pénal - art. R131-52 (V)
+	  - Code pénal - art. R131-45 (T)
 
 
-###### Article R131-46
+###### Article R131-53
 
 Lorsqu'il existe, au sein d'une personne morale citée ou amenée à comparaître devant une juridiction de jugement, des
 représentants du personnel, le ministère public les avise de la date et de l'objet de l'audience, par lettre recommandée
@@ -37743,25 +37968,17 @@ secrétaire du comité central d'entreprise et, en l'absence de tels comités, a
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code pénal art. R131-36
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
 
 	**Créé par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
-
-	**Transféré par**:
-
 	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code pénal - art. R131-53 (V)
+	  - Code pénal - art. R131-46 (T)
 
 
 #### Chapitre II : Du régime des peines
@@ -40066,25 +40283,34 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 ###### Article R632-1
 
 Hors le cas prévu par l'article R. 635-8, est puni de l'amende prévue pour les contraventions de la 2e classe le fait de
-déposer, d'abandonner ou de jeter, en un lieu public ou privé, à l'exception des emplacements désignés à cet effet par
-l'autorité administrative compétente, des ordures, déchets, matériaux ou tout autre objet, de quelque nature qu'il soit, si
-ce dépôt n'est pas effectué par la personne ayant la jouissance du lieu ou avec son autorisation.
+déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à l'exception des emplacements désignés à cet effet
+par l'autorité administrative compétente, des ordures, déchets, déjections, matériaux, liquides insalubres ou tout autre
+objet de quelque nature qu'il soit, y compris en urinant sur la voie publique, si ces faits ne sont pas accomplis par la
+personne ayant la jouissance du lieu ou avec son autorisation.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
+Est puni de la même peine le fait de déposer ou d'abandonner sur la voie publique des ordures, déchets, matériaux ou tout
+autre objet de quelque nature qu'il soit, en vue de leur enlèvement par le service de collecte, sans respecter les conditions
+fixées par l'autorité administrative compétente, notamment en matière de jours et d'horaires de collecte ou de tri des
+ordures.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
+infractions définies au présent article.
 
 La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de l'environnement - art. R541-76 (V)
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 4 () JORF 28 septembre 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. R541-76 (V)
 
 	**Cité par**:
 
@@ -40544,11 +40770,11 @@ La récidive des contraventions prévues aux articles R. 635-3, R. 635-4 et R. 6
 
 ###### Article R635-8
 
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de déposer, d'abandonner ou de jeter, en un lieu
-public ou privé, à l'exception des emplacements désignés à cet effet par l'autorité administrative compétente, soit une épave
-de véhicule, soit des ordures, déchets, matériaux ou tout autre objet, de quelque nature qu'il soit, lorsque ceux-ci ont été
-transportés avec l'aide d'un véhicule, si ce dépôt n'est pas effectué par la personne ayant la jouissance du lieu ou avec son
-autorisation.
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de déposer, d'abandonner, de jeter ou de
+déverser, en lieu public ou privé, à l'exception des emplacements désignés à cet effet par l'autorité administrative
+compétente, soit une épave de véhicule, soit des ordures, déchets, déjections, matériaux, liquides insalubres ou tout autre
+objet de quelque nature qu'il soit, lorsque ceux-ci ont été transportés avec l'aide d'un véhicule, si ces faits ne sont pas
+accomplis par la personne ayant la jouissance du lieu ou avec son autorisation.
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
@@ -40566,14 +40792,13 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de l'environnement - art. R541-77 (V)
-
 	**Codifié par**:
 
 	  - Décret n°93-726 1993-03-29
+
+	**Modifié par**:
+
+	  - Décret n°2007-1388 du 26 septembre 2007 - art. 4 () JORF 28 septembre 2007
 
 	**Cité par**:
 
@@ -40584,6 +40809,10 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code de procédure pénale - art. R15-33-29-3 (V)
 	  - Code pénal - art. R632-1 (M)
 	  - Code pénal - art. R633-6 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. R541-77 (V)
 
 	**Cite**:
 
