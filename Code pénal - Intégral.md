@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-09-28
+Version Consolidée au 2007-10-30
 
 # Partie législative
 
@@ -31135,11 +31135,11 @@ présent article.
 
 ###### Article 442-2
 
-Le transport, la mise en circulation ou la détention en vue de la mise en circulation des signes monétaires contrefaits ou
+Le transport, la mise en circulation ou la détention en vue de la mise en circulation des signes monétaires contrefaisants ou
 falsifiés mentionnés au premier alinéa de l'article 442-1 ou des signes monétaires irrégulièrement fabriqués mentionnés au
-deuxième alinéa de cet article sont punis de dix ans d'emprisonnement et de 150 000 Euros d'amende.
+deuxième alinéa de cet article sont punis de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
-Les infractions prévues au précédent alinéa sont punies de trente ans de réclusion criminelle et de 450 000 Euros d'amende
+Les infractions prévues au précédent alinéa sont punies de trente ans de réclusion criminelle et de 450 000 euros d'amende
 lorsqu'elles sont commises en bande organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au
@@ -31153,7 +31153,7 @@ deuxième alinéa du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 	**Cité par**:
 
@@ -31268,8 +31268,8 @@ l'acceptation desdits objets, imprimés ou formules au lieu et place des valeurs
 
 ###### Article 442-7
 
-Le fait, pour celui qui a reçu les signes monétaires contrefaits ou falsifiés visés à l'article 442-1 en les tenant pour
-bons, de les remettre en circulation après en avoir découvert les vices est puni de 7500 euros d'amende.
+Le fait, pour celui qui a reçu les signes monétaires contrefaisants ou falsifiés visés à l'article 442-1 en les tenant pour
+bons, de les remettre en circulation après en avoir découvert les vices est puni de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31284,7 +31284,7 @@ bons, de les remettre en circulation après en avoir découvert les vices est pu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 	**Cité par**:
 
@@ -31408,11 +31408,11 @@ aux articles 442-1 à 442-4.
 Dans tous les cas prévus au présent chapitre, peut être également prononcée la confiscation de la chose qui a servi ou était
 destinée à commettre l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution.
 
-La confiscation des pièces de monnaie et des billets de banque contrefaits ou falsifiés ainsi que des matières et instruments
-destinés à servir à leur fabrication est obligatoire.
+La confiscation des pièces de monnaie et des billets de banque contrefaisants ou falsifiés ainsi que des matières et
+instruments destinés à servir à leur fabrication est obligatoire.
 
 Selon que la contrefaçon ou la falsification a porté sur des pièces de monnaie ou des billets de banque, les signes
-monétaires contrefaits ou falsifiés sont remis à la Monnaie de Paris ou à la Banque de France, aux fins de destruction
+monétaires contrefaisants ou falsifiés sont remis à la Monnaie de Paris ou à la Banque de France, aux fins de destruction
 éventuelle. Leur sont également remis, aux mêmes fins, ceux des matériels et instruments confisqués qu'elles désignent.
 
 La confiscation des objets, imprimés ou formules visés à l'article 442-6 est également obligatoire. Elle entraîne remise de
@@ -31441,7 +31441,7 @@ fins de destruction éventuelle.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 	**Cite**:
 
@@ -31536,8 +31536,8 @@ divis ou indivis.
 ###### Article 443-1
 
 La contrefaçon ou la falsification des effets émis par le Trésor public avec son timbre ou sa marque ou des effets émis par
-les Etats étrangers avec leur timbre ou leur marque, ainsi que l'usage ou le transport de ces effets contrefaits ou falsifiés
-sont punis de sept ans d'emprisonnement et de 100000 euros d'amende.
+les Etats étrangers avec leur timbre ou leur marque, ainsi que l'usage ou le transport de ces effets contrefaisants ou
+falsifiés sont punis de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31559,14 +31559,14 @@ sont punis de sept ans d'emprisonnement et de 100000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article 443-2
 
-Sont punis de cinq ans d'emprisonnement et de 75000 euros d'amende la contrefaçon ou la falsification des timbres-poste ou
+Sont punis de cinq ans d'emprisonnement et de 75 000 euros d'amende la contrefaçon ou la falsification des timbres-poste ou
 autres valeurs fiduciaires postales, ainsi que des timbres émis par l'administration des finances, la vente, le transport, la
-distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
+distribution ou l'usage de ces timbres ou valeurs contrefaisants ou falsifiés.
 
 **Liens relatifs à cet article**
 
@@ -31589,7 +31589,7 @@ distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article 443-3
@@ -31627,9 +31627,9 @@ l'acceptation desdits objets, imprimés ou formules au lieu et place des valeurs
 
 ###### Article 443-4
 
-Sont punis de six mois d'emprisonnement et de 7500 euros d'amende la contrefaçon ou la falsification des timbres-poste
+Sont punis de six mois d'emprisonnement et de 7 500 euros d'amende la contrefaçon ou la falsification des timbres-poste
 étrangers ou autres valeurs postales émises par le service des postes d'un pays étranger, ainsi que la vente, le transport,
-la distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
+la distribution ou l'usage de ces timbres ou valeurs contrefaisants ou falsifiés.
 
 **Liens relatifs à cet article**
 
@@ -31644,7 +31644,7 @@ la distribution ou l'usage de ces timbres ou valeurs contrefaits ou falsifiés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article 443-5
@@ -31758,8 +31758,8 @@ laquelle l'infraction a été commise.
 ###### Article 444-1
 
 La contrefaçon ou la falsification soit du sceau de l'Etat, soit des timbres nationaux, soit des poinçons servant à marquer
-les matières d'or, d'argent ou de platine, ou l'usage de ces sceaux, timbres ou poinçons, contrefaits ou falsifiés, est punie
-de dix ans d'emprisonnement et de 150000 euros d'amende.
+les matières d'or, d'argent ou de platine, ou l'usage de ces sceaux, timbres ou poinçons, contrefaisants ou falsifiés, est
+punie de dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31780,7 +31780,7 @@ de dix ans d'emprisonnement et de 150000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article 444-2
@@ -31811,14 +31811,14 @@ de platine est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 ###### Article 444-3
 
-Sont punies de cinq ans d'emprisonnement et de 75000 euros d'amende :
+Sont punies de cinq ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° La contrefaçon ou la falsification des sceaux, timbres ou marques d'une autorité publique, ou l'usage de ces sceaux,
-timbres ou marques, contrefaits ou falsifiés ;
+timbres ou marques, contrefaisants ou falsifiés ;
 
 2° La contrefaçon ou la falsification des papiers à en-tête ou imprimés officiels utilisés dans les assemblées instituées par
 la Constitution, les administrations publiques ou les juridictions, la vente, la distribution ainsi que l'usage de ces
-papiers ou imprimés ainsi contrefaits ou falsifiés ;
+papiers ou imprimés ainsi contrefaisants ou falsifiés ;
 
 3° La contrefaçon ou la falsification d'estampilles et de marques attestant l'intervention des services d'inspection ou de
 surveillance sanitaire de la France ou d'un pays étranger.
@@ -31846,7 +31846,7 @@ surveillance sanitaire de la France ou d'un pays étranger.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article 444-4
