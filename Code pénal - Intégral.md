@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-11-14
+Version Consolidée au 2007-11-21
 
 # Partie législative
 
@@ -15463,11 +15463,12 @@ laquelle l'infraction a été commise.
 
 La traite des êtres humains est le fait, en échange d'une rémunération ou de tout autre avantage ou d'une promesse de
 rémunération ou d'avantage, de recruter une personne, de la transporter, de la transférer, de l'héberger ou de l'accueillir,
-pour la mettre à la disposition d'un tiers, même non identifié, afin soit de permettre la commission contre cette personne
-des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité, de conditions de
-travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime ou délit.
+pour la mettre à sa disposition ou à la disposition d'un tiers, même non identifié, afin soit de permettre la commission
+contre cette personne des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité,
+de conditions de travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime
+ou délit.
 
-La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 000 Euros d'amende.
+La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15511,7 +15512,11 @@ La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 00
 
 	**Créé par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Modifié par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 22 () JORF 21 novembre 2007
 
 
 ###### Article 225-4-2
@@ -18853,16 +18858,13 @@ d'un an d'emprisonnement et de 15 000 Euros d'amende.
 Le fait de rechercher l'identification par ses empreintes génétiques d'une personne, lorsqu'il ne s'agit pas d'un militaire
 décédé à l'occasion d'une opération conduite par les forces armées ou les formations rattachées, à des fins qui ne seraient
 ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure judiciaire
-est puni d'un an d'emprisonnement ou de 1 500 Euros d'amende.
+ou de vérification d'un acte de l'état civil entreprise par les autorités diplomatiques ou consulaires dans le cadre des
+dispositions de l'article L. 111-6 du code de l'entrée et du séjour des étrangers et du droit d'asile est puni d'un an
+d'emprisonnement ou de 1 500 euros d'amende.
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
 empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
 l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
-
-**Nota:**
-
-NOTA  : Loi n° 2005-270 du 24 mars 2005 art. 106 : les dispositions de l'article 93 sont applicables en Nouvelle-Calédonie,
-en Polynésie française, à Wallis-et-Futuna et à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -18872,7 +18874,12 @@ en Polynésie française, à Wallis-et-Futuna et à Mayotte.
 
 	**Modifié par**:
 
-	  - Loi n°2005-270 du 24 mars 2005 - art. 93 () JORF 26 mars 2005 en vigueur au  1er juillet 2005
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-6 (M)
+	  - Code de la santé publique - art. L145-16 (M)
 
 	**Cité par**:
 
@@ -18896,10 +18903,6 @@ en Polynésie française, à Wallis-et-Futuna et à Mayotte.
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L145-16 (M)
 
 
 ###### Article 226-29
