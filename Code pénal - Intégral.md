@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2007-11-21
+Version Consolidée au 2008-03-01
 
 # Partie législative
 
@@ -4643,32 +4643,22 @@ ses efforts en vue de sa réinsertion sociale.
 
 ###### Article 131-36-4
 
-Le suivi socio-judiciaire peut comprendre une injonction de soins.
-
-Cette injonction peut être prononcée par la juridiction de jugement s'il est établi après une expertise médicale, ordonnée
-dans les conditions prévues par le code de procédure pénale, que la personne poursuivie est susceptible de faire l'objet d'un
-traitement. Cette expertise est réalisée par deux experts en cas de poursuites pour meurtre ou assassinat d'un mineur précédé
-ou accompagné d'un viol, de tortures ou d'actes de barbarie. Le président avertit alors le condamné qu'aucun traitement ne
-pourra être entrepris sans son consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement
-prononcé en application du troisième alinéa de l'article 131-36-1 pourra être mis à exécution.
+Sauf décision contraire de la juridiction, la personne condamnée à un suivi socio-judiciaire est soumise à une injonction de
+soins dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique, s'il est établi qu'elle
+est susceptible de faire l'objet d'un traitement, après une expertise médicale ordonnée conformément aux dispositions du code
+de procédure pénale. Le président avertit alors le condamné qu'aucun traitement ne pourra être entrepris sans son
+consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement prononcé en application du troisième
+alinéa de l'article 131-36-1 pourra être mis à exécution. 
 
 Lorsque la juridiction de jugement prononce une injonction de soins et que la personne a été également condamnée à une peine
 privative de liberté non assortie du sursis, le président informe le condamné qu'il aura la possibilité de commencer un
 traitement pendant l'exécution de cette peine.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
 
 	**Cité par**:
 
@@ -4683,9 +4673,13 @@ traitement pendant l'exécution de cette peine.
 	  - Code de procédure pénale - art. D147-2 (V)
 	  - Code de procédure pénale - art. D147-37 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1198 du 10 août 2007 - art. 7 () JORF 11 août 2007 en vigueur le 1er mars 2008
+
 	**Cite**:
 
-	  - Code pénal - art. 131-36-1 (M)
+	  - Code pénal - art. 131-36-1 (V)
 
 
 ###### Article 131-36-5
@@ -8760,6 +8754,48 @@ de la victime.
 	**Cite**:
 
 	  - Code de la santé publique - art. L3413-1 (V)
+
+
+###### Article 132-45-1
+
+Sauf décision contraire de la juridiction, la personne condamnée à une peine d'emprisonnement assortie du sursis avec mise à
+l'épreuve pour l'une des infractions pour lesquelles le suivi socio-judiciaire est encouru est soumise à une injonction de
+soins dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique, s'il est établi qu'elle
+est susceptible de faire l'objet d'un traitement, après une expertise médicale ordonnée conformément aux dispositions du code
+de procédure pénale. 
+
+En cas d'injonction de soins, le président avertit le condamné qu'aucun traitement ne pourra être entrepris sans son
+consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement prononcé pourra être mis à
+exécution. 
+
+Lorsque la juridiction de jugement prononce une peine privative de liberté qui n'est pas intégralement assortie du sursis
+avec mise à l'épreuve, le président informe le condamné qu'il aura la possibilité de commencer un traitement pendant
+l'exécution de cette peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 1992-07-22
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D129 (V)
+	  - CODE DE PROCEDURE PENALE - art. D136 (V)
+	  - CODE DE PROCEDURE PENALE - art. D138 (V)
+	  - CODE DE PROCEDURE PENALE - art. D142 (V)
+	  - CODE DE PROCEDURE PENALE - art. D147-2 (V)
+	  - Code de la santé publique - art. L3711-1 (V)
+	  - Code de procédure pénale - art. R60-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2007-1198 du 10 août 2007 - art. 8 () JORF 11 août 2007 en vigueur le 1er mars 2008
+
+	**Abrogé par**:
+
+	  - Loi n°2010-242 du 10 mars 2010 - art. 10
 
 
 ###### Article 132-46
