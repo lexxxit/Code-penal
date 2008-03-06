@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-03-01
+Version Consolidée au 2008-03-07
 
 # Partie législative
 
@@ -10066,23 +10066,34 @@ accordée dans les conditions prévues par le code de procédure pénale.
 ###### Article 133-13
 
 La réhabilitation est acquise de plein droit à la personne physique condamnée qui n'a, dans les délais ci-après déterminés,
-subi aucune condamnation nouvelle à une peine criminelle ou correctionnelle :
+subi aucune condamnation nouvelle à une peine criminelle ou correctionnelle : 
 
 1° Pour la condamnation à l'amende ou à la peine de jours-amende après un délai de trois ans à compter du jour du paiement de
 l'amende ou du montant global des jours-amende, de l'expiration de la contrainte judiciaire ou du délai de l'incarcération
-prévue par l'article 131-25 ou de la prescription accomplie ;
+prévue par l'article 131-25 ou de la prescription accomplie ; 
 
 2° Pour la condamnation unique soit à un emprisonnement n'excédant pas un an, soit à une peine autre que la réclusion
 criminelle, la détention criminelle, l'emprisonnement, l'amende ou le jour-amende, après un délai de cinq ans à compter soit
-de l'exécution de la peine, soit de la prescription accomplie ;
+de l'exécution de la peine, soit de la prescription accomplie ; 
 
 3° Pour la condamnation unique à un emprisonnement n'excédant pas dix ans ou pour les condamnations multiples à
 l'emprisonnement dont l'ensemble ne dépasse pas cinq ans, après un délai de dix ans à compter soit de l'expiration de la
-peine subie, soit de la prescription accomplie.
+peine subie, soit de la prescription accomplie. 
+
+Les délais prévus au présent article sont doublés lorsque la personne a été condamnée pour des faits commis en état de
+récidive légale. 
+
+Lorsqu'il s'agit de condamnations assorties en tout ou partie du sursis, du sursis avec mise à l'épreuve ou du sursis avec
+obligation d'accomplir un travail d'intérêt général, les délais de réhabilitation courent, pour chacune de ces condamnations
+et y compris en cas de condamnations multiples, à compter de la date à laquelle la condamnation est non avenue.
 
 **Nota:**
 
-La présente version de cet article est en vigueur jusqu'au 7 mars 2008.
+Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
+après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
+toujours au casier judiciaire, quelque soit la date de commission de l'infraction ; toutefois, le doublement des délais de
+réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
+présente loi.
 
 **Liens relatifs à cet article**
 
@@ -10090,15 +10101,20 @@ La présente version de cet article est en vigueur jusqu'au 7 mars 2008.
 
 	  - Loi n°92-683 1992-07-22
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
+
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 769 (VT)
 	  - Code de procédure pénale - art. 783 (VD)
 	  - Code pénal - art. 133-15 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2004-204 2004-03-10 art. 198 V JORF 10 mars 2004
+	  - Code pénal - art. 131-25 (V)
 
 
 ###### Article 133-14
@@ -10112,9 +10128,19 @@ prescription accomplie ;
 2° Pour la condamnation à une peine autre que l'amende ou la dissolution, après un délai de cinq ans à compter soit de
 l'exécution de la peine, soit de la prescription accomplie.
 
+Les délais prévus au présent article sont doublés lorsque la personne a été condamnée pour des faits commis en état de
+récidive légale.
+
+Lorsqu'il s'agit d'une condamnation assortie du sursis, les délais de réhabilitation courent à compter de la date à laquelle
+la condamnation est non avenue.
+
 **Nota:**
 
-
+Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
+après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
+toujours au casier judiciaire, quelque soit la date de commission de l'infraction ; toutefois, le doublement des délais de
+réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
+présente loi.
 
 **Liens relatifs à cet article**
 
@@ -10126,6 +10152,11 @@ l'exécution de la peine, soit de la prescription accomplie.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43
 
 	**Cité par**:
 
@@ -10156,15 +10187,22 @@ dispositions des articles 133-13 et 133-14.
 ###### Article 133-16
 
 La réhabilitation produit les mêmes effets que ceux qui sont prévus par les articles 133-10 et 133-11. Elle efface toutes les
-incapacités et déchéances qui résultent de la condamnation.
+incapacités et déchéances qui résultent de la condamnation. 
 
 Toutefois, lorsque la personne a été condamnée au suivi socio-judiciaire prévu à l'article 131-36-1 ou à la peine
 d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
-réhabilitation ne produit ses effets qu'à la fin de la mesure.
+réhabilitation ne produit ses effets qu'à la fin de la mesure. 
+
+La réhabilitation n'interdit pas la prise en compte de la condamnation, par les seules autorités judiciaires, en cas de
+nouvelles poursuites, pour l'application des règles sur la récidive légale.
 
 **Nota:**
 
-
+Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
+après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
+toujours au casier judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de
+réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
+présente loi.
 
 **Liens relatifs à cet article**
 
@@ -10179,7 +10217,7 @@ réhabilitation ne produit ses effets qu'à la fin de la mesure.
 
 	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 41 () JORF 18 juin 1998
+	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
 
 	**Cité par**:
 
@@ -10188,9 +10226,8 @@ réhabilitation ne produit ses effets qu'à la fin de la mesure.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-36-1 (M)
+	  - Code pénal - art. 131-36-1 (V)
 	  - Code pénal - art. 133-10 (V)
-	  - Code pénal - art. 133-11 (V)
 
 
 ###### Article 133-17
