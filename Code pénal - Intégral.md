@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-03-07
+Version Consolidée au 2008-05-24
 
 # Partie législative
 
@@ -33341,44 +33341,6 @@ santé publique est puni de deux ans d'emprisonnement et de 30 000 euros d'amend
 	  - Code de la santé publique - art. L1244-7 (M)
 
 
-###### Article 511-14
-
-Le fait de procéder à des activités de recueil, de traitement, de conservation et de cession de gamètes provenant de dons
-sans avoir recueilli l'autorisation prévue à l'article L. 1244-5 du code de la santé publique est puni de deux ans
-d'emprisonnement et de 30 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-1336 1992-12-16
-
-	**Cité par**:
-
-	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
-	  - Code de la santé publique - art. L1273-7 (Ab)
-	  - Code de la santé publique - art. L1517-14 (MMN)
-	  - Code de la santé publique - art. L1525-15 (Ab)
-	  - Code de la santé publique - art. L1533-15 (T)
-	  - Code de la santé publique - art. L1534-15 (Ab)
-	  - Code de la santé publique - art. L1543-15 (Ab)
-	  - Code de la santé publique - art. L675-16 (Ab)
-	  - Code pénal - art. 716-8 (Ab)
-	  - Code pénal - art. 726-8 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-480 du 22 mai 2008 - art. 6
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L1244-5 (Ab)
-
-
 ##### Section 3 : De la protection de l'embryon humain
 
 ###### Article 511-15
@@ -33765,14 +33727,10 @@ puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 ###### Article 511-22
 
 Le fait de mettre en oeuvre des activités d'assistance médicale à la procréation sans avoir recueilli l'autorisation prévue
-par le troisième alinéa de l'article L. 2142-1 du code de la santé publique ou sans se conformer aux prescriptions de cette
-dernière est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+par le quatrième alinéa de l'article L. 2142-1 du code de la santé publique ou sans se conformer aux prescriptions de cette
+dernière est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-1336 1992-12-16
 
 	**Cité par**:
 
@@ -33790,11 +33748,15 @@ dernière est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+	  - Ordonnance n°2008-480 du 22 mai 2008 - art. 6
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2162-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2142-1 (V)
 
 
 ###### Article 511-23
@@ -33921,6 +33883,31 @@ qui a renoncé à l'embryon et le couple qui l'a accueilli.
 	**Cite**:
 
 	  - Code de la santé publique - art. L2141-6 (Ab)
+
+
+###### Article 511-25-1
+
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende : 
+
+1° Le fait d'importer ou d'exporter des gamètes ou des tissus germinaux sans avoir recueilli l'autorisation prévue à
+l'article L. 2141-11-1 du code de la santé publique ; 
+
+2° Le fait d'importer ou d'exporter des gamètes ou des tissus germinaux pour des finalités autres que celles prévues dans
+l'autorisation mentionnée à l'article L. 2141-11-1 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-480 du 22 mai 2008 - art. 6
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2162-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2141-11-1
 
 
 ##### Section 4 : Autres dispositions et peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
