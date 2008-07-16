@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-06-22
+Version Consolidée au 2008-07-17
 
 # Partie législative
 
@@ -20762,6 +20762,40 @@ mineurs âgés de moins de treize ans.
 	  - Loi n°2002-1138 du 9 septembre 2002 - art. 26 () JORF 10 septembre 2002
 
 
+###### Article 311-4-2
+
+Le vol est puni de sept ans d'emprisonnement et de 100 000 € d'amende lorsqu'il porte sur : 
+
+1° Un objet mobilier classé ou inscrit en application des dispositions du code du patrimoine ou un document d'archives
+privées classé en application des dispositions du même code ; 
+
+2° Une découverte archéologique faite au cours de fouilles ou fortuitement ; 
+
+3° Un bien culturel qui relève du domaine public mobilier ou qui est exposé, conservé ou déposé, même de façon temporaire,
+soit dans un musée de France, une bibliothèque, une médiathèque ou un service d'archives, soit dans un lieu dépendant d'une
+personne publique ou d'une personne privée assurant une mission d'intérêt général, soit dans un édifice affecté au culte. 
+
+Les peines sont portées à dix ans d'emprisonnement et 150 000 € d'amende lorsque l'infraction prévue au présent article est
+commise avec l'une des circonstances prévues à l'article 311-4. 
+
+Les peines d'amende mentionnées au présent article peuvent être élevées jusqu'à la moitié de la valeur du bien volé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 2-21 (V)
+	  - Code du patrimoine - art. L214-10 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 311-4
+
+
 ###### Article 311-5
 
 Le vol est puni de sept ans d'emprisonnement et de 100000 euros d'amende lorsqu'il est précédé, accompagné ou suivi de
@@ -23205,25 +23239,14 @@ lorsqu'il n'en est résulté qu'un dommage léger.
 
 ###### Article 322-2
 
-L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45000 euros d'amende
-et celle définie au deuxième alinéa du même article de 7500 euros d'amende et d'une peine de travail d'intérêt général,
-lorsque le bien détruit, dégradé ou détérioré est :
+L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45 000 euros d'amende
+et celle définie au deuxième alinéa du même article de 7 500 euros d'amende et d'une peine de travail d'intérêt général,
+lorsque le bien détruit, dégradé ou détérioré est : 
 
 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de service
-public ;
+public ; 
 
-2° Un registre, une minute ou un acte original de l'autorité publique ;
-
-3° Un immeuble ou un objet mobilier classé ou inscrit, une découverte archéologique faite au cours de fouilles ou
-fortuitement, un terrain contenant des vestiges archéologiques ou un objet conservé ou déposé dans un musée de France ou dans
-les musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service public ou reconnue d'utilité
-publique ;
-
-4° Un objet présenté lors d'une exposition à caractère historique, culturel ou scientifique, organisée par une personne
-publique, chargée d'un service public ou reconnue d'utilité publique.
-
-Dans le cas prévu par le 3° du présent article, l'infraction est également constituée si son auteur est le propriétaire du
-bien détruit, dégradé ou détérioré.
+2° Un registre, une minute ou un acte original de l'autorité publique. 
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
 appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
@@ -23256,49 +23279,45 @@ une religion déterminée, les peines encourues sont également portées à troi
 	  - Code pénal - art. 714-1 (M)
 	  - Code pénal - art. 724-1 (M)
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 8 () JORF 4 février 2003
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L114-2 (V)
 
+	**Cite**:
+
+	  - Code pénal - art. 322-1
+
 
 ###### Article 322-3
 
 L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende
-et celle définie au deuxième alinéa du même article de 15000 euros d'amende et d'une peine de travail d'intérêt général :
+et celle définie au deuxième alinéa du même article de 15000 euros d'amende et d'une peine de travail d'intérêt général : 
 
-1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
 2° Lorsqu'elle est facilitée par l'état d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à
-une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
 3° Lorsqu'elle est commise au préjudice d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel, d'un
 militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou de
 toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, en vue d'influencer son
-comportement dans l'exercice de ses fonctions ou de sa mission ;
+comportement dans l'exercice de ses fonctions ou de sa mission ; 
 
 4° Lorsqu'elle est commise au préjudice d'un temoin, d'une victime ou d'une partie civile, soit pour l'empêcher de dénoncer
-le fait, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+le fait, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
-marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade.
+marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade. 
 
-Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un lieu de culte, d'un
-établissement scolaire, éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également
-portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
+Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un établissement scolaire,
+éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans
+d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
 
 	**Cité par**:
 
@@ -23311,7 +23330,49 @@ portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2003-88 du 3 février 2003 - art. 9 () JORF 4 février 2003
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cite**:
+
+	  - Code pénal - art. 322-1
+
+
+###### Article 322-3-1
+
+La destruction, la dégradation ou la détérioration est punie de sept ans d'emprisonnement et de 100 000 € d'amende
+lorsqu'elle porte sur : 
+
+1° Un immeuble ou objet mobilier classé ou inscrit en application des dispositions du code du patrimoine ou un document
+d'archives privées classé en application des dispositions du même code ; 
+
+2° Une découverte archéologique faite au cours de fouilles ou fortuitement, un terrain sur lequel se déroulent des opérations
+archéologiques ou un édifice affecté au culte ; 
+
+3° Un bien culturel qui relève du domaine public mobilier ou qui est exposé, conservé ou déposé, même de façon temporaire,
+soit dans un musée de France, une bibliothèque, une médiathèque ou un service d'archives, soit dans un lieu dépendant d'une
+personne publique ou d'une personne privée assurant une mission d'intérêt général, soit dans un édifice affecté au culte. 
+
+Les peines sont portées à dix ans d'emprisonnement et 150 000 € d'amende lorsque l'infraction prévue au présent article est
+commise avec la circonstance prévue au 1° de l'article 322-3. 
+
+Les peines d'amende mentionnées au présent article peuvent être élevées jusqu'à la moitié de la valeur du bien détruit,
+dégradé ou détérioré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 2-21 (V)
+	  - Code du patrimoine. - art. L114-3 (V)
+	  - Code du patrimoine. - art. L114-4 (V)
+	  - Code du patrimoine. - art. L114-6 (M)
+	  - Code du patrimoine. - art. R114-1 (V)
+	  - Code pénal - art. 714-1 (V)
+	  - Code pénal - art. 724-1 (V)
 
 
 ###### Article 322-4
@@ -34687,26 +34748,23 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 ###### Article 714-1
 
-Le 3° de l'article 322-2 est rédigé comme suit :
+Les quatre premiers alinéas de l'article 322-3-1 sont remplacés par un alinéa ainsi rédigé : 
 
-" 3° Un immeuble ou un objet mobilier classé ou inscrit ou protégé en vertu de la réglementation applicable localement, une
-découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des vestiges archéologiques ou un
-objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service
-public ou reconnue d'utilité publique. "
+" La destruction, la dégradation ou la détérioration est punie d'une peine de sept ans d'emprisonnement et de 100 000 €
+d'amende lorsqu'elle porte sur un immeuble ou un objet mobilier classé, inscrit ou protégé en vertu de la réglementation
+applicable localement, une découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des
+vestiges archéologiques ou un objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne
+publique, chargée d'un service public ou reconnue d'utilité publique. "
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cite**:
+
+	  - Code pénal - art. 322-3-1
 
 
 #### Chapitre V : Adaptation du livre IV
@@ -36073,26 +36131,23 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 ###### Article 724-1
 
-Le 3° de l'article 322-2 est rédigé comme suit :
+Les quatre premiers alinéas de l'article 322-3-1 sont remplacés par un alinéa ainsi rédigé : 
 
-" 3° Un immeuble ou un objet mobilier classé ou inscrit ou protégé en vertu de la réglementation applicable localement, une
-découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des vestiges archéologiques ou un
-objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service
-public ou reconnue d'utilité publique. "
+" La destruction, la dégradation ou la détérioration est punie d'une peine de sept ans d'emprisonnement et de 100 000 €
+d'amende lorsqu'elle porte sur un immeuble ou un objet mobilier classé, inscrit ou protégé en vertu de la réglementation
+applicable localement, une découverte archéologique faite au cours de fouilles ou fortuitement, un terrain contenant des
+vestiges archéologiques ou un objet conservé ou déposé dans des musées, bibliothèques ou archives appartenant à une personne
+publique, chargée d'un service public ou reconnue d'utilité publique. "
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cite**:
+
+	  - Code pénal - art. 322-3-1
 
 
 #### Chapitre V : Adaptation du livre IV
