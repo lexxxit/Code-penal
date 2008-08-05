@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-07-17
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -1922,13 +1922,13 @@ par la juridiction et dans lesquels l'infraction a été commise ;
 juridiction, notamment les auteurs ou complices de l'infraction ;
 
 14° L'interdiction, pour une durée de trois ans au plus, d'entrer en relation avec certaines personnes spécialement désignées
-par la juridiction, notamment la victime de l'infraction.
+par la juridiction, notamment la victime de l'infraction ;
+
+15° L'interdiction, pour une durée de cinq ans au plus, d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
+le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
 
 	**Cité par**:
 
@@ -1961,7 +1961,7 @@ par la juridiction, notamment la victime de l'infraction.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 
 ###### Article 131-7
@@ -3426,6 +3426,11 @@ Lorsqu'elle est encourue à titre de peine complémentaire pour un crime ou un d
 publique ou d'exercer une activité professionnelle ou sociale est soit définitive, soit temporaire ; dans ce dernier cas,
 elle ne peut excéder une durée de cinq ans.
 
+L'interdiction d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un
+titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale
+ou industrielle ou une société commerciale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder
+une durée de dix ans.
+
 Cette interdiction n'est pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non
 plus applicable en matière de délit de presse.
 
@@ -3660,14 +3665,9 @@ plus applicable en matière de délit de presse.
 	  - Code électoral - art. L117 (V)
 	  - Code électoral - art. LO135-1 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 
 ###### Article 131-28
@@ -10392,25 +10392,33 @@ article.
 ###### Article 213-1
 
 Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ;
+2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ; 
 
-3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ;
+3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ; 
 
-4° La confiscation de tout ou partie de leurs biens.
+4° La confiscation de tout ou partie de leurs biens ; 
+
+5° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
 
 
 ###### Article 213-2
@@ -10612,27 +10620,35 @@ présent article.
 ###### Article 215-1
 
 Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues à l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues à l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ;
+2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ; 
 
-3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ;
+3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ; 
 
-4° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ;
+4° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ; 
 
-5° La confiscation du matériel qui a servi à commettre l'infraction.
+5° La confiscation du matériel qui a servi à commettre l'infraction ; 
+
+6° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
 
 
 ###### Article 215-2
@@ -11237,8 +11253,12 @@ Dans les cas visés au second alinéa de l'article 221-6, est en outre encourue 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
 suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les crimes prévus par les articles 221-1, 221-2, 221-3, 221-4 et 221-5, d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
+interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -11278,14 +11298,6 @@ motivée, prévoir que cette interdiction est définitive.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 2007-03-05 art. 53 2° JORF 7 mars 2007
-
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2008 - art. 7 (V)
@@ -11294,9 +11306,20 @@ motivée, prévoir que cette interdiction est définitive.
 	  - Code de la défense. - art. L2343-10 (V)
 	  - Code de la route. - art. L224-15 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L232-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 221-1 (V)
+	  - Code pénal - art. 221-6-1 (V)
 
 
 ###### Article 221-9
@@ -13965,8 +13988,13 @@ l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisatio
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
 suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer l'activité professionnelle ou sociale dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les infractions prévues par les articles 222-1 à 222-6, 222-7, 222-8, 222-10, les 1° et 2° de l'article 222-14,
+les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 222-35, 222-36, 222-37, 222-38 et 222-39,
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -14006,15 +14034,6 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 2007-03-05 art. 25 II 6°, art 53 3° JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 25
-
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2008 - art. 7 (V)
@@ -14022,9 +14041,23 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 	  - Décret n°2011-1661 du 28 novembre 2011 - art. 3 (V)
 	  - Code de la route. - art. L224-15 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L232-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 222-1 (V)
+	  - Code pénal - art. 222-14 (V)
+	  - Code pénal - art. 222-19-1 (V)
+	  - Code pénal - art. 222-23 (V)
+	  - Code pénal - art. 222-34 (V)
+	  - Code pénal - art. 222-7 (V)
 
 
 ###### Article 222-45
@@ -14898,31 +14931,40 @@ Les personnes physiques coupables de l'une des infractions prévues par les arti
 ###### Article 223-17
 
 Les personnes physiques coupables de l'une des infractions prévues aux articles 223-3, 223-4, 223-8, 223-10 à 223-14
-encourent également les peines suivantes :
+encourent également les peines suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-27 pour une durée de cinq ans au plus, d'exercer
-l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour le crime prévu par l'article 223-4, d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
+le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
+peuvent être prononcées cumulativement ; 
 
 2° La confiscation définie à l'article 131-21 ; dans les cas prévus aux articles 223-13 et 223-14, peuvent être saisis ou
 confisqués les documents écrits, visuels ou sonores ayant servi à réaliser l'infraction ; la juridiction peut en outre
-ordonner la destruction, en tout ou partie, de ces documents ;
+ordonner la destruction, en tout ou partie, de ces documents ; 
 
 3° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de plusieurs ou de l'ensemble des établissements de
-l'entreprise ayant servi à commettre l'infraction.
+l'entreprise ayant servi à commettre l'infraction. 
 
 Dans le cas prévu par l'article 223-8, peut être également prononcée l'exclusion des marchés publics à titre définitif ou
 pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 223-10 (V)
+	  - Code pénal - art. 223-13 (V)
+	  - Code pénal - art. 223-3 (V)
+	  - Code pénal - art. 223-4 (V)
+	  - Code pénal - art. 223-8 (V)
 
 
 ###### Article 223-18
@@ -15409,32 +15451,34 @@ criminelle.
 ###### Article 224-9
 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
 
-2° L'interdiction, selon les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les crimes prévus par le premier alinéa de l'article 224-1, l'article 224-2, le premier alinéa des articles 224-3
+et 224-4 et les articles 224-5, 224-5-2, 224-6 et 224-7, d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
+le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
+peuvent être prononcées cumulativement ; 
 
-3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
+3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ; 
 
 4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation d'accomplir un stage de responsabilité
 parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 224-1 (V)
 
 
 ###### Article 224-10
@@ -16968,31 +17012,34 @@ laquelle l'infraction a été commise.
 ###### Article 225-19
 
 Les personnes physiques coupables des infractions prévues par les sections 1 et 3 du présent chapitre encourent également les
-peines complémentaires suivantes :
+peines complémentaires suivantes : 
 
-1° L'interdiction des droits prévus aux 2° et 3° de l'article 131-26 pour une durée de cinq ans au plus ;
+1° L'interdiction des droits prévus aux 2° et 3° de l'article 131-26 pour une durée de cinq ans au plus ; 
 
-2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 ;
+2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 ; 
 
 3° La fermeture, pour une durée de cinq ans au plus ou à titre définitif, de l'un, de plusieurs ou de l'ensemble des
-établissements de l'entreprise appartenant à la personne condamnée ;
+établissements de l'entreprise appartenant à la personne condamnée ; 
 
-4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
+4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
 
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis,
-ayant servi à commettre l'infraction prévue à l'article 225-14 ;
+ayant servi à commettre l'infraction prévue à l'article 225-14 ; 
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ; 
+
+7° Pour les infractions prévues aux articles 225-13 à 225-15, l'interdiction, suivant les modalités prévues par l'article
+131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
+l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle,
+de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre
+compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions
+d'exercice peuvent être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 43 () JORF 25 juillet 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
@@ -17002,41 +17049,57 @@ ayant servi à commettre l'infraction prévue à l'article 225-14 ;
 	  - Code de la construction et de l'habitation. - art. L651-10 (V)
 	  - Code pénal - art. 434-41 (V)
 
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 131-5-1 (V)
+	  - Code pénal - art. 225-13 (V)
+	  - Code pénal - art. 225-14 (V)
+
 
 ###### Article 225-20
 
 Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis et 2 ter du présent chapitre
-encourent également les peines complémentaires suivantes :
+encourent également les peines complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-27 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les infractions prévues par les articles 225-4-3, 225-4-4, 225-5, 225-6, 225-7, 225-7-1, 225-8, 225-9, 225-10,
+225-10-1, 225-12-1 et 225-12-2, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
+de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une
+entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement ; 
 
-3° L'interdiction de séjour ;
+3° L'interdiction de séjour ; 
 
 4° L'interdiction d'exploiter, directement ou indirectement, les établissements ouverts au public ou utilisés par le public
 énumérés dans la décision de condamnation, d'y être employé à quelque titre que ce soit et d'y prendre ou d'y conserver une
-quelconque participation financière ;
+quelconque participation financière ; 
 
-5° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
+5° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ; 
 
-6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ; 
 
 7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs ;
+bénévole impliquant un contact habituel avec des mineurs ; 
 
 8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 225-4-3 (V)
 
 
 ###### Article 225-21
@@ -20464,44 +20527,50 @@ euros d'amende si elle constitue un crime.
 ###### Article 227-29
 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités définies à l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités définies à l'article 131-26 ; 
 
 2° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
 3° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
 
-4° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+4° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ; 
 
-5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
 6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au plus, d'exercer une activité professionnelle ou
-bénévole impliquant un contact habituel avec des mineurs ;
+bénévole impliquant un contact habituel avec des mineurs ; 
 
-7° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
+7° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1 ; 
+
+8° Pour les crimes prévus par les articles 227-2 et 227-16, l'interdiction, suivant les modalités prévues par l'article
+131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
+l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle,
+de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre
+compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions
+d'exercice peuvent être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
 	  - Code du travail - art. L261-3 (AbD)
 	  - Code du travail - art. L4741-8 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 227-16 (V)
+	  - Code pénal - art. 227-2 (V)
 
 
 ###### Article 227-30
@@ -21094,34 +21163,40 @@ La tentative des délits prévus au présent chapitre est punie des mêmes peine
 ###### Article 311-14
 
 Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 311-6 à 311-10 et pour une durée de cinq
-ans au plus dans les cas prévus aux articles 311-3 à 311-5 ;
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale, cette interdiction étant définitive ou provisoire dans les cas prévus aux articles
+311-6 à 311-10 et pour une durée de cinq ans au plus dans les cas prévus aux articles 311-3 à 311-5. Ces interdictions
+d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
 5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 311-6 à
-311-10 ;
+311-10 ; 
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 311-3 (V)
+	  - Code pénal - art. 311-6 (V)
 
 
 ###### Article 311-15
@@ -21620,36 +21695,43 @@ remise de fonds, de valeurs ou d'un bien est puni de six mois d'emprisonnement e
 ###### Article 312-13
 
 Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'artice 131-27, d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, cette
-interdiction étant définitive ou provisoire dans les cas prévus aux articles 312-3 à 312-7 et pour une durée de cinq ans au
-plus dans les cas prévus aux articles 312-1, 312-2 et 312-10 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 312-3 à 312-7 et pour une durée de cinq
+ans au plus dans les cas prévus aux articles 312-1, 312-2 et 312-10, soit d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
+interdictions d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
-5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
+5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ; 
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ;
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ; 
 
 7° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
 fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 53 4° JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-5-1 (V)
+	  - Code pénal - art. 312-1 (V)
+	  - Code pénal - art. 312-3 (V)
 
 
 ###### Article 312-14
@@ -22002,24 +22084,26 @@ l'autorisation du propriétaire ou de celle du titulaire du droit d'usage de ce 
 ###### Article 313-7
 
 Les personnes physiques coupables de l'un des délits prévus aux articles 313-1, 313-2, 313-6 et 313-6-1 encourent également
-les peines complémentaires suivantes :
+les peines complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-pour une durée de cinq ans au plus ;
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de
-l'entreprise ayant servi à commettre les faits incriminés ;
+l'entreprise ayant servi à commettre les faits incriminés ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
-5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ;
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ; 
 
 6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
 7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
@@ -22050,13 +22134,16 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 	  - Loi n°1920-08-07 du 7 août 1920 - art. 3 (Ab)
 	  - Loi n°1932-04-21 du 21 avril 1932 - art. 14 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 57 2° JORF 19 mars 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 313-1 (V)
 
 
 ###### Article 313-8
@@ -22497,24 +22584,26 @@ paiement d'aliments.
 ###### Article 314-10
 
 Les personnes physiques coupables de l'un des délits prévus aux articles 314-1, 314-2 et 314-3 encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-pour une durée de cinq ans au plus ;
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de
-l'entreprise ayant servi à commettre les faits incriminés ;
+l'entreprise ayant servi à commettre les faits incriminés ; 
 
-4° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
+4° L'exclusion des marchés publics pour une durée de cinq ans au plus ; 
 
 5° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
 6° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
 7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
@@ -22550,18 +22639,15 @@ l'exception des objets susceptibles de restitution ;
 	  - Code rural ancien - art. 1034 (Ab)
 	  - Loi n°1932-04-21 du 21 avril 1932 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-685 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°92-685 1992-07-22 JORF 23 juillet 1992 rectificatif JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 314-1 (V)
 
 
 ###### Article 314-11
@@ -23021,34 +23107,37 @@ Est puni des mêmes peines le fait, par cette personne, de refuser de présenter
 ###### Article 321-9
 
 Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-cette interdiction étant définitive ou temporaire dans les cas prévus aux articles 321-2 et 321-4 et pour une durée de cinq
-ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8 ;
+cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 321-2 et 321-4 et pour une durée de cinq
+ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8, soit d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
+interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La fermeture des établissements ou de l'un ou de plusieurs des établissements de l'entreprise ayant servi à commettre les
 faits incriminés, cette fermeture étant définitive ou temporaire dans les cas prévus aux articles 321-2 et 321-4 et pour une
-durée de cinq ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8 ;
+durée de cinq ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8 ; 
 
 4° L'exclusion des marchés publics à titre définitif ou temporaire dans les cas prévus aux articles 321-2 et 321-4 et pour
-une durée de cinq ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8 ;
+une durée de cinq ans au plus dans les cas prévus aux articles 321-1, 321-6, 321-7 et 321-8 ; 
 
 5° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
 6° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
-7° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+7° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
 8° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus aux articles 321-1 à
-321-4 ;
+321-4 ; 
 
-9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ; 
 
 10° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.
 
@@ -23058,18 +23147,18 @@ l'exception des objets susceptibles de restitution ;
 
 	  - Loi n°61-1262 du 24 novembre 1961 - art. 3 (VT)
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 321-1 (V)
+	  - Code pénal - art. 321-2 (V)
+	  - Code pénal - art. 321-6 (V)
 
 
 ###### Article 321-10
@@ -23833,34 +23922,34 @@ nature à provoquer l'intervention inutile des secours.
 ###### Article 322-15
 
 Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 322-6 à 322-10 et pour une durée de cinq
-ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12, 322-13 et 322-14 ;
+ans au plus dans les cas prévus aux articles 322-1, 322-2, 322-3, 322-3-1, 322-5, 322-12, 322-13 et 322-14, soit, pour les
+crimes prévus au second alinéa de l'article 322-6 ainsi qu'aux articles 322-7, 322-8, 322-9 et 322-10, d'exercer une
+profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
+directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle
+ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à
-322-10 ;
+322-10 ; 
 
-5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ;
+5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ; 
 
 6° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités
 fixées à l'article 131-35-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 53 5° JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
@@ -23868,6 +23957,14 @@ fixées à l'article 131-35-1.
 	  - Code des transports - art. L6372-4 (V)
 	  - Code forestier (nouveau) - art. L163-13 (V)
 	  - Code forestier (nouveau) - art. L163-4 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35-1 (V)
+	  - Code pénal - art. 131-5-1 (V)
+	  - Code pénal - art. 322-1 (V)
+	  - Code pénal - art. 322-6 (V)
 
 
 ###### Article 322-15-1
@@ -24404,59 +24501,60 @@ La tentative des délits prévus à la présente section est punie des mêmes pe
 ###### Article 324-7
 
 Les personnes physiques coupables des infractions définies aux articles 324-1 et 324-2 encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-cette interdiction étant définitive ou temporaire dans le cas prévu à l'article 324-2 et d'une durée de cinq ans au plus dans
-le cas prévu à l'article 324-1 ;
+cette interdiction étant définitive ou provisoire dans le cas prévu à l'article 324-2 et pour une durée de cinq ans au plus
+dans le cas prévu à l'article 324-1, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de
+gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui,
+une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
 3° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés et d'utiliser les cartes de paiement ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés et d'utiliser les cartes de paiement ; 
 
 4° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
 5° L'annulation du permis de conduire avec l'interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
-plus ;
+plus ; 
 
-6° La confiscation d'un ou plusieurs véhicules appartenant au condamné ;
+6° La confiscation d'un ou plusieurs véhicules appartenant au condamné ; 
 
-7° La confiscation d'une ou plusieurs armes dont le condamné est le propriétaire ou dont il a la libre disposition ;
+7° La confiscation d'une ou plusieurs armes dont le condamné est le propriétaire ou dont il a la libre disposition ; 
 
 8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
-9° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+9° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
 
-10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
+10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ; 
 
-11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ; 
 
 12° La confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou
 indivis.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 47 () JORF 16 mai 2001
-
 	**Cité par**:
 
 	  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-30 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 324-1 (V)
 
 
 ###### Article 324-8
@@ -25694,33 +25792,48 @@ Lorsque la peine encourue est la détention criminelle à perpétuité, celle-ci
 ###### Article 414-5
 
 Les personnes physiques coupables des crimes et des délits prévus au présent titre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27 d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les crimes prévus par les articles 411-2, 411-3, 411-4, 411-6, 411-9, 412-1, le dernier alinéa de l'article 412-2,
+les articles 412-4, 412-5, 412-6, 412-7, le deuxième alinéa de l'article 412-8 et le premier alinéa de l'article 414-1,
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
 	  - Code de justice militaire - art. 476-10 (Ab)
 	  - Code de justice militaire. - art. L333-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 411-2 (V)
+	  - Code pénal - art. 411-3 (V)
+	  - Code pénal - art. 411-6 (V)
+	  - Code pénal - art. 411-9 (V)
+	  - Code pénal - art. 412-1 (V)
+	  - Code pénal - art. 412-2 (V)
+	  - Code pénal - art. 412-4 (V)
+	  - Code pénal - art. 412-8 (V)
+	  - Code pénal - art. 414-1 (V)
 
 
 ###### Article 414-6
@@ -26299,33 +26412,37 @@ la peine encourue est la réclusion criminelle à perpétuité, celle-ci est ram
 ###### Article 422-3
 
 Les personnes physiques coupables de l'une des infractions prévues par le présent titre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. Toutefois,
-le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ;
+le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
-l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
-Toutefois, le maximum de la durée de l'interdiction temporaire est porté à dix ans ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+le maximum de la durée de l'interdiction temporaire étant porté à dix ans, soit, pour les crimes prévus par les 1° à 4° de
+l'article 421-3, l'article 421-4, le deuxième alinéa de l'article 421-5 et l'article 421-6, d'exercer une profession
+commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
+indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société
+commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. Toutefois, le maximum de la durée de
 l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 6 () JORF 23 juillet 1996
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 421-3 (V)
+	  - Code pénal - art. 421-4 (V)
+	  - Code pénal - art. 421-5 (V)
+	  - Code pénal - art. 421-6 (V)
 
 
 ###### Article 422-4
@@ -27704,12 +27821,16 @@ public ou d'un dépositaire public, celle-ci est punie d'un an d'emprisonnement 
 
 ###### Article 432-17
 
-Dans les cas prévus par le présent chapitre, peuvent être prononcées, à titre complémentaire, les peines suivantes :
+Dans les cas prévus par le présent chapitre, peuvent être prononcées, à titre complémentaire, les peines suivantes : 
 
-1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
-l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit, pour les infractions prévues par le second alinéa de l'article 432-4 et les articles 432-11,432-15 et 432-16, d'exercer
+une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
+directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle
+ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, des sommes ou objets irrégulièrement reçus par
 l'auteur de l'infraction, à l'exception des objets susceptibles de restitution ;
@@ -27719,13 +27840,9 @@ conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
@@ -27733,6 +27850,17 @@ conditions prévues par l'article 131-35.
 	  - Code forestier - art. L134-2 (VT)
 	  - Code forestier de Mayotte - art. L134-2 (VT)
 	  - Code rural - art. L724-10 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 432-11 (V)
+	  - Code pénal - art. 432-15 (V)
+	  - Code pénal - art. 432-4 (V)
+	  - Code pénal - art. 432-7 (V)
 
 
 #### Chapitre III : Des atteintes à l'administration publique commises par les particuliers
@@ -28643,30 +28771,38 @@ ou décision dont elle a connaissance, sera punie de six mois d'emprisonnement e
 ###### Article 433-22
 
 Les personnes physiques coupables de l'une des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+le maximum de la durée de l'interdiction temporaire étant porté à dix ans, soit, pour les infractions prévues par les
+articles 433-1, 433-2 et 433-4, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
+de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une
+entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement ; 
 
 3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Cité par**:
 
 	  - Code de la route. - art. L326-8 (VD)
 	  - Code rural - art. L717-6 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 433-1 (V)
+	  - Code pénal - art. 433-2 (V)
 
 
 ###### Article 433-23
@@ -30322,27 +30458,46 @@ précédent, la peine est portée à cinq ans d'emprisonnement et 75 000 euros d
 
 Les personnes physiques coupables de l'un des délits prévus aux articles 434-4 à 434-9-1, 434-11, 434-13 à 434-15, 434-17 à
 434-23, 434-27, 434-29, 434-30, 434-32, 434-33, 434-35, 434-36 et 434-40 à 434-43 encourent également l'interdiction des
-droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26.
+droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. 
 
 Dans les cas prévus aux articles 434-9, 434-9-1, 434-16 et 434-25, peuvent être également ordonnés l'affichage ou la
-diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+diffusion de la décision prononcée dans les conditions prévues par l'article 131-35. 
 
-Dans les cas prévus aux articles 434-9, 434-9-1 et 434-33 et au second alinéa de l'article 434-35, peut être également
-prononcée l'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Les personnes physiques coupables de l'une des infractions prévues au troisième alinéa de l'article 434-9, à l'article 434-33
+et au second alinéa de l'article 434-35 encourent également la peine complémentaire d'interdiction, suivant les modalités
+prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans
+l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit, pour les seules infractions prévues au
+dernier alinéa des articles 434-9 et 434-33, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer,
+de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte
+d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être
+prononcées cumulativement. 
 
 Dans tous les cas prévus au présent chapitre, est en outre encourue la confiscation de la chose qui a servi ou était destinée
 à commettre l'infraction, à l'exception des objets susceptibles de restitution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 434-11 (V)
+	  - Code pénal - art. 434-13 (V)
+	  - Code pénal - art. 434-16 (V)
+	  - Code pénal - art. 434-17 (V)
+	  - Code pénal - art. 434-25 (V)
+	  - Code pénal - art. 434-27 (V)
+	  - Code pénal - art. 434-29 (V)
+	  - Code pénal - art. 434-33 (V)
+	  - Code pénal - art. 434-35 (V)
+	  - Code pénal - art. 434-4 (V)
+	  - Code pénal - art. 434-40 (V)
+	  - Code pénal - art. 434-9 (V)
 
 
 ###### Article 434-45
@@ -31475,33 +31630,35 @@ La tentative des délits prévus aux articles 441-1, 441-2 et 441-4 à 441-8 est
 
 ###### Article 441-10
 
-Les personnes physiques coupables des crimes et délits prévus au présent chapitre encourent également les peines suivantes :
+Les personnes physiques coupables des crimes et délits prévus au présent chapitre encourent également les peines suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique ou une activité de nature professionnelle ou sociale selon les modalités
-prévues par l'article 131-27 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'exclusion des marchés publics ;
+3° L'exclusion des marchés publics ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
 l'exception des objets susceptibles de restitution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Cité par**:
 
 	  - Loi n°2005-781 du 13 juillet 2005 - art. 17 (VT)
 	  - Code de l'énergie - art. L222-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
 
 
 ###### Article 441-11
@@ -31839,25 +31996,29 @@ incriminés et d'identifier, le cas échéant, les autres coupables.
 ###### Article 442-11
 
 Les personnes physiques coupables des crimes et délits prévus aux articles 442-1 à 442-6 encourent également les peines
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique ou une activité de nature professionnelle ou sociale selon les modalités
-prévues par l'article 131-27.
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 442-1 (V)
 
 
 ###### Article 442-12
@@ -32144,29 +32305,31 @@ La tentative des délits prévus au présent chapitre est punie des mêmes peine
 
 ###### Article 443-6
 
-Les personnes physiques coupables des délits prévus au présent chapitre encourent également les peines suivantes :
+Les personnes physiques coupables des délits prévus au présent chapitre encourent également les peines suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique ou une activité de nature professionnelle ou sociale selon les modalités
-prévues par l'article 131-27 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution.
+l'exception des objets susceptibles de restitution. 
 
 Dans tous les cas, la confiscation du corps du délit est obligatoire. Elle entraîne remise à l'administration de la chose
 confisquée aux fins de destruction éventuelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-26 (V)
 
 	**Cité par**:
 
@@ -32414,31 +32577,33 @@ La tentative des délits prévus au présent chapitre est punie des mêmes peine
 
 ###### Article 444-7
 
-Les personnes physiques coupables des crimes et délits prévus au présent chapitre encourent également les peines suivantes :
+Les personnes physiques coupables des crimes et délits prévus au présent chapitre encourent également les peines suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction d'exercer une fonction publique ou une activité de nature professionnelle ou sociale selon les modalités
-prévues par l'article 131-27 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
-3° L'exclusion des marchés publics ;
+3° L'exclusion des marchés publics ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution.
+l'exception des objets susceptibles de restitution. 
 
 Dans tous les cas, la confiscation du corps du délit est obligatoire. Elle entraîne remise à l'administration de la chose
 confisquée aux fins de destruction éventuelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-26 (V)
 
 	**Cité par**:
 
@@ -32584,27 +32749,33 @@ ses obligations légales, contractuelles ou professionnelles.
 ###### Article 445-3
 
 Les personnes physiques coupables des infractions définies aux articles 445-1 et 445-2 encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ;
+1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
 
-2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
-l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;
+l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ; 
 
 4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2005-750 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 445-1 (V)
 
 
 ###### Article 445-4
@@ -32742,12 +32913,15 @@ participants.
 ###### Article 450-3
 
 Les personnes physiques coupables de l'infraction prévue par l'article 450-1 encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
-l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
+soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
 
@@ -32756,14 +32930,15 @@ et les délits que le groupement ou l'entente avait pour objet de préparer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 450-1 (V)
 
 
 ###### Article 450-4
