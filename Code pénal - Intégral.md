@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-12-20
+Version Consolidée au 2008-12-21
 
 # Partie législative
 
@@ -16893,25 +16893,16 @@ Les peines encourues par les personnes morales sont :
 
 ###### Article 225-17
 
-Toute atteinte à l'intégrité du cadavre, par quelque moyen que ce soit, est punie d'un an d'emprisonnement et de 15000 euros
-d'amende.
+Toute atteinte à l'intégrité du cadavre, par quelque moyen que ce soit, est punie d'un an d'emprisonnement et de 15 000 euros
+d'amende. 
 
-La violation ou la profanation, par quelque moyen que ce soit, de tombeaux, de sépultures ou de monuments édifiés à la
-mémoire des morts est punie d'un an d'emprisonnement et de 15000 euros d'amende.
+La violation ou la profanation, par quelque moyen que ce soit, de tombeaux, de sépultures, d'urnes cinéraires ou de monuments
+édifiés à la mémoire des morts est punie d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
-La peine est portée à deux ans d'emprisonnement et à 30000 euros d'amende lorsque les infractions définies à l'alinéa
+La peine est portée à deux ans d'emprisonnement et à 30 000 euros d'amende lorsque les infractions définies à l'alinéa
 précédent ont été accompagnées d'atteinte à l'intégrité du cadavre.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -16928,7 +16919,7 @@ précédent ont été accompagnées d'atteinte à l'intégrité du cadavre.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2008-1350 du 19 décembre 2008 - art. 13
 
 
 ###### Article 225-18
