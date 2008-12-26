@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-12-21
+Version Consolidée au 2008-12-27
 
 # Partie législative
 
@@ -41329,37 +41329,73 @@ La récidive des contraventions prévues au présent article est réprimée conf
 
 ###### Article R645-12
 
-Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de
-dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue
-pour les contraventions de la 5e classe.
+Le fait de pénétrer ou de se maintenir dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en
+vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de
+l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ;
+1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ; 
 
-2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+2° Le travail d'intérêt général pour une durée de vingt à cent vingt heures. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°96-378 1996-05-06
 
 	**Cité par**:
 
 	  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (M)
 	  - Code de l'éducation - art. R472-1 (V)
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code de l'éducation - art. R472-1 (V)
+	  - Décret n°2008-1412 du 19 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 132-11 (M)
+	  - Code pénal - art. 132-11
+
+
+##### Section 9 : De l'intrusion dans les lieux historiques ou culturels
+
+###### Article R645-13
+
+Le fait de pénétrer ou de se maintenir dans un immeuble classé ou inscrit en application des dispositions des articles L.
+621-1 et L. 621-25 du code du patrimoine, un musée de France, une bibliothèque ou une médiathèque ouvertes au public, un
+service d'archives, ou leurs dépendances, appartenant à une personne publique ou à une personne privée assurant une mission
+d'intérêt général, dont l'accès est interdit ou réglementé de façon apparente, sans y être habilité en vertu de dispositions
+législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes ou le propriétaire est puni de l'amende
+prévue pour les contraventions de la 5e classe. 
+
+Est puni des mêmes peines le fait de pénétrer ou de se maintenir dans les mêmes conditions sur un terrain sur lequel se
+déroulent des opérations archéologiques. 
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La confiscation de la chose qui a servi à commettre l'infraction conformément à l'article 131-21 ; 
+
+2° Un travail d'intérêt général pour une durée de vingt à cent vingt heures. 
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1412 du 19 décembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Code du patrimoine. - art. R114-5 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 132-11
+	  - Code du patrimoine - art. L621-1
 
 
 ### Titre V : Des autres contraventions
