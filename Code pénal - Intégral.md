@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2009-01-10
 
 # Partie législative
 
@@ -38220,14 +38220,15 @@ appareils ou pour les vendre ou les céder à une personne titulaire de l'une de
 
 Toute personne soumise à l'obligation de tenir le registre d'objets mobiliers prévu au premier alinéa de l'article 321-7 doit
 effectuer une déclaration préalable à la préfecture ou la sous-préfecture dont dépend son établissement principal. A Paris,
-la déclaration est faite à la préfecture de police.
+la déclaration est faite à la préfecture de police. 
 
 En l'absence d'établissement fixe ouvert au public, le lieu du domicile ou, à défaut, la commune de rattachement mentionnée à
-l'article 7 de la loi n° 69-3 du 3 janvier 1969 est considéré comme le lieu d'établissement.
+l'article 7 de la loi n° 69-3 du 3 janvier 1969 est considéré comme le lieu d'établissement. 
 
 La déclaration comporte les indications suivantes : nom et prénoms du déclarant ; date et lieu de naissance ; nationalité ;
 lieu d'exercice habituel de la profession ; statut de l'entreprise ainsi qu'un extrait d'immatriculation au registre du
-commerce et des sociétés.
+commerce et des sociétés ou le récépissé de déclaration d'activité remis par le centre de formalités des entreprises aux
+personnes physiques bénéficiant de la dispense d'immatriculation prévue par l'article L. 123-1-1 du code de commerce. 
 
 Il est remis un récépissé de déclaration qui doit être présenté à toute réquisition des services de police et de gendarmerie,
 des services fiscaux, des douanes ainsi que des services de la concurrence, de la consommation et de la répression des
@@ -38237,16 +38238,13 @@ fraudes.
 
 	**Cite**:
 
-	  - Loi n°69-3 du 3 janvier 1969 - art. 7 (V)
-	  - Code pénal - art. 321-7 (M)
+	  - Loi n°69-3 du 3 janvier 1969 - art. 7
+	  - Code de commerce - art. L123-1-1
+	  - Code pénal - art. 321-7
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2009-16 du 7 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -38473,24 +38471,23 @@ du commerce.
 
 ###### Article R321-9
 
-Le registre tenu à l'occasion de toute manifestation mentionnée au deuxième alinéa de l'article 321-7 doit comprendre :
+Le registre tenu à l'occasion de toute manifestation mentionnée au deuxième alinéa de l'article 321-7 doit comprendre : 
 
 1° Les nom, prénoms, qualité et domicile de chaque personne qui offre à la vente ou à l'échange des objets mobiliers usagés
 ou acquis de personnes autres que celles qui les fabriquent ou en font commerce ainsi que la nature, le numéro et la date de
-délivrance de la pièce d'identité produite par celle-ci avec l'indication de l'autorité qui l'a établie ;
+délivrance de la pièce d'identité produite par celle-ci avec l'indication de l'autorité qui l'a établie ; 
 
-2° Lorsqu'il s'agit d'une personne morale, la dénomination et le siège de celle-ci ainsi que les nom, prénoms, qualité et
+2° Pour les participants non professionnels, la mention de la remise d'une attestation sur l'honneur de non-participation à
+deux autres manifestations de même nature au cours de l'année civile ; 
+
+3° Lorsqu'il s'agit d'une personne morale, la dénomination et le siège de celle-ci ainsi que les nom, prénoms, qualité et
 domicile du représentant de la personne morale à la manifestation, avec les références de la pièce d'identité produite.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2009-16 du 7 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -38500,7 +38497,7 @@ domicile du représentant de la personne morale à la manifestation, avec les r�
 
 	**Cite**:
 
-	  - Code pénal - art. 321-7 (M)
+	  - Code pénal - art. 321-7
 
 
 ###### Article R321-10
