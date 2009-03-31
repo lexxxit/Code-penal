@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-03-07
+Version Consolidée au 2009-04-01
 
 # Partie législative
 
@@ -5363,36 +5363,37 @@ encourue par les personnes morales est de 1 000 000 euros.
 ###### Article 131-39
 
 Lorsque la loi le prévoit à l'encontre d'une personne morale, un crime ou un délit peut être sanctionné d'une ou de plusieurs
-des peines suivantes :
+des peines suivantes : 
 
 1° La dissolution, lorsque la personne morale a été créée ou, lorsqu'il s'agit d'un crime ou d'un délit puni en ce qui
 concerne les personnes physiques d'une peine d'emprisonnement supérieure ou égale à trois ans, détournée de son objet pour
-commettre les faits incriminés ;
+commettre les faits incriminés ; 
 
 2° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, d'exercer directement ou indirectement une ou
-plusieurs activités professionnelles ou sociales ;
+plusieurs activités professionnelles ou sociales ; 
 
-3° Le placement, pour une durée de cinq ans au plus, sous surveillance judiciaire ;
+3° Le placement, pour une durée de cinq ans au plus, sous surveillance judiciaire ; 
 
 4° La fermeture définitive ou pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs des
-établissements de l'entreprise ayant servi à commettre les faits incriminés ;
+établissements de l'entreprise ayant servi à commettre les faits incriminés ; 
 
-5° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
+5° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
 
-6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de faire appel public à l'épargne ;
+6° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de      procéder à une offre au public de titres
+financiers ou de faire admettre ses titres financiers aux négociations sur un marché réglementé ; 
 
 7° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser des cartes de paiement ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d'utiliser des cartes de paiement ; 
 
-8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
 9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
-communication au public par voie électronique ;
+communication au public par voie électronique ; 
 
 10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été
-commise ;
+commise ; 
 
-11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal.
+11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal. 
 
 Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes morales de droit public dont la
 responsabilité pénale est susceptible d'être engagée. Elles ne sont pas non plus applicables aux partis ou groupements
@@ -5786,17 +5787,9 @@ personnel.
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 24 (Ab)
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 25 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 25
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 12
 
 
 ###### Article 131-39-1
@@ -6255,20 +6248,16 @@ de placement.
 
 ###### Article 131-47
 
-L'interdiction de faire appel public à l'épargne emporte prohibition, pour le placement de titres quels qu'ils soient,
-d'avoir recours tant à des établissements de crédit, établissements financiers ou sociétés de bourse qu'à des procédés
-quelconques de publicité.
+L'interdiction de      procéder à une offre au public de titres financiers ou de faire admettre ses titres financiers aux
+négociations sur un marché réglementé emporte prohibition, pour le placement de titres quels qu'ils soient, d'avoir recours
+tant à des établissements de crédit, établissements financiers ou sociétés de bourse qu'à des procédés quelconques de
+publicité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 12
 
 
 ###### Article 131-48
