@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-06-21
 
 # Partie législative
 
@@ -40919,6 +40919,31 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code pénal - art. 131-21
 	  - Code pénal - art. 132-11
 	  - Code du patrimoine - art. L621-1
+
+
+##### Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique
+
+###### Article R645-14
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour une personne, au sein ou aux abords
+immédiats d'une manifestation sur la voie publique, de dissimuler volontairement son visage afin de ne pas être identifiée
+dans des circonstances faisant craindre des atteintes à l'ordre public. 
+
+La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15. 
+
+Les dispositions du présent article ne sont pas applicables aux manifestations conformes aux usages locaux ou lorsque la
+dissimulation du visage est justifiée par un motif légitime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-724 du 19 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ### Titre V : Des autres contraventions
