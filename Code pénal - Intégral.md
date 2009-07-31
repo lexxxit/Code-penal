@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-06-21
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -23057,8 +23057,8 @@ une religion déterminée, les peines encourues sont également portées à troi
 
 ###### Article 322-3
 
-L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende
-et celle définie au deuxième alinéa du même article de 15000 euros d'amende et d'une peine de travail d'intérêt général : 
+L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende
+et celle définie au deuxième alinéa du même article de 15 000 euros d'amende et d'une peine de travail d'intérêt général : 
 
 1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
@@ -23074,7 +23074,9 @@ comportement dans l'exercice de ses fonctions ou de sa mission ;
 le fait, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
-marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade. 
+marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade ; 
+
+6° Lorsqu'elle est commise à l'encontre d'un lieu classifié au titre du secret de la défense nationale. 
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un établissement scolaire,
 éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans
@@ -23093,7 +23095,7 @@ d'emprisonnement et à 75 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
 
 	**Cite**:
 
@@ -25145,17 +25147,17 @@ La tentative des délits prévus aux articles 413-2 et 413-5 à 413-7 est punie 
 
 ###### Article 413-9
 
-Présentent un caractère de secret de la défense nationale au sens de la présente section les renseignements, procédés,
-objets, documents, données informatisées ou fichiers intéressant la défense nationale qui ont fait l'objet de mesures de
-protection destinées à restreindre leur diffusion.
+Présentent un caractère de secret de la défense nationale au sens de la présente section les procédés, objets, documents,
+informations, réseaux informatiques, données informatisées ou fichiers intéressant la défense nationale qui ont fait l'objet
+de mesures de classification destinées à restreindre leur diffusion ou leur accès. 
 
-Peuvent faire l'objet de telles mesures les renseignements, procédés, objets, documents, données informatisées ou fichiers
-dont la divulgation est de nature à nuire à la défense nationale ou pourrait conduire à la découverte d'un secret de la
-défense nationale.
+Peuvent faire l'objet de telles mesures les procédés, objets, documents, informations, réseaux informatiques, données
+informatisées ou fichiers dont la divulgation ou auxquels l'accès est de nature à nuire à la défense nationale ou pourrait
+conduire à la découverte d'un secret de la défense nationale. 
 
-Les niveaux de classification des renseignements, procédés, objets, documents, données informatisées ou fichiers présentant
-un caractère de secret de la défense nationale et les autorités chargées de définir les modalités selon lesquelles est
-organisée leur protection sont déterminés par décret en Conseil d'Etat.
+Les niveaux de classification des procédés, objets, documents, informations, réseaux informatiques, données informatisées ou
+fichiers présentant un caractère de secret de la défense nationale et les autorités chargées de définir les modalités selon
+lesquelles est organisée leur protection sont déterminés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -25200,29 +25202,56 @@ organisée leur protection sont déterminés par décret en Conseil d'Etat.
 	  - Code pénal - art. 414-9 (V)
 	  - Code pénal - art. R413-6 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 9 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+
+###### Article 413-9-1
+
+Seuls peuvent faire l'objet d'une classification au titre du secret de la défense nationale les lieux auxquels il ne peut
+être accédé sans que, à raison des installations ou des activités qu'ils abritent, cet accès donne par lui-même connaissance
+d'un secret de la défense nationale.
+
+La décision de classification est prise pour une durée de cinq ans par arrêté du Premier ministre, publié au Journal
+officiel, après avis de la Commission consultative du secret de la défense nationale. 
+
+Les conditions d'application du présent article, notamment les conditions de classification des lieux, sont déterminées par
+décret en Conseil d'Etat.
+
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 413-9-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
+les conditions fixées au considérant 38.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre IV : 70 à 84) (Ab)
+	  - Code de procédure pénale - art. 56-4 (VT)
+
+	**Abrogé par**:
+
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 
 ###### Article 413-10
 
-Est puni de sept ans d'emprisonnement et de 100000 euros d'amende le fait, par toute personne dépositaire, soit par état ou
-profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, d'un renseignement, procédé, objet,
-document, donnée informatisée ou fichier qui a un caractère de secret de la défense nationale, soit de le détruire,
-détourner, soustraire ou de le reproduire, soit de le porter à la connaissance du public ou d'une personne non qualifiée.
+Est puni de sept ans d'emprisonnement et de 100 000 euros d'amende le fait, par toute personne dépositaire, soit par état ou
+profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, d'un procédé, objet, document,
+information, réseau informatique, donnée informatisée ou fichier qui a un caractère de secret de la défense nationale, soit
+de le détruire, détourner, soustraire ou de le reproduire, soit d'en donner l'accès à une personne non qualifiée ou de le
+porter à la connaissance du public ou d'une personne non qualifiée. 
 
-Est puni des mêmes peines le fait, par la personne dépositaire, d'avoir laissé détruire, détourner, soustraire, reproduire ou
-divulguer le renseignement, procédé, objet, document, donnée informatisée ou fichier visé à l'alinéa précédent.
+Est puni des mêmes peines le fait, par la personne dépositaire, d'avoir laissé accéder à, détruire, détourner, soustraire,
+reproduire ou divulguer le procédé, objet, document, information, réseau informatique, donnée informatisée ou fichier visé à
+l'alinéa précédent. 
 
 Lorsque la personne dépositaire a agi par imprudence ou négligence, l'infraction est punie de trois ans d'emprisonnement et
 de 45 000 euros d'amende.
@@ -25249,44 +25278,55 @@ de 45 000 euros d'amende.
 	  - Code pénal - art. 413-12 (V)
 	  - Code pénal - art. 414-6 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+
+###### Article 413-10-1
+
+Est puni de sept ans d'emprisonnement et de 100 000 € d'amende le fait, par toute personne responsable, soit par état ou
+profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, d'un lieu classifié au titre du secret
+de la défense nationale d'en avoir permis l'accès à une personne non qualifiée. 
+
+Est puni des mêmes peines le fait, par toute personne qualifiée, de porter à la connaissance du public ou d'une personne non
+qualifiée un élément relatif à la nature des installations ou des activités qu'un tel lieu abrite. 
+
+Lorsque la personne responsable a agi par imprudence ou négligence, l'infraction est punie de trois ans d'emprisonnement et
+de 45 000 € d'amende.
+
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 413-10-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
+les conditions fixées au considérant 38.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+	**Abrogé par**:
+
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 
 ###### Article 413-11
 
-Est puni de cinq ans d'emprisonnement et de 75000 euros d'amende le fait, par toute personne non visée à l'article 413-10
-de :
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par toute personne non visée à l'article 413-10
+de : 
 
-1° S'assurer la possession d'un renseignement, procédé, objet, document, donnée informatisée ou fichier qui présente le
-caractère d'un secret de la défense nationale ;
+1° S'assurer la possession, accéder à, ou prendre connaissance d'un procédé, objet, document, information, réseau
+informatique, donnée informatisée ou fichier qui présente le caractère d'un secret de la défense nationale ; 
 
-2° Détruire, soustraire ou reproduire, de quelque manière que ce soit, un tel renseignement, procédé, objet, document, donnée
-informatisée ou fichier ;
+2° Détruire, soustraire ou reproduire, de quelque manière que ce soit, un tel procédé, objet, document, information, réseau
+informatique, donnée informatisée ou fichier ; 
 
-3° Porter à la connaissance du public ou d'une personne non qualifiée un tel renseignement, procédé, objet, document, donnée
-informatisée ou fichier.
+3° Porter à la connaissance du public ou d'une personne non qualifiée un tel procédé, objet, document, information, réseau
+informatique, donnée informatisée ou fichier.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -25300,7 +25340,41 @@ informatisée ou fichier.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 413-10
+
+
+###### Article 413-11-1
+
+Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende le fait, par toute personne non qualifiée : 
+
+1° D'accéder à un lieu classifié au titre du secret de la défense nationale ; 
+
+2° De porter à la connaissance du public ou d'une personne non qualifiée un élément relatif à la nature des installations ou
+des activités qu'un tel lieu abrite.
+
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 413-11-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
+les conditions fixées au considérant 38.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre IV : 70 à 84) (Ab)
+
+	**Abrogé par**:
+
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 
 ###### Article 413-12
