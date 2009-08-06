@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-07
 
 # Partie législative
 
@@ -26324,23 +26324,17 @@ par le préfet, le sous-préfet, le maire ou l'un de ses adjoints, tout officier
 sécurité publique, ou tout autre officier de police judiciaire, porteurs des insignes de leur fonction.
 
 Il est procédé à ces sommations suivant des modalités propres à informer les personnes participant à l'attroupement de
-l'obligation de se disperser sans délai ; ces modalités sont précisées par décret en Conseil d'Etat, qui détermine également
-les insignes que doivent porter les personnes mentionnées à l'alinéa précédent.
+l'obligation de se disperser sans délai.
 
 Toutefois, les représentants de la force publique appelés en vue de dissiper un attroupement peuvent faire directement usage
 de la force si des violences ou voies de fait sont exercées contre eux ou s'ils ne peuvent défendre autrement le terrain
 qu'ils occupent.
 
+Les modalités d'application des alinéas précédents sont précisées par décret en Conseil d'Etat, qui détermine également les
+insignes que doivent porter les personnes mentionnées au deuxième alinéa et les conditions d'usage des armes à feu pour le
+maintien de l'ordre public.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Cité par**:
 
@@ -26358,6 +26352,14 @@ qu'ils occupent.
 	  - Code pénal - art. R431-2 (VT)
 	  - Code pénal - art. R431-3 (VT)
 	  - Code pénal - art. R431-4 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L211-9 (VD)
 
 
 ###### Article 431-4
