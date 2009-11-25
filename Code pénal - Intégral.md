@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-10-30
+Version Consolidée au 2009-11-26
 
 # Partie législative
 
@@ -1991,9 +1991,9 @@ l'amende, pour les délits qui sont punis seulement d'une peine d'amende.
 ###### Article 131-8
 
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire, à la place de l'emprisonnement, que le
-condamné accomplira, pour une durée de quarante à deux cent dix heures, un travail d'intérêt général non rémunéré au profit
-soit d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public
-ou d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
+condamné accomplira, pour une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit
+d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou
+d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
 
 La peine de travail d'intérêt général ne peut être prononcée contre le prévenu qui la refuse ou qui n'est pas présent à
 l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
@@ -2043,13 +2043,9 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 	  - Code pénal - art. R131-12 (M)
 	  - Code rural - art. L121-23 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 63 () JORF 7 mars 2007
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 67
 
 
 ###### Article 131-8-1
@@ -3023,8 +3019,10 @@ cas, elle ne peut excéder une durée de cinq ans.
 La juridiction qui prononce la peine de travail d'intérêt général fixe le délai pendant lequel le travail d'intérêt général
 doit être accompli dans la limite de dix-huit mois. Le délai prend fin dès l'accomplissement de la totalité du travail
 d'intérêt général ; il peut être suspendu provisoirement pour motif grave d'ordre médical, familial, professionnel ou social.
-Ce délai est suspendu pendant le temps où le condamné est incarcéré ou pendant le temps où il accomplit les obligations du
-service national. 
+Ce délai est suspendu pendant le temps où le condamné est assigné à résidence avec surveillance électronique, est placé en
+détention provisoire, exécute une peine privative de liberté ou accomplit les obligations du service national. Toutefois, le
+travail d'intérêt général peut être exécuté en même temps qu'une assignation à résidence avec surveillance électronique,
+qu'un placement à l'extérieur, qu'une semi-liberté ou qu'un placement sous surveillance électronique. 
 
 Les modalités d'exécution de l'obligation d'accomplir un travail d'intérêt général et la suspension du délai prévu à l'alinéa
 précédent sont décidées par le juge de l'application des peines dans le ressort duquel le condamné a sa résidence habituelle
@@ -3060,21 +3058,17 @@ Au cours du délai prévu par le présent article, le condamné doit satisfaire 
 	  - Code pénal - art. 132-54 (V)
 	  - Code pénal - art. 132-56 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 68
 
 	**Cite**:
 
-	  - Code pénal - art. 132-55 (V)
-	  - Code pénal - art. 221-6-1 (V)
-	  - Code pénal - art. 222-19-1 (V)
-	  - Code pénal - art. 222-20-1 (V)
-	  - Code pénal - art. 434-10 (V)
+	  - Code pénal - art. 132-55
+	  - Code pénal - art. 221-6-1
+	  - Code pénal - art. 222-19-1
+	  - Code pénal - art. 222-20-1
+	  - Code pénal - art. 434-10
 
 
 ###### Article 131-23
@@ -7870,26 +7864,33 @@ cette durée.
 
 Dans les limites fixées par la loi, la juridiction prononce les peines et fixe leur régime en fonction des circonstances de
 l'infraction et de la personnalité de son auteur. Lorsque la juridiction prononce une peine d'amende, elle détermine son
-montant en tenant compte également des ressources et des charges de l'auteur de l'infraction.
+montant en tenant compte également des ressources et des charges de l'auteur de l'infraction. 
 
 La nature, le quantum et le régime des peines prononcées sont fixés de manière à concilier la protection effective de la
 société, la sanction du condamné et les intérêts de la victime avec la nécessité de favoriser l'insertion ou la réinsertion
-du condamné et de prévenir la commission de nouvelles infractions.
+du condamné et de prévenir la commission de nouvelles infractions. 
+
+En matière correctionnelle, en dehors des condamnations en récidive légale prononcées en application de l'article 132-19-1,
+une peine d'emprisonnement sans sursis ne peut être prononcée qu'en dernier recours si la gravité de l'infraction et la
+personnalité de son auteur rendent cette peine nécessaire et si toute autre sanction est manifestement inadéquate ; dans ce
+cas, la peine d'emprisonnement doit, si la personnalité et la situation du condamné le permettent, et sauf impossibilité
+matérielle, faire l'objet d'une des mesures d'aménagement prévues aux articles 132-25 à 132-28.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 65
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 495-8 (V)
 	  - Code de procédure pénale - art. 362 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-19-1
+	  - Code pénal - art. 132-25
 
 
 ##### Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique
@@ -7898,18 +7899,26 @@ du condamné et de prévenir la commission de nouvelles infractions.
 
 ###### Article 132-25
 
-Lorsque la juridiction de jugement prononce une peine égale ou inférieure à un an d'emprisonnement, elle peut décider à
-l'égard du condamné qui justifie, soit de l'exercice d'une activité professionnelle, soit de son assiduité à un enseignement
-ou une formation professionnelle ou encore d'un stage ou d'un emploi temporaire en vue de son insertion sociale, soit de sa
-participation essentielle à la vie de sa famille, soit de la nécessité de subir un traitement médical, que la peine
-d'emprisonnement sera exécutée sous le régime de la semi-liberté. 
+Lorsque la juridiction de jugement prononce une peine égale ou inférieure à deux ans d'emprisonnement, ou, pour une personne
+en état de récidive légale, une peine égale ou inférieure à un an, elle peut décider que cette peine sera exécutée en tout ou
+partie sous le régime de la semi-liberté à l'égard du condamné qui justifie : 
 
-Dans les cas prévus par l'alinéa précédent, la juridiction peut également décider que la peine d'emprisonnement sera exécutée
-sous le régime du placement à l'extérieur. 
+1° Soit de l'exercice d'une activité professionnelle, même temporaire, du suivi d'un stage ou de son assiduité à un
+enseignement, à une formation professionnelle ou à la recherche d'un emploi ; 
 
-Lorsque a été ordonné le placement ou le maintien en détention du condamné en application de l'article 397-4 du code de
-procédure pénale, la juridiction qui fait application du présent article peut ordonner l'exécution provisoire de la semi-
-liberté ou du placement à l'extérieur.
+2° Soit de sa participation essentielle à la vie de sa famille ; 
+
+3° Soit de la nécessité de suivre un traitement médical ; 
+
+4° Soit de l'existence d'efforts sérieux de réadaptation sociale résultant de son implication durable dans tout autre projet
+caractérisé d'insertion ou de réinsertion de nature à prévenir les risques de récidive. 
+
+Ces dispositions sont également applicables en cas de prononcé d'un emprisonnement partiellement assorti du sursis ou du
+sursis avec mise à l'épreuve, lorsque la partie ferme de la peine est inférieure ou égale à deux ans, ou, si la personne est
+en état de récidive légale, inférieure ou égale à un an. 
+
+Dans les cas prévus aux alinéas précédents, la juridiction peut également décider que la peine d'emprisonnement sera exécutée
+sous le régime du placement à l'extérieur.
 
 **Liens relatifs à cet article**
 
@@ -7924,44 +7933,31 @@ liberté ou du placement à l'extérieur.
 	  - Code de procédure pénale - art. D137 (V)
 	  - Code pénal - art. 132-24 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 185 II, III, IV JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 397-4 (V)
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 66
 
 
 ###### Article 132-26
 
 Le condamné admis au bénéfice de la semi-liberté est astreint à rejoindre l'établissement pénitentiaire selon les modalités
 déterminées par le juge de l'application des peines en fonction du temps nécessaire à l'activité, à l'enseignement, à la
-formation professionnelle, au stage, à la participation à la vie de famille ou au traitement en vue duquel il a été admis au
-régime de la semi-liberté. Il est astreint à demeurer dans l'établissement pendant les jours où, pour quelque cause que ce
-soit, ses obligations extérieures se trouvent interrompues. 
+formation professionnelle, à la recherche d'un emploi, au stage, à la participation à la vie de famille, au traitement ou au
+projet d'insertion ou de réinsertion en vue duquel il a été admis au régime de la semi-liberté. Il est astreint à demeurer
+dans l'établissement pendant les jours où, pour quelque cause que ce soit, ses obligations extérieures se trouvent
+interrompues. 
 
-Le condamné admis au bénéfice du placement à l'extérieur est employé en dehors d'un établissement pénitentiaire à des travaux
-contrôlés par l'administration. 
+Le condamné admis au bénéfice du placement à l'extérieur est astreint, sous le contrôle de l'administration, à effectuer des
+activités en dehors de l'établissement pénitentiaire. 
 
 La juridiction de jugement peut également soumettre le condamné admis au bénéfice de la semi-liberté ou du placement à
 l'extérieur aux mesures prévues par les articles 132-43 à 132-46.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 185 II, III, V JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 66
 
 	**Cité par**:
 
@@ -7969,45 +7965,47 @@ l'extérieur aux mesures prévues par les articles 132-43 à 132-46.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-73 (V)
+	  - Code pénal - art. 132-43
 
 
 ##### Paragraphe 2 : Du placement sous surveillance électronique
 
 ###### Article 132-26-1
 
-Lorsque la juridiction de jugement prononce une peine égale ou inférieure à un an d'emprisonnement, elle peut décider à
-l'égard du condamné qui justifie soit de l'exercice d'une activité professionnelle, soit de son assiduité à un enseignement
-ou une formation professionnelle ou encore d'un stage ou d'un emploi temporaire en vue de son insertion sociale, soit de sa
-participation essentielle à la vie de sa famille, soit de la nécessité de subir un traitement médical, que la peine
-d'emprisonnement sera exécutée sous le régime du placement sous surveillance électronique. 
+Lorsque la juridiction de jugement prononce une peine égale ou inférieure à deux ans d'emprisonnement, ou, pour une personne
+en état de récidive légale, une peine égale ou inférieure à un an, elle peut décider que la peine sera exécutée en tout ou
+partie sous le régime du placement sous surveillance électronique à l'égard du condamné qui justifie : 
+
+1° Soit de l'exercice d'une activité professionnelle, même temporaire, du suivi d'un stage ou de son assiduité à un
+enseignement, à une formation professionnelle ou à la recherche d'un emploi ; 
+
+2° Soit de sa participation essentielle à la vie de sa famille ; 
+
+3° Soit de la nécessité de suivre un traitement médical ; 
+
+4° Soit de l'existence d'efforts sérieux de réadaptation sociale résultant de son implication durable dans tout autre projet
+caractérisé d'insertion ou de réinsertion de nature à prévenir les risques de récidive. 
+
+Ces dispositions sont également applicables en cas de prononcé d'un emprisonnement partiellement assorti du sursis ou du
+sursis avec mise à l'épreuve, lorsque la partie ferme de la peine est inférieure ou égale à deux ans, ou, si la personne est
+en état de récidive légale, inférieure ou égale à un an. 
 
 La décision de placement sous surveillance électronique ne peut être prise qu'avec l'accord du prévenu préalablement informé
 qu'il peut demander à être assisté par son avocat, le cas échéant désigné d'office par le bâtonnier à sa demande, avant de
 donner son accord. S'il s'agit d'un mineur non émancipé, cette décision ne peut être prise qu'avec l'accord des titulaires de
-l'exercice de l'autorité parentale. Lorsque a été ordonné le placement ou le maintien en détention du condamné en application
-de l'article 397-4 du code de procédure pénale, la juridiction de jugement qui fait application de l'alinéa précédent peut
-ordonner l'exécution provisoire du placement sous surveillance électronique.
+l'exercice de l'autorité parentale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 185 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 66
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 723-7 (VD)
 	  - Code de procédure pénale - art. 723-7-1 (V)
 	  - Code de procédure pénale - art. R57-10 (V)
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 397-4 (V)
 
 
 ###### Article 132-26-2
@@ -8060,20 +8058,16 @@ aux mesures prévues par les articles 132-43 à 132-46.
 
 ###### Article 132-27
 
-En matière correctionnelle, la juridiction peut, pour motif grave d'ordre médical, familial, professionnel ou social, décider
-que l'emprisonnement prononcé pour une durée d'un an au plus sera, pendant une période n'excédant pas trois ans, exécuté par
-fractions, aucune d'entre elles ne pouvant être inférieure à deux jours.
+En matière correctionnelle, la juridiction peut, pour motif d'ordre médical, familial, professionnel ou social, décider que
+l'emprisonnement prononcé pour une durée de deux ans, ou, si la personne est en état de récidive légale, égale ou inférieure
+à un an au plus sera, pendant une période n'excédant pas quatre ans, exécuté par fractions, aucune d'entre elles ne pouvant
+être inférieure à deux jours.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 66
 
 	**Cité par**:
 
@@ -8994,11 +8988,13 @@ pénale.
 ###### Article 132-54
 
 La juridiction peut, dans les conditions et selon les modalités prévues aux articles 132-40 et 132-41, prévoir que le
-condamné accomplira, pour une durée de quarante à deux cent dix heures, un travail d'intérêt général au profit d'une personne
-morale de droit public ou d'une association habilitée à mettre en oeuvre des travaux d'intérêt général. 
+condamné accomplira, pour une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit
+d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou
+d'une association habilitées à mettre en œuvre des travaux d'intérêt général. 
 
-La juridiction peut décider que les obligations imposées au condamné perdureront au-delà de l'accomplissement du travail
-d'intérêt général, dans un délai qui ne peut excéder douze mois (1). 
+La juridiction peut en outre soumettre le condamné à tout ou partie des obligations prévues à l'article 132-45 pour une durée
+qui ne peut excéder dix-huit mois. L'exécution du travail d'intérêt général avant la fin de ce délai ne met pas fin à ces
+obligations. 
 
 Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général ne peut être ordonné lorsque le prévenu le refuse
 ou n'est pas présent à l'audience. 
@@ -9006,10 +9002,6 @@ ou n'est pas présent à l'audience.
 Les modalités d'application de l'obligation d'accomplir un travail d'intérêt général sont régies par les dispositions des
 articles 131-22 à 131-24. Dès l'accomplissement de la totalité du travail d'intérêt général, la condamnation est considérée
 comme non avenue sauf s'il a été fait application des dispositions prévues au dernier alinéa de l'article 132-55.
-
-**Nota:**
-
-(1) : Loi 2004-204 du 9 mars 2004 art. 207 VI : le présent alinéa entre en vigueur au 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -9019,20 +9011,16 @@ comme non avenue sauf s'il a été fait application des dispositions prévues au
 	  - Arrêté du 12 décembre 2008 (V)
 	  - Code pénal - art. 132-57 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 177 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 178 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 69
 
 	**Cite**:
 
-	  - Code pénal - art. 131-22 (V)
-	  - Code pénal - art. 132-40 (V)
-	  - Code pénal - art. 132-55 (V)
+	  - Code pénal - art. 131-22
+	  - Code pénal - art. 132-40
+	  - Code pénal - art. 132-45
+	  - Code pénal - art. 132-55
 
 
 ###### Article 132-55
@@ -9056,17 +9044,13 @@ l'exécution du travail d'intérêt général selon les modalités fixées ;
 la peine. 
 
 Il doit également satisfaire à celles des obligations particulières prévues à l'article 132-45 que la juridiction lui a
-spécialement imposées et dont celle-ci a précisé la durée qui ne peut excéder douze mois.
+spécialement imposées et dont celle-ci a précisé la durée qui ne peut excéder dix-huit mois.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 177 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 69
 
 	**Cité par**:
 
@@ -9079,7 +9063,7 @@ spécialement imposées et dont celle-ci a précisé la durée qui ne peut excé
 
 	**Cite**:
 
-	  - Code pénal - art. 132-45 (V)
+	  - Code pénal - art. 132-45
 
 
 ###### Article 132-56
@@ -9117,12 +9101,23 @@ particulière du sursis avec mise à l'épreuve et le délai prévu à l'article
 
 Lorsqu'une condamnation pour un délit de droit commun comportant une peine d'emprisonnement ferme de six mois au plus a été
 prononcée, le juge de l'application des peines peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une
-voie de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au
-profit d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré
-d'une durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent-dix heures.L'exécution de l'obligation
-d'accomplir un travail d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des
-articles 132-55 et 132-56. Le juge de l'application des peines peut également décider que le condamné effectuera une peine de
-jours-amende, conformément aux dispositions des articles 131-5 et 131-25.
+voie de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, pour
+une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit d'une personne morale de
+droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou d'une association
+habilitées à mettre en œuvre des travaux d'intérêt général.  L'exécution de l'obligation d'accomplir un travail d'intérêt
+général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56. Le juge de
+l'application des peines peut également décider que le condamné effectuera une peine de jours-amende, conformément aux
+dispositions des articles 131-5 et 131-25.
+
+Le présent article est applicable aux peines d'emprisonnement ayant fait l'objet d'un sursis partiel, assorti ou non d'une
+mise à l'épreuve, lorsque la partie ferme de la peine est inférieure ou égale à six mois. Dans ce cas, la partie de la peine
+avec sursis demeure applicable. 
+
+Le présent article est également applicable aux peines d'emprisonnement inférieures ou égales à six mois résultant de la
+révocation d'un sursis, assorti ou non d'une mise à l'épreuve. 
+
+En cas d'exécution partielle d'un travail d'intérêt général, le juge de l'application des peines peut ordonner la conversion
+de la partie non exécutée en jours-amende.
 
 **Liens relatifs à cet article**
 
@@ -9135,20 +9130,16 @@ jours-amende, conformément aux dispositions des articles 131-5 et 131-25.
 	  - Code de procédure pénale - art. 747-2 (V)
 	  - Code de procédure pénale - art. D545 (T)
 
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 179 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 69
 
 	**Cite**:
 
-	  - Code pénal - art. 131-25 (V)
-	  - Code pénal - art. 131-5 (V)
-	  - Code pénal - art. 132-54 (V)
-	  - Code pénal - art. 132-55 (V)
+	  - Code pénal - art. 131-25
+	  - Code pénal - art. 131-5
+	  - Code pénal - art. 132-54
+	  - Code pénal - art. 132-55
 
 
 ##### Sous-section 6 : De la dispense de peine et de l'ajournement
@@ -10616,23 +10607,26 @@ suivantes :
 
 5° La confiscation du matériel qui a servi à commettre l'infraction ; 
 
-6° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
-l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
-quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
+6° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ainsi que
+l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du code du travail pour une
+durée de cinq ans, ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de
+gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui,
+une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26
 	  - Code pénal - art. 131-27
 	  - Code pénal - art. 131-31
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 215-2
@@ -10667,19 +10661,23 @@ définies au présent sous-titre encourent, outre l'amende suivant les modalité
 
 2° Les peines mentionnées à l'article 131-39 ; 
 
-3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis.
+3° La confiscation de tout ou partie de leurs biens, meubles ou immeubles, divis ou indivis ; 
+
+4° L'interdiction d'exercer une fonction de prestataire de formation professionnelle continue au sens de l'article L. 6313-1
+du code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 215-4
@@ -13597,28 +13595,20 @@ présent article.
 
 ###### Article 222-36
 
-L'importation ou l'exportation illicites de stupéfiants sont punies de dix ans d'emprisonnement et de 7500000 euros d'amende.
+L'importation ou l'exportation illicites de stupéfiants sont punies de dix ans d'emprisonnement et de 7 500 000 euros
+d'amende. 
 
-Ces faits sont punis de trente ans de réclusion criminelle et de 7500000 euros d'amende lorsqu'ils sont commis en bande
-organisée.
+Ces faits sont punis de trente ans de réclusion criminelle et de 7 500 000 euros d'amende lorsqu'ils sont commis en bande
+organisée. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
-présent article.
+présent article. 
+
+Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire
+suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du
+code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -13632,9 +13622,14 @@ présent article.
 	  - Code pénal - art. 222-48 (M)
 	  - Code pénal - art. 222-49 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 222-37
@@ -14573,26 +14568,21 @@ d'amende.
 
 ###### Article 223-13
 
-Le fait de provoquer au suicide d'autrui est puni de trois ans d'emprisonnement et de 45000 euros d'amende lorsque la
+Le fait de provoquer au suicide d'autrui est puni de trois ans d'emprisonnement et de 45 000 euros d'amende lorsque la
 provocation a été suivie du suicide ou d'une tentative de suicide.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque la victime de l'infraction définie à
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque la victime de l'infraction définie à
 l'alinéa précédent est un mineur de quinze ans.
+
+Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire
+suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du
+code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cité par**:
 
@@ -14600,6 +14590,10 @@ l'alinéa précédent est un mineur de quinze ans.
 	  - Code pénal - art. 223-15 (V)
 	  - Code pénal - art. 223-15-1 (V)
 	  - Code pénal - art. 223-17 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 223-14
@@ -14716,43 +14710,41 @@ ces activités, les peines sont portées à cinq ans d'emprisonnement et à 750 
 ###### Article 223-15-3
 
 Les personnes physiques coupables du délit prévu à la présente section encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-pour une durée de cinq ans au plus ;
+pour une durée de cinq ans au plus, ainsi que l'activité de prestataire de formation professionnelle continue au sens de
+l'article L. 6313-1 du code du travail, pour la même durée ; 
 
 3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de
-l'entreprise ayant servi à commettre les faits incriminés ;
+l'entreprise ayant servi à commettre les faits incriminés ; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
-l'exception des objets susceptibles de restitution ;
+l'exception des objets susceptibles de restitution ; 
 
-5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ;
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ; 
 
 6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
 7° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 131-35
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 223-15-4
@@ -16494,17 +16486,18 @@ commise en bande organisée.
 
 Le fait d'obtenir d'une personne, dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur, la
 fourniture de services non rétribués ou en échange d'une rétribution manifestement sans rapport avec l'importance du travail
-accompli est puni de cinq ans d'emprisonnement et de 150 000 Euros d'amende.
+accompli est puni de cinq ans d'emprisonnement et de 150 000 euros d'amende.
+
+Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire
+suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du
+code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 33 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 33
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cité par**:
 
@@ -16516,6 +16509,10 @@ accompli est puni de cinq ans d'emprisonnement et de 150 000 Euros d'amende.
 	  - Code pénal - art. 225-15-1 (V)
 	  - Code pénal - art. 225-16 (V)
 	  - Code pénal - art. 225-19 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 225-14
@@ -21820,7 +21817,11 @@ l'exception des objets susceptibles de restitution ;
 6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
 fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
-7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35. 
+
+Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire
+suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du
+code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -21851,14 +21852,19 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 313-1 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 313-1
+	  - Code pénal - art. 313-2
+	  - Code pénal - art. 313-6
+	  - Code pénal - art. 313-6-1
+	  - Code du travail - art. L6313-1
 
 
 ###### Article 313-8
@@ -21908,7 +21914,7 @@ l'exclusion des marchés publics pour une durée de cinq ans au plus.
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
 définies aux articles 313-1 à 313-3 et à l'article 313-6-1 encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38, les peines prévues par les 2° à 9° de l'article 131-39.
+l'article 131-38, les peines prévues par l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -21917,7 +21923,7 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
 
 	**Cite**:
 
@@ -21925,8 +21931,8 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code pénal - art. 313-1 (V)
-	  - Code pénal - art. 313-6-1 (V)
+	  - Code pénal - art. 313-1
+	  - Code pénal - art. 313-6-1
 
 
 #### Chapitre IV : Des détournements
@@ -28202,7 +28208,11 @@ d'amende lorsqu'elles ont pour objet de préparer ou de faciliter la commission 
 
 L'usage, sans droit, d'un titre attaché à une profession réglementée par l'autorité publique ou d'un diplôme officiel ou
 d'une qualité dont les conditions d'attribution sont fixées par l'autorité publique est puni d'un an d'emprisonnement et de
-15000 euros d'amende.
+15 000 euros d'amende. 
+
+Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire
+suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du
+code du travail pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -28281,18 +28291,13 @@ d'une qualité dont les conditions d'attribution sont fixées par l'autorité pu
 	  - Code rural et de la pêche maritime - art. L171-1 (V)
 	  - Code rural et de la pêche maritime - art. L815-3 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+
+	**Cite**:
+
+	  - Code du travail - art. L6313-1
 
 
 ##### Section 10 : De l'usage irrégulier de qualité
