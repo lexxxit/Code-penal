@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2010-01-13
 
 # Partie législative
 
@@ -37416,36 +37416,36 @@ Premier ministre.
 
 ###### Article R226-2
 
-Il est institué auprès du Premier ministre une commission consultative composée comme suit :
+Il est institué auprès du Premier ministre une commission consultative composée comme suit : 
 
-1° Le secrétaire général de la défense nationale ou son représentant, président ;
+1° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant, président ; 
 
-2° Un représentant du ministre de la justice ;
+2° Un représentant du ministre de la justice ; 
 
-3° Un représentant du ministre de l'intérieur ;
+3° Un représentant du ministre de l'intérieur ; 
 
-4° Un représentant du ministre de la défense ;
+4° Un représentant du ministre de la défense ; 
 
-5° Un représentant du ministre chargé des douanes ;
+5° Un représentant du ministre chargé des douanes ; 
 
-6° Un représentant du ministre chargé de l'industrie ;
+6° Un représentant du ministre chargé de l'industrie ; 
 
-7° Un représentant du ministre chargé des télécommunications ;
+7° Un représentant du ministre chargé des télécommunications ; 
 
-8° Un représentant de la Commission nationale de contrôle des interceptions de sécurité ;
+8° Un représentant de la Commission nationale de contrôle des interceptions de sécurité ; 
 
-9° Un représentant du directeur général de l'Agence nationale des fréquences ;
+9° Un représentant du directeur général de l'Agence nationale des fréquences ; 
 
-10° Deux personnalités choisies en raison de leur compétence, désignées par le Premier ministre.
+10° Deux personnalités choisies en raison de leur compétence, désignées par le Premier ministre. 
 
-La commission peut entendre, à titre d'expert, toute personne compétente.
+La commission peut entendre, à titre d'expert, toute personne compétente. 
 
 Elle est saisie pour avis des projets d'arrêtés pris en application des articles R. 226-1 et R. 226-10. Elle peut formuler
-des propositions de modification de ces arrêtés.
+des propositions de modification de ces arrêtés. 
 
 Elle est également consultée sur les demandes d'autorisation présentées en application des articles R. 226-3 et R. 226-7.
 
-Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
+Le secrétariat de la commission est assuré par l'Agence nationale de la sécurité des systèmes d'information.
 
 **Nota:**
 
@@ -37454,20 +37454,10 @@ caractère consultatif dont la liste est annexée au présent décret sont proro
 consultative chargée d'émettre un avis sur les matériels susceptibles de porter atteinte à l'intimité de la vie privée et au
 secret des correspondances).
 
+Décret n° 2014-555 du 28 mai 2014 : La Commission consultative chargée d'émettre un avis sur les matériels susceptibles de
+porter atteinte à l'intimité de la vie privée et au secret des correspondances est prorogée jusqu'au 1er juin 2019.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°97-757 du 10 juillet 1997 - art. 2 () JORF 13 juillet 1997
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -37487,7 +37477,7 @@ secret des correspondances).
 
 	**Cite**:
 
-	  - Code pénal - art. R226-1 (M)
+	  - Code pénal - art. R226-1 (V)
 
 
 ###### Article R226-3
@@ -37534,36 +37524,23 @@ mentionnée à l'article R. 226-2.
 
 ###### Article R226-4
 
-La demande d'autorisation est déposée auprès du secrétaire général de la défense nationale. Elle comporte pour chaque type
-d'appareil :
+La demande d'autorisation est déposée auprès du directeur général de l'Agence nationale de la sécurité des systèmes
+d'information. Elle comporte pour chaque type d'appareil : 
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
-morale ;
+morale ; 
 
 2° La ou les opérations mentionnées à l'article R. 226-3 pour lesquelles l'autorisation est demandée et, le cas échéant, la
-description des marchés visés ;
+description des marchés visés ; 
 
-3° L'objet et les caractéristiques techniques du type de l'appareil, accompagnés d'une documentation technique ;
+3° L'objet et les caractéristiques techniques du type de l'appareil, accompagnés d'une documentation technique ; 
 
-4° Le lieu prévu pour la fabrication de l'appareil ou pour les autres opérations mentionnées à l'article R. 226-3 ;
+4° Le lieu prévu pour la fabrication de l'appareil ou pour les autres opérations mentionnées à l'article R. 226-3 ; 
 
 5° L'engagement de se soumettre aux contrôles nécessaires à la vérification du respect des indications fournies dans la
 demande d'autorisation.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°97-757 du 10 juillet 1997 - art. 4 () JORF 13 juillet 1997
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -37572,7 +37549,7 @@ demande d'autorisation.
 
 	**Cite**:
 
-	  - Code pénal - art. R226-3 (M)
+	  - Code pénal - art. R226-3 (V)
 
 
 ###### Article R226-5
@@ -37660,33 +37637,20 @@ autorisation délivrée par le Premier ministre, après avis de la commission me
 
 ###### Article R226-8
 
-La demande d'autorisation est déposée auprès du secrétaire général de la défense nationale. Elle comporte pour chaque type
-d'appareil :
+La demande d'autorisation est déposée auprès du     directeur général de l'Agence nationale de la sécurité des systèmes
+d'information. Elle comporte pour chaque type d'appareil : 
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
-morale ;
+morale ; 
 
-2° Le type de l'appareil et le nombre d'appareils pour la détention desquels l'autorisation est demandée ;
+2° Le type de l'appareil et le nombre d'appareils pour la détention desquels l'autorisation est demandée ; 
 
-3° L'utilisation prévue ;
+3° L'utilisation prévue ; 
 
 4° L'engagement de se soumettre aux contrôles nécessaires à la vérification du respect des indications fournies dans la
 demande d'autorisation.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°97-757 du 10 juillet 1997 - art. 7 () JORF 13 juillet 1997
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
