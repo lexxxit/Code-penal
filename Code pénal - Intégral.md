@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-01-13
+Version Consolidée au 2010-02-10
 
 # Partie législative
 
@@ -12976,6 +12976,23 @@ habituellement sur le territoire français, la loi française est applicable par
 	  - Code pénal - art. 113-8 (V)
 
 
+###### Article 222-22-1
+
+La contrainte prévue par le premier alinéa de l'article 222-22 peut être physique ou morale. La contrainte morale peut
+résulter de la différence d'âge existant entre une victime mineure et l'auteur des faits et de l'autorité de droit ou de fait
+que celui-ci exerce sur cette victime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 222-22
+
+
 ##### Paragraphe 1 : Du viol
 
 ###### Article 222-23
@@ -13036,8 +13053,7 @@ Le viol est puni de vingt ans de réclusion criminelle :
 3° Lorsqu'il est commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à
 une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l'auteur ;
 
-4° Lorsqu'il est commis par un ascendant légitime, naturel ou adoptif, ou par toute autre personne ayant autorité sur la
-victime ;
+4° Lorsqu'il est commis par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de fait ; 
 
 5° Lorsqu'il est commis par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
 
@@ -13060,13 +13076,9 @@ stupéfiants.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 54 3° JORF 7 mars 2007
+	  - Loi n°2010-121 du 8 février 2010 - art. 2
 
 	**Cité par**:
 
@@ -13166,41 +13178,37 @@ Les agressions sexuelles autres que le viol sont punies de cinq ans d'emprisonne
 
 ###### Article 222-28
 
-L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 100 000 euros d'amende :
+L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement et de 100 000 euros d'amende : 
 
-1° Lorsqu'elle a entraîné une blessure ou une lésion ;
+1° Lorsqu'elle a entraîné une blessure ou une lésion ; 
 
-2° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif, ou par toute autre personne ayant autorité sur la
-victime ;
+2° Lorsqu'elle est commise par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de
+fait ; 
 
-3° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+3° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ; 
 
-4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ;
+destination d'un public non déterminé, d'un réseau de télécommunications ; 
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
-de solidarité ;
+de solidarité ; 
 
 8° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 54 4° JORF 7 mars 2007
+	  - Loi n°2010-121 du 8 février 2010 - art. 2
 
 	**Cite**:
 
-	  - Code pénal - art. 222-27 (M)
+	  - Code pénal - art. 222-27
 
 
 ###### Article 222-29
@@ -13236,33 +13244,29 @@ ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
 
 ###### Article 222-30
 
-L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
+L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 150 000 euros d'amende : 
 
-1° Lorsqu'elle a entraîné une blessure ou une lésion ;
+1° Lorsqu'elle a entraîné une blessure ou une lésion ; 
 
-2° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
-victime ;
+2° Lorsqu'elle est commise par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de
+fait ; 
 
-3° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+3° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ; 
 
-4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
-6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime ;
+6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime ; 
 
 7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 53 5° JORF 7 mars 2007
+	  - Loi n°2010-121 du 8 février 2010 - art. 2
 
 	**Cité par**:
 
@@ -13274,7 +13278,7 @@ stupéfiants.
 
 	**Cite**:
 
-	  - Code pénal - art. 222-29 (M)
+	  - Code pénal - art. 222-29
 
 
 ###### Article 222-31
@@ -13301,25 +13305,28 @@ La tentative des délits prévus par les articles 222-27 à 222-30 est punie des
 	  - Code pénal - art. 222-33-3 (V)
 
 
+##### Paragraphe 3 : De l'inceste commis sur les mineurs
+
 ###### Article 222-31-1
 
-Lorsque le viol ou l'agression sexuelle est commis contre un mineur par une personne titulaire sur celui-ci de l'autorité
-parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des
-dispositions des articles 378 et 379-1 du code civil.
+Les viols et les agressions sexuelles sont qualifiés d'incestueux lorsqu'ils sont commis au sein de la famille sur la
+personne d'un mineur par un ascendant, un frère, une sœur ou par toute autre personne, y compris s'il s'agit d'un concubin
+d'un membre de la famille, ayant sur la victime une autorité de droit ou de fait.
 
-Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et soeurs mineurs de la victime.
+**Nota:**
 
-Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+Dans sa décision n° 2011-163 QPC du 16 septembre 2011 (NOR : CSCX1125372S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 222-31-1 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 31 () JORF 13 décembre 2005
+	  - Décision n°2011-163 QPC du 16 septembre 2011, v. init.
 
 	**Cité par**:
 
@@ -13329,14 +13336,38 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 	**Cite**:
 
-	  - Code civil - art. 378 (M)
-	  - Code civil - art. 379-1 (M)
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
 
+
+###### Article 222-31-2
+
+Lorsque le viol incestueux ou l'agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur
+celui-ci de l'autorité parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette
+autorité en application des articles 378 et 379-1 du code civil. 
+
+Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
+
+Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
+
+
+##### Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel
 
 ###### Article 222-32
 
 L'exhibition sexuelle imposée à la vue d'autrui dans un lieu accessible aux regards du public est punie d'un an
-d'emprisonnement et de 15000 euros d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13350,26 +13381,25 @@ d'emprisonnement et de 15000 euros d'amende.
 	  - Code de procédure pénale - art. 837 (V)
 	  - Code de procédure pénale - art. D49-23 (M)
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - DEPLACE: Loi n°2010-121 du 8 février 2010 - art. 1
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - CODE PENAL - art. 330 (Ab)
 
-
-##### Paragraphe 3 : Du harcèlement sexuel.
 
 ###### Article 222-33
 
 Le fait de harceler autrui dans le but d'obtenir des faveurs de nature sexuelle est puni d'un an d'emprisonnement et de 15000
 euros d'amende.
+
+**Nota:**
+
+Dans sa décision n° 2012-240 QPC du 4 mai 2012 (NOR : CSCX1222762S), le Conseil constitutionnel a déclaré l'article 222-33 du
+code pénal contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet le 5 mai 2012 dans les conditions
+fixées au considérant 7.
 
 **Liens relatifs à cet article**
 
@@ -13392,19 +13422,16 @@ euros d'amende.
 	  - Code pénal - art. 222-50-1 (V)
 	  - Code pénal - art. 225-1-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - DEPLACE: Loi n°2010-121 du 8 février 2010 - art. 1
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 179 () JORF 18 janvier 2002
+	  - Décision n°2012-240 QPC  du 4 mai 2012, v. init.
 
+
+##### Paragraphe 5 : Responsabilité pénale des personnes morales
 
 ###### Article 222-33-1
 
@@ -13419,15 +13446,14 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
 
 	**Cite**:
 
-	  - Code pénal
-	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
-	  - Code pénal - art. 131-39 (V)
-	  - Code pénal - art. 222-22 (V)
+	  - Code pénal - art. 131-39
+	  - Code pénal - art. 222-22
 
 
 ##### Section 3 bis : Du harcèlement moral
@@ -20034,36 +20060,22 @@ mineur de quinze ans est puni de cinq ans d'emprisonnement et de 75 000 euros d'
 
 ###### Article 227-26
 
-L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de [*taux*] 150000 euros d'amende :
+L'infraction définie à l'article 227-25 est punie de dix ans d'emprisonnement et de 150 000 euros d'amende : 
 
-1° Lorsqu'elle est commise par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
-victime ;
+1° Lorsqu'elle est commise par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de
+fait ; 
 
-2° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+2° Lorsqu'elle est commise par une personne qui abuse de l'autorité que lui confèrent ses fonctions ; 
 
-3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
 4° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ;
+destination d'un public non déterminé, d'un réseau de télécommunications ; 
 
 5° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 2007-03-05 art. 54 6° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -20075,37 +20087,26 @@ stupéfiants.
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de procédure pénale - art. 8 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 2
+
 	**Cite**:
 
-	  - Code pénal - art. 113-6 (V)
-	  - Code pénal - art. 113-8 (V)
-	  - Code pénal - art. 227-25 (M)
+	  - Code pénal - art. 227-25
 
 
 ###### Article 227-27
 
 Les atteintes sexuelles sans violence, contrainte, menace ni surprise sur un mineur âgé de plus de quinze ans et non émancipé
-par le mariage sont punies de deux ans d'emprisonnement et de 30000 euros d'amende :
+par le mariage sont punies de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
-1° Lorsqu'elles sont commises par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur la
-victime ;
+1° Lorsqu'elles sont commises par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de
+fait ;
 
 2° Lorsqu'elles sont commises par une personne qui abuse de l'autorité que lui confèrent ses fonctions.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -20115,6 +20116,10 @@ victime ;
 	  - CODE DE PROCEDURE PENALE - art. 2-3 (M)
 	  - Code de la route - art. R243-2 (Ab)
 	  - Code de la route. - art. R212-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 2
 
 
 ###### Article 227-27-1
@@ -20144,6 +20149,60 @@ applicables.
 	  - Code pénal - art. 113-8 (V)
 	  - Code pénal - art. 227-22 (V)
 	  - Code pénal - art. 227-25 (V)
+
+
+###### Article 227-27-2
+
+Les infractions définies aux articles 227-25, 227-26 et 227-27 sont qualifiées d'incestueuses lorsqu'elles sont commises au
+sein de la famille sur la personne d'un mineur par un ascendant, un frère, une sœur ou par toute autre personne, y compris
+s'il s'agit d'un concubin d'un membre de la famille, ayant sur la victime une autorité de droit ou de fait.
+
+**Nota:**
+
+Dans sa décision n° 2011-222 QPC du 17 février 2012 (NOR : CSCX1205183S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article 227-27-2 du code pénal. La déclaration d'inconstitutionnalité prend effet à compter de la publication
+de la présente décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décision n°2011-222 QPC du 17 février 2012 - art. 1, v. init.
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 356 (V)
+	  - Code de procédure pénale - art. 706-50 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 227-25
+
+
+###### Article 227-27-3
+
+Lorsque l'atteinte sexuelle incestueuse est commise par une personne titulaire de l'autorité parentale sur le mineur, la
+juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378
+et 379-1 du code civil. 
+
+Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
+
+Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-121 du 8 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
 
 
 ###### Article 227-28
@@ -20190,36 +20249,6 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 227-18 (V)
-
-
-###### Article 227-28-2
-
-Lorsque l'atteinte sexuelle est commise sur la victime par une personne titulaire de l'autorité parentale, la juridiction de
-jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des dispositions des articles 378
-et 379-1 du code civil.
-
-Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et soeurs mineurs de la victime.
-
-Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 31 () JORF 13 décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2010-121 du 8 février 2010 - art. 1
-
-	**Cite**:
-
-	  - Code civil - art. 378
-	  - Code civil - art. 379-1
 
 
 ###### Article 227-28-3
