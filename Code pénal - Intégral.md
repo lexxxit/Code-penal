@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-02-10
+Version Consolidée au 2010-03-04
 
 # Partie législative
 
@@ -10825,40 +10825,41 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 ###### Article 221-4
 
-Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est commis :
+Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est commis : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
-2° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+2° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race
-ou une religion déterminée ;
+ou une religion déterminée ; 
 
-7° A raison de l'orientation sexuelle de la victime ;
+7° A raison de l'orientation sexuelle de la victime ; 
 
-8° Par plusieurs personnes agissant en bande organisée.
+8° Par plusieurs personnes agissant en bande organisée. 
 
-9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité.
+9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
@@ -10869,13 +10870,9 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 10 () JORF 5 avril 2006
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
 
 	**Cité par**:
 
@@ -10890,9 +10887,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal 132-23, 2
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 221-5
@@ -11478,67 +11473,64 @@ présent article.
 
 ###### Article 222-3
 
-L'infraction définie à l'article 222-1 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise :
+L'infraction définie à l'article 222-1 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ;
+race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ;
+5° ter A raison de l'orientation sexuelle de la victime ; 
 
-6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
-l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
-8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-9° Avec préméditation ou avec guet-apens ;
+9° Avec préméditation ou avec guet-apens ; 
 
 10° Avec usage ou menace d'une arme.
 
 L'infraction définie à l'article 222-1 est également punie de vingt ans de réclusion criminelle lorsqu'elle est accompagnée
-d'agressions sexuelles autres que le viol.
+d'agressions sexuelles autres que le viol. 
 
 La peine encourue est portée à trente ans de réclusion criminelle lorsque l'infraction définie à l'article 222-1 est commise
 sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le
-mineur.
+mineur. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
 
 	**Cité par**:
 
@@ -11550,9 +11542,8 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 222-1 (V)
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code pénal - art. 222-1
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 222-4
@@ -11719,51 +11710,52 @@ Les violences ayant entraîné la mort sans intention de la donner sont punies d
 
 ###### Article 222-8
 
-L'infraction définie à l'article 222-7 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise :
+L'infraction définie à l'article 222-7 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ;
+race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ;
+5° ter A raison de l'orientation sexuelle de la victime ; 
 
-6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
-l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
-8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-9° Avec préméditation ou avec guet-apens ;
+9° Avec préméditation ou avec guet-apens ; 
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme. 
 
 La peine encourue est portée à trente ans de réclusion criminelle lorsque l'infraction définie à l'article 222-7 est commise
 sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le
-mineur.
+mineur. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -11792,20 +11784,15 @@ présent article.
 	  - Code pénal - art. 222-47 (V)
 	  - Code pénal - art. 222-48-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 222-7 (V)
-	  - Code pénal 222-7, 4, 132-23
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 222-7
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 222-9
@@ -11851,51 +11838,52 @@ euros d'amende.
 
 ###### Article 222-10
 
-L'infraction définie à l'article 222-9 est punie de quinze ans de réclusion criminelle lorsqu'elle est commise :
+L'infraction définie à l'article 222-9 est punie de quinze ans de réclusion criminelle lorsqu'elle est commise : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ;
+race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ;
+5° ter A raison de l'orientation sexuelle de la victime ; 
 
-6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
-l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
-8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-9° Avec préméditation ou avec guet-apens ;
+9° Avec préméditation ou avec guet-apens ; 
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme. 
 
 La peine encourue est portée à vingt ans de réclusion criminelle lorsque l'infraction définie à l'article 222-9 est commise
 sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le
-mineur.
+mineur. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -11926,19 +11914,15 @@ présent article.
 	  - Code pénal - art. 222-48 (V)
 	  - Code pénal - art. 222-48-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 222-9 (M)
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 222-9
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 222-11
@@ -11973,73 +11957,72 @@ d'emprisonnement et de 45 000 euros d'amende.
 
 ###### Article 222-12
 
-L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elle est
-commise :
+L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elle est
+commise : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ;
+race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ;
+5° ter A raison de l'orientation sexuelle de la victime ; 
 
-6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
-l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
-8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-9° Avec préméditation ou avec guet-apens ;
+9° Avec préméditation ou avec guet-apens ; 
 
-10° Avec usage ou menace d'une arme ;
+10° Avec usage ou menace d'une arme ; 
 
 11° Dans des établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées
-ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ; 
 
-12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ; 
 
 13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
-voyageurs ;
+voyageurs ; 
 
-14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ; 
 
-Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée. 
+
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'infraction définie à
 l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
-personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque
+personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsque
 cette infraction est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont
-portées à dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+portées à dix ans d'emprisonnement et 150 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 précédent alinéa.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
 
 	**Cité par**:
 
@@ -12066,84 +12049,82 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 54 () JORF 7 mars 2007
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 222-11 (M)
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 222-11
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 222-13
 
 Les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité
-de travail sont punies de trois ans d'emprisonnement et de 45000 euros d'amende lorsqu'elles sont commises :
+de travail sont punies de trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elles sont commises : 
 
-1° Sur un mineur de quinze ans ;
+1° Sur un mineur de quinze ans ; 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience
-physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ; 
 
-3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
 usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
-4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre
-personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
+agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
+ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
-4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission
-de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime
-est apparente ou connue de l'auteur ;
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement
+au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
+déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
-race ou une religion déterminée ;
+race ou une religion déterminée ; 
 
-5° ter A raison de l'orientation sexuelle de la victime ;
+5° ter A raison de l'orientation sexuelle de la victime ; 
 
-6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
-l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
-8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
-9° Avec préméditation ou avec guet-apens ;
+9° Avec préméditation ou avec guet-apens ; 
 
-10° Avec usage ou menace d'une arme ;
+10° Avec usage ou menace d'une arme ; 
 
 11° Dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées
-ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ; 
 
-12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ; 
 
 13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de
-voyageurs ;
+voyageurs ; 
 
-14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ; 
 
-Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée. 
+
+Les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque l'infraction définie au
 premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre
-personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75000 euros d'amende
+personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75 000 euros d'amende
 lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans
 deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à sept ans d'emprisonnement et
-100000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+100 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
 
 	**Cité par**:
 
@@ -12162,13 +12143,12 @@ deux des circonstances prévues aux 1° et suivants du présent article. Les pei
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 44 II, art. 48 II , art. 54 2° JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ###### Article 222-14
@@ -12274,6 +12254,19 @@ selon les modalités prévues par les articles 157 et suivants du code de procé
 
 	  - Code pénal - art. 132-23 (V)
 	  - Code de procédure pénale - art. 157 (V)
+
+
+###### Article 222-14-2
+
+Le fait pour une personne de participer sciemment à un groupement, même formé de façon temporaire, en vue de la préparation,
+caractérisée par un ou plusieurs faits matériels, de violences volontaires contre les personnes ou de destructions ou
+dégradations de biens est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 1 (V)
 
 
 ###### Article 222-15
@@ -20516,7 +20509,7 @@ Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 ###### Article 311-4
 
-Le vol est puni de cinq ans d'emprisonnement et de 75000 euros d'amende :
+Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une
 bande organisée ;
@@ -20541,10 +20534,16 @@ moyen de transport collectif de voyageurs ;
 8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ;
 
 9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie,
-une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée.
+une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
 
-Les peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende lorsque le vol est commis dans deux des
-circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150000 euros d'amende
+10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
+identifiée ;
+
+11° Lorsqu'il est commis dans les établissements d'enseignement ou d'éducation ainsi que, lors des entrées ou sorties des
+élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements.  
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque le vol est commis dans deux des
+circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende
 lorsque le vol est commis dans trois de ces circonstances.
 
 **Liens relatifs à cet article**
@@ -20565,13 +20564,10 @@ lorsque le vol est commis dans trois de ces circonstances.
 	  - Code pénal - art. 311-4-2 (V)
 	  - Code pénal - art. 311-5 (V)
 
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 40 () JORF 10 mars 2004
+	  - Loi n°2010-201 du 2 mars 2010 - art. 12
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 
 ###### Article 311-4-1
@@ -21062,7 +21058,7 @@ L'extorsion est punie de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 ###### Article 312-2
 
-L'extorsion est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
+L'extorsion est punie de dix ans d'emprisonnement et de 150 000 euros d'amende :
 
 1° Lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui ayant entraîné une incapacité totale de travail
 pendant huit jours au plus ;
@@ -21071,17 +21067,15 @@ pendant huit jours au plus ;
 une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
 3° Lorsqu'elle est commise à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une
-ethnie, une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée.
+ethnie, une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
+
+4° Lorsqu'elle est commise par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
+identifiée ;
+
+5° Lorsqu'elle est commise dans les établissements d'enseignement ou d'éducation ainsi que, lors des entrées ou sorties des
+élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-685 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 40 () JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -21090,6 +21084,11 @@ ethnie, une nation, une race ou une religion déterminée, ou de son orientation
 	  - Code de la route. - art. R212-4 (V)
 	  - Code pénal - art. 312-13 (M)
 	  - Code pénal - art. 312-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 12
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 
 ###### Article 312-3
@@ -23110,13 +23109,20 @@ militaire de la gendarmerie, d'un fonctionnaire de la police nationale, des doua
 toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, en vue d'influencer son
 comportement dans l'exercice de ses fonctions ou de sa mission ; 
 
+3° bis Lorsqu'elle est commise au préjudice du conjoint, d'un ascendant ou d'un descendant en ligne directe ou de toute autre
+personne vivant habituellement au domicile des personnes mentionnées au 3°, en raison des fonctions ou de la qualité de ces
+personnes ; 
+
 4° Lorsqu'elle est commise au préjudice d'un temoin, d'une victime ou d'une partie civile, soit pour l'empêcher de dénoncer
 le fait, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
 
 5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
 marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade ; 
 
-6° Lorsqu'elle est commise à l'encontre d'un lieu classifié au titre du secret de la défense nationale. 
+6° Lorsqu'elle est commise à l'encontre d'un lieu classifié au titre du secret de la défense nationale ;
+
+7° Lorsqu'elle est commise par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
+identifiée. 
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un établissement scolaire,
 éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans
@@ -23135,7 +23141,8 @@ d'emprisonnement et à 75 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 	**Cite**:
 
@@ -26405,22 +26412,12 @@ maintien de l'ordre public.
 ###### Article 431-4
 
 Le fait, pour celui qui n'est pas porteur d'une arme, de continuer volontairement à participer à un attroupement après les
-sommations est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+sommations est puni d'un an d'emprisonnement et de 15 000  € d'amende.
+
+L'infraction définie au premier alinéa est punie de trois ans d'emprisonnement et de 45 000 € d'amende lorsque son auteur
+dissimule volontairement en tout ou partie son visage afin de ne pas être identifié.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -26428,29 +26425,27 @@ sommations est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 	  - Décret n°2006-1411 du 20 novembre 2006 - art. 7 (VT)
 	  - Code de procédure pénale - art. R40-27 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
+
 
 ###### Article 431-5
 
-Le fait de participer à un attroupement en étant porteur d'une arme est puni de trois ans d'emprisonnement et de 45000 euros
+Le fait de participer à un attroupement en étant porteur d'une arme est puni de trois ans d'emprisonnement et de 45 000 €
 d'amende.
 
 Si la personne armée a continué volontairement à participer à un attroupement après les sommations, la peine est portée à
-cinq ans d'emprisonnement et à 75000 euros d'amende.
+cinq ans d'emprisonnement et à 75 000 € d'amende.
+
+Si la personne armée dissimule volontairement en tout ou partie son visage afin de ne pas être identifiée, la peine est
+également portée à cinq ans d'emprisonnement et à 75 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2010-201 du 2 mars 2010 - art. 3
 
 	**Cité par**:
 
@@ -26882,6 +26877,167 @@ groupe de combat ou par l'association ou le groupement maintenu ou reconstitué.
 
 	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+##### Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire
+
+###### Article 431-22
+
+Le fait de pénétrer ou de se maintenir dans l'enceinte d'un établissement d'enseignement scolaire sans y être habilité en
+vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes, dans le but de
+troubler la tranquillité ou le bon ordre de l'établissement, est puni d'un an d'emprisonnement et de 7 500 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 398-1 (M)
+	  - Code de procédure pénale - art. 837 (VD)
+	  - Code pénal - art. 431-23 (V)
+	  - Code pénal - art. 431-24 (V)
+	  - Code pénal - art. 431-25 (V)
+
+
+###### Article 431-23
+
+Lorsque le délit prévu à l'article 431-22 est commis en réunion, les peines sont portées à trois ans d'emprisonnement et 45
+000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 431-22
+
+
+###### Article 431-24
+
+Lorsque le délit prévu à l'article 431-22 est commis par une personne porteuse d'une arme, les peines sont portées à trois
+ans d'emprisonnement et 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code pénal - art. 431-26 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 431-22
+
+
+###### Article 431-25
+
+Lorsque le délit prévu à l'article 431-22 est commis en réunion par une personne porteuse d'une arme, les peines sont portées
+à cinq ans d'emprisonnement et 75 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 431-22
+
+	**Cité par**:
+
+	  - Code pénal - art. 431-27 (V)
+
+
+###### Article 431-26
+
+Les personnes physiques coupables de l'une des infractions prévues par la présente section encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+3° Une peine de travail d'intérêt général ; 
+
+4° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
+
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-31
+
+
+###### Article 431-27
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
+définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'infraction définie à l'article
+431-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30
+	  - Code pénal - art. 431-25
+
+
+##### Section 6 : De l'introduction d'armes dans un établissement scolaire
+
+###### Article 431-28
+
+Le fait pour une personne habilitée ou autorisée à pénétrer dans un établissement scolaire de pénétrer ou de se maintenir
+dans un tel établissement en étant porteuse d'une arme sans motif légitime est puni d'une peine de trois ans d'emprisonnement
+et 45 000 € d'amende. 
+
+Les personnes coupables de l'infraction prévue par le premier alinéa encourent également les peines complémentaires
+suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
+
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+3° Une peine de travail d'intérêt général ; 
+
+4° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 13
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2336-1 (MMN)
+	  - Code de la sécurité intérieure - art. L312-3 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
 
 
 #### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique
@@ -27725,26 +27881,29 @@ autorité ou d'une administration publique des distinctions, des emplois, des ma
 
 ###### Article 433-3
 
-Est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende la menace de commettre un crime ou un délit contre les
+Est punie de deux ans d'emprisonnement et de 30 000 euros d'amende la menace de commettre un crime ou un délit contre les
 personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré,
 d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police
 nationale, des douanes, de l'inspection du travail, de l'administration pénitentiaire ou de toute autre personne dépositaire
 de l'autorité publique, d'un sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou d'un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles
 à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou
-du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur. Ces dispositions sont
-également applicables en cas de menace proférée à l'encontre, et du fait de ces mêmes fonctions, du conjoint, des ascendants
-et des descendants en ligne directe de cette personne ou de toute autre personne vivant habituellement à son domicile.
+du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur. 
 
 Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à
-l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs ou de toute autre personne chargée d'une
-mission de service public ainsi que d'un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la
-victime est apparente ou connue de l'auteur.
+l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs, d'un enseignant ou de tout membre des
+personnels travaillant dans les établissements d'enseignement scolaire ou de toute autre personne chargée d'une mission de
+service public ainsi que d'un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur. 
 
-La peine est portée à cinq ans d'emprisonnement et 75 000 Euros d'amende lorsqu'il s'agit d'une menace de mort ou d'une
-menace d'atteinte aux biens dangereuse pour les personnes.
+Les mêmes peines sont applicables en cas de menace proférée à l'encontre du conjoint, des ascendants ou des descendants en
+ligne directe des personnes mentionnées aux deux premiers alinéas ou de toute autre personne vivant habituellement à leur
+domicile, en raison des fonctions exercées par ces personnes. 
 
-Est puni de dix ans d'emprisonnement et de 150 000 Euros d'amende le fait d'user de menaces, de violences ou de commettre
+La peine est portée à cinq ans d'emprisonnement et 75 000 euros d'amende lorsqu'il s'agit d'une menace de mort ou d'une
+menace d'atteinte aux biens dangereuse pour les personnes. 
+
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait d'user de menaces, de violences ou de commettre
 tout autre acte d'intimidation pour obtenir d'une personne mentionnée au premier ou au deuxième alinéa soit qu'elle
 accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction,
 sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une autorité ou
@@ -27770,17 +27929,14 @@ d'une administration publique des distinctions, des emplois, des marchés ou tou
 	  - Code du travail - art. L8114-2 (V)
 	  - Code électoral - art. L7 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 97 () JORF 6 janvier 2006
+	  - Loi n°2003-239 du 18 mars 2003 - art. 59
+	  - Loi n°2010-201 du 2 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L127-1 (M)
+	  - Code de la construction et de l'habitation. - art. L127-1
 
 
 ##### Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public
