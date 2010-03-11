@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-03-05
+Version Consolidée au 2010-03-12
 
 # Partie législative
 
@@ -4579,21 +4579,9 @@ Les mesures de surveillance applicables à la personne condamnée à un suivi so
 132-44. 
 
 Le condamné peut aussi être soumis par la décision de condamnation ou par le juge de l'application des peines aux obligations
-prévues à l'article 132-45. Il peut également être soumis à une ou plusieurs obligations suivantes : 
-
-1° S'abstenir de paraître en tout lieu ou toute catégorie de lieux spécialement désigné, et notamment les lieux accueillant
-habituellement des mineurs ; 
-
-2° S'abstenir de fréquenter ou d'entrer en relation avec certaines personnes ou certaines catégories de personnes, et
-notamment des mineurs, à l'exception, le cas échéant, de ceux désignés par la juridiction ; 
-
-3° Ne pas exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
+prévues à l'article 132-45.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
 
 	**Cité par**:
 
@@ -4609,14 +4597,14 @@ notamment des mineurs, à l'exception, le cas échéant, de ceux désignés par 
 	  - Code de procédure pénale - art. D147-2 (V)
 	  - Code de procédure pénale - art. D536 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-468 du 17 juin 1998 - art. 1 () JORF 18 juin 1998
+	  - Loi n°2010-242 du 10 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code pénal - art. 132-44 (V)
-	  - Code pénal - art. 132-45 (V)
+	  - Code pénal - art. 132-44
+	  - Code pénal - art. 132-45
 
 
 ###### Article 131-36-3
@@ -8651,9 +8639,10 @@ condamnation ;
 
 7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ; 
 
-8° Ne pas se livrer à l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ; 
+8° Ne pas se livrer à l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ou ne
+pas exercer une activité impliquant un contact habituel avec des mineurs ; 
 
-9° S'abstenir de paraître en tout lieu spécialement désigné ; 
+9° S'abstenir de paraître en tout lieu, toute catégorie de lieux ou toute zone spécialement désignés ; 
 
 10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ; 
 
@@ -8661,7 +8650,8 @@ condamnation ;
 
 12° Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ; 
 
-13° S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction. 
+13° S'abstenir d'entrer en relation avec certaines personnes, dont la victime, ou certaines catégories de personnes, et
+notamment des mineurs, à l'exception, le cas échéant, de ceux désignés par la juridiction ; 
 
 14° Ne pas détenir ou porter une arme ; 
 
@@ -8686,10 +8676,6 @@ la victime, ou par la personne ayant été liée à elle par un pacte civil de s
 de la victime.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
 
 	**Cité par**:
 
@@ -8737,53 +8723,11 @@ de la victime.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 49 () JORF 7 mars 2007
+	  - Loi n°2010-242 du 10 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L3413-1 (V)
-
-
-###### Article 132-45-1
-
-Sauf décision contraire de la juridiction, la personne condamnée à une peine d'emprisonnement assortie du sursis avec mise à
-l'épreuve pour l'une des infractions pour lesquelles le suivi socio-judiciaire est encouru est soumise à une injonction de
-soins dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique, s'il est établi qu'elle
-est susceptible de faire l'objet d'un traitement, après une expertise médicale ordonnée conformément aux dispositions du code
-de procédure pénale. 
-
-En cas d'injonction de soins, le président avertit le condamné qu'aucun traitement ne pourra être entrepris sans son
-consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement prononcé pourra être mis à
-exécution. 
-
-Lorsque la juridiction de jugement prononce une peine privative de liberté qui n'est pas intégralement assortie du sursis
-avec mise à l'épreuve, le président informe le condamné qu'il aura la possibilité de commencer un traitement pendant
-l'exécution de cette peine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-	  - CODE DE PROCEDURE PENALE - art. D129 (V)
-	  - CODE DE PROCEDURE PENALE - art. D136 (V)
-	  - CODE DE PROCEDURE PENALE - art. D138 (V)
-	  - CODE DE PROCEDURE PENALE - art. D142 (V)
-	  - CODE DE PROCEDURE PENALE - art. D147-2 (V)
-	  - Code de la santé publique - art. L3711-1 (V)
-	  - Code de procédure pénale - art. R60-1 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°2007-1198 du 10 août 2007 - art. 8 () JORF 11 août 2007 en vigueur le 1er mars 2008
-
-	**Abrogé par**:
-
-	  - Loi n°2010-242 du 10 mars 2010 - art. 10
+	  - Code de la santé publique - art. L3413-1
 
 
 ###### Article 132-46
