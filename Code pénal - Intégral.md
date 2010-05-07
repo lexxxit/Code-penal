@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-03-12
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -11091,17 +11091,17 @@ décision judiciaire ou administrative ;
 stupéfiants ; 
 
 3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
-L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+L. 211-11 du code rural et de la pêche maritime, pour prévenir le danger présenté par l'animal ; 
 
 4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
-rural ; 
+rural et de la pêche maritime ; 
 
 5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
 lorsqu'elle est obligatoire ; 
 
-6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
-n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
-211-16 du même code ; 
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural et de la
+pêche maritime qui n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II
+de l'article L. 211-16 du même code ; 
 
 7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
 
@@ -11110,9 +11110,9 @@ avec deux ou plusieurs des circonstances mentionnées aux 1° et suivants du pr�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-582 du 20 juin 2008 - art. 13
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -12651,17 +12651,17 @@ décision judiciaire ou administrative ;
 stupéfiants ; 
 
 3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
-L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+L. 211-11 du code rural et de la pêche maritime, pour prévenir le danger présenté par l'animal ; 
 
 4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
-rural ; 
+rural et de la pêche maritime ; 
 
 5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
 lorsqu'elle est obligatoire ; 
 
-6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
-n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
-211-16 du même code ; 
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural et de la
+pêche maritime qui n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II
+de l'article L. 211-16 du même code ; 
 
 7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
 
@@ -12670,9 +12670,9 @@ de la personne a été commise avec deux ou plusieurs des circonstances mentionn
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-582 du 20 juin 2008 - art. 13
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -12809,17 +12809,17 @@ décision judiciaire ou administrative ;
 stupéfiants ; 
 
 3° Le propriétaire ou le détenteur du chien n'avait pas exécuté les mesures prescrites par le maire, conformément à l'article
-L. 211-11 du code rural, pour prévenir le danger présenté par l'animal ; 
+L. 211-11 du code rural et de la pêche maritime, pour prévenir le danger présenté par l'animal ; 
 
 4° Le propriétaire ou le détenteur du chien n'était pas titulaire du permis de détention prévu à l'article L. 211-14 du code
-rural ; 
+rural et de la pêche maritime ; 
 
 5° Le propriétaire ou le détenteur du chien ne justifie pas d'une vaccination antirabique de son animal en cours de validité
 lorsqu'elle est obligatoire ; 
 
-6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural qui
-n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II de l'article L.
-211-16 du même code ; 
+6° Il s'agissait d'un chien de la première ou de la deuxième catégorie prévues à l'article L. 211-12 du code rural et de la
+pêche maritime qui n'était pas muselé ou tenu en laisse par une personne majeure conformément aux dispositions prévues au II
+de l'article L. 211-16 du même code ; 
 
 7° Il s'agissait d'un chien ayant fait l'objet de mauvais traitements de la part de son propriétaire ou de son détenteur. 
 
@@ -12828,9 +12828,9 @@ de la personne a été commise avec deux ou plusieurs des circonstances mentionn
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-582 du 20 juin 2008 - art. 13
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -38534,27 +38534,19 @@ brassard tricolore.
 
 Les prescriptions relatives aux expériences ou recherches scientifiques ou expérimentales sur les animaux mentionnées à
 l'article 511-2 sont fixées par le décret n° 87-848 du 19 octobre 1987 pris pour l'application de cet article et du troisième
-alinéa de l'article L. 214-3 du code rural.
+alinéa de l'article L. 214-3 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°87-848 1987-10-19
-	  - Code pénal - art. 511-2 (M)
-	  - Code rural L214-3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°87-848 du 19 octobre 1987 (Ab)
+	  - Code pénal - art. 511-2 (V)
+	  - Code rural - art. L214-3 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
