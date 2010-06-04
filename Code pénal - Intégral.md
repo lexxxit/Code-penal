@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-05
 
 # Partie législative
 
@@ -35270,34 +35270,6 @@ télécommunications. "
 	**Cite**:
 
 	  - Code pénal - art. 432-13 (M)
-
-
-###### Article 725-5
-
-Les dispositions des articles 433-20 et 433-21 ne sont applicables qu'aux personnes ayant le statut civil de droit commun.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 16 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 433-20
-	  - Code pénal - art. 433-21
 
 
 ###### Article 725-6
