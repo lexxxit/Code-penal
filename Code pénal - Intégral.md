@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-06-05
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -36407,63 +36407,32 @@ ou un état de l'actif mobilier et immobilier et du passif.
 
 ###### Article R131-13
 
-Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il consulte le conseil départemental de
-prévention, qui a trois mois pour donner son avis. Il communique ensuite la demande d'habilitation au président du tribunal.
+Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il peut, notamment, consulter le conseil
+départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les
+violences faites aux femmes qui dispose alors d'un délai de deux mois pour donner son avis. Il communique ensuite au
+procureur de la République la demande d'habilitation et les éléments d'information recueillis par lui.
 
-L'assemblée générale des magistrats du siège et du parquet du tribunal statue sur la demande d'habilitation, après rapport du
-juge de l'application des peines et à la majorité des membres présents.
+Au vu de l'avis du procureur de la République ou un mois au plus tôt après lui avoir communiqué la demande d'habilitation, le
+juge de l'application des peines statue sur celle-ci.
 
-La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les tribunaux où sa constitution
-est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de grande instance, au
+procureur de la République et au conseil départemental mentionné au premier alinéa. Il informe de cette décision l'assemblée
+générale des magistrats du siège et du parquet du tribunal ou, dans les tribunaux où sa constitution est obligatoire, la
+commission restreinte, lors de sa prochaine réunion.
 
-L'habilitation accordée est valable pour une durée de trois ans.
+L'habilitation accordée est valable pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code pénal - art. R712-4 (V)
 	  - Code pénal - art. R722-3 (V)
 	  - Code rural - art. R661-33 (V)
-
-
-###### Article R131-14
-
-En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
-République, habiliter provisoirement la personne morale.
-
-L'habilitation provisoire est valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°2007-1388 2007-09-26 art. 2 I, III JORF 28 septembre 2007
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-671 du 18 juin 2010 - art. 2
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R416 (V)
 
 
 ###### Article R131-15
@@ -36493,10 +36462,10 @@ La personne morale habilitée porte à la connaissance du juge de l'application 
 
 ###### Article R131-16
 
-L'habilitation peut être retirée selon la procédure prévue par l'article R. 131-13.
-
-Le procureur de la République peut saisir l'assemblée générale des magistrats du siège et du parquet du tribunal ou la
-commission restreinte aux fins de retrait de l'habilitation.
+Le président du tribunal de grande instance ou le procureur de la République peut saisir l'assemblée générale des magistrats
+du siège et du parquet ou, dans les tribunaux où sa constitution est obligatoire, la commission restreinte, aux fins de
+retrait de l'habilitation. L'assemblée générale ou la commission statue à la majorité des membres présents au vu des
+observations du représentant de la personne morale concernée et après rapport du juge de l'application des peines. 
 
 En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la
 République, retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission
@@ -36504,17 +36473,9 @@ restreinte.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 
 ##### B. : De l'établissement de la liste des travaux d'intérêt général
@@ -36523,15 +36484,15 @@ restreinte.
 
 Les collectivités publiques, les établissements publics, les personnes morales de droit privé chargées d'une mission de
 service public et les associations qui désirent faire inscrire des travaux d'intérêt général sur la liste prévue par
-l'article R. 131-36 (1) en font la demande au juge de l'application des peines du ressort dans lequel ils envisagent de faire
-exécuter ces travaux.
+l'article 131-36 en font la demande au juge de l'application des peines du ressort dans lequel ils envisagent de faire
+exécuter ces travaux. 
 
 Pour les collectivités publiques et les établissements publics, la demande mentionne les nom, prénoms, date et lieu de
-naissance ainsi que les fonctions des représentants qualifiés.
+naissance ainsi que les fonctions des représentants qualifiés. 
 
 Pour les personnes morales de droit privé qui ne sont pas encore habilitées, la demande prévue par le premier alinéa du
 présent article est jointe à la demande d'habilitation. Pour les personnes morales de droit privé déjà habilitées, elle
-comporte mention de la date de cette habilitation.
+comporte mention de la date de cette habilitation sans qu'il soit nécessaire de demander une nouvelle habilitation. 
 
 A la demande est annexée une note indiquant la nature et les modalités d'exécution des travaux proposés, les nom, prénoms,
 date et lieu de naissance et qualité des personnes chargées de l'encadrement technique ainsi que le nombre de postes de
@@ -36539,22 +36500,13 @@ travail susceptibles d'être offerts.
 
 **Nota:**
 
-(1) : Lire 131-36.
+
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 2007-09-26 art. 2 I, IV JORF 28 septembre 2007
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 	**Cité par**:
 
@@ -36562,27 +36514,20 @@ travail susceptibles d'être offerts.
 
 	**Cite**:
 
-	  - Code pénal - art. R131-36 (T)
+	  - Code pénal - art. 131-36 (V)
 
 
 ###### Article R131-18
 
 Le juge de l'application des peines procède à toutes diligences et consultations utiles. A cette fin, il adresse copie de la
-demande au conseil départemental de prévention de la délinquance.
+demande au conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les
+dérives sectaires et les violences faites aux femmes.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 	**Cité par**:
 
@@ -36595,21 +36540,18 @@ demande au conseil départemental de prévention de la délinquance.
 
 Après que le procureur de la République a donné son avis ou dix jours au plus tôt après l'avoir saisi, le juge de
 l'application des peines prend sa décision en tenant compte de l'utilité sociale des travaux proposés et des perspectives
-d'insertion sociale ou professionnelle qu'ils offrent aux condamnés.
+d'insertion sociale ou professionnelle qu'ils offrent aux condamnés. Il communique sa décision au président du tribunal de
+grande instance, au procureur de la République et au conseil départemental mentionné à l'article R. 131-18.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. R131-18
 
 	**Cité par**:
 
@@ -36643,25 +36585,14 @@ La radiation d'un travail inscrit sur la liste peut être prononcée selon la pr
 
 ###### Article R131-21
 
-Les décisions relatives à l'habilitation provisoire des associations et à l'établissement de la liste des travaux d'intérêt
-général sont communiquées au président du tribunal de grande instance et au procureur de la République.
-
 Toutes les décisions relatives à l'habilitation ou au retrait d'habilitation des associations sont portées à la connaissance
 du garde des sceaux et du préfet par le juge de l'application des peines.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 2 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 2
 
 
 ###### Article R131-22
@@ -38712,40 +38643,27 @@ les contraventions de la 1re classe.
 Hors le cas prévu par l'article R. 625-3, le fait, par maladresse, imprudence, inattention, négligence ou manquement à une
 obligation de sécurité ou de prudence imposée par la loi ou le règlement, dans les conditions et selon les distinctions
 prévues à l'article 121-3, de porter atteinte à l'intégrité d'autrui sans qu'il en résulte d'incapacité totale de travail est
-puni de l'amende prévue pour les contraventions de la 2e classe.
+puni de l'amende prévue pour les contraventions de la 2e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
+confiscation de la chose qui a servi à commettre l'infraction. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
 confiscation de la chose qui a servi à commettre l'infraction.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi à commettre l'infraction.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2001-883 du 20 septembre 2001 - art. 2 () JORF 27 septembre 2001
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 121-3 (M)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 121-3
 	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. R625-3 (M)
+	  - Code pénal - art. R625-3
 
 
 ##### Section 2 : De la divagation d'animaux dangereux
@@ -38862,27 +38780,16 @@ l'animal à une oeuvre de protection animale reconnue d'utilité publique ou dé
 Le fait, par une personne titulaire de l'une des autorisations mentionnées à l'article R. 226-3, de ne pas tenir le registre
 prévu par le deuxième alinéa de l'article R. 226-10 est puni de l'amende prévue pour les contraventions de la 3e classe.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. R226-10 (M)
-	  - Code pénal - art. R226-3 (M)
+	  - Code pénal - art. R226-10
+	  - Code pénal - art. R226-3
 
 
 #### Chapitre IV : Des contraventions de la 4e classe contre les personnes
@@ -38932,40 +38839,31 @@ présent article est puni des mêmes peines.
 ###### Article R624-2
 
 Le fait de diffuser sur la voie publique ou dans des lieux publics des messages contraires à la décence est puni de l'amende
-prévue pour les contraventions de la 4e classe.
+prévue pour les contraventions de la 4e classe. 
 
 Est puni de la même peine le fait, sans demande préalable du destinataire, d'envoyer ou de distribuer à domicile de tels
-messages.
+messages. 
 
 Les personnes coupables des contraventions prévues au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 Le fait de faciliter sciemment, par aide ou assistance, la préparation ou la consommation des contraventions prévues au
-présent article est puni des mêmes peines.
+présent article est puni des mêmes peines. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 ##### Section 3 : De la diffamation et de l'injure non publiques présentant un caractère raciste ou discriminatoire
@@ -39051,31 +38949,23 @@ prévues par ces articles, les peines complémentaires suivantes :
 
 ###### Article R624-6
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles R. 624-3 et R. 624-4.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles R. 624-3 et R. 624-4 encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la
+peine de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le
+produit.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. R624-3 (M)
-	  - Code pénal - art. R624-4 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. R624-3
+	  - Code pénal - art. R624-4
 
 
 ##### Section 4 : Du manquement à l'obligation d'assiduité scolaire
@@ -39091,11 +38981,6 @@ est puni de l'amende prévue pour les contraventions de la 4e classe.
 Le fait de faciliter, par aide ou assistance, la commission de la contravention prévue au présent article est puni des mêmes
 peines.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -39104,13 +38989,9 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 	  - Code de l'éducation - art. R131-19 (VD)
 	  - Code de l'éducation - art. R131-7 (V)
 
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2006-583 du 23 mai 2006 - art. 6 () JORF 24 mai 2006
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Liens**:
 
@@ -39118,8 +38999,8 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 #### Chapitre V : Des contraventions de la 5e classe contre les personnes
@@ -39274,31 +39155,22 @@ plus ;
 
 ###### Article R625-5
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles R. 625-2 et R. 625-3.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi à commettre l'infraction.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies aux articles R. 625-2 et R. 625-3 encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la
+peine de confiscation de la chose qui a servi à commettre l'infraction.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. R625-2 (M)
-	  - Code pénal - art. R625-3 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. R625-2
+	  - Code pénal - art. R625-3
 
 
 ###### Article R625-6
@@ -39329,39 +39201,30 @@ La récidive des contraventions prévues aux articles R. 625-2 et R. 625-3 est r
 
 La provocation non publique à la discrimination, à la haine ou à la violence à l'égard d'une personne ou d'un groupe de
 personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une
-nation, une race ou une religion déterminée est punie de l'amende prévue pour les contraventions de la 5e classe.
+nation, une race ou une religion déterminée est punie de l'amende prévue pour les contraventions de la 5e classe. 
 
 Est punie de la même peine la provocation non publique à la haine ou à la violence à l'égard d'une personne ou d'un groupe de
 personnes à raison de leur sexe, de leur orientation sexuelle ou de leur handicap, ainsi que la provocation non publique, à
-l'égard de ces mêmes personnes, aux discriminations prévues par les articles 225-2 et 432-7.
+l'égard de ces mêmes personnes, aux discriminations prévues par les articles 225-2 et 432-7. 
 
 Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
-2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
-3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
-4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive des contraventions prévues au présent article est reprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
 
 	**Cité par**:
 
@@ -39371,15 +39234,16 @@ La récidive des contraventions prévues au présent article est reprimée confo
 
 	**Modifié par**:
 
-	  - Décret n°2005-284 du 25 mars 2005 - art. 3 () JORF 30 mars 2005
-	  - Décret n°2005-284 du 25 mars 2005 - art. 4 () JORF 30 mars 2005
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code pénal - art. 225-2
+	  - Code pénal - art. 432-7
 
 
 ##### Section 5 : De la violation des dispositions réglementant le commerce de certains matériels susceptibles d'être utilisés pour porter atteinte à l'intimité de la vie privée
@@ -39388,31 +39252,18 @@ La récidive des contraventions prévues au présent article est reprimée confo
 
 Le fait, par une personne titulaire de l'une des autorisations mentionnées à l'article R. 226-3, de proposer, céder, louer ou
 vendre un appareil figurant sur la liste visée à l'article R. 226-1 en violation des dispositions du premier alinéa de
-l'article R. 226-10 est puni de l'amende prévue pour les contraventions de la 5e classe.
+l'article R. 226-10 est puni de l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
 
 	**Cité par**:
 
@@ -39420,15 +39271,19 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Décret n°2006-1411 du 20 novembre 2006 - art. 2 (VT)
 	  - Code de procédure pénale - art. R40-25 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
+
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
-	  - Code pénal - art. R226-1 (M)
-	  - Code pénal - art. R226-10 (M)
-	  - Code pénal - art. R226-3 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code pénal - art. R226-1
+	  - Code pénal - art. R226-10
+	  - Code pénal - art. R226-3
 
 
 ##### Section 6 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques
@@ -39557,26 +39412,18 @@ leur conservation est interdite.
 
 ###### Article R625-13
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-contraventions prévues par la présente section.
-
 La récidive des contraventions prévues par la présente section est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29
-
-	**Créé par**:
-
-	  - Décret n°2005-1309 du 20 octobre 2005 - art. 90 (T)
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ### Titre III : Des contraventions contre les biens
@@ -39589,29 +39436,20 @@ La récidive des contraventions prévues par la présente section est réprimée
 
 Hors le cas prévu par l'article 322-13, la menace de commettre une destruction, une dégradation ou une détérioration
 n'entraînant qu'un dommage léger, lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou tout autre
-objet, est punie de l'amende prévue pour les contraventions de la 1re classe.
+objet, est punie de l'amende prévue pour les contraventions de la 1re classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
 2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -39619,9 +39457,7 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 322-13 (MMN)
+	  - Code pénal - art. 322-13
 
 
 #### Chapitre II : Des contraventions de la 2e classe contre les biens
@@ -39634,27 +39470,18 @@ Hors le cas prévu par l'article R. 635-8, est puni de l'amende prévue pour les
 déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à l'exception des emplacements désignés à cet effet
 par l'autorité administrative compétente, des ordures, déchets, déjections, matériaux, liquides insalubres ou tout autre
 objet de quelque nature qu'il soit, y compris en urinant sur la voie publique, si ces faits ne sont pas accomplis par la
-personne ayant la jouissance du lieu ou avec son autorisation.
+personne ayant la jouissance du lieu ou avec son autorisation. 
 
 Est puni de la même peine le fait de déposer ou d'abandonner sur la voie publique des ordures, déchets, matériaux ou tout
 autre objet de quelque nature qu'il soit, en vue de leur enlèvement par le service de collecte, sans respecter les conditions
 fixées par l'autorité administrative compétente, notamment en matière de jours et d'horaires de collecte ou de tri des
 ordures.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
 
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 4 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Liens**:
 
@@ -39668,9 +39495,7 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. R635-8 (M)
+	  - Code pénal - art. R635-8
 
 
 #### Chapitre III : Des contraventions de la 3e classe contre les biens
@@ -39750,40 +39575,6 @@ de la 3e classe.
 	  - Code pénal - art. R633-4 (Ab)
 
 
-###### Article R633-4
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles R. 633-1, R. 633-2 et R. 633-3.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Créé par**:
-
-	  - Décret n°93-726 1993-03-29 JORF 30 mars 1993 en vigueur le 1er mars 1994 rectificatif JORF 26 février 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2010-671 du 18 juin 2010 - art. 4
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-41
-	  - Code pénal - art. R633-1
-	  - Code pénal - art. R633-2
-	  - Code pénal - art. R633-3
-
-
 ##### Section 2 : De la violation des dispositions concernant les manifestations publiques en vue de la vente ou de l'échange de certains objets mobiliers
 
 ###### Article R633-5
@@ -39792,28 +39583,17 @@ Le fait, par une personne mentionnée au deuxième alinéa de l'article 321-7, d
 l'article R. 321-9, conformément aux prescriptions de l'article R. 321-10, est puni de l'amende prévue pour les
 contraventions de la 3e classe.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 134-41.
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 321-7 (M)
-	  - Code pénal - art. R321-10 (V)
-	  - Code pénal - art. R321-9 (V)
-	  - Code pénal 321-7, R321-9, R321-10, 121-2, 134-41
+	  - Code pénal - art. 321-7
+	  - Code pénal - art. R321-10
+	  - Code pénal - art. R321-9
 
 
 #### Chapitre IV : Des contraventions de la 4e classe contre les biens
@@ -39824,29 +39604,20 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 Hors le cas prévu par l'article 322-13, la menace de commettre une destruction, une dégradation ou une détérioration ne
 présentant pas de danger pour les personnes, lorsqu'elle est soit réitérée, soit matérialisée par un écrit, une image ou tout
-autre objet, est punie de l'amende prévue pour les contraventions de la 4e classe.
+autre objet, est punie de l'amende prévue pour les contraventions de la 4e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
 2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -39854,9 +39625,7 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 322-13 (MMN)
+	  - Code pénal - art. 322-13
 
 
 #### Chapitre V : Des contraventions de la 5e classe contre les biens
@@ -39866,48 +39635,35 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 ###### Article R635-1
 
 La destruction, la dégradation ou la détérioration volontaires d'un bien appartenant à autrui dont il n'est résulté qu'un
-dommage léger est punie de l'amende prévue pour les contraventions de la 5e classe.
+dommage léger est punie de l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
+conduite en dehors de l'activité professionnelle ; 
 
-2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
-3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+3° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
 4° Le retrait du permis de chasser, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
-plus ;
+plus ; 
 
-5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
-6° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+6° Le travail d'intérêt général pour une durée de vingt à cent vingt heures. 
 
 Le fait de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la contravention prévue au
-présent article est puni des mêmes peines.
+présent article est puni des mêmes peines. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
 
 	**Cité par**:
 
@@ -39916,12 +39672,16 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code de procédure pénale - art. R15-33-29-3 (V)
 	  - Code de procédure pénale - art. R40-25 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
+
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ##### Section 2 : De la vente forcée par correspondance
@@ -39930,41 +39690,32 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 Le fait d'adresser à une personne, sans demande préalable de celle-ci, un objet quelconque accompagné d'une correspondance
 indiquant que cet objet peut être accepté contre versement d'un prix fixé ou renvoyé à son expéditeur, même si ce renvoi peut
-être fait sans frais pour le destinataire, est puni de l'amende prévue pour les contraventions de la 5e classe.
+être fait sans frais pour le destinataire, est puni de l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
 1° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, les peines
+suivantes : 
 
-Les peines encourues par les personnes morales sont :
+1° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
-
-3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_ASSOCIE: Code de la consommation R122-1 *prohibition des envois forcés - ventes sans commande préalable*
-	  - PILOTE_SUIVEUR: Code de la consommation - art. R122-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -39972,12 +39723,16 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code de la consommation - art. R122-1 (Ab)
 	  - Code de la consommation - art. R132-3 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R122-1 (Ab)
+
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ##### Section 3 : De la violation des dispositions réglementant la vente ou l'échange de certains objets mobiliers
@@ -40062,36 +39817,6 @@ prévue pour les contraventions de la 5e classe.
 	  - Code pénal - art. R635-6 (Ab)
 
 
-###### Article R635-6
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies aux articles R. 635-3, R. 635-4 et R. 635-5.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
-	**Abrogé par**:
-
-	  - Décret n°2010-671 du 18 juin 2010 - art. 4
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-41
-	  - Code pénal - art. R635-3
-	  - Code pénal - art. R635-4
-	  - Code pénal - art. R635-5
-
-
 ###### Article R635-7
 
 La récidive des contraventions prévues aux articles R. 635-3, R. 635-4 et R. 635-5 est réprimée conformément aux articles
@@ -40122,31 +39847,22 @@ Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de 
 déverser, en lieu public ou privé, à l'exception des emplacements désignés à cet effet par l'autorité administrative
 compétente, soit une épave de véhicule, soit des ordures, déchets, déjections, matériaux, liquides insalubres ou tout autre
 objet de quelque nature qu'il soit, lorsque ceux-ci ont été transportés avec l'aide d'un véhicule, si ces faits ne sont pas
-accomplis par la personne ayant la jouissance du lieu ou avec son autorisation.
+accomplis par la personne ayant la jouissance du lieu ou avec son autorisation. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 4 () JORF 28 septembre 2007
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -40164,9 +39880,9 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
+	  - Code pénal - art. 132-11 (V)
 	  - Code pénal - art. 132-15 (V)
 
 
@@ -40224,32 +39940,23 @@ administrative compétente, est puni de l'amende prévue pour les contraventions
 
 Le fait d'accepter, de détenir ou d'utiliser tout signe monétaire non autorisé ayant pour objet de remplacer les pièces de
 monnaie ou les billets de banque ayant cours légal en France est puni de l'amende prévue pour les contraventions de la 2e
-classe.
+classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La peine de confiscation est obligatoire pour les signes monétaires visés au premier alinéa du présent article en application
 des articles 131-21 et 131-48.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -40257,10 +39964,10 @@ des articles 131-21 et 131-48.
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 131-48 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 131-48
 
 
 ###### Article R642-3
@@ -40268,20 +39975,11 @@ des articles 131-21 et 131-48.
 Le fait de refuser de recevoir des pièces de monnaie ou des billets de banque ayant cours légal en France selon la valeur
 pour laquelle ils ont cours est puni de l'amende prévue pour les contraventions de la 2e classe.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -40289,40 +39987,31 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 ###### Article R642-4
 
 Le fait d'utiliser comme support d'une publicité quelconque des pièces de monnaie ou des billets de banque ayant cours légal
 en France ou émis par les institutions étrangères ou internationales habilitées à cette fin est puni de l'amende prévue pour
-les contraventions de la 2e classe.
+les contraventions de la 2e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La peine de confiscation est obligatoire pour les signes monétaires visés au premier alinéa du présent article en application
 des articles 131-21 et 131-48. Les dispositions du troisième alinéa de l'article 442-13 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -40330,11 +40019,11 @@ des articles 131-21 et 131-48. Les dispositions du troisième alinéa de l'artic
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-21 (V)
 	  - Code pénal - art. 131-41 (V)
 	  - Code pénal - art. 131-48 (V)
-	  - Code pénal - art. 442-13 (M)
+	  - Code pénal - art. 442-13 (V)
 
 
 #### Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique
@@ -40346,35 +40035,26 @@ des articles 131-21 et 131-48. Les dispositions du troisième alinéa de l'artic
 Hors les cas prévus par l'article 433-15, est puni de l'amende prévue pour les contraventions de la 3e classe le fait de
 porter publiquement un costume ou un uniforme ou de faire usage d'un insigne ou d'un document présentant avec des costumes,
 uniformes, insignes ou documents réglementés par l'autorité publique une ressemblance de nature à causer une méprise dans
-l'esprit du public.
+l'esprit du public. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 433-15 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 433-15
 
 
 ##### Section 2 : De l'utilisation de poids ou mesures différents de ceux établis par les lois et règlements en vigueur
@@ -40382,34 +40062,25 @@ Les peines encourues par les personnes morales sont :
 ###### Article R643-2
 
 L'utilisation de poids ou mesures différents de ceux qui sont établis par les lois et règlements en vigueur est punie de
-l'amende prévue pour les contraventions de la 3e classe.
+l'amende prévue pour les contraventions de la 3e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 #### Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique
@@ -40486,34 +40157,25 @@ confiscation de la chose qui a servi ou était destinée à commettre l'infracti
 
 Le fait, sans autorisation ou déclaration régulière, d'offrir, de mettre en vente ou d'exposer en vue de la vente des
 marchandises ou d'exercer toute autre profession dans les lieux publics en violation des dispositions réglementaires sur la
-police de ces lieux est puni de l'amende prévue pour les contraventions de la 4e classe.
+police de ces lieux est puni de l'amende prévue pour les contraventions de la 4e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
 confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 #### Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique
@@ -40528,27 +40190,22 @@ emblème rappelant les uniformes, les insignes ou les emblèmes qui ont été po
 organisation déclarée criminelle en application de l'article 9 du statut du tribunal militaire international annexé à
 l'accord de Londres du 8 août 1945, soit par une personne reconnue coupable par une juridiction française ou internationale
 d'un ou plusieurs crimes contre l'humanité prévus par les articles 211-1 à 212-3 ou mentionnés par la loi n° 64-1326 du 26
-décembre 1964.
+décembre 1964. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
-suivantes :
+suivantes : 
 
-1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ;
+1° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus, une arme soumise à autorisation ; 
 
-2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
 
-3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
+3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
 
-4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures.
+4° Le travail d'intérêt général pour une durée de vingt à cent vingt heures. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
@@ -40556,26 +40213,22 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 	**Cite**:
 
-	  - Loi n°64-1326 1964-12-26
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
-	  - Code pénal 211-1 à 212-3, 121-2, 131-41, 132-11, 132-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Loi n°64-1326 du 26 décembre 1964
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code pénal - art. 211-1
 
 	**Cité par**:
 
 	  - Décret n°2001-583 du 5 juillet 2001 - art. 2 (VT)
 	  - Décret n°2006-1411 du 20 novembre 2006 - art. 2 (VT)
 	  - Code de procédure pénale - art. R40-25 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 
 ##### Section 2 : Des dessins, levés ou enregistrements effectués sans autorisation dans une zone d'interdiction fixée par l'autorité militaire
@@ -40709,31 +40362,20 @@ l'amende prévue pour les contraventions de la 5e classe.
 Le fait de procéder ou faire procéder à l'inhumation d'un individu décédé sans que cette inhumation ait été préalablement
 autorisée par l'officier public, dans le cas où une telle autorisation est prescrite, ou en violation des dispositions
 législatives et réglementaires relatives aux délais prévus en cette matière est puni de l'amende prévue par les
-contraventions de la 5e classe.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
+contraventions de la 5e classe. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 	**Cité par**:
 
@@ -40745,31 +40387,22 @@ La récidive de la contravention prévue au présent article est réprimée conf
 ###### Article R645-7
 
 Le fait, pour une personne ayant produit, dans une contestation judiciaire, un titre, une pièce ou un mémoire, de le
-soustraire, de quelque manière que ce soit, est puni de l'amende prévue pour les contraventions de la 5e classe.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41.
+soustraire, de quelque manière que ce soit, est puni de l'amende prévue pour les contraventions de la 5e classe. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ##### Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes
@@ -40778,19 +40411,14 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 L'usage d'un document délivré par une administration publique aux fins de constater un droit, une identité ou une qualité ou
 d'accorder une autorisation, lorsque les mentions invoquées par l'intéressé sont devenues incomplètes ou inexactes, est puni
-de l'amende prévue pour les contraventions de la 5e classe.
+de l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
@@ -40803,13 +40431,16 @@ La récidive de la contravention prévue au présent article est réprimée conf
 	  - Code rural - art. L205-10 (V)
 	  - Code rural et de la pêche maritime - art. L205-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ##### Section 5 bis : De l'usurpation de fonction ou de titre de délégué ou de médiateur du procureur de la République
@@ -40820,22 +40451,15 @@ Le fait d'accomplir les actes réservés aux délégués ou médiateurs du procu
 ces fonctions, sans y avoir été habilité ou après avoir fait l'objet d'un retrait d'habilitation, est puni de l'amende prévue
 pour les contraventions de la 5e classe.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-contraventions définies au présent article.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29
-
-	**Créé par**:
-
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 4 () JORF 29 septembre 2004
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 121-2
 
 
 ##### Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés
@@ -40845,53 +40469,39 @@ contraventions définies au présent article.
 Le fait, par une personne ayant reçu des pièces de monnaie ou billets de banque ayant cours légal en France contrefaits ou
 falsifiés, de refuser de les remettre ou de les faire remettre à la Banque de France ou à l'établissement public la Monnaie
 de Paris, conformément aux prescriptions de l'article 38-2 du code des instruments monétaires et des médailles, est puni de
-l'amende prévue pour les contraventions de la 5e classe.
+l'amende prévue pour les contraventions de la 5e classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La peine de confiscation est obligatoire pour les signes monétaires visés au premier alinéa du présent article en application
-des articles 131-21 et 131-48. Les dispositions du troisième alinéa de l'article 442-13 sont applicables.
+des articles 131-21 et 131-48. Les dispositions du troisième alinéa de l'article 442-13 sont applicables. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
-
 	**Modifié par**:
 
-	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
-
-	**Cite**:
-
-	  - Code des instruments monétaires et des médailles - art. 38-2 (Ab)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 131-48 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
-	  - Code pénal - art. 442-13 (M)
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R162-4 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 131-48
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code pénal - art. 442-13
 
 
 ##### Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances
@@ -40899,86 +40509,69 @@ La récidive de la contravention prévue au présent article est réprimée conf
 ###### Article R645-10
 
 L'altération des timbres-poste ou des timbres émis par l'administration des finances dans le but de les soustraire à
-l'oblitération et de permettre ainsi leur réutilisation est punie de l'amende prévue pour les contraventions de la 5e classe.
+l'oblitération et de permettre ainsi leur réutilisation est punie de l'amende prévue pour les contraventions de la 5e
+classe. 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La peine de confiscation est obligatoire pour les timbres visés au premier alinéa du présent article en application des
-articles 131-21 et 131-48.
+articles 131-21 et 131-48. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 131-48 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 131-48
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ###### Article R645-11
 
 La contrefaçon ou la falsification des timbres-poste ou autres valeurs fiduciaires postales périmés, français ou étrangers,
 ainsi que l'usage de ces timbres ou valeurs fiduciaires contrefaits ou falsifiés, sont punis de l'amende prévue pour les
-contraventions de la 5e classe.
+contraventions de la 5e classe. 
 
 Les personnes coupables des contraventions prévues au présent article encourent également la peine complémentaire de
-confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des
-infractions définies au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
 La peine de confiscation est obligatoire pour les timbres et autres valeurs fiduciaires postales visés au premier alinéa du
-présent article en application des articles 131-21 et 131-48.
+présent article en application des articles 131-21 et 131-48. 
 
 La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 131-48 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 131-48
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ##### Section 8 : De l'intrusion dans les établissements scolaires
@@ -41348,24 +40941,20 @@ l'association. "
 
 ###### Article R712-4
 
-La deuxième phrase du premier alinéa de l'article R. 131-13 est rédigée comme suit :
+La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit : 
 
-" Il consulte, lorsqu'ils existent, les organismes ou services locaux de prévention de la délinquance qui ont trois mois pour
-donner leur avis. "
+" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de première instance, au
+procureur de la République et aux organismes ou services locaux de prévention de la délinquance. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2010-671 du 18 juin 2010 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. R131-13 (M)
+	  - Code pénal - art. R131-13
 
 
 ###### Article R712-5
@@ -41593,24 +41182,20 @@ lesquelles la juridiction a prononcé l'interdiction de conduire. "
 
 ###### Article R722-3
 
-La deuxième phrase du premier alinéa de l'article R. 131-13 est rédigé comme suit :
+La première phrase du troisième alinéa de l'article R. 131-13 est rédigée comme suit : 
 
-" Il consulte, lorsqu'ils existent, les organismes ou services locaux de prévention de la délinquance, qui ont trois mois
-pour donner leur avis. "
+" Le juge de l'application des peines communique sa décision d'habilitation au président du tribunal de première instance, au
+procureur de la République et aux organismes ou services locaux de prévention de la délinquance. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2010-671 du 18 juin 2010 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. R131-13 (M)
+	  - Code pénal - art. R131-13
 
 
 ###### Article R722-4
