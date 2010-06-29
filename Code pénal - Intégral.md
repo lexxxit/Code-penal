@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-06-30
 
 # Partie législative
 
@@ -28438,20 +28438,20 @@ code du travail pour une durée de cinq ans.
 
 ###### Article 433-18
 
-Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait, par le fondateur ou le dirigeant de droit ou de fait
-d'une entreprise qui poursuit un but lucratif, de faire figurer ou de laisser figurer, dans une publicité réalisée dans
-l'intérêt de l'entreprise qu'il se propose de fonder ou qu'il dirige :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, par le fondateur ou le dirigeant de droit ou de
+fait d'une entreprise qui poursuit un but lucratif, de faire figurer ou de laisser figurer, dans une publicité réalisée dans
+l'intérêt de l'entreprise qu'il se propose de fonder ou qu'il dirige : 
 
 1° Le nom, avec mention de sa qualité, d'un membre ou d'un ancien membre du Gouvernement, du Parlement, du Parlement
 européen, d'une assemblée délibérante d'une collectivité territoriale, du Conseil constitutionnel, du Conseil d'Etat, du
-Conseil économique et social, du Conseil supérieur de la magistrature, de la Cour de cassation, de la Cour des comptes, de
-l'Institut de France, du conseil de direction de la Banque de France ou d'un organisme collégial investi par la loi d'une
-mission de contrôle ou de conseil ;
+Conseil économique, social et environnemental, du Conseil supérieur de la magistrature, de la Cour de cassation, de la Cour
+des comptes, de l'Institut de France, du conseil de direction de la Banque de France ou d'un organisme collégial investi par
+la loi d'une mission de contrôle ou de conseil ; 
 
 2° Le nom, avec mention de sa fonction, d'un magistrat ou d'un ancien magistrat, d'un fonctionnaire ou d'un ancien
-fonctionnaire ou d'un officier public ou ministériel ;
+fonctionnaire ou d'un officier public ou ministériel ; 
 
-3° Le nom d'une personne avec mention de la décoration réglementée par l'autorité publique qui lui a été décernée.
+3° Le nom d'une personne avec mention de la décoration réglementée par l'autorité publique qui lui a été décernée. 
 
 Est puni des mêmes peines le fait, par un banquier ou un démarcheur, de faire usage de la publicité visée à l'alinéa qui
 précède.
@@ -28462,18 +28462,9 @@ précède.
 
 	  - Loi n°70-1300 du 31 décembre 1970 - art. 20 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
 
 ##### Section 11 : Des atteintes à l'état civil des personnes
