@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-06-30
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -7424,26 +7424,6 @@ mesure d'être assistée d'un avocat et de faire valoir ses observations.
 	  - Loi n°2005-1549 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
-###### Article 132-16-6
-
-Les condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne sont prises en compte au
-titre de la récidive conformément aux règles prévues par la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
-
-
 ##### Sous-section 3 : Des peines applicables en cas de réitération d'infractions
 
 ###### Article 132-16-7
@@ -7849,6 +7829,34 @@ cette durée.
 	**Modifié par**:
 
 	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
+
+
+##### Sous-section 6 : Des effets des condamnations prononcées par les juridictions pénales d'un Etat membre de l'Union européenne
+
+###### Article 132-23-1
+
+Pour l'application du présent code et du code de procédure pénale, les condamnations prononcées par les juridictions pénales
+d'un Etat membre de l'Union européenne sont prises en compte dans les mêmes conditions que les condamnations prononcées par
+les juridictions pénales françaises et produisent les mêmes effets juridiques que ces condamnations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
+
+
+###### Article 132-23-2
+
+Pour l'appréciation des effets juridiques des condamnations prononcées par les juridictions pénales d'un Etat membre de
+l'Union européenne, la qualification des faits est déterminée par rapport aux incriminations définies par la loi française et
+sont prises en compte les peines équivalentes aux peines prévues par la loi française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-242 du 10 mars 2010 - art. 17 (V)
 
 
 ##### Section 2 : Des modes de personnalisation des peines
