@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-24
 
 # Partie législative
 
@@ -40809,6 +40809,33 @@ dissimulation du visage est justifiée par un motif légitime.
 
 	  - Code pénal - art. 132-11
 	  - Code pénal - art. 132-15
+
+
+##### Section 11 : De l'outrage au drapeau tricolore
+
+###### Article R645-15
+
+Hors les cas prévus par l'article 433-5-1, est puni de l'amende prévue pour les contraventions de la 5e classe le fait,
+lorsqu'il est commis dans des conditions de nature à troubler l'ordre public et dans l'intention d'outrager le drapeau
+tricolore : 
+
+1° De détruire celui-ci, le détériorer ou l'utiliser de manière dégradante, dans un lieu public ou ouvert au public ; 
+
+2° Pour l'auteur de tels faits, même commis dans un lieu privé, de diffuser ou faire diffuser l'enregistrement d'images
+relatives à leur commission. 
+
+La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-835 du 21 juillet 2010 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 433-5-1
 
 
 ### Titre V : Des autres contraventions
