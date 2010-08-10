@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-07-24
+Version Consolidée au 2010-08-11
 
 # Partie législative
 
@@ -10267,27 +10267,66 @@ article.
 	  - Code pénal - art. 132-23 (V)
 
 
+###### Article 211-2
+
+La provocation publique et directe, par tous moyens, à commettre un génocide est punie de la réclusion criminelle à
+perpétuité si cette provocation a été suivie d'effet. 
+
+Si la provocation n'a pas été suivie d'effet, les faits sont punis de sept ans d'emprisonnement et de 100 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 1
+
+
 ##### Chapitre II : Des autres crimes contre l'humanité
 
 ###### Article 212-1
 
-La déportation, la réduction en esclavage ou la pratique massive et systématique d'exécutions sommaires, d'enlèvements de
-personnes suivis de leur disparition, de la torture ou d'actes inhumains, inspirées par des motifs politiques,
-philosophiques, raciaux ou religieux et organisées en exécution d'un plan concerté à l'encontre d'un groupe de population
-civile sont punies de la réclusion criminelle à perpétuité.
+Constitue également un crime contre l'humanité et est puni de la réclusion criminelle à perpétuité l'un des actes ci-après
+commis en exécution d'un plan concerté à l'encontre d'un groupe de population civile dans le cadre d'une attaque généralisée
+ou systématique : 
+
+1° L'atteinte volontaire à la vie ; 
+
+2° L'extermination ; 
+
+3° La réduction en esclavage ; 
+
+4° La déportation ou le transfert forcé de population ; 
+
+5° L'emprisonnement ou toute autre forme de privation grave de liberté physique en violation des dispositions fondamentales
+du droit international ; 
+
+6° La torture ; 
+
+7° Le viol, la prostitution forcée, la grossesse forcée, la stérilisation forcée ou toute autre forme de violence sexuelle de
+gravité comparable ; 
+
+8° La persécution de tout groupe ou de toute collectivité identifiable pour des motifs d'ordre politique, racial, national,
+ethnique, culturel, religieux ou sexiste ou en fonction d'autres critères universellement reconnus comme inadmissibles en
+droit international ; 
+
+9° L'arrestation, la détention ou l'enlèvement de personnes, suivis de leur disparition et accompagnés du déni de la
+reconnaissance de la privation de liberté ou de la dissimulation du sort qui leur est réservé ou de l'endroit où elles se
+trouvent dans l'intention de les soustraire à la protection de la loi pendant une période prolongée ; 
+
+10° Les actes de ségrégation commis dans le cadre d'un régime institutionnalisé d'oppression systématique et de domination
+d'un groupe racial sur tout autre groupe racial ou tous autres groupes raciaux et dans l'intention de maintenir ce régime ; 
+
+11° Les autres actes inhumains de caractère analogue causant intentionnellement de grandes souffrances ou des atteintes
+graves à l'intégrité physique ou psychique. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes prévus par le
 présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+	  - Loi n°2010-930 du 9 août 2010 - art. 2
 
 	**Cité par**:
 
@@ -10297,7 +10336,7 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23
 
 
 ###### Article 212-2
@@ -10363,11 +10402,15 @@ article.
 Les personnes physiques coupables des infractions prévues par le présent sous-titre encourent également les peines
 suivantes : 
 
-1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26 ; 
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues par l'article 131-26. Toutefois, le
+maximum de l'interdiction est porté à quinze ans ; 
 
-2° L'interdiction d'exercer une fonction publique, selon les modalités prévues par l'article 131-27 ; 
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Toutefois, le maximum de l'interdiction temporaire est porté à dix ans ; 
 
-3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31 ; 
+3° L'interdiction de séjour, selon les modalités prévues par l'article 131-31. Toutefois, le maximum de l'interdiction est
+porté à quinze ans ; 
 
 4° La confiscation de tout ou partie de leurs biens ; 
 
@@ -10381,7 +10424,7 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2010-930 du 9 août 2010 - art. 9
 
 	**Cite**:
 
@@ -10449,6 +10492,34 @@ le montant.
 	**Modifié par**:
 
 	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
+
+
+###### Article 213-4-1
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est considéré comme complice d'un crime visé par le
+présent sous-titre commis par des subordonnés placés sous son autorité et son contrôle effectifs le chef militaire ou la
+personne qui en faisait fonction, qui savait ou, en raison des circonstances, aurait dû savoir que ces subordonnés
+commettaient ou allaient commettre ce crime et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient en
+son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer aux autorités compétentes aux fins d'enquête et de
+poursuites. 
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est également considéré comme complice d'un crime visé
+par le présent sous-titre commis par des subordonnés placés sous son autorité et son contrôle effectifs le supérieur
+hiérarchique, n'exerçant pas la fonction de chef militaire, qui savait que ces subordonnés commettaient ou allaient commettre
+ce crime ou a délibérément négligé de tenir compte d'informations qui l'indiquaient clairement et qui n'a pas pris toutes les
+mesures nécessaires et raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer
+aux autorités compétentes aux fins d'enquête et de poursuites, alors que ce crime était lié à des activités relevant de sa
+responsabilité ou de son contrôle effectifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 121-7
 
 
 ###### Article 213-5
@@ -11486,12 +11557,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -11502,7 +11574,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -11537,7 +11610,8 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 	**Cité par**:
 
@@ -11549,6 +11623,7 @@ présent article.
 
 	**Cite**:
 
+	  - Code pénal - art. 132-23
 	  - Code pénal - art. 222-1
 	  - Code de la construction et de l'habitation. - art. L127-1
 
@@ -11744,12 +11819,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -11760,7 +11836,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -11770,7 +11847,7 @@ race ou une religion déterminée ;
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
-de contracter ce mariage ou cette union ;
+de contracter ce mariage ou cette union ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
@@ -11814,7 +11891,8 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 	**Cite**:
 
@@ -11875,12 +11953,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -11891,7 +11970,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -11901,7 +11981,7 @@ race ou une religion déterminée ;
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
-de contracter ce mariage ou cette union ;
+de contracter ce mariage ou cette union ; 
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à
 l'occasion de l'exercice de ses fonctions ou de sa mission ; 
@@ -11947,7 +12027,8 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 	**Cite**:
 
@@ -11998,12 +12079,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12014,7 +12096,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ;  
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12083,7 +12166,9 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78
+	  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 	**Cite**:
 
@@ -12104,12 +12189,13 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de le
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ; 
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un
-fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
-l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
-d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale
+internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
+volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des
+fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code
+de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est
+apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -12120,7 +12206,8 @@ apparente ou connue de l'auteur ;
 au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ; 
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de
-déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ; 
+déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction
+nationale ou devant la Cour pénale internationale ; 
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une
 race ou une religion déterminée ; 
@@ -12179,7 +12266,9 @@ deux des circonstances prévues aux 1° et suivants du présent article. Les pei
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78
+	  - Loi n°2010-930 du 9 août 2010 - art. 4
 
 	**Cite**:
 
@@ -29043,6 +29132,21 @@ l'article 74-1 du code de procédure pénale, est puni de deux ans d'emprisonnem
 	  - Code de procédure pénale - art. 74-1 (V)
 
 
+###### Article 434-4-2
+
+L'article 434-4 est applicable aux atteintes à l'administration de la justice par la Cour pénale internationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 434-4
+
+
 ###### Article 434-5
 
 Toute menace ou tout autre acte d'intimidation à l'égard de quiconque, commis en vue de déterminer la victime d'un crime ou
@@ -29788,6 +29892,23 @@ déterminé ou aurait pu déterminer des poursuites pénales contre un tiers.
 	**Cite**:
 
 	  - Code pénal - art. 132-2 (V)
+
+
+###### Article 434-23-1
+
+Les articles 434-8, 434-9, 434-13 à 434-15 sont applicables aux atteintes à l'administration de la justice par la Cour pénale
+internationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 6
+
+	**Cite**:
+
+	  - Code pénal - art. 434-13
+	  - Code pénal - art. 434-8
 
 
 ##### Section 3 : Des atteintes à l'autorité de la justice
@@ -32906,6 +33027,800 @@ soit la nature, meubles ou immeubles, divis ou indivis.
 
 	  - Code pénal - art. 321-6-1 (V)
 	  - Code pénal - art. 450-1 (M)
+
+
+## Livre IV bis : Des crimes et des délits de guerre
+
+### Chapitre Ier : Des différents crimes et délits de guerre
+
+#### Section 1 : De la définition des crimes et délits de guerre 
+
+
+
+
+###### Article 461-1
+
+Constituent des crimes ou des délits de guerre les infractions définies par le présent livre commises, lors d'un conflit armé
+international ou non international et en relation avec ce conflit, en violation des lois et coutumes de la guerre ou des
+conventions internationales applicables aux conflits armés, à l'encontre des personnes ou des biens visés aux articles 461-2
+à 461-31.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2013-987 du 5 novembre 2013 - art. 2 (V)
+	  - Code de justice militaire. - art. L311-1 (V)
+	  - Code de procédure pénale - art. 706-55 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 461-2
+
+
+#### Section 2 : Des crimes et délits de guerre communs aux conflits armés internationaux et non internationaux 
+
+
+
+
+
+
+
+##### Sous-section 1 : Des atteintes à la personne humaine perpétrées lors d'un conflit armé international ou non international 
+
+
+
+
+
+
+
+##### Paragraphe 1 : Des atteintes à la vie et à l'intégrité physique ou psychique 
+
+
+
+
+###### Article 461-2
+
+Sont passibles des aggravations de peines prévues à l'article 462-1 les atteintes volontaires à la vie, les atteintes
+volontaires à l'intégrité physique ou psychique de la personne ainsi que l'enlèvement et la séquestration, définis par le
+livre II du présent code et commis à l'encontre d'une personne protégée par le droit international des conflits armés en
+vertu des lois et coutumes de guerre et du droit international humanitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code pénal - art. 461-1 (V)
+	  - Code pénal - art. 462-1 (V)
+
+
+###### Article 461-3
+
+Le fait de soumettre des personnes d'une partie adverse à des mutilations ou à des expériences médicales ou scientifiques qui
+ne sont ni justifiées par des raisons thérapeutiques, ni pratiquées dans l'intérêt de ces personnes et qui entraînent leur
+mort ou portent gravement atteinte à leur santé ou à leur intégrité physique ou psychique est puni de la réclusion criminelle
+à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-4
+
+Le fait de forcer une personne protégée par le droit international des conflits armés à se prostituer, de la contraindre à
+une grossesse non désirée, de la stériliser contre sa volonté ou d'exercer à son encontre toute autre forme de violence
+sexuelle de gravité comparable est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-5
+
+Le fait de se livrer à des traitements humiliants et dégradants sur des personnes de la partie adverse et qui portent
+gravement atteinte à leur intégrité physique ou psychique est puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Paragraphe 2 :  Des atteintes à la liberté individuelle 
+
+###### Article 461-6
+
+Sont passibles des aggravations de peines prévues à l'article 462-1 les atteintes à la liberté individuelle définies à
+l'article 432-4 et commises à l'encontre d'une personne protégée par le droit international des conflits armés, en dehors des
+cas admis par les conventions internationales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 432-4
+
+	**Cité par**:
+
+	  - Code pénal - art. 462-1 (V)
+
+
+##### Paragraphe 3 : Des atteintes aux droits des mineurs
+dans les conflits armés 
+
+
+
+
+
+
+###### Article 461-7
+
+Le fait de procéder à la conscription ou à l'enrôlement de mineurs de dix-huit ans dans les forces armées ou dans des groupes
+armés, ou de les faire participer activement à des hostilités est puni de vingt ans de réclusion criminelle. Ces dispositions
+ne font pas obstacle à l'enrôlement volontaire des mineurs de plus de quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Sous-section 2 : Des crimes et délits de guerre liés à la conduite des hostilités 
+
+
+
+
+
+
+
+##### Paragraphe 1 : Des moyens et des méthodes de combat prohibés 
+
+
+
+
+###### Article 461-8
+
+Le fait d'ordonner qu'il n'y ait pas de survivants ou d'en menacer l'adversaire est puni de la réclusion criminelle à
+perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-9
+
+Le fait de lancer des attaques délibérées contre la population civile en tant que telle ou contre des personnes civiles qui
+ne prennent pas part directement aux hostilités est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-10
+
+Le fait de causer des blessures ayant porté gravement atteinte à son intégrité physique à un combattant de la partie adverse
+qui, ayant déposé les armes ou n'ayant plus de moyens de se défendre, s'est rendu est puni de vingt ans de réclusion
+criminelle. 
+
+La peine est portée à trente ans de réclusion criminelle si les blessures ont entraîné une mutilation ou une infirmité
+permanente ou la mort de la victime sans intention de la donner. 
+
+Le fait de lui donner volontairement la mort dans les circonstances définies au premier alinéa est puni de la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-11
+
+Le fait de causer, par traîtrise, à un individu appartenant à la Nation ou à l'armée adverse ou à un combattant de la partie
+adverse des blessures ayant porté gravement atteinte à son intégrité physique est puni de vingt ans de réclusion criminelle. 
+
+La peine est portée à trente ans de réclusion criminelle si les blessures ont entraîné une mutilation ou une infirmité
+permanente ou la mort de la victime sans intention de la donner. 
+
+Le fait de lui donner volontairement la mort dans les circonstances définies au premier alinéa est puni de la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-12
+
+Est puni de vingt ans de réclusion criminelle le fait : 
+
+1° De lancer des attaques délibérées contre le personnel, les bâtiments, le matériel, les unités et les moyens de transport
+sanitaires portant, conformément au droit international, les signes distinctifs prévus par les conventions de Genève du 12
+août 1949 ou leurs protocoles additionnels ; 
+
+2° De lancer des attaques délibérées contre le personnel, les installations, le matériel, les unités ou les véhicules
+employés dans le cadre d'une mission d'aide humanitaire ou de maintien de la paix conformément à la Charte des Nations unies,
+pour autant qu'ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens
+de caractère civil. 
+
+Lorsque les infractions décrites aux 1° et 2° ont causé aux personnels susmentionnés des blessures ayant entraîné une
+mutilation ou une infirmité permanente, la peine est portée à trente ans de réclusion criminelle. 
+
+Lorsque ces mêmes infractions ont eu pour conséquence la mort des personnels considérés, la peine est portée à la réclusion
+criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-13
+
+Le fait de lancer des attaques délibérées contre des bâtiments consacrés à la religion, à l'enseignement, à l'art, à la
+science ou à l'action caritative, des monuments historiques, des hôpitaux et des lieux où des malades ou des blessés sont
+rassemblés, pour autant que ces bâtiments ne soient pas alors utilisés à des fins militaires, est puni de vingt ans de
+réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-14
+
+Le fait de lancer des attaques délibérées contre des biens de caractère civil qui ne sont pas des objectifs militaires est
+puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Paragraphe 2 : Des atteintes aux biens dans les conflits armés 
+
+
+
+
+###### Article 461-15
+
+Le fait de se livrer, avec des armes ou à force ouverte, au pillage d'une ville ou d'une localité, même prise d'assaut, est
+puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-16
+
+A moins qu'elles ne soient justifiées par des nécessités militaires, constituent également des crimes ou des délits de guerre
+et sont passibles des aggravations de peines prévues à l'article 462-1 les infractions suivantes commises à l'encontre d'une
+personne protégée par le droit international des conflits armés : 
+
+1° Les vols, les extorsions ainsi que les destructions, dégradations et détériorations de biens définis par le livre III du
+présent code ; 
+
+2° Le recel du produit de l'une des infractions prévues au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code pénal - art. 461-17 (V)
+	  - Code pénal - art. 462-1 (V)
+
+
+###### Article 461-17
+
+La tentative des délits prévus au 1° de l'article 461-16 est passible des mêmes causes d'aggravation des peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 461-16
+
+
+##### Sous-section 3 : Des groupements formés ou des ententes établies en vue de préparer des crimes ou des délits de guerre 
+
+
+
+
+###### Article 461-18
+
+Le fait de participer à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou
+plusieurs faits matériels, de l'un des crimes ou des délits de guerre définis au présent chapitre est puni de dix ans
+d'emprisonnement et de 225 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+#### Section 3 : Des crimes et délits de guerre propres aux conflits armés internationaux 
+
+
+
+
+##### Sous-section 1 : Des atteintes à la liberté et aux droits des personnes dans les conflits armés internationaux 
+
+
+
+
+###### Article 461-19
+
+Le fait d'employer une personne protégée par le droit international des conflits armés pour éviter que certains points, zones
+ou forces militaires ne soient la cible d'opérations militaires est puni de vingt ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-20
+
+Est puni de vingt ans de réclusion criminelle le fait, pour le compte d'une puissance belligérante : 
+
+1° De contraindre une personne protégée par le droit international des conflits armés à servir dans ses forces armées ; 
+
+2° De contraindre les nationaux de la partie adverse à prendre part aux opérations de guerre dirigées contre leur pays, même
+s'ils étaient au service de la puissance belligérante avant le commencement de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-21
+
+Le fait de faire obstacle au droit d'une personne protégée par le droit international des conflits armés d'être jugée
+régulièrement et impartialement, selon les prescriptions des conventions internationales applicables, est puni de vingt ans
+de réclusion criminelle. 
+
+Lorsque l'infraction a conduit à l'exécution de la personne qui a fait l'objet de la condamnation prononcée, la peine est
+portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-22
+
+Le fait de déclarer les droits et actions des nationaux de la partie adverse irrecevables en justice, forclos ou suspendus,
+en raison de la nationalité des requérants, est puni de quinze ans de réclusion criminelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+##### Sous-section 2 : Des moyens et méthodes de combat prohibés dans un conflit armé international 
+
+
+
+
+
+
+###### Article 461-23
+
+Est puni de la réclusion criminelle à perpétuité le fait : 
+
+1° D'utiliser du poison ou des armes empoisonnées ; 
+
+2° D'utiliser des gaz asphyxiants, toxiques ou assimilés et tous liquides, matières ou procédés analogues ; 
+
+3° D'utiliser des balles qui se déforment facilement dans le corps humain ; 
+
+4° D'employer des armes, des projectiles, des matériels ou des méthodes de combat ayant fait l'objet d'une interdiction
+générale et ayant été inscrits dans une annexe au statut de la Cour pénale internationale acceptée par la France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-24
+
+Le fait d'attaquer ou de bombarder, par quelque moyen que ce soit, des villes, villages, habitations ou bâtiments, qui ne
+sont pas défendus et qui ne sont pas des objectifs militaires, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-25
+
+Le fait d'affamer des personnes civiles, comme méthode de guerre, en les privant délibérément de biens indispensables à leur
+survie, y compris en empêchant intentionnellement l'envoi des secours prévus par les conventions de Genève du 12 août 1949 et
+leurs protocoles additionnels, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-26
+
+Le fait de participer soit au transfert, direct ou indirect, par une puissance occupante, d'une partie de sa population
+civile dans le territoire qu'elle occupe, soit à la déportation ou au transfert à l'intérieur ou hors du territoire occupé de
+la totalité ou d'une partie de la population civile de ce territoire, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-27
+
+Le fait de lancer une attaque délibérée en sachant qu'elle causera incidemment des pertes en vies humaines dans la population
+civile ou des blessures parmi cette population, qui seraient manifestement disproportionnées par rapport à l'avantage
+militaire concret et direct attendu de l'ensemble de l'attaque, est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-28
+
+Est puni de vingt ans de réclusion criminelle le fait de lancer une attaque délibérée en sachant qu'elle causera
+incidemment : 
+
+1° Des dommages aux biens de caractère civil, qui seraient manifestement disproportionnés par rapport à l'avantage militaire
+concret et direct attendu de l'ensemble de l'attaque ; 
+
+2° Des dommages étendus, durables et graves à l'environnement naturel, qui seraient manifestement disproportionnés par
+rapport à l'avantage militaire concret et direct attendu de l'ensemble de l'attaque.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-29
+
+Le fait d'employer indûment le pavillon parlementaire, le drapeau ou les insignes militaires et l'uniforme de l'ennemi ou de
+l'Organisation des Nations unies, ainsi que les signes distinctifs prévus par les conventions de Genève du 12 août 1949 et
+leurs protocoles additionnels et, ce faisant, de causer à un combattant de la partie adverse des blessures ayant porté
+gravement atteinte à son intégrité physique, est puni de vingt ans de réclusion criminelle. 
+
+Lorsque l'infraction définie au premier alinéa a eu pour effet de causer audit combattant des blessures ayant entraîné une
+mutilation ou une infirmité permanente, la peine est portée à trente ans de réclusion criminelle. 
+
+Lorsque l'infraction a eu pour conséquence la mort de la victime, la peine est portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+#### Section 4 : Des crimes et délits de guerre propres aux conflits armés non internationaux 
+
+
+
+
+###### Article 461-30
+
+A moins que la sécurité des personnes civiles ou des impératifs militaires ne l'exigent, le fait d'ordonner le déplacement de
+la population civile pour des raisons ayant trait au conflit est puni de la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 461-31
+
+Le fait de prononcer des condamnations et d'exécuter des peines sans un jugement préalable, rendu par un tribunal
+régulièrement constitué, assorti des garanties judiciaires prévues par les conventions de Genève du 12 août 1949 et leurs
+protocoles additionnels, est puni de vingt ans de réclusion criminelle. 
+
+Lorsque l'infraction définie au premier alinéa a conduit à l'exécution de la personne qui a été condamnée, la peine est
+portée à la réclusion criminelle à perpétuité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+### Chapitre II : Dispositions particulières
+
+###### Article 462-1
+
+Le maximum de la peine privative de liberté encourue pour les infractions mentionnées aux articles 461-2, 461-6, 461-16 et
+461-17 est relevé ainsi qu'il suit lorsque ces infractions constituent des crimes ou des délits de guerre : 
+
+1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion
+criminelle ; 
+
+2° Il est porté à trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; 
+
+3° Il est porté à vingt ans de réclusion criminelle lorsque l'infraction est punie de quinze ans de réclusion criminelle ; 
+
+4° Il est porté à quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; 
+
+5° Il est porté à dix ans d'emprisonnement lorsque l'infraction est punie de sept ans d'emprisonnement ; 
+
+6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
+
+7° Il est porté au double lorsque l'infraction est punie de trois ans au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code pénal - art. 461-16 (V)
+	  - Code pénal - art. 461-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 461-6
+
+
+###### Article 462-2
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes, ainsi qu'aux délits
+punis de dix ans d'emprisonnement, prévus par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+
+
+###### Article 462-3
+
+Les personnes physiques coupables de l'une des infractions prévues par le présent livre encourent également les peines
+suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. Toutefois,
+le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer
+l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Toutefois, le maximum de la durée de l'interdiction temporaire est porté à dix ans ; 
+
+3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. Toutefois, le maximum de la durée de
+l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
+
+
+###### Article 462-4
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30 soit à titre
+définitif, soit pour une durée de dix ans au plus à l'encontre de tout étranger coupable de l'une des infractions définies au
+présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30
+
+
+###### Article 462-5
+
+Les peines encourues par les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article
+121-2, des crimes ou des délits de guerre définis au présent livre sont, outre l'amende, suivant les modalités prévues par
+l'article 131-38, les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-39
+
+
+###### Article 462-6
+
+Les personnes physiques ou les personnes morales reconnues coupables d'un crime ou d'un délit de guerre visé par le présent
+livre encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-7
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est considéré comme complice d'un crime ou d'un délit de
+guerre visé par le présent livre commis par des subordonnés placés sous son autorité et son contrôle effectifs le chef
+militaire ou la personne qui en faisait fonction qui savait ou, en raison des circonstances, aurait dû savoir que ces
+subordonnés commettaient ou allaient commettre ce crime ou ce délit et qui n'a pas pris toutes les mesures nécessaires et
+raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer aux autorités
+compétentes aux fins d'enquête et de poursuites. 
+
+Sans préjudice de l'application des dispositions de l'article 121-7, est également considéré comme complice d'un crime ou
+d'un délit de guerre visé par le présent livre et commis par des subordonnés placés sous son autorité et son contrôle
+effectifs le supérieur hiérarchique, n'exerçant pas la fonction de chef militaire, qui savait que ces subordonnés
+commettaient ou allaient commettre une telle infraction ou a délibérément négligé de tenir compte d'informations qui
+l'indiquaient clairement et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient en son pouvoir pour
+en empêcher ou en réprimer l'exécution ou pour en référer aux autorités compétentes aux fins d'enquête et de poursuites,
+alors que le crime ou le délit était lié à des activités relevant de sa responsabilité ou de son contrôle effectifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 121-7
+
+
+###### Article 462-8
+
+L'auteur ou le complice d'un crime ou d'un délit de guerre visé par le présent livre ne peut être exonéré de sa
+responsabilité pénale du seul fait qu'il a accompli un acte prescrit ou autorisé par des dispositions législatives ou
+réglementaires ou un acte commandé par l'autorité légitime. Toutefois, la juridiction tient compte de cette circonstance
+lorsqu'elle détermine la peine et en fixe le montant. 
+
+En outre, l'auteur ou le complice n'est pas pénalement responsable dans le cas où il ne savait pas que l'ordre de l'autorité
+légitime était illégal et où cet ordre n'était pas manifestement illégal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-9
+
+N'est pas pénalement responsable d'un crime ou d'un délit de guerre visé par le présent livre la personne qui a agi
+raisonnablement pour sauvegarder des biens essentiels à sa survie ou à celle d'autrui ou essentiels à l'accomplissement d'une
+mission militaire contre un recours imminent et illicite à la force, sauf s'il y a disproportion entre les moyens de défense
+employés et la gravité du danger couru.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+
+###### Article 462-10
+
+L'action publique à l'égard des crimes de guerre définis au présent livre se prescrit par trente ans. La peine prononcée en
+cas de condamnation pour l'un de ces crimes se prescrit par trente ans à compter de la date à laquelle la condamnation est
+devenue définitive. 
+
+L'action publique à l'égard des délits de guerre définis au présent livre se prescrit par vingt ans. La peine prononcée en
+cas de condamnation pour l'un de ces délits se prescrit par vingt ans à compter de la date à laquelle la condamnation est
+devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
+
+
+###### Article 462-11
+
+N'est pas constitutif d'une infraction visée par le présent livre le fait, pour accomplir un acte nécessaire à l'exercice par
+la France de son droit de légitime défense, d'user de l'arme nucléaire ou de toute autre arme dont l'utilisation n'est pas
+prohibée par une convention internationale à laquelle la France est partie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-930 du 9 août 2010 - art. 7
 
 
 ## Livre V : Des autres crimes et délits
