@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-08-11
+Version Consolidée au 2010-10-01
 
 # Partie législative
 
@@ -19460,6 +19460,48 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39 (V)
+
+
+##### Section 2 bis : De la violation des ordonnances prises par le juge aux affaires familiales en cas de violences 
+
+
+###### Article 227-4-2
+
+Le fait, pour une personne faisant l'objet d'une ou plusieurs obligations ou interdictions imposées dans une ordonnance de
+protection rendue en application des articles 515-9 ou 515-13 du code civil, de ne pas se conformer à cette ou ces
+obligations ou interdictions est puni de deux ans d'emprisonnement et de 15 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+	  - Code de procédure civile - art. 1136-9 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 515-9
+
+
+###### Article 227-4-3
+
+Le fait, pour une personne tenue de verser une contribution ou des subsides au titre de l'ordonnance de protection rendue en
+application de l'article 515-9 du code civil, de ne pas notifier son changement de domicile au créancier dans un délai d'un
+mois à compter de ce changement est puni de six mois d'emprisonnement et de 7 500 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 515-9
 
 
 ##### Section 3 : Des atteintes à l'exercice de l'autorité parentale
