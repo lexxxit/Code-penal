@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-10-01
+Version Consolidée au 2010-10-13
 
 # Partie législative
 
@@ -16047,6 +16047,24 @@ réclusion criminelle.
 	**Créé par**:
 
 	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+
+
+##### Section 1 ter :  De la dissimulation forcée du visage
+
+###### Article 225-4-10
+
+Le fait pour toute personne d'imposer à une ou plusieurs autres personnes de dissimuler leur visage par menace, violence,
+contrainte, abus d'autorité ou abus de pouvoir, en raison de leur sexe, est puni d'un an d'emprisonnement et de 30 000 €
+d'amende. 
+
+Lorsque le fait est commis au préjudice d'un mineur, les peines sont portées à deux ans d'emprisonnement et à 60 000 €
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1192 du 11 octobre 2010 - art. 4
 
 
 ##### Section 2 : Du proxénétisme et des infractions qui en résultent
