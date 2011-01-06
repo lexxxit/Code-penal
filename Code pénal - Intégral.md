@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2010-10-13
+Version Consolidée au 2011-01-07
 
 # Partie législative
 
@@ -15443,6 +15443,29 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (V)
+
+
+###### Article 224-6-1
+
+Lorsque l'infraction prévue à l'article 224-6 est commise en bande organisée, la peine est portée à trente ans de réclusion
+criminelle. 
+
+Les deux premiers alinéas de l'article 132-23 sont applicables à cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-73 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 224-6
 
 
 ###### Article 224-7
