@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-01-07
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -4762,19 +4762,20 @@ mobile, conformément aux dispositions de la présente sous-section.
 ###### Article 131-36-10
 
 Le placement sous surveillance électronique mobile ne peut être ordonné qu'à l'encontre d'une personne majeure condamnée à
-une peine privative de liberté d'une durée égale ou supérieure à sept ans et dont une expertise médicale a constaté la
-dangerosité, lorsque cette mesure apparaît indispensable pour prévenir la récidive à compter du jour où la privation de
-liberté prend fin.
+une peine privative de liberté d'une durée égale ou supérieure à sept ans ou, lorsque la personne a été condamnée pour un
+crime ou un délit commis une nouvelle fois en état de récidive légale, d'une durée égale ou supérieure à cinq ans, et dont
+une expertise médicale a constaté la dangerosité, lorsque cette mesure apparaît indispensable pour prévenir la récidive à
+compter du jour où la privation de liberté prend fin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
+	  - Loi n°2011-267 du 14 mars 2011 - art. 40
 
 	**Cité par**:
 
@@ -7636,6 +7637,38 @@ Les dispositions du présent article ne sont pas exclusives d'une peine d'amende
 	**Abrogé par**:
 
 	  - Loi n°2014-896 du 15 août 2014 - art. 7
+
+
+###### Article 132-19-2
+
+Pour les délits prévus aux articles 222-9, 222-12 et 222-13, au 3° de l'article 222-14, au 4° de l'article 222-14-1 et à
+l'article 222-15-1, la peine d'emprisonnement ne peut être inférieure aux seuils suivants : 
+
+1° Dix-huit mois, si le délit est puni de sept ans d'emprisonnement ; 
+
+2° Deux ans, si le délit est puni de dix ans d'emprisonnement. 
+
+Toutefois, la juridiction peut prononcer, par une décision spécialement motivée, une peine inférieure à ces seuils ou une
+peine autre que l'emprisonnement en considération des circonstances de l'infraction, de la personnalité de son auteur ou des
+garanties d'insertion ou de réinsertion présentées par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 37 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 222-12
+	  - Code pénal - art. 222-14
+	  - Code pénal - art. 222-14-1
+	  - Code pénal - art. 222-15-1
+	  - Code pénal - art. 222-9
 
 
 ###### Article 132-20
@@ -10843,29 +10876,27 @@ présent article.
 
 ###### Article 221-3
 
-Le meurtre commis avec préméditation constitue un assassinat. Il est puni de la réclusion criminelle à perpétuité.
+Le meurtre commis avec préméditation constitue un assassinat. Il est puni de la réclusion criminelle à perpétuité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que l'assassinat est précédé ou accompagné d'un
-viol, de tortures ou d'actes de barbarie, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté
-jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées à
-l'article 132-23 ne pourra être accordée au condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en
-dispose autrement, la période de sûreté est alors égale à la durée de la peine résultant de la mesure de grâce.
+viol, de tortures ou d'actes de barbarie ou lorsque l'assassinat a été commis sur un magistrat, un fonctionnaire de la police
+nationale, un militaire de la gendarmerie, un membre du personnel de l'administration pénitentiaire ou toute autre personne
+dépositaire de l'autorité publique, à l'occasion de l'exercice ou en raison de ses fonctions, la cour d'assises peut, par
+décision spéciale, soit porter la période de sûreté jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à
+perpétuité, décider qu'aucune des mesures énumérées à l'article 132-23 ne pourra être accordée au condamné ; en cas de
+commutation de la peine, et sauf si le décret de grâce en dispose autrement, la période de sûreté est alors égale à la durée
+de la peine résultant de la mesure de grâce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°94-89 du 1 février 1994 - art. 6 () JORF 2 février 1994 en vigueur le 1er mars 1994
+	  - Loi n°2011-267 du 14 mars 2011 - art. 38
 
 	**Cité par**:
 
@@ -10875,7 +10906,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23
 
 
 ###### Article 221-4
@@ -10914,22 +10945,26 @@ ou une religion déterminée ;
 
 8° Par plusieurs personnes agissant en bande organisée ; 
 
-9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 10° Contre une personne en raison de son refus de contracter un mariage ou de conclure une union. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un
-viol, de tortures ou d'actes de barbarie, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté
-jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées à
-l'article 132-23 ne pourra être accordée au condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en
-dispose autrement, la période de sûreté est alors égale à la durée de la peine résultant de la mesure de grâce.
+viol, de tortures ou d'actes de barbarie ou lorsque le meurtre a été commis en bande organisée sur un magistrat, un
+fonctionnaire de la police nationale, un militaire de la gendarmerie, un membre du personnel de l'administration
+pénitentiaire ou toute autre personne dépositaire de l'autorité publique, à l'occasion de l'exercice ou en raison de ses
+fonctions, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté jusqu'à trente ans, soit, si elle
+prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées à l'article 132-23 ne pourra être
+accordée au condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en dispose autrement, la période de
+sûreté est alors égale à la durée de la peine résultant de la mesure de grâce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 33
+	  - Loi n°2003-239 du 18 mars 2003 - art. 60
+	  - Loi n°2011-267 du 14 mars 2011 - art. 38
 
 	**Cité par**:
 
@@ -10944,6 +10979,7 @@ dispose autrement, la période de sûreté est alors égale à la durée de la p
 
 	**Cite**:
 
+	  - Code pénal - art. 132-23
 	  - Code de la construction et de l'habitation. - art. L127-1
 
 
@@ -11322,7 +11358,20 @@ sécurité routière ;
 condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ; 
 
 10° Dans les cas prévus par l'article 221-6-1, la confiscation du véhicule dont le condamné s'est servi pour commettre
-l'infraction, s'il en est le propriétaire. 
+l'infraction, s'il en est le propriétaire ; 
+
+La confiscation du véhicule est obligatoire dans les cas prévus par les 4° et dernier alinéa de l'article 221-6-1 ainsi que,
+dans les cas prévus par les 2°,3° et 5° du même article, en cas de récidive ou si la personne a déjà été définitivement
+condamnée pour un des délits prévus par les articles L. 221-2, 
+L. 224-16, L. 234-1, L. 234-8, 
+L. 235-1, L. 235-3 ou L. 413-1 du code de la route ou pour la contravention mentionnée à ce même article L. 413-1. La
+juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée. 
+
+11° Dans les cas prévus par les 2° et dernier alinéa de l'article 221-6-1, l'interdiction, pendant une durée de cinq ans au
+plus, de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un dispositif d'anti-
+démarrage par éthylotest électronique, homologué dans les conditions prévues à l'article L. 234-17 du code de la route.
+Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1 donne lieu de plein droit
 à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus. En cas de
@@ -11341,7 +11390,7 @@ motivée, prévoir que cette interdiction est définitive.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2011-267 du 14 mars 2011 - art. 73
 
 	**Liens**:
 
@@ -11349,10 +11398,18 @@ motivée, prévoir que cette interdiction est définitive.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35-1 (V)
-	  - Code pénal - art. 221-1 (V)
-	  - Code pénal - art. 221-6-1 (V)
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35-1
+	  - Code pénal - art. 221-1
+	  - Code pénal - art. 221-2
+	  - Code pénal - art. 221-6-1
+	  - Code de la route. - art. L221-2
+	  - Code de la route. - art. L224-16
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L234-8
+	  - Code de la route. - art. L235-1
+	  - Code de la route. - art. L235-3
+	  - Code de la route. - art. L413-1
 
 
 ###### Article 221-9
@@ -14114,10 +14171,11 @@ suivantes :
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 soit, pour les infractions prévues par les articles 222-1 à 222-6, 222-7, 222-8, 222-10, les 1° et 2° de l'article 222-14,
-les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 222-35, 222-36, 222-37, 222-38 et 222-39,
-d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
-quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 
+222-35, 222-36, 222-37, 222-38 et 222-39, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de
+gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui,
+une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
+cumulativement ; 
 
 2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -14150,7 +14208,23 @@ véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est
 
 11° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ; 
 
-12° L'interdiction, à titre définitif ou temporaire, de détenir un animal. 
+12° L'interdiction, à titre définitif ou temporaire, de détenir un animal ; 
+
+13° Dans les cas prévus par les articles 222-19-1 et 222-20-1, la confiscation du véhicule dont le condamné s'est servi pour
+commettre l'infraction, s'il en est le propriétaire. La confiscation du véhicule est obligatoire dans les cas prévus par les
+4° et dernier alinéa de ces articles ainsi que, dans les cas prévus par les 2°,3° et 5° des mêmes articles, en cas de
+récidive ou si la personne a déjà été définitivement condamnée pour un des délits prévus par les articles L. 221-2, L.
+224-16, L. 234-1, 
+L. 234-8, L. 235-1, L. 235-3, 
+L. 413-1 du code de la route ou pour la contravention mentionnée à ce même article L. 413-1. La juridiction peut toutefois ne
+pas prononcer cette peine, par une décision spécialement motivée ; 
+
+14° Dans les cas prévus par les 2° et dernier alinéa des articles 222-19-1 et 222-20-1 du présent code, l'interdiction,
+pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
+construction d'un dispositif d'anti-démarrage par éthylotest électronique, homologué dans les conditions prévues à l'article
+L. 234-17 du code de la route. Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de
+suspension du permis de conduire, elle s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette
+peine. 
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
 droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
@@ -14166,7 +14240,7 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2011-267 du 14 mars 2011 - art. 73
 
 	**Liens**:
 
@@ -14174,13 +14248,22 @@ droit à l'annulation du permis de conduire avec interdiction de solliciter un n
 
 	**Cite**:
 
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 222-1 (V)
-	  - Code pénal - art. 222-14 (V)
-	  - Code pénal - art. 222-19-1 (V)
-	  - Code pénal - art. 222-23 (V)
-	  - Code pénal - art. 222-34 (V)
-	  - Code pénal - art. 222-7 (V)
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 222-1
+	  - Code pénal - art. 222-14
+	  - Code pénal - art. 222-19-1
+	  - Code pénal - art. 222-20-1
+	  - Code pénal - art. 222-23
+	  - Code pénal - art. 222-34
+	  - Code pénal - art. 222-35
+	  - Code pénal - art. 222-7
+	  - Code de la route. - art. L221-2
+	  - Code de la route. - art. L224-16
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L234-8
+	  - Code de la route. - art. L235-1
+	  - Code de la route. - art. L235-3
+	  - Code de la route. - art. L413-1
 
 
 ###### Article 222-45
@@ -16739,6 +16822,90 @@ commise en bande organisée.
 	  - Loi n°2003-239 du 18 mars 2003 - art. 64
 
 
+##### Section 2 quater : De l'exploitation de la vente à la sauvette 
+
+
+
+
+
+
+###### Article 225-12-8
+
+L'exploitation de la vente à la sauvette est le fait par quiconque d'embaucher, d'entraîner ou de détourner une personne en
+vue de l'inciter à commettre l'une des infractions mentionnées à l'article 446-1, ou d'exercer sur elle une pression pour
+qu'elle commette l'une de ces infractions ou continue de le faire, afin d'en tirer profit de quelque manière que ce soit. 
+
+Est assimilé à l'exploitation de la vente à la sauvette le fait de recevoir des subsides d'une personne commettant
+habituellement l'une des infractions mentionnées au même article 446-1. 
+
+Est également assimilé à l'exploitation de la vente à la sauvette le fait de ne pouvoir justifier de ressources correspondant
+à son train de vie tout en exerçant une influence de fait, permanente ou non, sur une ou plusieurs personnes commettant
+habituellement l'une des infractions mentionnées audit article 446-1 ou en étant en relation habituelle avec cette ou ces
+dernières.
+
+L'exploitation de la vente à la sauvette est punie de trois ans d'emprisonnement et d'une amende de 45 000 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 52
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 446-1
+
+
+###### Article 225-12-9
+
+L'exploitation de la vente à la sauvette est punie de cinq ans d'emprisonnement et d'une amende de 75 000 € lorsqu'elle est
+commise : 
+
+1° A l'égard d'un mineur ; 
+
+2° A l'égard d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
+déficience physique ou psychique ou à un état de grossesse est apparente ou connue de son auteur ; 
+
+3° A l'égard de plusieurs personnes ; 
+
+4° A l'égard d'une personne qui a été incitée à commettre l'une des infractions mentionnées à l'article 446-1 soit hors du
+territoire de la République, soit à son arrivée sur le territoire de la République ; 
+
+5° Par un ascendant légitime, naturel ou adoptif de la personne qui commet l'une des infractions mentionnées à l'article
+446-1 ou par une personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses fonctions ; 
+
+6° Avec l'emploi de la contrainte, de violences ou de manœuvres dolosives sur la personne commettant l'une des infractions
+mentionnées à l'article 446-1, sur sa famille ou sur une personne étant en relation habituelle avec elle ; 
+
+7° Par plusieurs personnes agissant en qualité d'auteurs ou de complices, sans qu'elles constituent une bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 52
+
+	**Cite**:
+
+	  - Code pénal - art. 446-1
+
+
+###### Article 225-12-10
+
+L'exploitation de la vente à la sauvette est punie de dix ans d'emprisonnement et de 1 500 000 € d'amende lorsqu'elle est
+commise en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 52
+
+
 ##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
 
 ###### Article 225-13
@@ -17128,8 +17295,8 @@ d'exercice peuvent être prononcées cumulativement.
 
 ###### Article 225-20
 
-Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis et 2 ter du présent chapitre
-encourent également les peines complémentaires suivantes : 
+Les personnes physiques coupables des infractions prévues par les sections 1 bis, 2, 2 bis, 2 ter et 2 quater du présent
+chapitre encourent également les peines complémentaires suivantes : 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
 
@@ -17160,35 +17327,35 @@ bénévole impliquant un contact habituel avec des mineurs ;
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2011-267 du 14 mars 2011 - art. 52
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35-1 (V)
-	  - Code pénal - art. 225-4-3 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-35-1
+	  - Code pénal - art. 225-4-3
 
 
 ###### Article 225-21
 
 L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30, soit à titre
 définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'une des infractions définies
-aux sections 1 bis, 2 et 2 ter du présent chapitre.
+aux sections 1 bis, 2, 2 ter et 2 quater du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 64 I, 3° JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 64
+	  - Loi n°2011-267 du 14 mars 2011 - art. 52
 
 	**Cite**:
 
-	  - Code pénal - art. 131-30 (MMN)
+	  - Code pénal - art. 131-30
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
@@ -17414,14 +17581,17 @@ responsables.
 ###### Article 226-3
 
 Est punie des mêmes peines la fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente, en
-l'absence d'autorisation ministérielle dont les conditions d'octroi sont fixées par décret en Conseil d'Etat, d'appareils
-conçus pour réaliser les opérations pouvant constituer l'infraction prévue par le deuxième alinéa de l'article 226-15 ou qui,
-conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue par l'article 226-1 et
-figurant sur une liste dressée dans des conditions fixées par ce même décret.
+l'absence d'autorisation ministérielle dont les conditions d'octroi sont fixées par décret en Conseil d'Etat, d'appareils ou
+de dispositifs techniques conçus pour réaliser les opérations pouvant constituer l'infraction prévue par le deuxième alinéa
+de l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
+par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue par l'article 706-102-1 du code de
+procédure pénale et figurant sur une liste dressée dans des conditions fixées par ce même décret. 
 
-Est également puni des mêmes peines le fait de réaliser une publicité en faveur d'un appareil susceptible de permettre la
-réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
-constitue une incitation à commettre cette infraction.
+Est également puni des mêmes peines le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique
+susceptible de permettre la réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15
+lorsque cette publicité constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données
+informatiques prévue par l'article 706-102-1 du code de procédure pénale lorsque cette publicité constitue une incitation à
+en faire un usage frauduleux.
 
 **Liens relatifs à cet article**
 
@@ -17458,12 +17628,10 @@ constitue une incitation à commettre cette infraction.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 	  - TXT_SOURCE: Arrêté du 29 juillet 2004
 	  - TXT_SOURCE: Arrêté du 29 juillet 2004 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 29 juillet 2004 - art. 2 (Ab)
@@ -17471,10 +17639,15 @@ constitue une incitation à commettre cette infraction.
 	  - TXT_SOURCE: Arrêté du 29 juillet 2004 - art. ANNEXE I (Ab)
 	  - TXT_SOURCE: Arrêté du 29 juillet 2004 - art. ANNEXE II (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 36
+
 	**Cite**:
 
-	  - Code pénal - art. 226-1 (M)
-	  - Code pénal - art. 226-15 (M)
+	  - Code pénal - art. 226-1
+	  - Code pénal - art. 226-15
+	  - Code de procédure pénale - art. 706-102-1
 
 
 ###### Article 226-4
@@ -17501,6 +17674,21 @@ les cas où la loi le permet, est puni d'un an d'emprisonnement et de 15 000 eur
 
 	  - Code de procédure pénale - art. 2-2 (V)
 	  - Code du travail - art. L7221-1 (V)
+
+
+###### Article 226-4-1
+
+Le fait d'usurper l'identité d'un tiers ou de faire usage d'une ou plusieurs données de toute nature permettant de
+l'identifier en vue de troubler sa tranquillité ou celle d'autrui, ou de porter atteinte à son honneur ou à sa considération,
+est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
+
+Cette infraction est punie des mêmes peines lorsqu'elle est commise sur un réseau de communication au public en ligne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 2
 
 
 ###### Article 226-5
@@ -19117,20 +19305,21 @@ au moyen de l'examen de ses caractéristiques génétiques est puni d'un an d'em
 
 ###### Article 226-27
 
-Le fait de procéder à l'identification d'une personne par ses empreintes génétiques à des fins médicales ou de recherche
-scientifique sans avoir recueilli son consentement dans les conditions prévues par l'article 16-11 du code civil est puni
-d'un an d'emprisonnement et de 15 000 Euros d'amende.
+Le fait de procéder, sans avoir recueilli le consentement de la personne dans les conditions prévues par l'article 16-11 du
+code civil, à son identification par ses empreintes génétiques à des fins médicales ou de recherche scientifique ou au
+prélèvement de ses traces biologiques à titre d'ascendant, descendant ou collatéral aux fins de l'établissement, par ses
+empreintes génétiques, de l'identité d'une personne mentionnée au 3° du même article, est puni d'un an d'emprisonnement et de
+15 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 4 () JORF 7 août 2004
-	  - Loi n°2004-800 du 6 août 2004 - art. 5 () JORF 7 août 2004
+	  - Loi n°2011-267 du 14 mars 2011 - art. 8
 
 	**Cité par**:
 
@@ -19155,17 +19344,16 @@ d'un an d'emprisonnement et de 15 000 Euros d'amende.
 
 	**Cite**:
 
-	  - Code civil - art. 16-11 (M)
+	  - Code civil - art. 16-11
 
 
 ###### Article 226-28
 
-Le fait de rechercher l'identification par ses empreintes génétiques d'une personne, lorsqu'il ne s'agit pas d'un militaire
-décédé à l'occasion d'une opération conduite par les forces armées ou les formations rattachées, à des fins qui ne seraient
-ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure judiciaire
-ou de vérification d'un acte de l'état civil entreprise par les autorités diplomatiques ou consulaires dans le cadre des
-dispositions de l'article L. 111-6 du code de l'entrée et du séjour des étrangers et du droit d'asile est puni d'un an
-d'emprisonnement ou de 1 500 euros d'amende.
+Le fait de rechercher l'identification par ses empreintes génétiques d'une personne en dehors des cas prévus à l'article
+16-11 du code civil ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une procédure de vérification d'un
+acte de l'état civil entreprise par les autorités diplomatiques ou consulaires dans le cadre des dispositions de l'article L.
+111-6 du code de l'entrée et du séjour des étrangers et du droit d'asile est puni d'un an d'emprisonnement ou de 15 000 euros
+d'amende. 
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
 empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
@@ -19175,16 +19363,17 @@ l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 13 (V)
+	  - Loi n°2011-267 du 14 mars 2011 - art. 8
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L111-6 (M)
-	  - Code de la santé publique - art. L145-16 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-6
+	  - Code civil - art. 16-11
+	  - Code de la santé publique - art. L1131-3
 
 	**Cité par**:
 
@@ -20235,9 +20424,9 @@ de l'enregistrement de son image.
 ###### Article 227-24
 
 Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message
-à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine, soit de faire commerce
-d'un tel message, est puni de trois ans d'emprisonnement et de 75000 euros d'amende lorsque ce message est susceptible d'être
-vu ou perçu par un mineur.
+à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine ou à inciter des mineurs
+à se livrer à des jeux les mettant physiquement en danger, soit de faire commerce d'un tel message, est puni de trois ans
+d'emprisonnement et de 75 000 euros d'amende lorsque ce message est susceptible d'être vu ou perçu par un mineur. 
 
 Lorsque les infractions prévues au présent article sont soumises par la voie de la presse écrite ou audiovisuelle ou de la
 communication au public en ligne, les dispositions particulières des lois qui régissent ces matières sont applicables en ce
@@ -20264,17 +20453,11 @@ qui concerne la détermination des personnes responsables.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+	  - Loi n°2011-267 du 14 mars 2011 - art. 5
 
 
 ###### Article 227-25
@@ -20773,38 +20956,38 @@ Le vol est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 ###### Article 311-4
 
-Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
+Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende : 
 
 1° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une
-bande organisée ;
+bande organisée ; 
 
 2° Lorsqu'il est commis par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans
-l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ; 
 
 3° Lorsqu'il est commis par une personne qui prend indûment la qualité d'une personne dépositaire de l'autorité publique ou
-chargée d'une mission de service public ;
+chargée d'une mission de service public ; 
 
-4° Lorsqu'il est précédé, accompagné ou suivi de violences sur autrui n'ayant pas entraîné une incapacité totale de travail ;
+4° Lorsqu'il est précédé, accompagné ou suivi de violences sur autrui n'ayant pas entraîné une incapacité totale de
+travail ; 
 
-5° Lorsqu'il est facilité par l'état d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une
-infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+5° (Abrogé) ;
 
 6° Lorsqu'il est commis dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
-marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade ;
+marchandises ou matériels ; 
 
 7° Lorsqu'il est commis dans un véhicule affecté au transport collectif de voyageurs ou dans un lieu destiné à l'accès à un
-moyen de transport collectif de voyageurs ;
+moyen de transport collectif de voyageurs ; 
 
-8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ;
+8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ; 
 
 9° Lorsqu'il est commis à raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie,
-une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ;
+une nation, une race ou une religion déterminée, ou de son orientation sexuelle, vraie ou supposée ; 
 
 10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
-identifiée ;
+identifiée ; 
 
 11° Lorsqu'il est commis dans les établissements d'enseignement ou d'éducation ainsi que, lors des entrées ou sorties des
-élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements.  
+élèves ou dans un temps très voisin de celles-ci, aux abords de ces établissements. 
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque le vol est commis dans deux des
 circonstances prévues par le présent article. Elles sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende
@@ -20830,8 +21013,7 @@ lorsque le vol est commis dans trois de ces circonstances.
 
 	**Modifié par**:
 
-	  - Loi n°2010-201 du 2 mars 2010 - art. 12
-	  - Loi n°2010-201 du 2 mars 2010 - art. 3
+	  - Loi n°2011-267 du 14 mars 2011 - art. 47
 
 
 ###### Article 311-4-1
@@ -20889,28 +21071,39 @@ Les peines d'amende mentionnées au présent article peuvent être élevées jus
 
 ###### Article 311-5
 
-Le vol est puni de sept ans d'emprisonnement et de 100000 euros d'amende lorsqu'il est précédé, accompagné ou suivi de
-violences sur autrui ayant entraîné une incapacité totale de travail pendant huit jours au plus.
+Le vol est puni de sept ans d'emprisonnement et de 100 000 € d'amende : 
+
+1° Lorsqu'il est précédé, accompagné ou suivi de violence sur autrui ayant entraîné une incapacité totale de travail pendant
+huit jours au plus ; 
+
+2° Lorsqu'il est facilité par l'état d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une
+infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
+
+3° Lorsqu'il est commis dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs,
+marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 € d'amende lorsque le vol est commis dans deux des
+circonstances prévues par le présent article ou lorsque le vol prévu au présent article est également commis dans l'une des
+circonstances prévues par l'article 311-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°92-685 du 22 juillet 1992
 
 	**Cité par**:
 
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 	  - Code pénal - art. 311-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 47
+
+	**Cite**:
+
+	  - Code pénal - art. 311-4 (V)
 
 
 ###### Article 311-6
@@ -21194,7 +21387,7 @@ l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exe
 soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
 quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
 industrielle ou une société commerciale, cette interdiction étant définitive ou provisoire dans les cas prévus aux articles
-311-6 à 311-10 et pour une durée de cinq ans au plus dans les cas prévus aux articles 311-3 à 311-5. Ces interdictions
+311-5 à 311-10 et pour une durée de cinq ans au plus dans les cas prévus aux articles 311-3 à 311-5. Ces interdictions
 d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
@@ -21202,7 +21395,7 @@ d'exercice peuvent être prononcées cumulativement ;
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
 l'exception des objets susceptibles de restitution ; 
 
-5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 311-6 à
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 311-5 à
 311-10 ; 
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.
@@ -21211,14 +21404,16 @@ l'exception des objets susceptibles de restitution ;
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2011-267 du 14 mars 2011 - art. 47
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35-1 (V)
-	  - Code pénal - art. 311-3 (V)
-	  - Code pénal - art. 311-6 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 131-35-1
+	  - Code pénal - art. 311-3
+	  - Code pénal - art. 311-5
+	  - Code pénal - art. 311-6
 
 
 ###### Article 311-15
@@ -23006,11 +23201,12 @@ l'alinéa précédent commise par un ou plusieurs mineurs.
 
 ###### Article 321-7
 
-Est puni de six mois d'emprisonnement et de 30000 euros d'amende le fait, par une personne dont l'activité professionnelle
+Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, par une personne dont l'activité professionnelle
 comporte la vente d'objets mobiliers usagés ou acquis à des personnes autres que celles qui les fabriquent ou en font le
 commerce, d'omettre, y compris par négligence, de tenir jour par jour, dans des conditions prévues par décret en Conseil
-d'Etat, un registre contenant une description des objets acquis ou détenus en vue de la vente ou de l'échange et permettant
-l'identification de ces objets ainsi que celle des personnes qui les ont vendus ou apportés à l'échange.
+d'Etat, un registre indiquant la nature, les caractéristiques, la provenance, le mode de règlement de l'objet et contenant
+une description des objets acquis ou détenus en vue de la vente ou de l'échange et permettant l'identification de ces objets
+ainsi que celle des personnes qui les ont vendus ou apportés à l'échange.
 
 Est puni des mêmes peines le fait, par une personne, à l'exception des officiers publics ou ministériels, qui organise, dans
 un lieu public ou ouvert au public, une manifestation en vue de la vente ou de l'échange d'objets visés à l'alinéa précédent,
@@ -23025,12 +23221,7 @@ cette personne morale.
 
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-685 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-685 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -23051,7 +23242,7 @@ cette personne morale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-267 du 14 mars 2011 - art. 55
 
 
 ###### Article 321-8
@@ -23309,14 +23500,13 @@ L'infraction définie au premier alinéa de l'article 322-1 est punie de trois a
 et celle définie au deuxième alinéa du même article de 7 500 euros d'amende et d'une peine de travail d'intérêt général,
 lorsque le bien détruit, dégradé ou détérioré est : 
 
-1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de service
-public ; 
+1° (Abrogé) ;
 
 2° Un registre, une minute ou un acte original de l'autorité publique. 
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
 appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
-une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 Euros d'amende.
+une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -23347,7 +23537,7 @@ une religion déterminée, les peines encourues sont également portées à troi
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+	  - Loi n°2011-267 du 14 mars 2011 - art. 66
 
 	**Liens**:
 
@@ -23386,11 +23576,17 @@ marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction o
 6° Lorsqu'elle est commise à l'encontre d'un lieu classifié au titre du secret de la défense nationale ;
 
 7° Lorsqu'elle est commise par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être
-identifiée. 
+identifiée ;
+
+8° Lorsque le bien détruit, dégradé ou détérioré est destiné à l'utilité ou à la décoration publique et appartient à une
+personne publique ou chargée d'une mission de service public.  
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un établissement scolaire,
 éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans
 d'emprisonnement et à 75 000 euros d'amende.
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 € d'amende lorsque l'infraction définie au premier alinéa de
+l'article 322-1 est commise dans deux des circonstances prévues aux 1° et suivants du présent article.
 
 **Liens relatifs à cet article**
 
@@ -23405,8 +23601,7 @@ d'emprisonnement et à 75 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2010-201 du 2 mars 2010 - art. 11
-	  - Loi n°2010-201 du 2 mars 2010 - art. 3
+	  - Loi n°2011-267 du 14 mars 2011 - art. 66
 
 	**Cite**:
 
@@ -25709,6 +25904,47 @@ La tentative des délits prévus au premier alinéa de l'article 413-10 et à l'
 	  - Code pénal - art. 413-11 (V)
 
 
+##### Section 3 : Des atteintes aux services spécialisés  de renseignement
+
+###### Article 413-13
+
+La révélation de toute information qui pourrait conduire, directement ou indirectement, à la découverte de l'usage, en
+application de l'article L. 2371-1 du code de la défense, d'une identité d'emprunt ou d'une fausse qualité, de l'identité
+réelle d'un agent des services spécialisés de renseignement mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17
+novembre 1958 relative au fonctionnement des assemblées parlementaires ou de son appartenance à l'un de ces services est
+punie de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+
+Lorsque cette révélation a causé une atteinte à l'intégrité physique ou psychique à l'encontre de ces personnes ou de leur
+conjoint ou partenaire lié par un pacte civil de solidarité ou de leurs descendants ou ascendants directs, les peines sont
+portées à sept ans d'emprisonnement et à 100 000 € d'amende. 
+
+Lorsque cette révélation a causé la mort de ces personnes ou de leur conjoint ou partenaire lié par un pacte civil de
+solidarité ou de leurs descendants ou ascendants directs, les peines sont portées à dix ans d'emprisonnement et à 150 000 €
+d'amende, sans préjudice, le cas échéant, de l'application du chapitre Ier du titre II du livre II. 
+
+La révélation, commise par imprudence ou par négligence, par une personne dépositaire soit par état ou profession, soit en
+raison d'une fonction ou d'une mission temporaire ou permanente, de l'information mentionnée au premier alinéa est punie de
+trois ans d'emprisonnement et de 45 000 € d'amende. 
+
+Le présent article est applicable à la révélation de toute information qui pourrait conduire, directement ou indirectement, à
+l'identification réelle ou supposée d'une personne comme source ou collaborateur d'un service spécialisé de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
+	  - Code de la défense. - art. L2371-1
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 27
+
+	**Cité par**:
+
+	  - Code pénal - art. 413-14 (V)
+
+
 #### Chapitre IV : Dispositions particulières
 
 ###### Article 414-1
@@ -25979,26 +26215,27 @@ des règlements de sécurité de ces derniers qui ont fait l'objet d'une publica
 ###### Article 421-1
 
 Constituent des actes de terrorisme, lorsqu'elles sont intentionnellement en relation avec une entreprise individuelle ou
-collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, les infractions suivantes :
+collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur, les infractions suivantes : 
 
 1° Les atteintes volontaires à la vie, les atteintes volontaires à l'intégrité de la personne, l'enlèvement et la
 séquestration ainsi que le détournement d'aéronef, de navire ou de tout autre moyen de transport, définis par le livre II du
-présent code ;
+présent code ; 
 
 2° Les vols, les extorsions, les destructions, dégradations et détériorations, ainsi que les infractions en matière
-informatique définis par le livre III du présent code ;
+informatique définis par le livre III du présent code ; 
 
 3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
-infractions définies par les articles 434-6 et 441-2 à 441-5 ;
+infractions définies par les articles 434-6 et 441-2 à 441-5 ; 
 
-4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les 2°, 4° et 5° du I de
-l'article L. 1333-9, les articles L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes de la 6e catégorie, L.
-2341-1, L. 2341-4, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5, et l'article L. 2353-13 du code de la
-défense ;
+4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par le I de l'article L.
+1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6,
+L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes de la 6e catégorie, L. 2339-14, L. 2339-16, L. 2341-1,
+L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L. 2353-13 du code de la
+défense ; 
 
-5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
+5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
-6° Les infractions de blanchiment prévues au chapitre IV du titre II du livre III du présent code ;
+6° Les infractions de blanchiment prévues au chapitre IV du titre II du livre III du présent code ; 
 
 7° Les délits d'initié prévus à l'article L. 465-1 du code monétaire et financier.
 
@@ -26055,24 +26292,35 @@ défense ;
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 17 () JORF 13 décembre 2005
+	  - Loi n°2011-266 du 14 mars 2011 - art. 18
 
 	**Cite**:
 
-	  - Code pénal - art. 434-6 (M)
-	  - Code pénal 431-13 à 431-17, 434-6, 441-2 à 441-5
-	  - Code de la défense. - art. L1333-9 (M)
+	  - Code pénal - art. 431-13 (V)
+	  - Code pénal - art. 434-6 (V)
+	  - Code pénal - art. 441-2 (V)
+	  - Code de la défense. - art. L1333-11 (V)
+	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-4 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L2339-14 (V)
+	  - Code de la défense. - art. L2339-16 (V)
 	  - Code de la défense. - art. L2339-2 (V)
-	  - Code de la défense. - art. L2339-5 (M)
+	  - Code de la défense. - art. L2339-5 (V)
 	  - Code de la défense. - art. L2339-8 (V)
-	  - Code de la défense. - art. L2339-9 (V)
-	  - Code de la défense. - art. L2353-5 (M)
-	  - Code monétaire et financier - art. L465-1 (M)
-	  - Convention 1993-01-13, signée à Paris
+	  - Code de la défense. - art. L2341-1 (V)
+	  - Code de la défense. - art. L2341-4 (V)
+	  - Code de la défense. - art. L2342-57 (V)
+	  - Code de la défense. - art. L2353-13 (V)
+	  - Code de la défense. - art. L2353-4 (V)
+	  - Code de la défense. - art. L2353-5 (V)
+	  - Code monétaire et financier - art. L465-1 (V)
 
 
 ###### Article 421-2
@@ -26563,26 +26811,18 @@ terrorisme est affecté au fonds de garantie des victimes des actes de terrorism
 ###### Article 431-1
 
 Le fait d'entraver, d'une manière concertée et à l'aide de menaces, l'exercice de la liberté d'expression, du travail,
-d'association, de réunion ou de manifestation est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+d'association, de réunion ou de manifestation ou d'entraver le déroulement des débats d'une assemblée parlementaire ou d'un
+organe délibérant d'une collectivité territoriale est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
 Le fait d'entraver, d'une manière concertée et à l'aide de coups, violences, voies de fait, destructions ou dégradations au
 sens du présent code, l'exercice d'une des libertés visées à l'alinéa précédent est puni de trois ans d'emprisonnement et de
-45000 euros d'amende.
+45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -26591,6 +26831,10 @@ sens du présent code, l'exercice d'une des libertés visées à l'alinéa préc
 	  - Code de la sécurité intérieure - art. L312-3 (V)
 	  - Code de procédure pénale - art. R40-27 (V)
 	  - Code pénal - art. 431-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 49
 
 
 ###### Article 431-2
@@ -27302,6 +27546,47 @@ suivantes :
 	**Cite**:
 
 	  - Code pénal - art. 131-26
+
+
+##### Section 7 : De la distribution d'argent à des fins publicitaires sur la voie publique 
+
+
+
+###### Article 431-29
+
+La distribution sur la voie publique, à des fins publicitaires, de pièces de monnaie ou de billets de banque ayant cours
+légal est puni de six mois d'emprisonnement et 30 000 € d'amende. 
+
+Le fait d'annoncer publiquement, par tout moyen, qu'il sera procédé sur la voie publique, à des fins publicitaires, à la
+distribution de pièces de monnaie ou de billets de banque ayant cours légal est puni de trois mois d'emprisonnement et 15 000
+€ d'amende. 
+
+Dans le cas prévu par le premier alinéa, la peine d'amende peut être portée au double des sommes ayant été distribuées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 50
+
+
+###### Article 431-30
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues par l'article 131-38, la peine
+d'affichage de la décision prononcée ou de diffusion de celle-ci soit par la presse écrite, soit par tout moyen de
+communication au public par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 50
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
 
 
 #### Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique
@@ -29509,16 +29794,10 @@ faire obtenir d'une des personnes visées à l'article 434-9 une décision ou un
 
 Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de causer ou
 d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile qu'il peut
-avoir encourue, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+avoir encourue, est puni de trois ans d'emprisonnement et de 75 000 € d'amende. 
 
 Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double
 hors les cas prévus par les articles 221-6-1, 222-19-1 et 222-20-1.
-
-**Nota:**
-
-Loi 2003-495 du 12 juin 2003 art. 3 III : Les dispositions du deuxième alinéa de l'article 434-10 du code pénal dans sa
-rédaction antérieure à l'entrée en vigueur de la présente loi, demeurent applicables aux infractions commises avant cette
-entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -29542,11 +29821,11 @@ entrée en vigueur.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V) JORF 13 juin 2003
+	  - Loi n°2011-267 du 14 mars 2011 - art. 82
 
 	**Liens**:
 
@@ -29554,11 +29833,11 @@ entrée en vigueur.
 
 	**Cite**:
 
-	  - Code pénal - art. 221-6 (M)
-	  - Code pénal - art. 221-6-1 (V)
-	  - Code pénal - art. 222-19 (M)
-	  - Code pénal - art. 222-19-1 (V)
-	  - Code pénal - art. 222-20-1 (V)
+	  - Code pénal - art. 221-6
+	  - Code pénal - art. 221-6-1
+	  - Code pénal - art. 222-19
+	  - Code pénal - art. 222-19-1
+	  - Code pénal - art. 222-20-1
 
 
 ###### Article 434-11
@@ -32944,6 +33223,86 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets sus
 	  - Code pénal - art. 445-2
 
 
+#### Chapitre VI : De la violation des dispositions réglementant les professions exercées dans les lieux publics
+
+###### Article 446-1
+
+La vente à la sauvette est le fait, sans autorisation ou déclaration régulière, d'offrir, de mettre en vente ou d'exposer en
+vue de la vente des biens ou d'exercer toute autre profession dans les lieux publics en violation des dispositions
+réglementaires sur la police de ces lieux. 
+
+La vente à la sauvette est punie de six mois d'emprisonnement et de 3 750 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 51
+
+	**Cité par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 14
+	  - Code de procédure pénale - art. 398-1 (M)
+	  - Code de procédure pénale - art. 495 (VD)
+	  - Code des transports - art. L2241-5 (V)
+	  - Code pénal - art. 225-12-8 (V)
+	  - Code pénal - art. 225-12-9 (V)
+
+
+###### Article 446-2
+
+Lorsque la vente à la sauvette est accompagnée de voies de fait ou de menaces ou lorsqu'elle est commise en réunion, la peine
+est portée à un an d'emprisonnement et à 15 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 51
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 495 (VD)
+
+
+###### Article 446-3
+
+Les personnes physiques coupables des délits prévus au présent chapitre encourent également les peines complémentaires
+suivantes : 
+
+1° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ; 
+
+2° La destruction de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 51
+
+
+###### Article 446-4
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
+définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues
+par l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 51
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+
+
 ### Titre V : De la participation à une association de malfaiteurs
 
 ###### Article 450-1
@@ -35624,6 +35983,52 @@ condition déterminante de l'exercice d'un emploi ou d'une activité professionn
 	  - Code pénal - art. 225-3 (M)
 
 
+###### Article 713-4
+
+Pour son application en Polynésie française et en Nouvelle-Calédonie, l'article 226-28 est ainsi rédigé : 
+
+"Art. 226-28. - Le fait de rechercher l'identification par ses empreintes génétiques d'une personne en dehors des cas prévus
+à l'article 16-11 du code civil est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
+
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
+l'agrément prévu par la réglementation localement applicable."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 135
+
+	**Cite**:
+
+	  - Code civil - art. 16-11
+
+
+###### Article 713-5
+
+Pour son application à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises, l'article 226-28 est ainsi
+rédigé : 
+
+"Art. 226-28. - Le fait de rechercher l'identification par ses empreintes génétiques d'une personne en dehors des cas prévus
+à l'article 16-11 du code civil est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
+
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
+l'agrément prévu à l'article L. 1131-3 du code de la santé publique."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 135
+
+	**Cite**:
+
+	  - Code civil - art. 16-11
+	  - Code de la santé publique - art. L1131-3
+
+
 #### Chapitre IV : Adaptation du livre III
 
 ###### Article 714-1
@@ -36183,31 +36588,30 @@ ci n'est pas recueilli. "
 
 ###### Article 723-5
 
-L'article 226-27 est rédigé comme suit :
+L'article 226-27 est ainsi rédigé : 
 
-" Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses empreintes génétiques à des fins médicales
-sans recueillir préalablement son consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+" Art. 226-27.-Le fait de procéder, sans avoir recueilli le consentement de la personne dans les conditions prévues par
+l'article 16-11 du code civil, à son identification par ses empreintes génétiques à des fins médicales ou de recherche
+scientifique ou au prélèvement de ses traces biologiques à titre d'ascendant, descendant ou collatéral aux fins de
+l'établissement, par ses empreintes génétiques, de l'identité d'une personne mentionnée au 3° du même article, est puni d'un
+an d'emprisonnement et de 15 000 € d'amende. 
 
-" Les dispositions de l'alinéa précédent ne sont pas applicables :
+L'alinéa précédent n'est pas applicable : 
 
-" 1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ;
+1° Lorsque l'étude est réalisée dans le cadre d'une procédure judiciaire ; 
 
-" 2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-
-ci n'est pas recueilli. "
+2° Ou lorsque, à titre exceptionnel, dans l'intérêt de la personne et le respect de sa confiance, le consentement de celle-ci
+n'est pas recueilli. "
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-267 du 14 mars 2011 - art. 135
 
 	**Cité par**:
 
@@ -36219,27 +36623,25 @@ ci n'est pas recueilli. "
 
 	**Cite**:
 
-	  - Code pénal - art. 226-27 (M)
+	  - Code civil - art. 16-11 (V)
 
 
 ###### Article 723-6
 
-L'article 226-28 est rédigé comme suit : 
+L'article 226-28 est ainsi rédigé : 
 
-" Art. 226-28.-Le fait de rechercher l'identification par ses empreintes génétiques d'une personne, lorsqu'il ne s'agit pas
-d'un militaire décédé à l'occasion d'une opération conduite par les forces armées ou les formations rattachées, à des fins
-qui ne seraient ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction diligentée lors d'une
-procédure judiciaire est puni d'un an d'emprisonnement ou de 1 500 euros d'amende. 
+" Art. 226-28.-Le fait de rechercher l'identification par ses empreintes génétiques d'une personne en dehors des cas prévus à
+l'article 16-11 du code civil est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
-empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans avoir fait l'objet
-d'un agrément délivré dans des conditions fixées par décret en Conseil d'Etat. "
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
+l'agrément prévu à l'article L. 1131-3 du code de la santé publique. "
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-270 du 24 mars 2005 - art. 93
+	  - Loi n°2011-267 du 14 mars 2011 - art. 135
 
 	**Cité par**:
 
@@ -36251,7 +36653,8 @@ d'un agrément délivré dans des conditions fixées par décret en Conseil d'Et
 
 	**Cite**:
 
-	  - Code pénal - art. 226-28 (M)
+	  - Code civil - art. 16-11 (V)
+	  - Code de la santé publique - art. L1131-3 (V)
 
 
 #### Chapitre IV : Adaptation du livre III
