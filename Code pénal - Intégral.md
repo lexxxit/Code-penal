@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-04-01
 
 # Partie législative
 
@@ -36349,61 +36349,39 @@ laquelle l'infraction a été commise.
 
 ###### Article 721-1
 
-Sous réserve des adaptations prévues au présent titre, le livre Ier à l'exclusion de l'article 132-70-1, et les livres II à V
-du présent code sont applicables à Mayotte.
+Pour l'application des livres Ier à V du présent code dans le Département de Mayotte, il est tenu compte des adaptations
+prévues par le présent titre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 3
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. L1517-1 (V)
 	  - Code de la santé publique - art. L1517-6 (V)
 
-	**Cite**:
-
-	  - Code pénal - art. 132-70-1 (M)
-
 
 ###### Article 721-2
 
-Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
-
-- "tribunal de grande instance" par "tribunal de première instance" ;
-
-- "cour d'assises" par "cour criminelle" ;
-
-- "département" par "collectivité" ;
-
-- "préfet" et "sous-préfet" par "représentant du Gouvernement".
-
-De même, les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux
-dispositions ayant le même objet applicables localement.
+Pour l'application du présent code dans le Département de Mayotte, les références à des dispositions qui n'y sont pas
+applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 3
 
 
 #### Chapitre II : Adaptation du livre Ier.
@@ -37531,6 +37509,26 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 727-2 (V)
 
+
+## Livre VII : Dispositions relatives à l'outre-mer
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
+
+### Titre II : Dispositions particulières au Département de Mayotte
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Adaptation du livre Ier.
+
+#### Chapitre III : Adaptation du livre II
+
+#### Chapitre IV : Adaptation du livre III
+
+#### Chapitre V : Adaptation du livre IV
+
+#### Chapitre VI : Adaptation du livre V
+
+#### Chapitre VII : Dispositions diverses
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -42647,105 +42645,22 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 
 ###### Article R721-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
-Conseil d'Etat) sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article R721-2
-
-Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
-
-- " tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
-
-- " département " par " collectivité territoriale " ;
-
-- " préfet " et " sous-préfet " par " représentant du Gouvernement " ;
-
-- " Banque de France " par " Institut d'émission d'outre-mer ".
-
-De même, les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux
+Pour l'application des livres Ier à VI de la deuxième partie du présent code (Décrets en Conseil d'Etat) dans le Département
+de Mayotte, les références à des dispositions qui n'y sont pas applicables sont remplacées par les références aux
 dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2011-338 du 29 mars 2011 - art. 3
 
 
 #### Chapitre II : Adaptation du livre Ier
-
-###### Article R722-1
-
-Le deuxième alinéa de l'article R. 131-2 est rédigé comme suit :
-
-" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
-la route applicable localement, justification du droit de conduire, lorsque sont respectées les conditions fixées par la
-juridiction. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2011-338 du 29 mars 2011 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. R131-2
-
-
-###### Article R722-2
-
-L'avant-dernier alinéa de l'article R. 131-4 est rédigé comme suit :
-
-" Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, au regard du code de
-la route applicable localement, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour
-lesquelles la juridiction a prononcé l'interdiction de conduire. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2011-338 du 29 mars 2011 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. R131-4
-
 
 ###### Article R722-3
 
@@ -42809,34 +42724,6 @@ excéder de plus de douze heures la durée légale de travail en vigueur localem
 	  - Code pénal - art. R131-25 (V)
 
 
-###### Article R722-6
-
-Le 3° de l'article R. 131-28 est rédigé comme suit :
-
-" 3° De s'assurer, si le travail auquel le juge de l'application des peines entend l'affecter doit s'exercer dans un
-établissement ou organisme public ou privé de prévention ou de soins et l'expose à des risques de contamination, qu'il est
-immunisé contre l'hépatite B, la diphtérie, le tétanos, la poliomyélite et la fièvre typhoïde, et ainsi que contre les
-maladies prévues par la réglementation applicable localement. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2011-338 du 29 mars 2011 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. R131-28
-
-
 ###### Article R722-7
 
 Le deuxième alinéa de l'article R. 131-36 est rédigé comme suit :
@@ -42860,4 +42747,14 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 	  - Code pénal - art. R131-36 (T)
 
+
+## Livre VII : Dispositions relatives à l'outre-mer
+
+### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie
+
+### Titre II : Dispositions particulières au Département de Mayotte
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Adaptation du livre Ier
 
