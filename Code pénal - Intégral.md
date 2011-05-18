@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -240,37 +240,37 @@ territoire.
 ###### Article 113-3
 
 La loi pénale française est applicable aux infractions commises à bord des navires battant un pavillon français, ou à
-l'encontre de tels navires, en quelque lieu qu'ils se trouvent. Elle est seule applicable aux infractions commises à bord des
-navires de la marine nationale, ou à l'encontre de tels navires, en quelque lieu qu'ils se trouvent.
+l'encontre  de tels navires ou des personnes se trouvant à bord, en quelque lieu qu'ils se trouvent. Elle est seule
+applicable aux infractions commises à bord des navires de la marine nationale, ou à l'encontre  de tels navires ou des
+personnes se trouvant à bord, en quelque lieu qu'ils se trouvent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2011-525 du 17 mai 2011 - art. 87
 
 
 ###### Article 113-4
 
 La loi pénale française est applicable aux infractions commises à bord des aéronefs immatriculés en France, ou à l'encontre
-de tels aéronefs, en quelque lieu qu'ils se trouvent. Elle est seule applicable aux infractions commises à bord des aéronefs
-militaires français, ou à l'encontre de tels aéronefs, en quelque lieu qu'ils se trouvent.
+de tels aéronefs ou des personnes se trouvant à bord, en quelque lieu qu'ils se trouvent. Elle est seule applicable aux
+infractions commises à bord des aéronefs militaires français, ou à l'encontre  de tels aéronefs ou des personnes se trouvant
+à bord, en quelque lieu qu'ils se trouvent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2011-525 du 17 mai 2011 - art. 87
 
 
 ###### Article 113-5
@@ -500,7 +500,7 @@ commis hors du territoire de la République.
 ###### Article 113-11
 
 Sous réserve des dispositions de l'article 113-9, la loi pénale française est applicable aux crimes et délits commis à bord
-ou à l'encontre des aéronefs non immatriculés en France : 
+ou à l'encontre des aéronefs non immatriculés en France ou des personnes se trouvant à bord : 
 
 1° Lorsque l'auteur ou la victime est de nationalité française ; 
 
@@ -516,20 +516,16 @@ Dans le cas prévu au 1°, la nationalité de l'auteur ou de la victime de l'inf
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Créé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 340 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2011-525 du 17 mai 2011 - art. 87
 
 	**Cite**:
 
-	  - Code pénal - art. 113-6 (V)
-	  - Code pénal - art. 113-9 (V)
+	  - Code pénal - art. 113-6
+	  - Code pénal - art. 113-9
 
 
 ###### Article 113-12
@@ -4125,6 +4121,8 @@ publications de presse, ou par un ou plusieurs services de communication au publ
 les services de communication au public par voie électronique chargés de cette diffusion sont désignés par la juridiction.
 Ils ne peuvent s'opposer à cette diffusion.
 
+L'affichage et la diffusion peuvent être ordonnés cumulativement.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -4404,15 +4402,11 @@ Ils ne peuvent s'opposer à cette diffusion.
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+	  - Loi n°2011-525 du 17 mai 2011 - art. 148
 
 
 ###### Article 131-35-1
@@ -10876,7 +10870,8 @@ présent article.
 
 ###### Article 221-3
 
-Le meurtre commis avec préméditation constitue un assassinat. Il est puni de la réclusion criminelle à perpétuité. 
+Le meurtre commis avec préméditation ou guet-apens constitue un assassinat. Il est puni de la réclusion criminelle à
+perpétuité. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le
 présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que l'assassinat est précédé ou accompagné d'un
@@ -10896,7 +10891,7 @@ de la peine résultant de la mesure de grâce.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 38
+	  - Loi n°2011-525 du 17 mai 2011 - art. 149
 
 	**Cité par**:
 
@@ -11104,11 +11099,11 @@ habituellement sur le territoire français, la loi française est applicable par
 ###### Article 221-6
 
 Le fait de causer, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence,
-inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement, la mort
-d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 45000 euros d'amende.
+inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, la mort
+d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
-En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
-règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le
+règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -11160,47 +11155,46 @@ règlement, les peines encourues sont portées à cinq ans d'emprisonnement et �
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3
 
 
 ###### Article 221-6-1
 
 Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
-réglementaire de sécurité ou de prudence prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à
-moteur, l'homicide involontaire est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende.
+réglementaire de prudence ou de sécurité prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à
+moteur, l'homicide involontaire est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
 
-Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsque :
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque : 
 
-1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
-prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ; 
 
 2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
 concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
-établir l'existence d'un état alcoolique ;
+établir l'existence d'un état alcoolique ; 
 
 3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
 stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
-conduisait en ayant fait usage de stupéfiants ;
+conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
-invalidé, suspendu ou retenu ;
+invalidé, suspendu ou retenu ; 
 
-5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ; 
 
 6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
-à la responsabilité pénale ou civile qu'il peut encourir.
+à la responsabilité pénale ou civile qu'il peut encourir. 
 
-Les peines sont portées à dix ans d'emprisonnement et à 150 000 Euros d'amende lorsque l'homicide involontaire a été commis
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'homicide involontaire a été commis
 avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
 
 **Liens relatifs à cet article**
@@ -11229,11 +11223,11 @@ avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 1 () JORF 13 juin 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 	**Liens**:
 
@@ -11241,7 +11235,7 @@ avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent
 
 	**Cite**:
 
-	  - Code pénal - art. 221-6 (M)
+	  - Code pénal - art. 221-6
 
 
 ###### Article 221-6-2
@@ -12784,12 +12778,12 @@ d'emprisonnement et de 100 000 € d'amende.
 ###### Article 222-19
 
 Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse,
-imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence imposée par la loi ou le
-règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30000
-euros d'amende.
+imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le
+règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000
+euros d'amende. 
 
-En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le
-règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45000 euros d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le
+règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12841,48 +12835,47 @@ règlement, les peines encourues sont portées à trois ans d'emprisonnement et 
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3
 
 
 ###### Article 222-19-1
 
 Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
-réglementaire de sécurité ou de prudence prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
+réglementaire de prudence ou de sécurité prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
 moteur, l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail pendant plus de
-trois mois est punie de trois ans d'emprisonnement et de 45 000 Euros d'amende.
+trois mois est punie de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
-Les peines sont portées à cinq ans d'emprisonnement et à 75 000 Euros d'amende lorsque :
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque : 
 
 1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
-prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ; 
 
 2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
 concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
-établir l'existence d'un état alcoolique ;
+établir l'existence d'un état alcoolique ; 
 
 3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
 stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
-conduisait en ayant fait usage de stupéfiants ;
+conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
-invalidé, suspendu ou retenu ;
+invalidé, suspendu ou retenu ; 
 
-5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ; 
 
 6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
-à la responsabilité pénale ou civile qu'il peut encourir.
+à la responsabilité pénale ou civile qu'il peut encourir. 
 
-Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'atteinte involontaire à l'intégrité
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque l'atteinte involontaire à l'intégrité
 de la personne a été commise avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
 
 **Liens relatifs à cet article**
@@ -12912,11 +12905,11 @@ de la personne a été commise avec deux ou plus des circonstances mentionnées 
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 2 () JORF 13 juin 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 	**Liens**:
 
@@ -12924,7 +12917,7 @@ de la personne a été commise avec deux ou plus des circonstances mentionnées 
 
 	**Cite**:
 
-	  - Code pénal - art. 222-19 (M)
+	  - Code pénal - art. 222-19
 
 
 ###### Article 222-19-2
@@ -12976,9 +12969,9 @@ de la personne a été commise avec deux ou plusieurs des circonstances mentionn
 
 ###### Article 222-20
 
-Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
-imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni
-d'un an d'emprisonnement et de 15000 euros d'amende.
+Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière    de prudence ou de
+sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois,
+est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13002,48 +12995,43 @@ d'un an d'emprisonnement et de 15000 euros d'amende.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 
 ###### Article 222-20-1
 
 Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou
-réglementaire de sécurité ou de prudence prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
+réglementaire de prudence ou de sécurité prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
 moteur, l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail d'une durée
-inférieure ou égale à trois mois est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+inférieure ou égale à trois mois est punie de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
-Les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende lorsque :
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque : 
 
 1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
-prévue par la loi ou le règlement autre que celles mentionnées ci-après ;
+prévue par la loi ou le règlement autre que celles mentionnées ci-après ; 
 
 2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
 concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure aux taux fixés par les dispositions législatives
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
-établir l'existence d'un état alcoolique ;
+établir l'existence d'un état alcoolique ; 
 
 3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
 stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
-conduisait en ayant fait usage de stupéfiants ;
+conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
-invalidé, suspendu ou retenu ;
+invalidé, suspendu ou retenu ; 
 
-5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ;
+5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h ; 
 
 6° Le conducteur, sachant qu'il vient de causer ou d'occasionner un accident, ne s'est pas arrêté et a tenté ainsi d'échapper
-à la responsabilité pénale ou civile qu'il peut encourir.
+à la responsabilité pénale ou civile qu'il peut encourir. 
 
-Les peines sont portées à cinq ans d'emprisonnement et 75 000 Euros d'amende lorsque l'atteinte involontaire à l'intégrité de
+Les peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende lorsque l'atteinte involontaire à l'intégrité de
 la personne a été commise avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent article.
 
 **Liens relatifs à cet article**
@@ -13070,11 +13058,11 @@ la personne a été commise avec deux ou plus des circonstances mentionnées aux
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 2 () JORF 13 juin 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 	**Liens**:
 
@@ -13082,7 +13070,7 @@ la personne a été commise avec deux ou plus des circonstances mentionnées aux
 
 	**Cite**:
 
-	  - Code pénal - art. 222-19 (M)
+	  - Code pénal - art. 222-19
 
 
 ###### Article 222-20-2
@@ -13285,7 +13273,7 @@ une déficience physique ou psychique ou à un état de grossesse, est apparente
 7° Lorsqu'il est commis avec usage ou menace d'une arme ;
 
 8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ;
+destination d'un public non déterminé, d'un réseau de communication électronique   ;
 
 9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
 
@@ -13301,7 +13289,7 @@ stupéfiants.
 
 	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 2
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cité par**:
 
@@ -13415,7 +13403,7 @@ fait ;
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ; 
+destination d'un public non déterminé, d'un réseau de communication électronique   ; 
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
 de solidarité ; 
@@ -13427,7 +13415,7 @@ stupéfiants.
 
 	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 2
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cite**:
 
@@ -14522,8 +14510,8 @@ restaurant.
 ###### Article 223-1
 
 Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une
-infirmité permanente par la violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
-imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15000 euros d'amende.
+infirmité permanente par la violation manifestement délibérée d'une obligation particulière    de prudence ou de sécurité
+imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -14553,16 +14541,11 @@ imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 150
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 
 ###### Article 223-2
@@ -15971,7 +15954,7 @@ déficience physique ou psychique ou à un état de grossesse, est apparente ou 
 la République ;
 
 5° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ;
+destination d'un public non déterminé, d'un réseau de communication électronique   ;
 
 6° Dans des circonstances qui exposent directement la personne à l'égard de laquelle l'infraction est commise à un risque
 immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ;
@@ -15988,11 +15971,15 @@ personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Créé par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cité par**:
 
@@ -16000,7 +15987,7 @@ personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses
 
 	**Cite**:
 
-	  - Code pénal - art. 225-4-1 (M)
+	  - Code pénal - art. 225-4-1
 
 
 ###### Article 225-4-3
@@ -16285,32 +16272,32 @@ l'égard de personnes en danger de prostitution ou se livrant à la prostitution
 
 ###### Article 225-7
 
-Le proxénétisme est puni de dix ans d'emprisonnement et de 1500000 euros d'amende lorsqu'il est commis :
+Le proxénétisme est puni de dix ans d'emprisonnement et de 1 500 000 euros d'amende lorsqu'il est commis : 
 
-1° A l'égard d'un mineur ;
+1° A l'égard d'un mineur ; 
 
 2° A l'égard d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
-déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ; 
 
-3° A l'égard de plusieurs personnes ;
+3° A l'égard de plusieurs personnes ; 
 
 4° A l'égard d'une personne qui a été incitée à se livrer à la prostitution soit hors du territoire de la République, soit à
-son arrivée sur le territoire de la République ;
+son arrivée sur le territoire de la République ; 
 
 5° Par un ascendant légitime, naturel ou adoptif de la personne qui se prostitue ou par une personne qui a autorité sur elle
-ou abuse de l'autorité que lui confèrent ses fonctions ;
+ou abuse de l'autorité que lui confèrent ses fonctions ; 
 
 6° Par une personne appelée à participer, de par ses fonctions, à la lutte contre la prostitution, à la protection de la
-santé ou au maintien de l'ordre public ;
+santé ou au maintien de l'ordre public ; 
 
-7° Par une personne porteuse d'une arme ;
+7° Par une personne porteuse d'une arme ; 
 
-8° Avec l'emploi de la contrainte, de violences ou de manoeuvres dolosives ;
+8° Avec l'emploi de la contrainte, de violences ou de manoeuvres dolosives ; 
 
-9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée ;
+9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée ; 
 
 10° Grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de
-télécommunications.
+communication électronique. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -16335,15 +16322,15 @@ présent article.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 50 1° JORF 19 mars 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 225-7-1
@@ -18795,11 +18782,11 @@ d'aucune sanction disciplinaire.
 
 Le fait, commis de mauvaise foi, d'ouvrir, de supprimer, de retarder ou de détourner des correspondances arrivées ou non à
 destination et adressées à des tiers, ou d'en prendre frauduleusement connaissance, est puni d'un an d'emprisonnement et de
-45000 euros d'amende.
+45 000 euros d'amende.
 
 Est puni des mêmes peines le fait, commis de mauvaise foi, d'intercepter, de détourner, d'utiliser ou de divulguer des
-correspondances émises, transmises ou reçues par la voie des télécommunications ou de procéder à l'installation d'appareils
-conçus pour réaliser de telles interceptions.
+correspondances émises, transmises ou reçues par la voie électronique ou de procéder à l'installation d'appareils conçus pour
+réaliser de telles interceptions.
 
 **Liens relatifs à cet article**
 
@@ -18820,16 +18807,11 @@ conçus pour réaliser de telles interceptions.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 
 ##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.
@@ -19612,8 +19594,8 @@ Le délaissement d'un mineur de quinze ans suivi de la mort de celui-ci est puni
 Le fait, pour une personne, de ne pas exécuter une décision judiciaire ou une convention judiciairement homologuée lui
 imposant de verser au profit d'un enfant mineur, d'un descendant, d'un ascendant ou du conjoint une pension, une
 contribution, des subsides ou des prestations de toute nature dues en raison de l'une des obligations familiales prévues par
-le titre IX du livre Ier du code civil, en demeurant plus de deux mois sans s'acquitter intégralement de cette obligation,
-est puni de deux ans d'emprisonnement et de 15 000 euros d'amende. 
+le code civil, en demeurant plus de deux mois sans s'acquitter intégralement de cette obligation, est puni de deux ans
+d'emprisonnement et de 15 000 euros d'amende. 
 
 Les infractions prévues par le premier alinéa du présent article sont assimilées à des abandons de famille pour l'application
 du 3° de l'article 373 du code civil.
@@ -19631,11 +19613,11 @@ du 3° de l'article 373 du code civil.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 133
+	  - Loi n°2011-525 du 17 mai 2011 - art. 151
 
 	**Cite**:
 
-	  - Code civil - art. 373 (V)
+	  - Code civil - art. 373
 
 
 ###### Article 227-4
@@ -20510,7 +20492,7 @@ fait ;
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ; 
 
 4° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de télécommunications ; 
+destination d'un public non déterminé, d'un réseau de communication électronique   ; 
 
 5° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
 stupéfiants.
@@ -20529,7 +20511,7 @@ stupéfiants.
 
 	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 2
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cite**:
 
@@ -23699,38 +23681,38 @@ véhicules destinés à l'habitation, en vue de leur confiscation par la juridic
 ###### Article 322-5
 
 La destruction, la dégradation ou la détérioration involontaire d'un bien appartenant à autrui par l'effet d'une explosion ou
-d'un incendie provoqués par manquement à une obligation de sécurité ou de prudence imposée par la loi ou le règlement est
-punie d'un an d'emprisonnement et de 15000 euros d'amende.
+d'un incendie provoqués par manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement est
+punie d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
-En cas de violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence prévue par la loi ou le
-règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 30000 euros d'amende.
+En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité prévue par la loi ou le
+règlement, les peines encourues sont portées à deux ans d'emprisonnement et à 30 000 euros d'amende. 
 
 Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
-à deux ans d'emprisonnement et à 30 000 Euros d'amende dans le cas prévu par le premier alinéa, et à trois ans
-d'emprisonnement et à 45 000 Euros d'amende dans le cas prévu par le deuxième alinéa.
+à deux ans d'emprisonnement et à 30 000 euros d'amende dans le cas prévu par le premier alinéa, et à trois ans
+d'emprisonnement et à 45 000 euros d'amende dans le cas prévu par le deuxième alinéa. 
 
 Si cet incendie est intervenu dans des conditions de nature à exposer les personnes à un dommage corporel ou à créer un
-dommage irréversible à l'environnement, les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende dans
-le cas prévu par le premier alinéa, et à cinq ans d'emprisonnement et à 100 000 Euros d'amende dans le cas prévu par le
-deuxième alinéa.
+dommage irréversible à l'environnement, les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende dans
+le cas prévu par le premier alinéa, et à cinq ans d'emprisonnement et à 100 000 euros d'amende dans le cas prévu par le
+deuxième alinéa. 
 
 Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant au moins huit jours, les peines sont portées à
-cinq ans d'emprisonnement et à 75 000 Euros d'amende dans le cas prévu par le premier alinéa, et à sept ans d'emprisonnement
-et à 100 000 Euros d'amende dans le cas prévu par le deuxième alinéa.
+cinq ans d'emprisonnement et à 75 000 euros d'amende dans le cas prévu par le premier alinéa, et à sept ans d'emprisonnement
+et à 100 000 euros d'amende dans le cas prévu par le deuxième alinéa. 
 
-S'il a provoqué la mort d'une ou plusieurs personnes, les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros
-d'amende dans le cas prévu par le premier alinéa, et à dix ans d'emprisonnement et à 150 000 Euros d'amende dans le cas prévu
+S'il a provoqué la mort d'une ou plusieurs personnes, les peines sont portées à sept ans d'emprisonnement et à 100 000 euros
+d'amende dans le cas prévu par le premier alinéa, et à dix ans d'emprisonnement et à 150 000 euros d'amende dans le cas prévu
 par le deuxième alinéa.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
+	  - Loi n°92-685 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 25 () JORF 13 décembre 2005
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 	**Cité par**:
 
@@ -23788,20 +23770,20 @@ peines sont portées à quinze ans de réclusion criminelle et à 150 000 euros 
 Le fait de diffuser par tout moyen, sauf à destination des professionnels, des procédés permettant la fabrication d'engins de
 destruction élaborés à partir de poudre ou de substances explosives, de matières nucléaires, biologiques ou chimiques, ou à
 partir de tout autre produit destiné à l'usage domestique, industriel ou agricole, est puni d'un an d'emprisonnement et de 15
-000 Euros d'amende.
+000 euros d'amende.
 
-Les peines sont portées à trois ans d'emprisonnement et à 45 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion
-des procédés, un réseau de télécommunications à destination d'un public non déterminé.
+Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsqu'il a été utilisé, pour la diffusion
+des procédés, un réseau de communication électronique à destination d'un public non déterminé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
+	  - Loi n°92-685 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 7 () JORF 10 mars 2004
+	  - Loi n°2011-525 du 17 mai 2011 - art. 150
 
 	**Cité par**:
 
@@ -27924,11 +27906,11 @@ publique, chargée d'une mission de service public, ou investie d'un mandat éle
 droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
 quelconques pour elle-même ou pour autrui :
 
-1° Soit pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa
-fonction, sa mission ou son mandat ;
+1° Soit pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir   un acte de sa fonction, de sa
+mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ;
 
-2° Soit pour abuser de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une administration
-publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+2° Soit pour abuser ou avoir abusé  de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une
+administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 **Liens relatifs à cet article**
 
@@ -27955,11 +27937,11 @@ publique des distinctions, des emplois, des marchés ou toute autre décision fa
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ##### Paragraphe 3 : De la prise illégale d'intérêts
@@ -28307,21 +28289,22 @@ conditions prévues par l'article 131-35.
 
 ###### Article 433-1
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public,
-pour elle-même ou pour autrui, afin :
+Est puni de dix ans d'emprisonnement et de 150 000 € d'amende le fait, par quiconque, de proposer sans droit, à tout moment,
+directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une personne
+dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public, pour
+elle-même ou pour autrui :
 
-1° Soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité
-par sa fonction, sa mission ou son mandat ;
+1° Soit pour qu'elle accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir, un
+acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat ;
 
-2° Soit qu'elle abuse de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une administration
-publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+2° Soit pour qu'elle abuse, ou parce qu'elle a abusé, de son influence réelle ou supposée en vue de faire obtenir d'une
+autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 Est puni des mêmes peines le fait de céder à une personne dépositaire de l'autorité publique, chargée d'une mission de
-service public ou investie d'un mandat électif public qui sollicite, sans droit, à tout moment, directement ou indirectement,
-des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, afin
-d'accomplir ou de s'abstenir d'accomplir un acte visé au 1° ou d'abuser de son influence dans les conditions visées au 2°.
+service public ou investie d'un mandat électif public qui sollicite sans droit, à tout moment, directement ou indirectement,
+des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour accomplir
+ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte mentionné au 1° ou pour abuser ou avoir abusé de
+son influence dans les conditions mentionnées au 2°.
 
 **Liens relatifs à cet article**
 
@@ -28368,24 +28351,25 @@ d'accomplir ou de s'abstenir d'accomplir un acte visé au 1° ou d'abuser de son
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ###### Article 433-2
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, afin d'abuser de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une
-administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+lui-même ou pour autrui,  pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une
+autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 Est puni des mêmes peines le fait de céder aux sollicitations prévues au premier alinéa ou de proposer, sans droit, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, afin qu'elle abuse de son influence réelle ou supposée en vue de faire obtenir d'une
-autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé  de son influence réelle ou supposée en
+vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute
+autre décision favorable.
 
 **Liens relatifs à cet article**
 
@@ -28419,11 +28403,11 @@ autorité ou d'une administration publique des distinctions, des emplois, des ma
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique
@@ -29698,13 +29682,13 @@ médiation ;
 5° Un arbitre exerçant sa mission sous l'empire du droit national sur l'arbitrage, 
 
 de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
-présents ou des avantages quelconques, pour lui-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d'un acte
-de sa fonction ou facilité par sa fonction.
+présents ou des avantages quelconques, pour lui-même ou pour autrui,  pour accomplir ou avoir accompli, pour s'abstenir ou
+s'être abstenu d'accomplir un  acte de sa fonction ou facilité par sa fonction.
 
-Le fait de céder aux sollicitations d'une personne visée aux 1° à 5°, ou de proposer, sans droit, à tout moment, directement
-ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour
-autrui, afin d'obtenir d'une de ces personnes l'accomplissement ou l'abstention d'un acte de sa fonction ou facilité par sa
-fonction est puni des mêmes peines.
+Le fait de céder aux sollicitations d'une personne mentionnée aux 1° à 5° ou de lui proposer sans droit, à tout moment,
+directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même
+ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue
+d'accomplir un acte de sa fonction ou facilité par sa fonction est puni des mêmes peines.  
 
 Lorsque l'infraction définie aux premier à septième alinéas est commise par un magistrat au bénéfice ou au détriment d'une
 personne faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 225 000
@@ -29714,7 +29698,7 @@ euros d'amende.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -29743,26 +29727,26 @@ euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ###### Article 434-9-1
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, afin d'abuser de son influence réelle ou supposée en vue de faire obtenir d'une des personnes visées
-à l'article 434-9 toute décision ou tout avis favorable.
+lui-même ou pour autrui, pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une des
+personnes visées à l'article 434-9 toute décision ou tout avis favorable. 
 
 Est puni des mêmes peines le fait, par quiconque, à tout moment, de céder aux sollicitations prévues au premier alinéa ou de
 proposer, sans droit, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
-quelconques à une personne, pour elle-même ou pour autrui, afin qu'elle abuse de son influence réelle ou supposée en vue de
-faire obtenir d'une des personnes visées à l'article 434-9 une décision ou un avis favorable.
+quelconques à une personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé de son influence
+réelle ou supposée en vue de faire obtenir d'une des personnes visées à l'article 434-9 une décision ou un avis favorable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -29781,13 +29765,13 @@ faire obtenir d'une des personnes visées à l'article 434-9 une décision ou un
 	  - Code pénal - art. 434-47 (V)
 	  - Code pénal - art. 434-48 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cite**:
 
-	  - Code pénal - art. 434-9 (M)
+	  - Code pénal - art. 434-9 (V)
 
 
 ###### Article 434-10
@@ -30761,32 +30745,50 @@ Le jugement ordonnera à nouveau l'exécution de l'affichage aux frais du condam
 
 ###### Article 434-40
 
-Lorsqu'a été prononcée, à titre de peine, l'interdiction d'exercer une activité professionnelle ou sociale prévue aux
-articles 131-27 à 131-29, toute violation de cette interdiction est punie de deux ans d'emprisonnement et de 30000 euros
-d'amende.
+Lorsqu'a été prononcée, à titre de peine, l'interdiction d'exercer une activité professionnelle ou sociale ou une fonction
+publique prévue au premier alinéa de l'article 131-27 et aux articles 131-28 et 131-29, toute violation de cette interdiction
+est punie de deux ans d'emprisonnement et de 30 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 155
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-28 (V)
 
 	**Cité par**:
 
 	  - Code pénal - art. 434-44 (V)
 
+
+###### Article 434-40-1
+
+Lorsqu'a été prononcée, à titre de peine, l'interdiction d'exercer une profession commerciale ou industrielle, de diriger,
+d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour
+le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale prévue au deuxième alinéa de
+l'article 131-27, toute violation de cette interdiction est punie de deux ans d'emprisonnement et de 375 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 155
+
+	**Cité par**:
+
+	  - Code de commerce - art. L128-1 (V)
+
 	**Cite**:
 
-	  - Code pénal 131-27 à 131-29
+	  - Code pénal - art. 131-27 (V)
 
 
 ###### Article 434-41
@@ -31061,18 +31063,18 @@ Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par u
 publique, chargée d'une mission de service public ou investie d'un mandat électif public dans un Etat étranger ou au sein
 d'une organisation internationale publique, de solliciter ou d'agréer, sans droit, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,
-afin d'accomplir ou de s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa
-fonction, sa mission ou son mandat.
+pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte de sa fonction, de sa mission ou de
+son mandat ou facilité par sa fonction, sa mission ou son mandat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -31092,19 +31094,20 @@ fonction, sa mission ou son mandat.
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, afin d'abuser de son influence réelle ou supposée en vue de faire obtenir des distinctions, des
-emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique, chargée d'une
-mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale publique.
+lui-même ou pour autrui, pour abuser ou avoir abusé  de son influence réelle ou supposée en vue de faire obtenir des
+distinctions, des emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique,
+chargée d'une mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale
+publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -31120,19 +31123,20 @@ mission de service public ou investie d'un mandat électif public au sein d'une 
 Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
 moment, directement ou indirectement, à une personne dépositaire de l'autorité publique, chargée d'une mission de service
 public ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique,
-des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, afin d'obtenir
-qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa
-fonction, sa mission ou son mandat.
+des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle
+accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa fonction, de
+sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne visée au premier alinéa qui sollicite, sans droit,
 à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
-pour elle-même ou pour autrui, afin d'accomplir ou de s'abstenir d'accomplir un acte visé audit alinéa.
+pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte visé
+audit alinéa.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -31154,32 +31158,32 @@ pour elle-même ou pour autrui, afin d'accomplir ou de s'abstenir d'accomplir un
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ###### Article 435-4
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, afin qu'elle abuse de son influence réelle ou supposée en vue de faire obtenir des
-distinctions, des emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique,
-chargée d'une mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale
-publique.
+personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé  de son influence réelle ou supposée en
+vue de faire obtenir des distinctions, des emplois, des marchés ou toute autre décision favorable d'une personne dépositaire
+de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public au sein d'une
+organisation internationale publique.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui sollicite, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,
-afin d'abuser de son influence réelle ou supposée en vue de faire obtenir des distinctions, des emplois, des marchés ou toute
-autre décision favorable d'une personne visée au premier alinéa.
+pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir des distinctions, des emplois, des
+marchés ou toute autre décision favorable d'une personne visée au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -31258,18 +31262,18 @@ internationale ;
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage, 
 
 de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
-présents ou des avantages quelconques, pour lui-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d'un acte
-de sa fonction ou facilité par sa fonction.
+présents ou des avantages quelconques, pour lui-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou
+s'être abstenu d'accomplir un   acte de sa fonction ou facilité par sa fonction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -31286,19 +31290,19 @@ de sa fonction ou facilité par sa fonction.
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, afin d'abuser de son influence réelle ou supposée en vue de faire obtenir toute décision ou tout
-avis favorable d'une personne visée à l'article 435-7, lorsqu'elle exerce ses fonctions au sein ou auprès d'une cour
-internationale ou lorsqu'elle est nommée par une telle cour.
+lui-même ou pour autrui, pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir toute
+décision ou tout avis favorable d'une personne visée à l'article 435-7, lorsqu'elle exerce ses fonctions au sein ou auprès
+d'une cour internationale ou lorsqu'elle est nommée par une telle cour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cite**:
 
@@ -31323,18 +31327,20 @@ internationale ;
 
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage, 
 
-pour lui-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir
-l'accomplissement ou l'abstention d'un acte de sa fonction ou facilité par sa fonction.
+pour lui-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques pour que cette
+personne accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un  acte de sa
+fonction ou facilité par sa fonction.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne mentionnée aux 1° à 5° qui sollicite, sans droit, à
 tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
-pour elle-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d'un acte de sa fonction.
+pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte de sa
+fonction ou facilité par  sa fonction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -31351,33 +31357,33 @@ pour elle-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d
 	  - Code pénal - art. 435-10 (V)
 	  - Code pénal - art. 435-15 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ###### Article 435-10
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, afin qu'elle abuse de son influence réelle ou supposée en vue de faire obtenir toute
-décision ou avis favorable d'une personne visée à l'article 435-9, lorsqu'elle exerce ses fonctions au sein ou auprès d'une
-cour internationale ou lorsqu'elle est nommée par une telle cour.
+personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en
+vue de faire obtenir toute décision ou avis favorable d'une personne visée à l'article 435-9, lorsqu'elle exerce ses
+fonctions au sein ou auprès d'une cour internationale ou lorsqu'elle est nommée par une telle cour. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui sollicite, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons ou des présents ou des avantages quelconques, pour elle-même ou pour
-autrui, afin d'abuser de son influence réelle ou supposée en vue de faire obtenir d'une personne visée au premier alinéa
-toute décision ou tout avis favorable.
+autrui, pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une personne visée au
+premier alinéa toute décision ou tout avis favorable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -31976,63 +31982,6 @@ porter préjudice au Trésor public ou au patrimoine d'autrui.
 	**Modifié par**:
 
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-
-###### Article 441-8
-
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait, par une personne agissant dans l'exercice de sa
-profession, de solliciter ou d'agréer, directement ou indirectement, des offres, promesses, dons, présents ou avantages
-quelconques pour établir une attestation ou un certificat faisant état de faits matériellement inexacts.
-
-Est puni des mêmes peines le fait de céder aux sollicitations prévues à l'alinéa précédent ou d'user de voies de fait ou de
-menaces ou de proposer, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
-quelconques pour obtenir d'une personne agissant dans l'exercice de sa profession qu'elle établisse une attestation ou un
-certificat faisant état de faits inexacts.
-
-La peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque la personne visée aux deux premiers
-alinéas exerce une profession médicale ou de santé et que l'attestation faisant état de faits inexacts dissimule ou certifie
-faussement l'existence d'une maladie, d'une infirmité ou d'un état de grossesse, ou fournit des indications mensongères sur
-l'origine d'une maladie ou d'une infirmité ou sur la cause d'un décès.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
-	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
-	  - Loi n°96-597 du 2 juillet 1996 - art. 22 (Ab)
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (V)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (V)
-	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 94 (VT)
-	  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
-	  - Décret n°2007-1167 du 2 août 2007 - art. Annexe (V)
-	  - Arrêté du 28 septembre 2011 - art. 2 (V)
-	  - Arrêté du 28 septembre 2011 - art. 6 (V)
-	  - Code de la mutualité - art. L114-21 (V)
-	  - Code de la route - art. R243-2 (Ab)
-	  - Code de la route. - art. R212-4 (V)
-	  - Code de la sécurité sociale. - art. L471-4 (V)
-	  - Code de la sécurité sociale. - art. L931-9 (V)
-	  - Code des assurances - art. L322-2 (M)
-	  - Code général des collectivités territoriales - art. L1414-4 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 152
 
 
 ###### Article 441-9
@@ -33088,20 +33037,21 @@ Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par q
 moment, directement ou indirectement, à une personne qui, sans être dépositaire de l'autorité publique, ni chargée d'une
 mission de service public, ni investie d'un mandat électif public exerce, dans le cadre d'une activité professionnelle ou
 sociale, une fonction de direction ou un travail pour une personne physique ou morale ou pour un organisme quelconque, des
-offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, afin d'obtenir
-qu'elle accomplisse ou s'abstienne d'accomplir un acte de son activité ou de sa fonction ou facilité par son activité ou sa
-fonction, en violation de ses obligations légales, contractuelles ou professionnelles.
+offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle
+accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir  un acte de son activité ou
+de sa fonction ou facilité par son activité ou sa fonction, en violation de ses obligations légales, contractuelles ou
+professionnelles.
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne visée au premier alinéa qui sollicite, sans droit,
 à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
-pour elle-même ou pour autrui, afin d'accomplir ou de s'abstenir d'accomplir un acte visé audit alinéa, en violation de ses
-obligations légales, contractuelles ou professionnelles.
+pour elle-même ou pour autrui,  pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte
+visé audit alinéa, en violation de ses obligations légales, contractuelles ou professionnelles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -33125,7 +33075,7 @@ obligations légales, contractuelles ou professionnelles.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
 ###### Article 445-2
@@ -33134,19 +33084,19 @@ Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par u
 l'autorité publique, ni chargée d'une mission de service public, ni investie d'un mandat électif public exerce, dans le cadre
 d'une activité professionnelle ou sociale, une fonction de direction ou un travail pour une personne physique ou morale ou
 pour un organisme quelconque, de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres,
-des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, afin d'accomplir ou de
-s'abstenir d'accomplir un acte de son activité ou de sa fonction ou facilité par son activité ou sa fonction, en violation de
-ses obligations légales, contractuelles ou professionnelles.
+des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,  pour accomplir ou avoir
+accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte de son activité ou de sa fonction ou facilité par son
+activité ou sa fonction, en violation de ses obligations légales, contractuelles ou professionnelles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 1 () JORF 14 novembre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 	**Cité par**:
 
@@ -35755,7 +35705,7 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 	  - Code rural - art. L915-7 (T)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.
+## Livre VII : Dispositions relatives à l'outre-mer
 
 ### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
 
@@ -36239,46 +36189,6 @@ conformer aux prescriptions applicables localement est puni des peines prévues 
 
 #### Chapitre VII : Dispositions diverses
 
-###### Article 717-1
-
-Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
-autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction est puni de deux ans d'emprisonnement et de 30 000
-euros d'amende.
-
-Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
-l'initiative.
-
-Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
-de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
-	**Cité par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 107 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 153
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26
-
-
 ###### Article 717-2
 
 Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
@@ -36343,7 +36253,7 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 717-2 (V)
 
 
-### Titre II : Dispositions applicables à Mayotte.
+### Titre II : Dispositions particulières au Département de Mayotte
 
 #### Chapitre Ier : Dispositions générales
 
@@ -37410,42 +37320,6 @@ d'emprisonnement et de 30 000 euros d'amende. "
 
 #### Chapitre VII : Dispositions diverses
 
-###### Article 727-1
-
-Le fait, par tout directeur ou salarié, de solliciter ou d'agréer, directement ou indirectement, à l'insu et sans
-l'autorisation de son employeur, des offres ou des promesses, des dons, présents, escomptes ou primes pour accomplir ou
-s'abstenir d'accomplir un acte de sa fonction ou facilité par sa fonction, est puni de deux ans d'emprisonnement et de 30 000
-euros d'amende.
-
-Est puni des mêmes peines le fait, par quiconque, de céder aux sollicitations définies à l'alinéa précédent ou d'en prendre
-l'initiative.
-
-Dans les cas prévus au présent article, le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée
-de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Codifié par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 153
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26
-
-
 ###### Article 727-2
 
 Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le marché
@@ -37509,26 +37383,6 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 727-2 (V)
 
-
-## Livre VII : Dispositions relatives à l'outre-mer
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
-
-### Titre II : Dispositions particulières au Département de Mayotte
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Adaptation du livre Ier.
-
-#### Chapitre III : Adaptation du livre II
-
-#### Chapitre IV : Adaptation du livre III
-
-#### Chapitre V : Adaptation du livre IV
-
-#### Chapitre VI : Adaptation du livre V
-
-#### Chapitre VII : Dispositions diverses
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -42352,7 +42206,7 @@ ininterrompue peut être établie.
 	  - Code pénal - art. 132-11 (V)
 
 
-## Livre VII : Dispositions applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.
+## Livre VII : Dispositions relatives à l'outre-mer
 
 ### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie
 
@@ -42639,7 +42493,7 @@ mentionnées à l'article 521-2 sont fixées par la réglementation applicable l
 	  - Code pénal - art. R511-1 (M)
 
 
-### Titre II : Dispositions applicables à Mayotte.
+### Titre II : Dispositions particulières au Département de Mayotte
 
 #### Chapitre Ier : Dispositions générales
 
@@ -42747,14 +42601,4 @@ représentation des salariés, l'avis mentionné au premier alinéa est adressé
 
 	  - Code pénal - art. R131-36 (T)
 
-
-## Livre VII : Dispositions relatives à l'outre-mer
-
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie
-
-### Titre II : Dispositions particulières au Département de Mayotte
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Adaptation du livre Ier
 
