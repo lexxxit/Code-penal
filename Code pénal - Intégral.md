@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-07-02
+Version Consolidée au 2011-07-09
 
 # Partie législative
 
@@ -15786,17 +15786,18 @@ l'accès, les peines sont portées à cinq ans d'emprisonnement et à 75 000 Eur
 
 ###### Article 225-3
 
-Les dispositions de l'article précédent ne sont pas applicables :
+Les dispositions de l'article précédent ne sont pas applicables : 
 
 1° Aux discriminations fondées sur l'état de santé, lorsqu'elles consistent en des opérations ayant pour objet la prévention
 et la couverture du risque décès, des risques portant atteinte à l'intégrité physique de la personne ou des risques
 d'incapacité de travail ou d'invalidité. Toutefois, ces discriminations sont punies des peines prévues à l'article précédent
 lorsqu'elles se fondent sur la prise en compte de tests génétiques prédictifs ayant pour objet une maladie qui n'est pas
-encore déclarée ou une prédisposition génétique à une maladie ;
+encore déclarée ou une prédisposition génétique à une maladie ou qu'elles se fondent sur la prise en compte des conséquences
+sur l'état de santé d'un prélèvement d'organe tel que défini à l'article L. 1231-1 du code de la santé publique ; 
 
 2° Aux discriminations fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un
 licenciement fondé sur l'inaptitude médicalement constatée soit dans le cadre du titre IV du livre II du code du travail,
-soit dans le cadre des lois portant dispositions statutaires relatives à la fonction publique ;
+soit dans le cadre des lois portant dispositions statutaires relatives à la fonction publique ; 
 
 3° Aux discriminations fondées, en matière d'embauche, sur le sexe, l'âge ou l'apparence physique, lorsqu'un tel motif
 constitue une exigence professionnelle essentielle et déterminante et pour autant que l'objectif soit légitime et l'exigence
@@ -15820,7 +15821,11 @@ relatives à la fonction publique.
 
 	**Modifié par**:
 
-	  - Loi n°2008-496 du 27 mai 2008 - art. 7
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1231-1 (V)
 
 
 ###### Article 225-3-1
@@ -19338,8 +19343,9 @@ acte de l'état civil entreprise par les autorités diplomatiques ou consulaires
 d'amende. 
 
 Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
-empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
-l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
+empreintes génétiques ou de procéder à l'examen des caractéristiques génétiques d'une personne ou à l'identification d'une
+personne par ses empreintes génétiques sans être titulaire de l'agrément prévu à l'article L. 1131-3 du code de la santé
+publique et de l'autorisation prévue à l'article L. 1131-2-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -19349,12 +19355,13 @@ l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 8
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 4
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-6
 	  - Code civil - art. 16-11
+	  - Code de la santé publique - art. L1131-2-1
 	  - Code de la santé publique - art. L1131-3
 
 	**Cité par**:
@@ -19379,6 +19386,23 @@ l'agrément prévu à l'article L. 1131-3 du code de la santé publique.
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1133-4 (V)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
+
+
+###### Article 226-28-1
+
+Le fait, pour une personne, de solliciter l'examen de ses caractéristiques génétiques ou de celles d'un tiers ou
+l'identification d'une personne par ses empreintes génétiques en dehors des conditions prévues par la loi est puni de 3 750 €
+d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 6
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1133-4-1 (V)
 
 
 ###### Article 226-29
@@ -34383,9 +34407,9 @@ pays étranger.
 ###### Article 511-3
 
 Le fait de prélever un organe sur une personne vivante majeure, y compris dans une finalité thérapeutique, sans que le
-consentement de celle-ci ait été recueilli dans les conditions prévues au troisième alinéa de l'article L. 1231-1 du code de
-la santé publique ou sans que l'autorisation prévue aux deuxième et cinquième alinéas du même article ait été délivrée est
-puni de sept ans d'emprisonnement et de 100 000 Euros d'amende.
+consentement de celle-ci ait été recueilli dans les conditions prévues au quatrième alinéa de l'article L. 1231-1 du code de
+la santé publique ou sans que l'autorisation prévue aux deuxième et sixième alinéas du même article ait été délivrée est puni
+de sept ans d'emprisonnement et de 100 000 euros d'amende. 
 
 Est puni des mêmes peines le fait de prélever un organe, un tissu ou des cellules ou de collecter un produit en vue de don
 sur une personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale,
@@ -34395,11 +34419,11 @@ hormis les cas prévus aux articles L. 1241-3 et L. 1241-4 du code de la santé 
 
 	**Codifié par**:
 
-	  - Loi n°92-1336 1992-12-16
+	  - Loi n°92-1336 du 16 décembre 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 15 () JORF 7 août 2004
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 7
 
 	**Cité par**:
 
@@ -34424,9 +34448,8 @@ hormis les cas prévus aux articles L. 1241-3 et L. 1241-4 du code de la santé 
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1231-1 (M)
-	  - Code de la santé publique - art. L1241-3 (M)
-	  - Code de la santé publique - art. L1241-4 (M)
+	  - Code de la santé publique - art. L1231-1 (V)
+	  - Code de la santé publique - art. L1241-3 (V)
 
 
 ###### Article 511-4
@@ -34466,23 +34489,23 @@ du corps d'autrui.
 ###### Article 511-5
 
 Le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante majeure sans qu'elle ait
-exprimé son consentement dans les conditions prévues aux deuxième et troisième alinéas de l'article L. 1241-1 du code de la
-santé publique est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende. 
+exprimé son consentement dans les conditions prévues aux trois derniers alinéas de l'article L. 1241-1 du code de la santé
+publique est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
 
 Le fait de prélever sur une personne vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de
-protection légale des cellules hématopoïétiques issues de la moelle osseuse sans avoir respecté les conditions prévues, selon
-le cas, aux articles L. 1241-3 ou L. 1241-4 du code de la santé publique est puni de sept ans d'emprisonnement et de 100 000
-Euros d'amende.
+protection légale des cellules hématopoïétiques issues de la moelle osseuse, qu'elles soient recueillies par prélèvement
+osseux ou dans le sang périphérique, sans avoir respecté les conditions prévues, selon le cas, aux articles L. 1241-3 ou L.
+1241-4 du code de la santé publique est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-1336 1992-12-16
+	  - Loi n°92-1336 du 16 décembre 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-800 du 6 août 2004 - art. 15 () JORF 7 août 2004
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 19
 
 	**Cité par**:
 
@@ -34506,8 +34529,8 @@ Euros d'amende.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1241-1 (V)
-	  - Code de la santé publique - art. L1241-3 (V)
+	  - Code de la santé publique - art. L1241-1
+	  - Code de la santé publique - art. L1241-3
 
 
 ###### Article 511-5-1
