@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-08-12
 
 # Partie législative
 
@@ -4774,33 +4774,6 @@ compter du jour où la privation de liberté prend fin.
 	**Cité par**:
 
 	  - Code pénal - art. 131-36-12-1 (V)
-
-
-###### Article 131-36-11
-
-Lorsqu'il est ordonné par le tribunal correctionnel, le placement sous surveillance électronique mobile doit faire l'objet
-d'une décision spécialement motivée. 
-
-Lorsqu'il est ordonné par la cour d'assises, il doit être décidé dans les conditions de majorité prévues par l'article 362 du
-code de procédure pénale pour le prononcé du maximum de la peine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 du 22 juillet 1992 (V)
-
-	**Créé par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 19 () JORF 13 décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2011-939 du 10 août 2011 - art. 19
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 362
 
 
 ###### Article 131-36-12
