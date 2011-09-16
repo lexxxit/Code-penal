@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-09-08
+Version Consolidée au 2011-09-17
 
 # Partie législative
 
@@ -13490,39 +13490,6 @@ La tentative des délits prévus par les articles 222-27 à 222-30 est punie des
 
 
 ##### Paragraphe 3 : De l'inceste commis sur les mineurs
-
-###### Article 222-31-1
-
-Les viols et les agressions sexuelles sont qualifiés d'incestueux lorsqu'ils sont commis au sein de la famille sur la
-personne d'un mineur par un ascendant, un frère, une sœur ou par toute autre personne, y compris s'il s'agit d'un concubin
-d'un membre de la famille, ayant sur la victime une autorité de droit ou de fait.
-
-**Nota:**
-
-Dans sa décision n° 2011-163 QPC du 16 septembre 2011 (NOR : CSCX1125372S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article 222-31-1 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-121 du 8 février 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Décision n°2011-163 QPC du 16 septembre 2011, v. init.
-
-	**Cité par**:
-
-	  - Loi n°2016-297 du 14 mars 2016 - art. 47 (V)
-	  - Code de procédure pénale - art. 356 (V)
-	  - Code de procédure pénale - art. 706-50 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 378
-	  - Code civil - art. 379-1
-
 
 ###### Article 222-31-2
 
@@ -37479,8 +37446,6 @@ contre remise du certificat.
 
 	  - Code de la route - art. R123 (Ab)
 
-
-##### Paragraphe 2 : De l'interdiction de conduire certains véhicules.
 
 ##### Paragraphe 2 : De l'interdiction de conduire certains véhicules ou des véhicules non équipés d'un éthylotest électronique antidémarrage
 
