@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-11-05
+Version Consolidée au 2011-12-01
 
 # Partie législative
 
@@ -25676,40 +25676,6 @@ lesquelles est organisée leur protection sont déterminés par décret en Conse
 	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
 
 
-###### Article 413-9-1
-
-Seuls peuvent faire l'objet d'une classification au titre du secret de la défense nationale les lieux auxquels il ne peut
-être accédé sans que, à raison des installations ou des activités qu'ils abritent, cet accès donne par lui-même connaissance
-d'un secret de la défense nationale.
-
-La décision de classification est prise pour une durée de cinq ans par arrêté du Premier ministre, publié au Journal
-officiel, après avis de la Commission consultative du secret de la défense nationale. 
-
-Les conditions d'application du présent article, notamment les conditions de classification des lieux, sont déterminées par
-décret en Conseil d'Etat.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article 413-9-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
-les conditions fixées au considérant 38.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
-
-	**Cité par**:
-
-	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre IV : 70 à 84) (Ab)
-	  - Code de procédure pénale - art. 56-4 (VT)
-
-	**Abrogé par**:
-
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
-
-
 ###### Article 413-10
 
 Est puni de sept ans d'emprisonnement et de 100 000 euros d'amende le fait, par toute personne dépositaire, soit par état ou
@@ -25752,35 +25718,6 @@ de 45 000 euros d'amende.
 	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
 
 
-###### Article 413-10-1
-
-Est puni de sept ans d'emprisonnement et de 100 000 € d'amende le fait, par toute personne responsable, soit par état ou
-profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, d'un lieu classifié au titre du secret
-de la défense nationale d'en avoir permis l'accès à une personne non qualifiée. 
-
-Est puni des mêmes peines le fait, par toute personne qualifiée, de porter à la connaissance du public ou d'une personne non
-qualifiée un élément relatif à la nature des installations ou des activités qu'un tel lieu abrite. 
-
-Lorsque la personne responsable a agi par imprudence ou négligence, l'infraction est punie de trois ans d'emprisonnement et
-de 45 000 € d'amende.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article 413-10-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
-les conditions fixées au considérant 38.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
-
-	**Abrogé par**:
-
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
-
-
 ###### Article 413-11
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par toute personne non visée à l'article 413-10
@@ -25814,36 +25751,6 @@ informatique, donnée informatisée ou fichier.
 	**Cite**:
 
 	  - Code pénal - art. 413-10
-
-
-###### Article 413-11-1
-
-Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende le fait, par toute personne non qualifiée : 
-
-1° D'accéder à un lieu classifié au titre du secret de la défense nationale ; 
-
-2° De porter à la connaissance du public ou d'une personne non qualifiée un élément relatif à la nature des installations ou
-des activités qu'un tel lieu abrite.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article 413-11-1 du code pénal. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans
-les conditions fixées au considérant 38.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 12
-
-	**Cité par**:
-
-	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre IV : 70 à 84) (Ab)
-
-	**Abrogé par**:
-
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 
 ###### Article 413-12
