@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2011-12-01
+Version Consolidée au 2012-01-29
 
 # Partie législative
 
@@ -39243,34 +39243,30 @@ Il est remis un récépissé de ces déclarations.
 
 ###### Article R321-3
 
-Le registre d'objets mobiliers prévu au premier alinéa de l'article 321-7 doit comporter, outre la description des objets
-acquis ou détenus en vue de la vente ou de l'échange :
+Le registre d'objets mobiliers prévu au premier alinéa de l'article 321-7 comporte : 
 
 1° Les nom, prénoms, qualité et domicile de chaque personne qui a vendu, apporté à l'échange ou remis en dépôt en vue de la
 vente un ou plusieurs objets, ainsi que la nature, le numéro et la date de délivrance de la pièce d'identité produite par la
-personne physique qui a réalisé la vente, l'échange ou le dépôt, avec l'indication de l'autorité qui l'a établie ;
+personne physique qui a réalisé la vente, l'échange ou le dépôt, avec l'indication de l'autorité qui l'a établie ; 
 
 2° Lorsqu'il s'agit d'une personne morale, la dénomination et le siège de celle-ci ainsi que les nom, prénoms, qualité et
 domicile du représentant de la personne morale qui a effectué l'opération pour son compte, avec les références de la pièce
-d'identité produite.
+d'identité produite ; 
 
-La description de chaque objet comprend ses principales caractéristiques apparentes ainsi que les noms, signatures,
-monogrammes, lettres, chiffres, numéros de série, emblèmes et signes de toute nature apposés sur lui et qui servent à
-l'identifier.
+3° La nature, la provenance et la description des objets acquis ou détenus en vue de la vente ou de l'échange. 
 
-Les objets dont la valeur unitaire n'excède pas un montant fixé par un arrêté conjoint du garde des sceaux, ministre de la
-justice, du ministre de l'intérieur et du ministre chargé du commerce et qui ne présentent pas un intérêt artistique ou
-historique peuvent être regroupés et faire l'objet d'une mention et d'une description communes sur le registre.
+La description de chaque objet comprend ses caractéristiques ainsi que les noms, signatures, monogrammes, lettres, chiffres,
+numéros de série, emblèmes et signes de toute nature apposés sur lui et qui servent à l'identifier. 
+
+Toutefois, les objets dont la valeur unitaire n'excède pas un montant fixé par un arrêté conjoint du garde des sceaux,
+ministre de la justice, du ministre de l'intérieur et du ministre chargé du commerce et qui ne présentent pas un intérêt
+artistique ou historique peuvent être regroupés et faire l'objet d'une mention et d'une description communes sur le registre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
@@ -39281,9 +39277,13 @@ historique peuvent être regroupés et faire l'objet d'une mention et d'une desc
 	  - Code pénal - art. R321-6-1 (V)
 	  - Code pénal - art. R633-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-99 du 26 janvier 2012 - art. 1
+
 	**Cite**:
 
-	  - Code pénal - art. 321-7 (M)
+	  - Code pénal - art. R321-7 (V)
 
 
 ###### Article R321-4
@@ -39317,8 +39317,8 @@ Le numéro d'ordre est porté sur le registre et figure de manière apparente su
 
 Le registre comporte également :
 
-1° Le prix d'achat ou, en cas d'échange, d'acquisition à titre gratuit ou de dépôt en vue de la vente, une estimation de la
-valeur vénale de chaque objet ou lot d'objets ;
+1° Le prix d'achat et le mode de règlement de chaque objet ou lot d'objets ou, en cas d'échange, d'acquisition à titre
+gratuit ou de dépôt en vue de la vente, une estimation de la valeur vénale de chaque objet ou lot d'objets ;
 
 2° Le cas échéant, l'indication du classement ou de l'inscription de l'objet en application de la loi du 31 décembre 1913 sur
 les monuments historiques, lorsqu'il en est donné connaissance au revendeur d'objets mobiliers.
@@ -39327,15 +39327,15 @@ les monuments historiques, lorsqu'il en est donné connaissance au revendeur d'o
 
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2012-99 du 26 janvier 2012 - art. 2
 
 	**Cite**:
 
 	  - Loi n°1913-12-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 
 ###### Article R321-6
