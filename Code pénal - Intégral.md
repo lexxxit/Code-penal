@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-02-01
+Version Consolidée au 2012-02-03
 
 # Partie législative
 
@@ -32966,6 +32966,29 @@ visé audit alinéa, en violation de ses obligations légales, contractuelles ou
 	  - Loi n°2011-525 du 17 mai 2011 - art. 154
 
 
+###### Article 445-1-1
+
+Les peines prévues à l'article 445-1 sont applicables à toute personne qui promet ou offre, sans droit, à tout moment,
+directement ou indirectement, des présents, des dons ou des avantages quelconques, pour lui-même ou pour autrui, à un acteur
+d'une manifestation sportive donnant lieu à des paris sportifs, afin que ce dernier modifie, par un acte ou une abstention,
+le déroulement normal et équitable de cette manifestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 9
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code pénal - art. 445-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 445-1
+
+
 ###### Article 445-2
 
 Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par une personne qui, sans être dépositaire de
@@ -32993,12 +33016,34 @@ activité ou sa fonction, en violation de ses obligations légales, contractuell
 	  - Code pénal - art. 445-4 (V)
 
 
+###### Article 445-2-1
+
+Les peines prévues à l'article 445-2 sont applicables à tout acteur d'une manifestation sportive donnant lieu à des paris
+sportifs qui, en vue de modifier ou d'altérer le résultat de paris sportifs, accepte des présents, des dons ou des avantages
+quelconques, pour lui-même ou pour autrui, afin qu'il modifie, par un acte ou une abstention, le déroulement normal et
+équitable de cette manifestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 9
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 41-1-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 445-2
+
+
 ##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales
 
 ###### Article 445-3
 
-Les personnes physiques coupables des infractions définies aux articles 445-1 et 445-2 encourent également les peines
-complémentaires suivantes : 
+Les personnes physiques coupables des infractions définies aux articles 445-1, 445-1-1, 445-2 et 445-2-1 encourent également
+les peines complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
 
@@ -33017,24 +33062,26 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets sus
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2012-158 du 1er février 2012 - art. 9
 
 	**Cite**:
 
-	  - Code pénal - art. 131-21 (V)
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 445-1 (V)
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 445-1
+	  - Code pénal - art. 445-1-1
 
 
 ###### Article 445-4
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
-définies aux articles 445-1 et 445-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 : 
+définies aux articles 445-1, 445-1-1, 445-2 et 445-2-1 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 : 
 
 1° (Abrogé) ; 
 
-2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39.
+2° Pour une durée de cinq ans au plus, les peines mentionnées aux 2°, 3°, 4°, 5°, 6° et 7° de l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de laquelle
 l'infraction a été commise ; 
@@ -33048,17 +33095,15 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets sus
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Loi n°2012-158 du 1er février 2012 - art. 9
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-21
 	  - Code pénal - art. 131-35
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
 	  - Code pénal - art. 445-1
-	  - Code pénal - art. 445-2
 
 
 #### Chapitre VI : De la violation des dispositions réglementant les professions exercées dans les lieux publics
