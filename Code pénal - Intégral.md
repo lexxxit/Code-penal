@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-02-18
+Version Consolidée au 2012-03-07
 
 # Partie législative
 
@@ -36231,24 +36231,15 @@ Le 7° de l'article 132-45 est ainsi rédigé :
 
 Le premier alinéa de l'article 223-8 est rédigé comme suit :
 
-" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli le consentement
-libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est puni de trois ans
-d'emprisonnement et de 45 000 euros d'amende. "
+" Le fait de pratiquer ou de faire pratiquer sur une personne une recherche impliquant la personne humaine sans avoir
+recueilli le consentement libre, éclairé et exprès de l'intéressé, des titulaires de l'autorité parentale ou du tuteur est
+puni de trois ans d'emprisonnement et de 45 000 euros d'amende. "
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 96-267 1996-03-28
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 	**Cité par**:
 
@@ -36258,9 +36249,14 @@ d'emprisonnement et de 45 000 euros d'amende. "
 
 	  - Code de la santé publique - art. L1517-2 (MMN)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1517-2 (V)
+
 	**Cite**:
 
-	  - Code pénal - art. 223-8 (M)
+	  - Code de la santé publique (V)
+	  - Code de la santé publique - art. L1121-1 (M)
 
 
 ###### Article 723-2
