@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-03-08
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -22274,6 +22274,29 @@ l'autorisation du propriétaire ou de celle du titulaire du droit d'usage de ce 
 	  - Code pénal - art. 313-9 (V)
 
 
+###### Article 313-6-2
+
+Le fait de vendre, d'offrir à la vente ou d'exposer en vue de la vente ou de la cession ou de fournir les moyens en vue de la
+vente ou de la cession des titres d'accès à une manifestation sportive, culturelle ou commerciale ou à un spectacle vivant,
+de manière habituelle et sans l'autorisation du producteur, de l'organisateur ou du propriétaire des droits d'exploitation de
+cette manifestation ou de ce spectacle, est puni de 15 000 € d'amende. Cette peine est portée à 30 000 € d'amende en cas de
+récidive.
+
+Pour l'application du premier alinéa, est considéré comme titre d'accès tout billet, document, message ou code, quels qu'en
+soient la forme et le support, attestant de l'obtention auprès du producteur, de l'organisateur ou du propriétaire des droits
+d'exploitation du droit d'assister à la manifestation ou au spectacle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-348 du 12 mars 2012 - art. 3
+
+	**Liens**:
+
+	  - RECTIFICATION: Loi n°2012-348 du 12 mars 2012, v. init.
+
+
 ##### Section 3 : Peines complémentaires applicables aux personnes physiques et responsabilité des personnes morales
 
 ###### Article 313-7
@@ -22396,8 +22419,8 @@ l'exclusion des marchés publics pour une durée de cinq ans au plus.
 ###### Article 313-9
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
-définies aux articles 313-1 à 313-3 et à l'article 313-6-1 encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38, les peines prévues par l'article 131-39.
+définies aux articles 313-1 à 313-3 et aux articles 313-6-1 et 313-6-2 encourent, outre l'amende suivant les modalités
+prévues par l'article 131-38, les peines prévues par l'article 131-39. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -22406,11 +22429,10 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 50
+	  - Loi n°2012-348 du 12 mars 2012 - art. 3
 
 	**Cite**:
 
-	  - Code pénal
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
