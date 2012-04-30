@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-04-27
+Version Consolidée au 2012-05-01
 
 # Partie législative
 
@@ -10930,8 +10930,8 @@ physique ou psychique ou à un état de grossesse, est apparente ou connue de so
 fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de
 l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes
 d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à
-usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du
-fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
+usage d'habitation en application de l'article L. 271-1 du code de la sécurité intérieure, dans l'exercice ou du fait de ses
+fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; 
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un
 agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public,
@@ -10969,8 +10969,7 @@ sûreté est alors égale à la durée de la peine résultant de la mesure de gr
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 60
-	  - Loi n°2011-267 du 14 mars 2011 - art. 38
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 3 (V)
 
 	**Cité par**:
 
@@ -10986,7 +10985,7 @@ sûreté est alors égale à la durée de la peine résultant de la mesure de gr
 	**Cite**:
 
 	  - Code pénal - art. 132-23
-	  - Code de la construction et de l'habitation. - art. L127-1
+	  - Code de la sécurité intérieure - art. L271-1 (V)
 
 
 ###### Article 221-5
@@ -23226,10 +23225,10 @@ et délits sont commis par un mineur sur lequel la personne ne pouvant justifier
 
 Elles sont portées à sept ans d'emprisonnement et 200 000 euros d'amende lorsque les infractions commises constituent les
 crimes ou délits de traite des êtres humains, d'extorsion ou d'association de malfaiteurs ou les délits et crimes en matière
-d'armes et de produits explosifs prévus par les articles L. 2339-2, L. 2339-3, L. 2339-5, L. 2339-8, 
-L. 2339-10, L. 2341-4, 
-L. 2353-4 et L. 2353-5 du code de la défense. Il en est de même lorsqu'elles constituent les crimes ou délits de trafic de
-stupéfiants, y compris en cas de relations habituelles avec une ou plusieurs personnes faisant usage de stupéfiants. 
+d'armes et de produits explosifs prévus par les articles L. 2339-2, L. 2339-3, L. 2339-10, L. 2341-4, 
+L. 2353-4 et L. 2353-5 du code de la défense ainsi que par les articles L. 317-2, L. 317-4 et L. 317-7 du code de la sécurité
+intérieure. Il en est de même lorsqu'elles constituent les crimes ou délits de trafic de stupéfiants, y compris en cas de
+relations habituelles avec une ou plusieurs personnes faisant usage de stupéfiants. 
 
 Elles sont portées à dix ans d'emprisonnement et 300 000 euros d'amende lorsqu'il s'agit d'une infraction mentionnée à
 l'alinéa précédent commise par un ou plusieurs mineurs.
@@ -23256,17 +23255,16 @@ l'alinéa précédent commise par un ou plusieurs mineurs.
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 31
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 8
 
 	**Cite**:
 
 	  - Code pénal - art. 321-6
 	  - Code de la défense. - art. L2339-10
 	  - Code de la défense. - art. L2339-2
-	  - Code de la défense. - art. L2339-5
-	  - Code de la défense. - art. L2339-8
 	  - Code de la défense. - art. L2341-4
 	  - Code de la défense. - art. L2353-4
+	  - Code de la sécurité intérieure - art. L317-2
 
 
 ###### Article 321-7
@@ -26222,9 +26220,9 @@ infractions définies par les articles 434-6 et 441-2 à 441-5 ;
 
 4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par le I de l'article L.
 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6,
-L. 2339-2, L. 2339-5, L. 2339-8 et L. 2339-9 à l'exception des armes de la 6e catégorie, L. 2339-14, L. 2339-16, L. 2341-1,
-L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L. 2353-13 du code de la
-défense ; 
+L. 2339-2, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L.
+2353-5 et l'article L. 2353-13 du code de la défense, ainsi que les articles L. 317-4, L. 317-7 et L. 317-8 à l'exception des
+armes de la 6e catégorie, du code de la sécurité intérieure ; 
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
@@ -26289,31 +26287,30 @@ défense ;
 
 	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 18
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 8
 
 	**Cite**:
 
-	  - Code pénal - art. 431-13 (V)
-	  - Code pénal - art. 434-6 (V)
-	  - Code pénal - art. 441-2 (V)
+	  - Code pénal - art. 431-13
+	  - Code pénal - art. 434-6
+	  - Code pénal - art. 441-2
 	  - Code de la défense. - art. L1333-11 (V)
 	  - Code de la défense. - art. L1333-13-2 (V)
 	  - Code de la défense. - art. L1333-13-3 (V)
-	  - Code de la défense. - art. L1333-13-4 (V)
 	  - Code de la défense. - art. L1333-13-6 (V)
 	  - Code de la défense. - art. L1333-9 (V)
 	  - Code de la défense. - art. L2339-14 (V)
 	  - Code de la défense. - art. L2339-16 (V)
-	  - Code de la défense. - art. L2339-2 (V)
-	  - Code de la défense. - art. L2339-5 (V)
-	  - Code de la défense. - art. L2339-8 (V)
+	  - Code de la défense. - art. L2339-2 (VT)
 	  - Code de la défense. - art. L2341-1 (V)
 	  - Code de la défense. - art. L2341-4 (V)
+	  - Code de la défense. - art. L2341-5 (V)
 	  - Code de la défense. - art. L2342-57 (V)
-	  - Code de la défense. - art. L2353-13 (V)
+	  - Code de la défense. - art. L2353-13 (VT)
 	  - Code de la défense. - art. L2353-4 (V)
 	  - Code de la défense. - art. L2353-5 (V)
-	  - Code monétaire et financier - art. L465-1 (V)
+	  - Code monétaire et financier - art. L465-1
+	  - Code de la sécurité intérieure - art. L317-4
 
 
 ###### Article 421-2
@@ -26862,22 +26859,10 @@ l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exe
 ###### Article 431-3
 
 Constitue un attroupement tout rassemblement de personnes sur la voie publique ou dans un lieu public susceptible de troubler
-l'ordre public.
+l'ordre public. 
 
-Un attroupement peut être dissipé par la force publique après deux sommations de se disperser demeurées sans effet, adressées
-par le préfet, le sous-préfet, le maire ou l'un de ses adjoints, tout officier de police judiciaire responsable de la
-sécurité publique, ou tout autre officier de police judiciaire, porteurs des insignes de leur fonction.
-
-Il est procédé à ces sommations suivant des modalités propres à informer les personnes participant à l'attroupement de
-l'obligation de se disperser sans délai.
-
-Toutefois, les représentants de la force publique appelés en vue de dissiper un attroupement peuvent faire directement usage
-de la force si des violences ou voies de fait sont exercées contre eux ou s'ils ne peuvent défendre autrement le terrain
-qu'ils occupent.
-
-Les modalités d'application des alinéas précédents sont précisées par décret en Conseil d'Etat, qui détermine également les
-insignes que doivent porter les personnes mentionnées au deuxième alinéa et les conditions d'usage des armes à feu pour le
-maintien de l'ordre public.
+Un attroupement peut être dissipé par la force publique après deux sommations de se disperser restées sans effet adressées
+dans les conditions et selon les modalités prévues par l'article L. 211-9 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -26900,11 +26885,7 @@ maintien de l'ordre public.
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L211-9 (VD)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 8
 
 
 ###### Article 431-4
