@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-05
 
 # Partie législative
 
@@ -13585,47 +13585,6 @@ d'emprisonnement et de 15 000 euros d'amende.
 	**Anciens textes**:
 
 	  - CODE PENAL - art. 330 (Ab)
-
-
-###### Article 222-33
-
-Le fait de harceler autrui dans le but d'obtenir des faveurs de nature sexuelle est puni d'un an d'emprisonnement et de 15000
-euros d'amende.
-
-**Nota:**
-
-Dans sa décision n° 2012-240 QPC du 4 mai 2012 (NOR : CSCX1222762S), le Conseil constitutionnel a déclaré l'article 222-33 du
-code pénal contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet le 5 mai 2012 dans les conditions
-fixées au considérant 7.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°52-1322 du 15 décembre 1952 - art. 145 (V)
-	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-	  - Loi n°2012-954 du 6 août 2012 - art. 12 (V)
-	  - Loi n°2012-954 du 6 août 2012 - art. 1
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la sécurité intérieure - art. L312-3 (V)
-	  - Code de procédure pénale - art. 2-2 (V)
-	  - Code de procédure pénale - art. 706-47-4 (V)
-	  - Code du travail - art. L1153-5 (V)
-	  - Code du travail - art. L8112-2 (VT)
-	  - Code du travail applicable à Mayotte. - art. L053-5 (V)
-	  - Code du travail applicable à Mayotte. - art. L610-1 (V)
-	  - Code pénal - art. 222-33-3 (V)
-	  - Code pénal - art. 222-50-1 (V)
-	  - Code pénal - art. 225-1-1 (V)
-
-	**Liens**:
-
-	  - DEPLACE: Loi n°2010-121 du 8 février 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Décision n°2012-240 QPC  du 4 mai 2012, v. init.
 
 
 ##### Paragraphe 5 : Responsabilité pénale des personnes morales
