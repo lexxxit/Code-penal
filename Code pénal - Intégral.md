@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-11-04
+Version Consolidée au 2012-12-23
 
 # Partie législative
 
@@ -546,6 +546,18 @@ internationales et la loi le prévoient.
 	**Créé par**:
 
 	  - Loi n°96-151 du 26 février 1996 - art. 9 () JORF 27 février 1996
+
+
+###### Article 113-13
+
+La loi pénale française s'applique aux crimes et délits qualifiés d'actes de terrorisme et réprimés par le titre II du livre
+IV commis à l'étranger par un Français ou par une personne résidant habituellement sur le territoire français.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1432 du 21 décembre 2012 - art. 2
 
 
 ### Titre II : De la responsabilité pénale
@@ -26480,6 +26492,25 @@ d'emprisonnement et de 100 000 euros d'amende.
 
 	  - Code pénal - art. 421-1 (V)
 	  - Code pénal - art. 421-2-2 (V)
+
+
+###### Article 421-2-4
+
+Le fait d'adresser à une personne des offres ou des promesses, de lui proposer des dons, présents ou avantages quelconques,
+de la menacer ou d'exercer sur elle des pressions afin qu'elle participe à un groupement ou une entente prévu à l'article
+421-2-1 ou qu'elle commette un des actes de terrorisme mentionnés aux articles 421-1 et 421-2 est puni, même lorsqu'il n'a
+pas été suivi d'effet, de dix ans d'emprisonnement et de 150 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1432 du 21 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 421-1 (V)
+	  - Code pénal - art. 421-2-1 (V)
 
 
 ###### Article 421-3
