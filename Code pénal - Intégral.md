@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2012-12-23
+Version Consolidée au 2013-04-07
 
 # Partie législative
 
@@ -39572,13 +39572,13 @@ Le numéro d'ordre est porté sur le registre et figure de manière apparente su
 
 ###### Article R321-5
 
-Le registre comporte également :
+Le registre comporte également : 
 
 1° Le prix d'achat et le mode de règlement de chaque objet ou lot d'objets ou, en cas d'échange, d'acquisition à titre
-gratuit ou de dépôt en vue de la vente, une estimation de la valeur vénale de chaque objet ou lot d'objets ;
+gratuit ou de dépôt en vue de la vente, une estimation de la valeur vénale de chaque objet ou lot d'objets ; 
 
-2° Le cas échéant, l'indication du classement ou de l'inscription de l'objet en application de la loi du 31 décembre 1913 sur
-les monuments historiques, lorsqu'il en est donné connaissance au revendeur d'objets mobiliers.
+2° Le cas échéant, l'indication de la mesure de protection de l'objet mobilier en application des dispositions du code du
+patrimoine, lorsqu'il en est donné connaissance au revendeur d'objets mobiliers.
 
 **Liens relatifs à cet article**
 
@@ -39588,11 +39588,7 @@ les monuments historiques, lorsqu'il en est donné connaissance au revendeur d'o
 
 	**Modifié par**:
 
-	  - Décret n°2012-99 du 26 janvier 2012 - art. 2
-
-	**Cite**:
-
-	  - Loi n°1913-12-31
+	  - Décret n°2013-287 du 4 avril 2013 - art. 2
 
 
 ###### Article R321-6
@@ -39629,6 +39625,32 @@ Le registre est conservé pendant un délai de cinq ans à compter de sa date de
 	  - Code pénal - art. R633-3 (V)
 
 
+###### Article R321-6-1
+
+La tenue du registre au moyen d'un traitement automatisé de données à caractère personnel dispense de la tenue d'un registre
+physique coté et paraphé. 
+
+Le registre tenu au moyen d'un traitement automatisé comporte les mentions prévues aux articles R. 321-3 à R. 321-5. 
+
+Le traitement automatisé garantit l'intégrité, l'intangibilité et la sécurité des données enregistrées. 
+
+La durée de conservation des données est de dix ans à compter de leur enregistrement dans le traitement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-287 du 4 avril 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. R321-3
+
+	**Cité par**:
+
+	  - Code pénal - art. R321-8 (V)
+
+
 ###### Article R321-7
 
 Lorsque la personne mentionnée à l'article R. 321-1 est une personne morale, les obligations prévues par la présente sous-
@@ -39657,17 +39679,25 @@ section incombent aux dirigeants de celle-ci.
 ###### Article R321-8
 
 Le modèle du registre d'objets mobiliers est déterminé par arrêté conjoint du ministre de l'intérieur et du ministre chargé
-du commerce.
+du commerce. 
+
+Les modalités de tenue du registre d'objets mobiliers au moyen d'un traitement automatisé de données à caractère personnel
+prévu à l'article R. 321-6-1 et les obligations techniques devant être respectées par un tel traitement sont déterminées par
+arrêté conjoint du ministre de l'intérieur et du ministre de la culture.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2013-287 du 4 avril 2013 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. R321-6-1
 
 	**Cité par**:
 
@@ -41366,17 +41396,29 @@ l'article R. 321-4, est puni de l'amende prévue pour les contraventions de la 3
 
 Le fait, par une personne mentionnée à l'article R. 321-1, d'omettre de faire parapher le registre d'objets mobiliers prévu à
 l'article R. 321-3, conformément aux prescriptions de l'article R. 321-6, est puni de l'amende prévue pour les contraventions
-de la 3e classe.
+de la 3e classe. 
+
+Le fait, par une personne mentionnée à l'article R. 321-1, tenant un registre d'objets mobiliers au moyen d'un traitement
+automatisé de données à caractère personnel, de ne pas tenir ce registre dans les conditions garantissant l'intégrité,
+l'intangibilité et la sécurité des données enregistrées telles que définies par l'arrêté prévu au deuxième alinéa de
+l'article R. 321-8 est puni de l'amende prévue pour les contraventions de la 3e classe.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2013-287 du 4 avril 2013 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. R321-1
+	  - Code pénal - art. R321-3 (V)
+	  - Code pénal - art. R321-6
+	  - Code pénal - art. R321-8
 
 	**Cité par**:
 
