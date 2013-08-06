@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-04-07
+Version Consolidée au 2013-08-07
 
 # Partie législative
 
@@ -415,14 +415,14 @@ l'autorité du pays où le fait a été commis.
 
 Sans préjudice de l'application des articles 113-6 à 113-8, la loi pénale française est également applicable à tout crime ou
 à tout délit puni d'au moins cinq ans d'emprisonnement commis hors du territoire de la République par un étranger dont
-l'extradition a été refusée à l'Etat requérant par les autorités françaises aux motifs, soit que le fait à raison duquel
-l'extradition avait été demandée est puni d'une peine ou d'une mesure de sûreté contraire à l'ordre public français, soit que
-la personne réclamée aurait été jugée dans ledit Etat par un tribunal n'assurant pas les garanties fondamentales de procédure
-et de protection des droits de la défense, soit que le fait considéré revêt le caractère d'infraction politique. 
+l'extradition ou la remise a été refusée à l'Etat requérant par les autorités françaises aux motifs, soit que le fait à
+raison duquel l'extradition avait été demandée est puni d'une peine ou d'une mesure de sûreté contraire à l'ordre public
+français, soit que la personne réclamée aurait été jugée dans ledit Etat par un tribunal n'assurant pas les garanties
+fondamentales de procédure et de protection des droits de la défense, soit que le fait considéré revêt le caractère
+d'infraction politique, soit que l'extradition ou la remise serait susceptible d'avoir, pour la personne réclamée, des
+conséquences d'une gravité exceptionnelle en raison, notamment, de son âge ou de son état de santé. 
 
-La poursuite des infractions mentionnées au premier alinéa ne peut être exercée qu'à la requête du ministère public. Elle
-doit être précédée d'une dénonciation officielle, transmise par le ministre de la justice, de l'autorité du pays où le fait a
-été commis et qui avait requis l'extradition.
+La poursuite des infractions mentionnées au premier alinéa ne peut être exercée qu'à la requête du ministère public.
 
 **Liens relatifs à cet article**
 
@@ -430,13 +430,13 @@ doit être précédée d'une dénonciation officielle, transmise par le ministre
 
 	  - Loi n°92-683 du 22 juillet 1992 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 19 () JORF 10 mars 2004
+	  - Loi n°2013-711 du 5 août 2013 - art. 22
 
 	**Cite**:
 
-	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-6
 
 
 ###### Article 113-9
@@ -10355,9 +10355,7 @@ gravité comparable ;
 ethnique, culturel, religieux ou sexiste ou en fonction d'autres critères universellement reconnus comme inadmissibles en
 droit international ; 
 
-9° L'arrestation, la détention ou l'enlèvement de personnes, suivis de leur disparition et accompagnés du déni de la
-reconnaissance de la privation de liberté ou de la dissimulation du sort qui leur est réservé ou de l'endroit où elles se
-trouvent dans l'intention de les soustraire à la protection de la loi pendant une période prolongée ; 
+9° La disparition forcée ;  
 
 10° Les actes de ségrégation commis dans le cadre d'un régime institutionnalisé d'oppression systématique et de domination
 d'un groupe racial sur tout autre groupe racial ou tous autres groupes raciaux et dans l'intention de maintenir ce régime ; 
@@ -10372,7 +10370,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-930 du 9 août 2010 - art. 2
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
 
 	**Cité par**:
 
@@ -10556,13 +10554,13 @@ hiérarchique, n'exerçant pas la fonction de chef militaire, qui savait que ces
 ce crime ou a délibérément négligé de tenir compte d'informations qui l'indiquaient clairement et qui n'a pas pris toutes les
 mesures nécessaires et raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer
 aux autorités compétentes aux fins d'enquête et de poursuites, alors que ce crime était lié à des activités relevant de sa
-responsabilité ou de son contrôle effectifs.
+responsabilité et de son contrôle effectifs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-930 du 9 août 2010 - art. 3
+	  - Loi n°2013-711 du 5 août 2013 - art. 23
 
 	**Cite**:
 
@@ -11543,6 +11541,197 @@ la section I du présent chapitre.
 	  - Code pénal - art. 131-30 (V)
 
 
+###### Article 221-11-1
+
+Dans le cas prévu au 10° de l'article 221-4, peut être également prononcée l'interdiction, pour une durée de dix ans au plus,
+de quitter le territoire de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 221-4
+
+
+#### Chapitre Ier bis : Des atteintes à la personne constituées par les disparitions forcées
+
+###### Article 221-12
+
+Constitue une disparition forcée l'arrestation, la détention, l'enlèvement ou toute autre forme de privation de liberté d'une
+personne, dans des conditions la soustrayant à la protection de la loi, par un ou plusieurs agents de l'Etat ou par une
+personne ou un groupe de personnes agissant avec l'autorisation, l'appui ou l'acquiescement des autorités de l'Etat, lorsque
+ces agissements sont suivis de sa disparition et accompagnés soit du déni de la reconnaissance de la privation de liberté,
+soit de la dissimulation du sort qui lui a été réservé ou de l'endroit où elle se trouve. 
+
+La disparition forcée est punie de la réclusion criminelle à perpétuité. 
+
+Les deux premiers alinéas de l'article 132-23, relatifs à la période de sûreté, sont applicables au crime prévu par le
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 306-1 (V)
+	  - Code de procédure pénale - art. 689-13 (V)
+	  - Code de procédure pénale - art. 7 (V)
+	  - Code pénal - art. 133-2 (V)
+	  - Code pénal - art. 221-13 (V)
+	  - Code pénal - art. 221-14 (V)
+	  - Code pénal - art. 221-15 (V)
+	  - Code pénal - art. 221-16 (V)
+	  - Code pénal - art. 221-17 (V)
+	  - Code pénal - art. 221-18 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+
+
+###### Article 221-13
+
+Sans préjudice de l'application de l'article 121-7, est considéré comme complice d'un crime de disparition forcée mentionné à
+l'article 221-12 commis par des subordonnés placés sous son autorité et son contrôle effectifs le supérieur qui savait, ou a
+délibérément négligé de tenir compte d'informations qui indiquaient clairement que ses subordonnés commettaient ou allaient
+commettre un crime de disparition forcée et qui n'a pas pris toutes les mesures nécessaires et raisonnables qui étaient en
+son pouvoir pour en empêcher ou en réprimer l'exécution ou pour en référer aux autorités compétentes aux fins d'enquête et de
+poursuites, alors que ce crime était lié à des activités relevant de sa responsabilité et de son contrôle effectifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cite**:
+
+	  - Code pénal - art. 121-7
+	  - Code pénal - art. 221-12
+
+
+###### Article 221-14
+
+I. ― Les personnes physiques coupables du crime prévu à l'article 221-12 encourent également les peines complémentaires
+suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, selon les modalités prévues à l'article 131-26 ; 
+
+2° L'interdiction, suivant les modalités prévues à l'article 131-27, soit d'exercer une fonction publique ou l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+
+3° L'interdiction de séjour, selon les modalités prévues à l'article 131-31 ; 
+
+4° La confiscation prévue à l'article 131-21. 
+
+II. ― En cas de condamnation pour le crime prévu à l'article 221-12, le prononcé des peines complémentaires suivantes est
+obligatoire : 
+
+1° L'interdiction de détenir ou de porter, pour une durée de quinze ans au plus, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+
+Toutefois, la cour d'assises peut décider de ne pas prononcer ces peines, en considération des circonstances de l'infraction
+et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 221-12
+
+
+###### Article 221-15
+
+Les personnes physiques coupables du crime prévu à l'article 221-12 encourent également le suivi socio-judiciaire selon les
+modalités prévues aux articles 131-36-1 à 131-36-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1
+	  - Code pénal - art. 221-12
+
+
+###### Article 221-16
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues à l'article 131-30 soit à titre
+définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable du crime prévu à l'article 221-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30
+	  - Code pénal - art. 221-12
+
+
+###### Article 221-17
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2, du crime défini à
+l'article 221-12 encourent, outre l'amende suivant les modalités prévues à l'article 131-38, les peines mentionnées à
+l'article 131-39.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code pénal - art. 221-12
+
+
+###### Article 221-18
+
+L'action publique à l'égard du crime défini à l'article 221-12 ainsi que les peines prononcées se prescrivent par trente ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 15
+
+	**Abrogé par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 221-12
+
+
 #### Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne
 
 ##### Section 1 : Des atteintes volontaires à l'intégrité de la personne
@@ -12475,6 +12664,23 @@ s'agit de violences psychologiques.
 	  - Loi n°2010-769 du 9 juillet 2010 - art. 31
 
 
+###### Article 222-14-4
+
+Le fait, dans le but de contraindre une personne à contracter un mariage ou à conclure une union à l'étranger, d'user à son
+égard de manœuvres dolosives afin de la déterminer à quitter le territoire de la République est puni de trois ans
+d'emprisonnement et de 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 19
+
+	**Cité par**:
+
+	  - Code pénal - art. 222-47 (V)
+
+
 ###### Article 222-15
 
 L'administration de substances nuisibles ayant porté atteinte à l'intégrité physique ou psychique d'autrui est punie des
@@ -13231,6 +13437,27 @@ que celui-ci exerce sur cette victime.
 	  - Code pénal - art. 222-22
 
 
+###### Article 222-22-2
+
+Constitue également une agression sexuelle le fait de contraindre une personne par la violence, la menace ou la surprise à
+subir une atteinte sexuelle de la part d'un tiers. 
+
+Ces faits sont punis des peines prévues aux articles 222-23 à 222-30 selon la nature de l'atteinte subie et selon les
+circonstances mentionnées à ces mêmes articles. 
+
+La tentative du délit prévu au présent article est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 222-23
+
+
 ##### Paragraphe 1 : Du viol
 
 ###### Article 222-23
@@ -13451,33 +13678,42 @@ stupéfiants.
 
 ###### Article 222-29
 
-Les agressions sexuelles autres que le viol sont punies de sept ans d'emprisonnement et de 100000 euros d'amende lorsqu'elles
-sont imposées :
-
-1° A un mineur de quinze ans ;
-
-2° A une personne dont la particulière vulnérabilité due à son âge, à une maladie, à une infirmité, à une déficience physique
-ou psychique ou à un état de grossesse, est apparente ou connue de son auteur.
+Les agressions sexuelles autres que le viol sont punies de sept ans d'emprisonnement et de 100 000 euros d'amende
+lorsqu'elles sont imposées à une personne dont la particulière vulnérabilité due à son âge, à une maladie, à une infirmité, à
+une déficience physique ou psychique ou à un état de grossesse est apparente ou connue de son auteur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 2-3 (M)
 	  - Code pénal - art. 222-30 (V)
+
+
+###### Article 222-29-1
+
+Les agressions sexuelles autres que le viol sont punies de dix ans d'emprisonnement et de 150 000 € d'amende lorsqu'elles
+sont imposées à un mineur de quinze ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
+
+	**Cité par**:
+
+	  - Loi n°2016-457 du 14 avril 2016 - art. 3
+	  - Code de l'action sociale et des familles - art. L133-6 (V)
+	  - Code de procédure pénale - art. 8 (V)
 
 
 ###### Article 222-30
@@ -13547,9 +13783,9 @@ La tentative des délits prévus par les articles 222-27 à 222-30 est punie des
 
 ###### Article 222-31-2
 
-Lorsque le viol incestueux ou l'agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur
-celui-ci de l'autorité parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette
-autorité en application des articles 378 et 379-1 du code civil. 
+Lorsque le viol ou l'agression sexuelle est commis contre un mineur par une personne titulaire sur celui-ci de l'autorité
+parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des
+articles 378 et 379-1 du code civil. 
 
 Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
 
@@ -13557,9 +13793,9 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 1
+	  - Loi n°2013-711 du 5 août 2013 - art. 6
 
 	**Cite**:
 
@@ -14326,26 +14562,35 @@ complémentaire d'affichage ou de diffusion de la décision prévue par l'articl
 ###### Article 222-47
 
 Dans les cas prévus par les articles 222-1 à 222-15, 222-23 à 222-30 et 222-34 à 222-40, peut être prononcée à titre de peine
-complémentaire l'interdiction de séjour, suivant les modalités prévues par l'article 131-31.
+complémentaire l'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
 
-Dans les cas prévus par les articles 222-23 à 222-30, lorsqu'ils sont commis sur des mineurs, et par les articles 222-34 à
-222-40, peut être également prononcée l'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la
-République.
+Dans les cas prévus par les articles 222-23 à 222-30, lorsqu'ils sont commis sur des mineurs, par le 6° bis des articles
+222-3,
+222-8,
+222-10, 222-12 et 222-13, par l'article 222-14-4 et par les articles 222-34 à 222-40, peut être également prononcée
+l'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 15 () JORF 5 avril 2006
+	  - Loi n°2013-711 du 5 août 2013 - art. 19
 
 	**Cite**:
 
-	  - Code pénal - art. 131-31 (V)
-	  - Code pénal 222-1 à 222-15, 222-23 à 222-30, 222-34 à 222-40, 131-31
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 222-1
+	  - Code pénal - art. 222-10
+	  - Code pénal - art. 222-12
+	  - Code pénal - art. 222-14-4
+	  - Code pénal - art. 222-23
+	  - Code pénal - art. 222-3
+	  - Code pénal - art. 222-34
+	  - Code pénal - art. 222-8
 
 
 ###### Article 222-48
@@ -14882,6 +15127,40 @@ d'amende.
 	  - Code de la santé publique - art. L2222-1 (V)
 
 
+###### Article 223-11
+
+La tentative du délit prévu à l'article 223-10 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 du 22 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 19
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2222-2 (M)
+	  - Code de la santé publique - art. L2414-2 (Ab)
+	  - Code de la santé publique - art. L2422-2 (M)
+	  - Code de la santé publique - art. L2431-1 (M)
+	  - Code de la santé publique - art. L2441-2 (M)
+	  - Code de la santé publique - art. R2212-2 (V)
+	  - Code pénal - art. 713-2 (Ab)
+	  - Code pénal - art. 723-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2222-2 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 223-10
+
+
 ##### Section 6 : De la provocation au suicide
 
 ###### Article 223-13
@@ -15252,7 +15531,98 @@ peine complémentaire d'affichage ou de diffusion de la décision prévue par l'
 
 #### Chapitre IV : Des atteintes aux libertés de la personne
 
-##### Section 1 : De l'enlèvement et de la séquestration.
+##### Section 1 : De la réduction en esclavage et de l'exploitation de personnes réduites en esclavage
+
+###### Article 224-1 A
+
+La réduction en esclavage est le fait d'exercer à l'encontre d'une personne l'un des attributs du droit de propriété. 
+
+La réduction en esclavage d'une personne est punie de vingt années de réclusion criminelle. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 13
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+	  - Code de procédure pénale - art. 2-22 (V)
+	  - Code de procédure pénale - art. 706-3 (V)
+	  - Code pénal - art. 224-1 C (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+
+
+###### Article 224-1 B
+
+L'exploitation d'une personne réduite en esclavage est le fait de commettre à l'encontre d'une personne dont la réduction en
+esclavage est apparente ou connue de l'auteur une agression sexuelle, de la séquestrer ou de la soumettre à du travail forcé
+ou du service forcé. 
+
+L'exploitation d'une personne réduite en esclavage est punie de vingt années de réclusion criminelle. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+
+	**Cité par**:
+
+	  - Code pénal - art. 224-1 C (V)
+
+
+###### Article 224-1 C
+
+Le crime de réduction en esclavage défini à l'article 224-1 A et le crime d'exploitation d'une personne réduite en esclavage
+définis à l'article 224-1 B sont punis de trente années de réclusion criminelle lorsqu'ils sont commis : 
+
+1° A l'égard d'un mineur ; 
+
+2° A l'égard d'une personne dont la vulnérabilité due à son âge, à une maladie, à une infirmité, à une déficience physique ou
+psychique ou à un état de grossesse est apparente ou connue de l'auteur ; 
+
+3° Par un ascendant légitime, naturel ou adoptif ou par une personne qui a autorité sur la victime ou abuse de l'autorité que
+lui confèrent ses fonctions ; 
+
+4° Par une personne appelée à participer, par ses fonctions, à la lutte contre l'esclavage ou au maintien de l'ordre
+public ; 
+
+5° Lorsque le crime est précédé ou accompagné de tortures ou d'actes de barbarie. 
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 224-1 A
+	  - Code pénal - art. 224-1 B
+
+
+##### Section 1 bis : De l'enlèvement et de la séquestration
 
 ###### Article 224-1
 
@@ -15262,19 +15632,14 @@ séquestrer une personne, est puni de vingt ans de réclusion criminelle.
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction. 
 
 Toutefois, si la personne détenue ou séquestrée est libérée volontairement avant le septième jour accompli depuis celui de
-son appréhension, la peine est de cinq ans d'emprisonnement et de 75000 euros d'amende, sauf dans les cas prévus par
+son appréhension, la peine est de cinq ans d'emprisonnement et de 75 000 euros d'amende, sauf dans les cas prévus par
 l'article 224-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -15298,23 +15663,23 @@ l'article 224-2.
 	  - Code pénal - art. 224-5-2 (V)
 	  - Code pénal - art. 224-9 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 132-23
 
 
 ###### Article 224-2
 
 L'infraction prévue à l'article 224-1 est punie de trente ans de réclusion criminelle lorsque la victime a subi une
 mutilation ou une infirmité permanente provoquée volontairement ou résultant soit des conditions de détention, soit d'une
-privation d'aliments ou de soins.
+privation d'aliments ou de soins. 
 
 Elle est punie de la réclusion criminelle à perpétuité lorsqu'elle est précédée ou accompagnée de tortures ou d'actes de
-barbarie ou lorsqu'elle est suivie de la mort de la victime.
+barbarie ou lorsqu'elle est suivie de la mort de la victime. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -15323,12 +15688,11 @@ présent article.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cité par**:
 
@@ -15341,15 +15705,15 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
+	  - Code pénal - art. 132-23 (V)
 
 
 ###### Article 224-3
 
 L'infraction prévue par l'article 224-1 est punie de trente ans de réclusion criminelle lorsqu'elle est commise à l'égard de
-plusieurs personnes.
+plusieurs personnes. 
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction.
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction. 
 
 Toutefois, si la personne détenue ou séquestrée ou toutes les personnes détenues ou séquestrées sont libérées volontairement
 dans le délai prévu par le troisième alinéa de l'article 224-1, la peine est de dix ans d'emprisonnement, sauf si la victime
@@ -15359,11 +15723,11 @@ ou l'une des victimes a subi l'une des atteintes à son intégrité physique men
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cité par**:
 
@@ -15373,8 +15737,8 @@ ou l'une des victimes a subi l'une des atteintes à son intégrité physique men
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 224-1 (M)
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 224-1 (V)
 	  - Code pénal - art. 224-2 (V)
 
 
@@ -15383,9 +15747,9 @@ ou l'une des victimes a subi l'une des atteintes à son intégrité physique men
 Si la personne arrêtée, enlevée, détenue ou séquestrée l'a été comme otage soit pour préparer ou faciliter la commission d'un
 crime ou d'un délit, soit pour favoriser la fuite ou assurer l'impunité de l'auteur ou du complice d'un crime ou d'un délit,
 soit pour obtenir l'exécution d'un ordre ou d'une condition, notamment le versement d'une rançon, l'infraction prévue par
-l'article 224-1 est punie de trente ans de réclusion criminelle.
+l'article 224-1 est punie de trente ans de réclusion criminelle. 
 
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction.
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction. 
 
 Sauf dans les cas prévus à l'article 224-2, la peine est de dix ans d'emprisonnement si la personne prise en otage dans les
 conditions définies au premier alinéa est libérée volontairement avant le septième jour accompli depuis celui de son
@@ -15399,17 +15763,16 @@ appréhension, sans que l'ordre ou la condition ait été exécuté.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 224-1 (M)
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 224-1 (V)
 	  - Code pénal - art. 224-2 (V)
 
 
@@ -15417,7 +15780,7 @@ appréhension, sans que l'ordre ou la condition ait été exécuté.
 
 Lorsque la victime de l'un des crimes prévus aux articles 224-1 à 224-4 est un mineur de quinze ans, la peine est portée à la
 réclusion criminelle à perpétuité si l'infraction est punie de trente ans de réclusion criminelle et à trente ans de
-réclusion criminelle si l'infraction est punie de vingt ans de réclusion criminelle.
+réclusion criminelle si l'infraction est punie de vingt ans de réclusion criminelle. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables dans les cas prévus par le
 présent article.
@@ -15426,12 +15789,11 @@ présent article.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cité par**:
 
@@ -15440,8 +15802,8 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal 224-1 à 224-4, 132-23
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 224-1 (V)
 
 
 ###### Article 224-5-1
@@ -15460,21 +15822,21 @@ criminelle.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 
 ###### Article 224-5-2
 
 Lorsque les infractions prévues par le premier alinéa de l'article 224-1 et par les articles 224-2 à 224-5 sont commises en
-bande organisée, les peines sont portées à 1 000 000 Euros d'amende et à :
+bande organisée, les peines sont portées à 1 000 000 euros d'amende et à : 
 
-1° Trente ans de réclusion criminelle si l'infraction est punie de vingt ans de réclusion criminelle ;
+1° Trente ans de réclusion criminelle si l'infraction est punie de vingt ans de réclusion criminelle ; 
 
-2° La réclusion criminelle à perpétuité si l'infraction est punie de trente ans de réclusion criminelle.
+2° La réclusion criminelle à perpétuité si l'infraction est punie de trente ans de réclusion criminelle. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables dans les cas prévus aux 1° et
 2°.
@@ -15483,11 +15845,11 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - DEPLACE: Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cité par**:
 
@@ -15496,9 +15858,9 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (M)
-	  - Code pénal - art. 224-1 (M)
-	  - Code pénal 224-1, 224-2 à 224-5, 132-23
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 224-1 (V)
+	  - Code pénal - art. 224-2 (V)
 
 
 ##### Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport
@@ -15670,10 +16032,10 @@ d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
 le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
 peuvent être prononcées cumulativement ; 
 
-3° (Abrogé) 
+3° (Abrogé) ; 
 
-4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation d'accomplir un stage de responsabilité
-parentale, selon les modalités fixées à l'article 131-35-1. 
+4° S'il s'agit des crimes visés aux sections 1 et 1 bis du présent chapitre, l'obligation d'accomplir un stage de
+responsabilité parentale, selon les modalités fixées à l'article 131-35-1. 
 
 II. - En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé de la peine complémentaire
 d'interdiction de détenir ou de porter, pour une durée de dix ans au plus, une arme soumise à autorisation est obligatoire. 
@@ -15686,8 +16048,7 @@ de la personnalité de son auteur.
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 20
-	  - Loi n°2012-304 du 6 mars 2012 - art. 9
+	  - Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cite**:
 
@@ -15703,22 +16064,22 @@ de la personnalité de son auteur.
 
 ###### Article 224-10
 
-Les personnes physiques coupables des crimes prévus par la section 1 du présent chapitre encourent également le suivi socio-
-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
+Les personnes physiques coupables des crimes prévus par les sections 1 et 1 bis du présent chapitre encourent également le
+suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-13.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 23 () JORF 13 décembre 2005
+	  - Loi n°2013-711 du 5 août 2013 - art. 3
 
 	**Cite**:
 
-	  - Code pénal 131-36-1 à 131-36-13
+	  - Code pénal - art. 131-36-1
 
 
 #### Chapitre V : Des atteintes à la dignité de la personne
@@ -15956,20 +16317,39 @@ laquelle l'infraction a été commise.
 
 ###### Article 225-4-1
 
-La traite des êtres humains est le fait, en échange d'une rémunération ou de tout autre avantage ou d'une promesse de
-rémunération ou d'avantage, de recruter une personne, de la transporter, de la transférer, de l'héberger ou de l'accueillir,
-pour la mettre à sa disposition ou à la disposition d'un tiers, même non identifié, afin soit de permettre la commission
-contre cette personne des infractions de proxénétisme, d'agression ou d'atteintes sexuelles, d'exploitation de la mendicité,
-de conditions de travail ou d'hébergement contraires à sa dignité, soit de contraindre cette personne à commettre tout crime
-ou délit.
+I. - La traite des êtres humains est le fait de recruter une personne, de la transporter, de la transférer, de l'héberger ou
+de l'accueillir à des fins d'exploitation dans l'une des circonstances suivantes :
 
-La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 000 euros d'amende.
+1° Soit avec l'emploi de menace, de contrainte, de violence ou de manœuvre dolosive visant la victime, sa famille ou une
+personne en relation habituelle avec la victime ;
+
+2° Soit par un ascendant légitime, naturel ou adoptif de cette personne ou par une personne qui a autorité sur elle ou abuse
+de l'autorité que lui confèrent ses fonctions ;
+
+3° Soit par abus d'une situation de vulnérabilité due à son âge, à une maladie, à une infirmité, à une déficience physique ou
+psychique ou à un état de grossesse, apparente ou connue de son auteur ;
+
+4° Soit en échange ou par l'octroi d'une rémunération ou de tout autre avantage ou d'une promesse de rémunération ou
+d'avantage.
+
+L'exploitation mentionnée au premier alinéa du présent I est le fait de mettre la victime à sa disposition ou à la
+disposition d'un tiers, même non identifié, afin soit de permettre la commission contre la victime des infractions de
+proxénétisme, d'agression ou d'atteintes sexuelles, de réduction en esclavage, de soumission à du travail ou à des services
+forcés, de réduction en servitude, de prélèvement de l'un de ses organes, d'exploitation de la mendicité, de conditions de
+travail ou d'hébergement contraires à sa dignité, soit de contraindre la victime à commettre tout crime ou délit.
+
+La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 000 € d'amende.
+
+II. - La traite des êtres humains à l'égard d'un mineur est constituée même si elle n'est commise dans aucune des
+circonstances prévues aux 1° à 4° du I.
+
+Elle est punie de dix ans d'emprisonnement et de 1 500 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -16005,43 +16385,37 @@ La traite des êtres humains est punie de sept ans d'emprisonnement et de 150 00
 	  - Code pénal - art. 225-4-5 (V)
 	  - Code pénal - art. 225-4-8 (V)
 
-	**Créé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 32
-
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 22 () JORF 21 novembre 2007
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
 
 
 ###### Article 225-4-2
 
-L'infraction prévue à l'article 225-4-1 est punie de dix ans d'emprisonnement et de 1 500 000 Euros d'amende lorsqu'elle est
-commise :
+I.-L'infraction prévue au I de l'article 225-4-1 est punie de dix ans d'emprisonnement et de 1 500 000 € d'amende lorsqu'elle
+est commise dans deux des circonstances mentionnées aux 1° à 4° du même I ou avec l'une des circonstances supplémentaires
+suivantes : 
 
-1° A l'égard d'un mineur ;
+1° A l'égard de plusieurs personnes ; 
 
-2° A l'égard d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une
-déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+2° A l'égard d'une personne qui se trouvait hors du territoire de la République ou lors de son arrivée sur le territoire de
+la République ; 
 
-3° A l'égard de plusieurs personnes ;
+3° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
+destination d'un public non déterminé, d'un réseau de communication électronique ; 
 
-4° A l'égard d'une personne qui se trouvait hors du territoire de la République ou lors de son arrivée sur le territoire de
-la République ;
+4° Dans des circonstances qui exposent directement la personne à l'égard de laquelle l'infraction est commise à un risque
+immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ; 
 
-5° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de communication électronique   ;
+5° Avec l'emploi de violences qui ont causé à la victime une incapacité totale de travail de plus de huit jours ; 
 
-6° Dans des circonstances qui exposent directement la personne à l'égard de laquelle l'infraction est commise à un risque
-immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ;
+6° Par une personne appelée à participer, par ses fonctions, à la lutte contre la traite ou au maintien de l'ordre public ; 
 
-7° Avec l'emploi de menaces, de contraintes, de violences ou de manoeuvres dolosives visant l'intéressé, sa famille ou une
-personne étant en relation habituelle avec lui ;
+7° Lorsque l'infraction a placé la victime dans une situation matérielle ou psychologique grave. 
 
-8° Par un ascendant légitime, naturel ou adoptif de la personne victime de l'infraction prévue à l'article 225-4-1 ou par une
-personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses fonctions ;
-
-9° Par une personne appelée à participer, par ses fonctions, à la lutte contre la traite ou au maintien de l'ordre public.
+II.-L'infraction prévue au II de l'article 225-4-1 est punie de quinze ans de réclusion criminelle et de 1 500 000 € d'amende
+lorsqu'elle a été commise dans l'une des circonstances mentionnées aux 1° à 4° du I du même article 225-4-1 ou dans l'une des
+circonstances mentionnées aux 1° à 7° du I du présent article.
 
 **Liens relatifs à cet article**
 
@@ -16049,13 +16423,9 @@ personne qui a autorité sur elle ou abuse de l'autorité que lui confèrent ses
 
 	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 32
-
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 150
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -16193,6 +16563,35 @@ La tentative des délits prévus à la présente section est punie des mêmes pe
 
 	  - Loi n°2003-239 du 18 mars 2003 - art. 32 () JORF 19 mars 2003
 	  - Loi n°2003-239 du 18 mars 2003 - art. 32
+
+
+###### Article 225-4-8
+
+Lorsque les infractions prévues aux articles 225-4-1 et 225-4-2 sont commises hors du territoire de la République par un
+Français, la loi française est applicable par dérogation au deuxième alinéa de l'article 113-6 et la seconde phrase de
+l'article 113-8 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-684 du 22 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-35-1 (V)
+	  - Code pénal - art. 132-16-3 (V)
+	  - Livre des procédures fiscales - art. L10 B (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 113-6
+	  - Code pénal - art. 113-8
+	  - Code pénal - art. 225-4-1
 
 
 ###### Article 225-4-9
@@ -16624,23 +17023,28 @@ réclusion criminelle.
 
 Dans le cas où le délit prévu par le 1° de l'article 225-7 est commis à l'étranger par un Français ou par une personne
 résidant habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième alinéa de
-l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables. 
+
+Il en est de même dans le cas où l'un des crimes mentionnés aux articles 225-7-1, 225-8 ou 225-9 a été commis sur un mineur
+hors du territoire de la République par un étranger résidant habituellement sur le territoire français.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 113-6 (V)
-	  - Code pénal - art. 113-8 (V)
-	  - Code pénal - art. 225-7 (M)
+	  - Code pénal - art. 113-6
+	  - Code pénal - art. 113-8
+	  - Code pénal - art. 225-7
+	  - Code pénal - art. 225-7-1
+	  - Code pénal - art. 225-8
 
 
 ###### Article 225-12
@@ -16971,6 +17375,8 @@ commise en bande organisée.
 
 ##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
 
+##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude
+
 ###### Article 225-13
 
 Le fait d'obtenir d'une personne, dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur, la
@@ -17034,27 +17440,86 @@ conditions de travail ou d'hébergement incompatibles avec la dignité humaine e
 	  - Code pénal - art. 225-19 (V)
 
 
+###### Article 225-14-1
+
+Le travail forcé est le fait, par la violence ou la menace, de contraindre une personne à effectuer un travail sans
+rétribution ou en échange d'une rétribution manifestement sans rapport avec l'importance du travail accompli. Il est puni de
+sept ans d'emprisonnement et de 200 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 13
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de procédure pénale - art. 2-22 (V)
+	  - Code pénal - art. 225-15 (V)
+
+
+###### Article 225-14-2
+
+La réduction en servitude est le fait de faire subir, de manière habituelle, l'infraction prévue à l'article 225-14-1 à une
+personne dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur. Elle est punie de dix ans
+d'emprisonnement et de 300 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 13
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code pénal - art. 225-15 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 225-4-1
+
+
 ###### Article 225-15
 
-Les infractions définies aux articles 225-13 et 225-14 sont punies de sept ans d'emprisonnement et de 200000 euros d'amende
-lorsqu'elles sont commises à l'égard de plusieurs personnes. 
+I.-Lorsqu'elles sont commises à l'égard de plusieurs personnes : 
 
-Lorsqu'elles sont commises à l'égard d'un mineur, elles sont punies de sept ans d'emprisonnement et de 200 000 Euros
-d'amende. 
+1° Les infractions définies aux articles 225-13 et 225-14 sont punies de sept ans d'emprisonnement et de 200 000 €
+d'amende ; 
 
-Lorsqu'elles sont commises à l'égard de plusieurs personnes parmi lesquelles figurent un ou plusieurs mineurs, elles sont
-punies de dix ans d'emprisonnement et de 300 000 Euros d'amende.
+2° L'infraction définie à l'article 225-14-1 est punie de dix ans d'emprisonnement et de 300 000 € d'amende ; 
+
+3° L'infraction définie à l'article 225-14-2 est punie de quinze ans de réclusion criminelle et de 400 000 € d'amende. 
+
+II.-Lorsqu'elles sont commises à l'égard d'un mineur : 
+
+1° Les infractions définies aux articles 225-13 et 225-14 sont punies de sept ans d'emprisonnement et de 200 000 €
+d'amende ; 
+
+2° L'infraction définie à l'article 225-14-1 est punie de dix ans d'emprisonnement et de 300 000 € d'amende ; 
+
+3° L'infraction définie à l'article 225-14-2 est punie de quinze ans de réclusion criminelle et de 400 000 € d'amende. 
+
+III.-Lorsqu'elles sont commises à l'égard de plusieurs personnes parmi lesquelles figurent un ou plusieurs mineurs : 
+
+1° Les infractions définies aux articles 225-13 et 225-14 sont punies de dix ans d'emprisonnement et de 300 000 € d'amende ; 
+
+2° L'infraction définie à l'article 225-14-1 est punie de quinze ans de réclusion criminelle et de 400 000 € d'amende ; 
+
+3° L'infraction définie à l'article 225-14-2 est punie de vingt ans de réclusion criminelle et de 500 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 35 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 35
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -17063,29 +17528,30 @@ punies de dix ans d'emprisonnement et de 300 000 Euros d'amende.
 
 	**Cite**:
 
-	  - Code pénal - art. 225-13 (V)
+	  - Code pénal - art. 225-13
+	  - Code pénal - art. 225-14-1
+	  - Code pénal - art. 225-14-2
 
 
 ###### Article 225-15-1
 
-Pour l'application des articles 225-13 et 225-14, les mineurs ou les personnes qui ont été victimes des faits décrits par ces
-articles à leur arrivée sur le territoire français sont considérés comme des personnes vulnérables ou en situation de
+Pour l'application des articles 225-13 à 225-14-2, les mineurs ou les personnes qui ont été victimes des faits décrits par
+ces articles à leur arrivée sur le territoire français sont considérés comme des personnes vulnérables ou en situation de
 dépendance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 36 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 36
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 225-13 (V)
+	  - Code pénal - art. 225-13
 
 
 ###### Article 225-16
@@ -17321,7 +17787,7 @@ peines complémentaires suivantes :
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
 
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis,
-ayant servi à commettre l'infraction prévue à l'article 225-14 ; 
+ayant servi à commettre les infractions prévues aux articles 225-13 à 225-14-2 ; 
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ; 
 
@@ -17336,7 +17802,7 @@ d'exercice peuvent être prononcées cumulativement.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2013-711 du 5 août 2013 - art. 1
 
 	**Cité par**:
 
@@ -17348,12 +17814,11 @@ d'exercice peuvent être prononcées cumulativement.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 131-5-1 (V)
-	  - Code pénal - art. 225-13 (V)
-	  - Code pénal - art. 225-14 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-5-1
+	  - Code pénal - art. 225-13
 
 
 ###### Article 225-20
@@ -20397,19 +20862,19 @@ euros d'amende.
 
 ###### Article 227-22
 
-Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 75000
-euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque le mineur est âgé de
-moins de quinze ans ou lorsque le mineur a été mis en contact avec l'auteur des faits grâce à l'utilisation, pour la
-diffusion de messages à destination d'un public non déterminé, d'un réseau de communications électroniques ou que les faits
-sont commis dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des
-entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou
-locaux.
+Le fait de favoriser ou de tenter de favoriser la corruption d'un mineur est puni de cinq ans d'emprisonnement et de 75 000
+euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsque le mineur a été mis en
+contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé,
+d'un réseau de communications électroniques ou que les faits sont commis dans les établissements d'enseignement ou
+d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un
+temps très voisin de celles-ci, aux abords de ces établissements ou locaux.
 
 Les mêmes peines sont notamment applicables au fait, commis par un majeur, d'organiser des réunions comportant des
-exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe.
+exhibitions ou des relations sexuelles auxquelles un mineur assiste ou participe ou d'assister en connaissance de cause à de
+telles réunions.
 
-Les peines sont portées à dix ans d'emprisonnement et 1 000 000 Euros d'amende lorsque les faits ont été commis en bande
-organisée.
+Les peines sont portées à dix ans d'emprisonnement et 1 000 000 euros d'amende lorsque les faits ont été commis en bande
+organisée ou à l'encontre d'un mineur de quinze ans.
 
 **Liens relatifs à cet article**
 
@@ -20443,13 +20908,11 @@ organisée.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
 
 
 ###### Article 227-22-1
@@ -20480,22 +20943,23 @@ rencontre.
 
 Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'image ou la représentation d'un mineur lorsque
 cette image ou cette représentation présente un caractère pornographique est puni de cinq ans d'emprisonnement et de 75 000
-Euros d'amende.
+euros d'amende. Lorsque l'image ou la représentation concerne un mineur de quinze ans, ces faits sont punis même s'ils n'ont
+pas été commis en vue de la diffusion de cette image ou représentation. 
 
 Le fait d'offrir, de rendre disponible ou de diffuser une telle image ou représentation, par quelque moyen que ce soit, de
 l'importer ou de l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
 
-Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion de
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsqu'il a été utilisé, pour la diffusion de
 l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de communications électroniques.
 
-La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
+Le fait de consulter habituellement ou en contrepartie d'un paiement un service de communication au public en ligne mettant à
+disposition une telle image ou représentation, d'acquérir ou de détenir une telle image ou représentation par quelque moyen
+que ce soit est puni de deux ans d'emprisonnement et 30 000 euros d'amende.
 
-Le fait de consulter habituellement un service de communication au public en ligne mettant à disposition une telle image ou
-représentation ou de détenir une telle image ou représentation par quelque moyen que ce soit est puni de deux ans
-d'emprisonnement et 30000 euros d'amende.
-
-Les infractions prévues au présent article sont punies de dix ans d'emprisonnement et de 500 000 Euros d'amende lorsqu'elles
+Les infractions prévues au présent article sont punies de dix ans d'emprisonnement et de 500 000 euros d'amende lorsqu'elles
 sont commises en bande organisée.
+
+La tentative des délits prévus au présent article est punie des mêmes peines. 
 
 Les dispositions du présent article sont également applicables aux images pornographiques d'une personne dont l'aspect
 physique est celui d'un mineur, sauf s'il est établi que cette personne était âgée de dix-huit ans au jour de la fixation ou
@@ -20527,12 +20991,11 @@ de l'enregistrement de son image.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35 () JORF 7 mars 2007
-	  - Loi n°2007-297 du 5 mars 2007 - art. 35
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
 
 
 ###### Article 227-24
@@ -20572,6 +21035,26 @@ qui concerne la détermination des personnes responsables.
 	**Modifié par**:
 
 	  - Loi n°2011-267 du 14 mars 2011 - art. 5
+
+
+###### Article 227-24-1
+
+Le fait de faire à un mineur des offres ou des promesses ou de lui proposer des dons, présents ou avantages quelconques, ou
+d'user contre lui de pressions ou de contraintes de toute nature, afin qu'il se soumette à une mutilation sexuelle est puni,
+lorsque cette mutilation n'a pas été réalisée, de cinq ans d'emprisonnement et de 75 000 € d'amende.
+
+Est puni des mêmes peines le fait d'inciter directement autrui, par l'un des moyens énoncés au premier alinéa, à commettre
+une mutilation sexuelle sur la personne d'un mineur, lorsque cette mutilation n'a pas été réalisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 19
+
+	**Cité par**:
+
+	  - Code de la route. - art. R212-4 (V)
 
 
 ###### Article 227-25
@@ -20652,8 +21135,8 @@ stupéfiants.
 
 ###### Article 227-27
 
-Les atteintes sexuelles sans violence, contrainte, menace ni surprise sur un mineur âgé de plus de quinze ans et non émancipé
-par le mariage sont punies de deux ans d'emprisonnement et de 30 000 euros d'amende :
+Les atteintes sexuelles sans violence, contrainte, menace ni surprise sur un mineur âgé de plus de quinze ans sont punies de
+trois ans d'emprisonnement et de 45 000 € d'amende :
 
 1° Lorsqu'elles sont commises par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de
 fait ;
@@ -20673,7 +21156,11 @@ fait ;
 
 	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 2
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
+
+	**Anciens textes**:
+
+	  - CODE PENAL - art. 331-1 (Ab)
 
 
 ###### Article 227-27-1
@@ -20705,11 +21192,31 @@ applicables.
 	  - Code pénal - art. 227-25 (V)
 
 
+###### Article 227-27-2
+
+La tentative des délits prévus aux articles 227-25, 227-26 et 227-27 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-711 du 5 août 2013 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 356 (V)
+	  - Code de procédure pénale - art. 706-50 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 227-25
+
+
 ###### Article 227-27-3
 
-Lorsque l'atteinte sexuelle incestueuse est commise par une personne titulaire de l'autorité parentale sur le mineur, la
-juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378
-et 379-1 du code civil. 
+Lorsque l'atteinte sexuelle est commise par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de
+jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378 et 379-1 du code
+civil. 
 
 Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
 
@@ -20717,9 +21224,9 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 1
+	  - Loi n°2013-711 du 5 août 2013 - art. 6
 
 	**Cite**:
 
@@ -28936,14 +29443,17 @@ administratifs, une ressemblance de nature à provoquer une méprise dans l'espr
 
 ###### Article 433-14
 
-Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, par toute personne, publiquement et sans droit :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, par toute personne, publiquement et sans droit :
 
 1° De porter un costume, un uniforme ou une décoration réglementés par l'autorité publique ;
 
 2° D'user d'un document justificatif d'une qualité professionnelle ou d'un insigne réglementés par l'autorité publique ;
 
 3° D'utiliser un véhicule dont les signes extérieurs sont identiques à ceux utilisés par les fonctionnaires de la police
-nationale ou les militaires.
+nationale ou les militaires ;
+
+4° D'user de l'emblème ou de la dénomination de l'un des signes distinctifs définis par les conventions signées à Genève le
+12 août 1949 et leurs protocoles additionnels.
 
 **Liens relatifs à cet article**
 
@@ -28956,24 +29466,23 @@ nationale ou les militaires.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-711 du 5 août 2013 - art. 12 (V)
 
 
 ###### Article 433-15
 
-Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait, par toute personne, publiquement, de porter un
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, par toute personne, publiquement, de porter un
 costume ou un uniforme, d'utiliser un véhicule, ou de faire usage d'un insigne ou d'un document présentant, avec les
 costumes, uniformes, véhicules, insignes ou documents distinctifs réservés aux fonctionnaires de la police nationale ou aux
 militaires, une ressemblance de nature à causer une méprise dans l'esprit du public.
+
+Les mêmes peines sont applicables au fait, par toute personne, de faire publiquement usage d'un emblème ou d'une dénomination
+présentant avec l'un des signes distinctifs des conventions signées à Genève le 12 août 1949 et de leurs protocoles
+additionnels une ressemblance de nature à causer une méprise dans l'esprit du public.
 
 **Liens relatifs à cet article**
 
@@ -28985,16 +29494,11 @@ militaires, une ressemblance de nature à causer une méprise dans l'esprit du p
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-711 du 5 août 2013 - art. 12 (V)
 
 
 ###### Article 433-16
