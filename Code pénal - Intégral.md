@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-08-07
+Version Consolidée au 2013-09-06
 
 # Partie législative
 
@@ -17373,8 +17373,6 @@ commise en bande organisée.
 	  - Loi n°2011-267 du 14 mars 2011 - art. 52
 
 
-##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.
-
 ##### Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne, du travail forcé et de la réduction en servitude
 
 ###### Article 225-13
@@ -26785,8 +26783,8 @@ infractions définies par les articles 434-6 et 441-2 à 441-5 ;
 4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par le I de l'article L.
 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6,
 L. 2339-2, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L.
-2353-5 et l'article L. 2353-13 du code de la défense, ainsi que les articles L. 317-4, L. 317-7 et L. 317-8 à l'exception des
-armes de la 6e catégorie, du code de la sécurité intérieure ; 
+2353-5 et l'article L. 2353-13 du code de la défense, ainsi que les  articles L. 317-4, L. 317-7 et L. 317-8  à l'exception
+des armes de la catégorie D définies par décret en Conseil d'Etat, du code de la sécurité intérieure ;  
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
@@ -26851,30 +26849,31 @@ armes de la 6e catégorie, du code de la sécurité intérieure ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 8
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cite**:
 
 	  - Code pénal - art. 431-13
 	  - Code pénal - art. 434-6
 	  - Code pénal - art. 441-2
-	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-13-2 (V)
-	  - Code de la défense. - art. L1333-13-3 (V)
-	  - Code de la défense. - art. L1333-13-6 (V)
-	  - Code de la défense. - art. L1333-9 (V)
-	  - Code de la défense. - art. L2339-14 (V)
-	  - Code de la défense. - art. L2339-16 (V)
-	  - Code de la défense. - art. L2339-2 (VT)
-	  - Code de la défense. - art. L2341-1 (V)
-	  - Code de la défense. - art. L2341-4 (V)
-	  - Code de la défense. - art. L2341-5 (V)
-	  - Code de la défense. - art. L2342-57 (V)
-	  - Code de la défense. - art. L2353-13 (VT)
-	  - Code de la défense. - art. L2353-4 (V)
-	  - Code de la défense. - art. L2353-5 (V)
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-13-2
+	  - Code de la défense. - art. L1333-13-3
+	  - Code de la défense. - art. L1333-13-4
+	  - Code de la défense. - art. L1333-13-6
+	  - Code de la défense. - art. L1333-9
+	  - Code de la défense. - art. L2339-14
+	  - Code de la défense. - art. L2339-16
+	  - Code de la défense. - art. L2339-2
+	  - Code de la défense. - art. L2339-5
+	  - Code de la défense. - art. L2339-8
+	  - Code de la défense. - art. L2341-1
+	  - Code de la défense. - art. L2341-4
+	  - Code de la défense. - art. L2342-57
+	  - Code de la défense. - art. L2353-13
+	  - Code de la défense. - art. L2353-4
+	  - Code de la défense. - art. L2353-5
 	  - Code monétaire et financier - art. L465-1
-	  - Code de la sécurité intérieure - art. L317-4
 
 
 ###### Article 421-2
