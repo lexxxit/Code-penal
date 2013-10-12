@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-09-06
+Version Consolidée au 2013-10-13
 
 # Partie législative
 
@@ -3429,6 +3429,43 @@ incapacité d'exercer une fonction publique.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+###### Article 131-26-1
+
+Dans les cas prévus par la loi et par dérogation au septième alinéa de l'article 131-26, la peine d'inéligibilité mentionnée
+au 2° du même article peut être prononcée pour une durée de dix ans au plus à l'encontre d'une personne exerçant une fonction
+de membre du Gouvernement ou un mandat électif public au moment des faits.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 25 sexies (V)
+	  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 2 (VD)
+	  - Loi n°2016-483 du 20 avril 2016 - art. 12
+	  - Loi n°2016-483 du 20 avril 2016 - art. 13
+	  - Loi n°2016-483 du 20 avril 2016 - art. 15
+	  - Loi n°2016-483 du 20 avril 2016 - art. 16
+	  - Loi n°2016-483 du 20 avril 2016 - art. 5
+	  - Décret n°2017-713 du 2 mai 2017 - art.
+	  - Code de commerce - art. L722-21 (V)
+	  - Code de justice administrative - art. L131-8 (V)
+	  - Code de justice administrative - art. L231-4-2 (V)
+	  - Code de la défense. - art. L4122-9 (V)
+	  - Code des juridictions financières - art. L120-10 (V)
+	  - Code des juridictions financières - art. L120-11 (VD)
+	  - Code des juridictions financières - art. L220-7 (V)
+	  - Code des juridictions financières - art. L220-9 (VD)
+	  - Code électoral - art. L117 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 27
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
 
 
 ###### Article 131-27
@@ -25337,7 +25374,8 @@ plus ;
 8° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à
 l'exception des objets susceptibles de restitution ; 
 
-9° L'interdiction, suivant les modalités prévues par l'article 131-26, des droits civiques, civils et de famille ; 
+9° L'interdiction, suivant les modalités prévues aux articles 131-26 et 131-26-1, des droits civiques, civils et de
+famille ; 
 
 10° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ; 
 
@@ -25355,7 +25393,7 @@ a la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis
 
 	**Modifié par**:
 
-	  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 27
 
 	**Cite**:
 
@@ -28668,13 +28706,14 @@ municipal ne peut décider de se réunir à huis clos.
 
 ###### Article 432-13
 
-Est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait, par une personne ayant été chargée, en tant que
-fonctionnaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a effectivement exercées, soit
-d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une
-entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à l'autorité compétente des
-décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur de telles décisions, de
-prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces entreprises avant l'expiration
-d'un délai de trois ans suivant la cessation de ces fonctions. 
+Est puni de            trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire
+d'une fonction exécutive locale, fonctionnaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a
+effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats
+de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à
+l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur
+de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
+entreprises avant l'expiration d'un délai de trois ans suivant la cessation de ces fonctions. 
 
 Est punie des mêmes peines toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au
 moins 30 % de capital commun ou a conclu un contrat comportant une exclusivité de droit ou de fait avec l'une des entreprises
@@ -28690,12 +28729,6 @@ poste et à France Télécom.
 
 L'infraction n'est pas constituée par la seule participation au capital de sociétés cotées en bourse ou lorsque les capitaux
 sont reçus par dévolution successorale.
-
-**Nota:**
-
-Loi 2007-148 du 2 février 2007 art. 45 III : Les articles 17 à 19 de la présente loi entrent en vigueur à compter de la
-publication du décret mentionné au VII de l'article 87 de la loi 93-122 du 29 janvier 1993, dans sa rédaction issue de la
-présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Journal officiel du 27 avril 2007.
 
 **Liens relatifs à cet article**
 
@@ -28728,15 +28761,15 @@ présente loi. Il s'agit du décret n° 2007-611 du 26 avril 2007 publié au Jou
 
 	**Cite**:
 
-	  - Loi n°90-568 du 2 juillet 1990 (V)
+	  - Loi n°90-568 du 2 juillet 1990
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-148 du 2 février 2007 - art. 17 () JORF 6 février 2007 en vigueur le 27 avril 2007
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 28
 
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public
@@ -28846,14 +28879,14 @@ public ou d'un dépositaire public, celle-ci est punie d'un an d'emprisonnement 
 
 Dans les cas prévus par le présent chapitre, peuvent être prononcées, à titre complémentaire, les peines suivantes : 
 
-1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues par l'article 131-26 ; 
+1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues aux articles 131-26 et 131-26-1 ; 
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
-soit, pour les infractions prévues par le second alinéa de l'article 432-4 et les articles 432-11,432-15 et 432-16, d'exercer
-une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque,
-directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle
-ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+soit, pour les infractions prévues par le second alinéa de l'article 432-4 et les articles 432-11, 432-15 et 432-16,
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, des sommes ou objets irrégulièrement reçus par
 l'auteur de l'infraction, à l'exception des objets susceptibles de restitution ;
@@ -28865,7 +28898,7 @@ conditions prévues par l'article 131-35.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 27
 
 	**Cité par**:
 
@@ -28876,14 +28909,14 @@ conditions prévues par l'article 131-35.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-21 (V)
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 432-11 (V)
-	  - Code pénal - art. 432-15 (V)
-	  - Code pénal - art. 432-4 (V)
-	  - Code pénal - art. 432-7 (V)
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 432-11
+	  - Code pénal - art. 432-15
+	  - Code pénal - art. 432-4
+	  - Code pénal - art. 432-7
 
 
 #### Chapitre III : Des atteintes à l'administration publique commises par les particuliers
