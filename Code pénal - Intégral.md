@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-10-13
+Version Consolidée au 2013-12-08
 
 # Partie législative
 
@@ -2871,8 +2871,10 @@ détention est illicite, que ces biens soient ou non la propriété du condamné
 La peine complémentaire de confiscation s'applique dans les mêmes conditions à tous les droits incorporels, quelle qu'en soit
 la nature, divis ou indivis. 
 
-La confiscation peut être ordonnée en valeur. Pour le recouvrement de la somme représentative de la valeur de la chose
-confisquée, les dispositions relatives à la contrainte judiciaire sont applicables. 
+La confiscation peut être ordonnée en valeur. La confiscation en valeur peut être exécutée sur tous biens, quelle qu'en soit
+la nature, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition.
+Pour le recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la
+contrainte judiciaire sont applicables. 
 
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'Etat, mais
 elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers. 
@@ -2967,8 +2969,7 @@ de sa destruction ou de son aliénation.
 
 	**Modifié par**:
 
-	  - Loi n°2012-409 du 27 mars 2012 - art. 16
-	  - Loi n°2012-409 du 27 mars 2012 - art. 17
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 23
 
 
 ###### Article 131-21-1
@@ -3472,12 +3473,12 @@ de membre du Gouvernement ou un mandat électif public au moment des faits.
 
 Lorsqu'elle est encourue à titre de peine complémentaire pour un crime ou un délit, l'interdiction d'exercer une fonction
 publique ou d'exercer une activité professionnelle ou sociale est soit définitive, soit temporaire ; dans ce dernier cas,
-elle ne peut excéder une durée de cinq ans.
+elle ne peut excéder une durée de cinq ans. 
 
 L'interdiction d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un
 titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale
 ou industrielle ou une société commerciale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder
-une durée de dix ans.
+une durée de quinze ans. 
 
 Cette interdiction n'est pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non
 plus applicable en matière de délit de presse.
@@ -3715,7 +3716,7 @@ plus applicable en matière de délit de presse.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 2
 
 
 ###### Article 131-28
@@ -7052,27 +7053,22 @@ précédente peine.
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
 les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale par un crime, le taux maximum de l'amende
-applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce crime. Dans ce cas, la personne morale encourt,
-en outre, les peines mentionnées à l'article 131-39, sous réserve des dispositions du dernier alinéa de cet article.
+applicable               pour les personnes morales est doublé. Dans ce cas, la personne morale encourt, en outre, les peines
+mentionnées à l'article 131-39, sous réserve des dispositions du dernier alinéa de cet article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39
 
 
 ###### Article 132-13
@@ -7080,13 +7076,13 @@ en outre, les peines mentionnées à l'article 131-39, sous réserve des disposi
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
 les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale, dans le délai de dix ans à compter de
 l'expiration ou de la prescription de la précédente peine, par un délit puni de la même peine, le taux maximum de l'amende
-applicable est égal à dix fois celui qui est prévu par la loi qui réprime ce délit. 
+applicable pour les personnes morales est doublé. 
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi en ce qui concerne
 les personnes physiques de 100 000 euros d'amende, engage sa responsabilité pénale, dans le délai de cinq ans à compter de
 l'expiration ou de la prescription de la précédente peine, par un délit puni par la loi en ce qui concerne les personnes
-physiques d'une peine d'amende supérieure à 15 000 euros, le taux maximum de l'amende applicable est égal à dix fois celui
-qui est prévu par la loi qui réprime ce délit. 
+physiques d'une peine d'amende supérieure à 15 000 euros, le taux maximum de l'amende applicable pour les personnes morales
+est doublé. 
 
 Dans les cas prévus par les deux alinéas précédents, la personne morale encourt, en outre, les peines mentionnées à l'article
 131-39, sous réserve des dispositions du dernier alinéa de cet article.
@@ -7095,39 +7091,33 @@ Dans les cas prévus par les deux alinéas précédents, la personne morale enco
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39
 
 
 ###### Article 132-14
 
 Lorsqu'une personne morale, déjà condamnée définitivement pour un délit, engage sa responsabilité pénale, dans un délai de
 cinq ans à compter de l'expiration ou de la prescription de la précédente peine, soit par le même délit, soit par un délit
-qui lui est assimilé au regard des règles de la récidive, le taux maximum de l'amende applicable est égal à dix fois celui
-qui est prévu par la loi qui réprime ce délit en ce qui concerne les personnes physiques.
+qui lui est assimilé au regard des règles de la récidive, le taux maximum de l'amende applicable                      aux
+personnes morales est doublé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 4
 
 
 ###### Article 132-15
@@ -25217,6 +25207,20 @@ Le blanchiment est puni de cinq ans d'emprisonnement et de 375 000 euros d'amend
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
+###### Article 324-1-1
+
+Pour l'application de l'article 324-1, les biens ou les revenus sont présumés être le produit direct ou indirect d'un crime
+ou d'un délit dès lors que les conditions matérielles, juridiques ou financières de l'opération de placement, de
+dissimulation ou de conversion ne peuvent avoir d'autre justification que de dissimuler l'origine ou le bénéficiaire effectif
+de ces biens ou revenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 8
+
+
 ###### Article 324-2
 
 Le blanchiment est puni de dix ans d'emprisonnement et de 750 000 euros d'amende :
@@ -25341,6 +25345,23 @@ La tentative des délits prévus à la présente section est punie des mêmes pe
 	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
 
 
+###### Article 324-6-1
+
+Toute personne qui a tenté de commettre les infractions prévues à la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas
+échéant, les autres auteurs ou complices.
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues à la présente section est
+réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'identifier, le cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
+
+
 ##### Section 2 : Peines complémentaires applicables aux personnes physiques et responsabilité pénale des personnes morales
 
 ###### Article 324-7
@@ -25430,7 +25451,9 @@ aux articles 324-1 et 324-2.
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
 définies aux articles 324-1 et 324-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines
-prévues par l'article 131-39.
+prévues par l'article 131-39 ainsi que la confiscation de tout ou partie de leurs biens ou, sous réserve des droits du
+propriétaire de bonne foi, de ceux dont elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles,
+divis ou indivis.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -25439,14 +25462,14 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 21
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code pénal - art. 324-1 (V)
+	  - Code pénal - art. 324-1
 	  - Code pénal - art. 324-2
 
 
@@ -28502,7 +28525,8 @@ contenu.
 
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, de recevoir, exiger
 ou ordonner de percevoir à titre de droits ou contributions, impôts ou taxes publics, une somme qu'elle sait ne pas être due,
-ou excéder ce qui est dû, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
+ou excéder ce qui est dû, est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté
+au double du produit tiré de l'infraction.
 
 Est puni des mêmes peines le fait, par les mêmes personnes, d'accorder sous une forme quelconque et pour quelque motif que ce
 soit une exonération ou franchise des droits, contributions, impôts ou taxes publics en violation des textes légaux ou
@@ -28514,16 +28538,11 @@ La tentative des délits prévus au présent article est punie des mêmes peines
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -28542,15 +28561,16 @@ La tentative des délits prévus au présent article est punie des mêmes peines
 
 ###### Article 432-11
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par une personne dépositaire de l'autorité
-publique, chargée d'une mission de service public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans
-droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
-quelconques pour elle-même ou pour autrui :
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service
+public, ou investie d'un mandat électif public, de solliciter ou d'agréer, sans droit, à tout moment, directement ou
+indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour elle-même ou pour
+autrui : 
 
-1° Soit pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir   un acte de sa fonction, de sa
-mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ;
+1° Soit pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte de sa fonction, de sa
+mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ; 
 
-2° Soit pour abuser ou avoir abusé  de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une
+2° Soit pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une
 administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 **Liens relatifs à cet article**
@@ -28582,7 +28602,20 @@ administration publique des distinctions, des emplois, des marchés ou toute aut
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+
+
+###### Article 432-11-1
+
+La peine privative de liberté encourue par l'auteur ou le complice de l'infraction prévue à l'article 432-11 est réduite de
+moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'identifier, le
+cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 
 ##### Paragraphe 3 : De la prise illégale d'intérêts
@@ -28592,8 +28625,8 @@ administration publique des distinctions, des emplois, des marchés ou toute aut
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne
 investie d'un mandat électif public, de prendre, recevoir ou conserver, directement ou indirectement, un intérêt quelconque
 dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la
-surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et de 75 000 euros
-d'amende. 
+surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et d'une amende de 500
+000 €, dont le montant peut être porté au double du produit tiré de l'infraction. 
 
 Toutefois, dans les communes comptant 3 500 habitants au plus, les maires, adjoints ou conseillers municipaux délégués ou
 agissant en remplacement du maire peuvent chacun traiter avec la commune dont ils sont élus pour le transfert de biens
@@ -28692,16 +28725,16 @@ municipal ne peut décider de se réunir à huis clos.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2122-18 (V)
-	  - Code général des collectivités territoriales - art. L2122-26 (V)
+	  - Code général des collectivités territoriales - art. L2122-18
+	  - Code général des collectivités territoriales - art. L2122-26
 
 
 ###### Article 432-13
@@ -28776,13 +28809,14 @@ sont reçus par dévolution successorale.
 
 ###### Article 432-14
 
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait par une personne dépositaire de l'autorité publique
-ou chargée d'une mission de service public ou investie d'un mandat électif public ou exerçant les fonctions de représentant,
-administrateur ou agent de l'Etat, des collectivités territoriales, des établissements publics, des sociétés d'économie mixte
-d'intérêt national chargées d'une mission de service public et des sociétés d'économie mixte locales ou par toute personne
-agissant pour le compte de l'une de celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage
-injustifié par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté
-d'accès et l'égalité des candidats dans les marchés publics et les délégations de service public.
+Est puni de deux ans d'emprisonnement et      d'une amende de 200 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public
+ou investie d'un mandat électif public ou exerçant les fonctions de représentant, administrateur ou agent de l'Etat, des
+collectivités territoriales, des établissements publics, des sociétés d'économie mixte d'intérêt national chargées d'une
+mission de service public et des sociétés d'économie mixte locales ou par toute personne agissant pour le compte de l'une de
+celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage injustifié par un acte contraire aux
+dispositions législatives ou réglementaires ayant pour objet de garantir la liberté d'accès et l'égalité des candidats dans
+les marchés publics et les délégations de service public.
 
 **Liens relatifs à cet article**
 
@@ -28794,16 +28828,11 @@ d'accès et l'égalité des candidats dans les marchés publics et les délégat
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ##### Paragraphe 5 : De la soustraction et du détournement de biens
@@ -28813,7 +28842,8 @@ d'accès et l'égalité des candidats dans les marchés publics et les délégat
 Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, un comptable public,
 un dépositaire public ou l'un de ses subordonnés, de détruire, détourner ou soustraire un acte ou un titre, ou des fonds
 publics ou privés, ou effets, pièces ou titres en tenant lieu, ou tout autre objet qui lui a été remis en raison de ses
-fonctions ou de sa mission, est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.
+fonctions ou de sa mission, est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut
+être porté au double du produit de l'infraction. 
 
 La tentative du délit prévu à l'alinéa qui précède est punie des mêmes peines.
 
@@ -28831,16 +28861,11 @@ La tentative du délit prévu à l'alinéa qui précède est punie des mêmes pe
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 432-16
@@ -28925,16 +28950,16 @@ conditions prévues par l'article 131-35.
 
 ###### Article 433-1
 
-Est puni de dix ans d'emprisonnement et de 150 000 € d'amende le fait, par quiconque, de proposer sans droit, à tout moment,
-directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une personne
-dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public, pour
-elle-même ou pour autrui :
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par quiconque, de proposer sans droit, à tout moment, directement ou indirectement,
+des offres, des promesses, des dons, des présents ou des avantages quelconques à une personne dépositaire de l'autorité
+publique, chargée d'une mission de service public ou investie d'un mandat électif public, pour elle-même ou pour autrui : 
 
 1° Soit pour qu'elle accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir, un
-acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat ;
+acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat ; 
 
 2° Soit pour qu'elle abuse, ou parce qu'elle a abusé, de son influence réelle ou supposée en vue de faire obtenir d'une
-autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable. 
 
 Est puni des mêmes peines le fait de céder à une personne dépositaire de l'autorité publique, chargée d'une mission de
 service public ou investie d'un mandat électif public qui sollicite sans droit, à tout moment, directement ou indirectement,
@@ -28991,19 +29016,20 @@ son influence dans les conditions mentionnées au 2°.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 433-2
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui,  pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une
-autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
+de l'infraction, le fait, par quiconque, de solliciter ou d'agréer, à tout moment, directement ou indirectement, des offres,
+des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour abuser ou avoir abusé
+de son influence réelle ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions,
+des emplois, des marchés ou toute autre décision favorable.
 
 Est puni des mêmes peines le fait de céder aux sollicitations prévues au premier alinéa ou de proposer, sans droit, à tout
 moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé  de son influence réelle ou supposée en
+personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en
 vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute
 autre décision favorable.
 
@@ -29043,7 +29069,20 @@ autre décision favorable.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+
+
+###### Article 433-2-1
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues à la présente section est
+réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'identifier, le cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 
 ##### Section 2 : Des menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique
@@ -30306,27 +30345,28 @@ comportement dans l'exercice de ses fonctions est puni de trois ans d'emprisonne
 
 ###### Article 434-9
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par : 
 
-1° Un magistrat, un juré ou toute autre personne siégeant dans une formation juridictionnelle ;
+1° Un magistrat, un juré ou toute autre personne siégeant dans une formation juridictionnelle ; 
 
-2° Un fonctionnaire au greffe d'une juridiction ;
+2° Un fonctionnaire au greffe d'une juridiction ; 
 
-3° Un expert nommé, soit par une juridiction, soit par les parties ;
+3° Un expert nommé, soit par une juridiction, soit par les parties ; 
 
 4° Une personne chargée par l'autorité judiciaire ou par une juridiction administrative d'une mission de conciliation ou de
-médiation ;
+médiation ; 
 
 5° Un arbitre exerçant sa mission sous l'empire du droit national sur l'arbitrage, 
 
 de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
-présents ou des avantages quelconques, pour lui-même ou pour autrui,  pour accomplir ou avoir accompli, pour s'abstenir ou
-s'être abstenu d'accomplir un  acte de sa fonction ou facilité par sa fonction.
+présents ou des avantages quelconques, pour lui-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou
+s'être abstenu d'accomplir un acte de sa fonction ou facilité par sa fonction. 
 
 Le fait de céder aux sollicitations d'une personne mentionnée aux 1° à 5° ou de lui proposer sans droit, à tout moment,
 directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même
 ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue
-d'accomplir un acte de sa fonction ou facilité par sa fonction est puni des mêmes peines.  
+d'accomplir un acte de sa fonction ou facilité par sa fonction est puni des mêmes peines. 
 
 Lorsque l'infraction définie aux premier à septième alinéas est commise par un magistrat au bénéfice ou au détriment d'une
 personne faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 225 000
@@ -30365,15 +30405,16 @@ euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 434-9-1
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir d'une des
-personnes visées à l'article 434-9 toute décision ou tout avis favorable. 
+Est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré
+de l'infraction, le fait, par quiconque, de solliciter ou d'agréer, à tout moment, directement ou indirectement, des offres,
+des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour abuser ou avoir abusé
+de son influence réelle ou supposée en vue de faire obtenir d'une des personnes visées à l'article 434-9 toute décision ou
+tout avis favorable. 
 
 Est puni des mêmes peines le fait, par quiconque, à tout moment, de céder aux sollicitations prévues au premier alinéa ou de
 proposer, sans droit, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages
@@ -30405,11 +30446,24 @@ réelle ou supposée en vue de faire obtenir d'une des personnes visées à l'ar
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. 434-9 (V)
+	  - Code pénal - art. 434-9
+
+
+###### Article 434-9-2
+
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues aux articles 434-9 et
+434-9-1 est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser
+l'infraction ou d'identifier, le cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 
 ###### Article 434-10
@@ -31443,18 +31497,20 @@ en ligne résultant de la peine complémentaire prévue en matière délictuelle
 intellectuelle. 
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
-véhicule, une arme, tout autre objet ou un animal confisqués en application des articles 131-6, 131-10, 131-14 ou 131-16. 
+véhicule, une arme, tout autre bien, corporel ou incorporel, ou un animal confisqués en application des articles 131-6,
+131-10, 131-14, 131-16, 131-21 ou 131-39. 
 
 Est également puni des mêmes peines le fait, par une personne recevant la notification d'une décision prononçant à son égard,
 en application des articles précités, la suspension ou l'annulation du permis de conduire, le retrait du permis de chasser ou
-la confiscation d'un véhicule, d'une arme, de tout autre objet ou d'un animal, de refuser de remettre le permis suspendu,
-annulé ou retiré, la chose ou l'animal confisqué à l'agent de l'autorité chargé de l'exécution de cette décision.
+la confiscation d'un véhicule, d'une arme, de tout autre bien corporel ou incorporel ou d'un animal, de refuser de remettre
+le permis suspendu, annulé ou retiré, le bien ou l'animal confisqué à l'agent de l'autorité chargé de l'exécution de cette
+décision.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1311 du 28 octobre 2009 - art. 11
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 26
 
 	**Cite**:
 
@@ -31697,12 +31753,13 @@ laquelle l'infraction a été commise.
 
 ###### Article 435-1
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par une personne dépositaire de l'autorité
-publique, chargée d'une mission de service public ou investie d'un mandat électif public dans un Etat étranger ou au sein
-d'une organisation internationale publique, de solliciter ou d'agréer, sans droit, à tout moment, directement ou
-indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,
-pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte de sa fonction, de sa mission ou de
-son mandat ou facilité par sa fonction, sa mission ou son mandat.
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par une personne dépositaire de l'autorité publique, chargée d'une mission de service
+public ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique, de
+solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
+présents ou des avantages quelconques, pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou
+s'être abstenue d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou
+son mandat.
 
 **Liens relatifs à cet article**
 
@@ -31712,7 +31769,7 @@ son mandat ou facilité par sa fonction, sa mission ou son mandat.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -31730,12 +31787,12 @@ son mandat ou facilité par sa fonction, sa mission ou son mandat.
 
 ###### Article 435-2
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, pour abuser ou avoir abusé  de son influence réelle ou supposée en vue de faire obtenir des
-distinctions, des emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique,
-chargée d'une mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale
-publique.
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de solliciter ou d'agréer, à tout moment, directement ou indirectement, des
+offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour abuser ou
+avoir abusé de son influence réelle ou supposée en vue de faire obtenir des distinctions, des emplois, des marchés ou toute
+autre décision favorable d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou
+investie d'un mandat électif public au sein d'une organisation internationale publique.
 
 **Liens relatifs à cet article**
 
@@ -31745,7 +31802,7 @@ publique.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -31758,12 +31815,13 @@ publique.
 
 ###### Article 435-3
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, à une personne dépositaire de l'autorité publique, chargée d'une mission de service
-public ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique,
-des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle
-accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa fonction, de
-sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat.
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à
+une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif
+public dans un Etat étranger ou au sein d'une organisation internationale publique, des offres, des promesses, des dons, des
+présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou
+parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité
+par sa fonction, sa mission ou son mandat. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne visée au premier alinéa qui sollicite, sans droit,
 à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
@@ -31796,17 +31854,17 @@ audit alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 435-4
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé  de son influence réelle ou supposée en
-vue de faire obtenir des distinctions, des emplois, des marchés ou toute autre décision favorable d'une personne dépositaire
-de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public au sein d'une
-organisation internationale publique.
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, des
+offres, des promesses, des dons, des présents ou des avantages quelconques à une personne, pour elle-même ou pour autrui,
+pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en vue de faire obtenir des distinctions, des
+emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique, chargée d'une
+mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale publique. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui sollicite, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,
@@ -31821,7 +31879,7 @@ marchés ou toute autre décision favorable d'une personne visée au premier ali
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -31852,28 +31910,17 @@ publiques pour l'application des dispositions de la présente section.
 	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
 
 
-###### Article 435-6
+###### Article 435-6-1
 
-La poursuite des délits mentionnés aux articles 435-1 à 435-4 ne peut être engagée qu'à la requête du ministère public, sauf
-lorsque les offres, promesses, dons, présents ou avantages quelconques sont soit proposés ou accordés à une personne qui
-exerce ses fonctions dans un des Etats membres de l'Union européenne ou au sein ou auprès des Communautés européennes ou d'un
-organisme créé en application du traité sur l'Union européenne, soit sollicités ou agréés par une telle personne en vue de
-faire obtenir une décision favorable, ou d'accomplir ou de s'abstenir d'accomplir un acte de sa fonction ou facilité par ses
-fonctions.
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues aux articles 435-1 à 435-4
+est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'identifier, le cas échéant, les autres auteurs ou complices.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°92-686 du 22 juillet 1992
-
-	**Modifié par**:
-
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 1
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 	**Cite**:
 
@@ -31886,22 +31933,23 @@ fonctions.
 
 ###### Article 435-7
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par : 
 
 1° Toute personne exerçant des fonctions juridictionnelles dans un Etat étranger ou au sein ou auprès d'une cour
-internationale ;
+internationale ; 
 
-2° Tout fonctionnaire au greffe d'une juridiction étrangère ou d'une cour internationale ;
+2° Tout fonctionnaire au greffe d'une juridiction étrangère ou d'une cour internationale ; 
 
-3° Tout expert nommé par une telle juridiction ou une telle cour ou par les parties ;
+3° Tout expert nommé par une telle juridiction ou une telle cour ou par les parties ; 
 
-4° Toute personne chargée d'une mission de conciliation ou de médiation par une telle juridiction ou par une telle cour ;
+4° Toute personne chargée d'une mission de conciliation ou de médiation par une telle juridiction ou par une telle cour ; 
 
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage, 
 
 de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des
 présents ou des avantages quelconques, pour lui-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou
-s'être abstenu d'accomplir un   acte de sa fonction ou facilité par sa fonction.
+s'être abstenu d'accomplir un acte de sa fonction ou facilité par sa fonction.
 
 **Liens relatifs à cet article**
 
@@ -31911,7 +31959,7 @@ s'être abstenu d'accomplir un   acte de sa fonction ou facilité par sa fonctio
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -31926,11 +31974,12 @@ s'être abstenu d'accomplir un   acte de sa fonction ou facilité par sa fonctio
 
 ###### Article 435-8
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de solliciter ou d'agréer, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour
-lui-même ou pour autrui, pour abuser ou avoir abusé de son influence réelle ou supposée en vue de faire obtenir toute
-décision ou tout avis favorable d'une personne visée à l'article 435-7, lorsqu'elle exerce ses fonctions au sein ou auprès
-d'une cour internationale ou lorsqu'elle est nommée par une telle cour.
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de solliciter ou d'agréer, à tout moment, directement ou indirectement, des
+offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour abuser ou
+avoir abusé de son influence réelle ou supposée en vue de faire obtenir toute décision ou tout avis favorable d'une personne
+visée à l'article 435-7, lorsqu'elle exerce ses fonctions au sein ou auprès d'une cour internationale ou lorsqu'elle est
+nommée par une telle cour.
 
 **Liens relatifs à cet article**
 
@@ -31940,39 +31989,40 @@ d'une cour internationale ou lorsqu'elle est nommée par une telle cour.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. 435-7 (V)
+	  - Code pénal - art. 435-7
 
 
 ##### Sous-section 2 : De la corruption et du trafic d'influence actifs
 
 ###### Article 435-9
 
-Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, à :
+Est puni de dix ans d'emprisonnement et      d'une amende de 1 000 000 €, dont le montant peut être porté au double du
+produit tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement,
+à : 
 
 1° Toute personne exerçant des fonctions juridictionnelles dans un Etat étranger ou au sein ou auprès d'une cour
-internationale ;
+internationale ; 
 
-2° Tout fonctionnaire au greffe d'une juridiction étrangère ou d'une cour internationale ;
+2° Tout fonctionnaire au greffe d'une juridiction étrangère ou d'une cour internationale ; 
 
-3° Tout expert nommé par une telle juridiction ou une telle cour ou par les parties ;
+3° Tout expert nommé par une telle juridiction ou une telle cour ou par les parties ; 
 
-4° Toute personne chargée d'une mission de conciliation ou de médiation par une telle juridiction ou une telle cour ;
+4° Toute personne chargée d'une mission de conciliation ou de médiation par une telle juridiction ou une telle cour ; 
 
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage, 
 
 pour lui-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques pour que cette
-personne accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un  acte de sa
-fonction ou facilité par sa fonction.
+personne accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa
+fonction ou facilité par sa fonction. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne mentionnée aux 1° à 5° qui sollicite, sans droit, à
 tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
 pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte de sa
-fonction ou facilité par  sa fonction.
+fonction ou facilité par sa fonction.
 
 **Liens relatifs à cet article**
 
@@ -31997,16 +32047,17 @@ fonction ou facilité par  sa fonction.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 435-10
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques à une
-personne, pour elle-même ou pour autrui, pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en
-vue de faire obtenir toute décision ou avis favorable d'une personne visée à l'article 435-9, lorsqu'elle exerce ses
-fonctions au sein ou auprès d'une cour internationale ou lorsqu'elle est nommée par une telle cour. 
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, des
+offres, des promesses, des dons, des présents ou des avantages quelconques à une personne, pour elle-même ou pour autrui,
+pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en vue de faire obtenir toute décision ou
+avis favorable d'une personne visée à l'article 435-9, lorsqu'elle exerce ses fonctions au sein ou auprès d'une cour
+internationale ou lorsqu'elle est nommée par une telle cour. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui sollicite, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons ou des présents ou des avantages quelconques, pour elle-même ou pour
@@ -32021,7 +32072,7 @@ premier alinéa toute décision ou tout avis favorable.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -32033,32 +32084,22 @@ premier alinéa toute décision ou tout avis favorable.
 
 	**Cite**:
 
-	  - Code pénal - art. 435-9 (V)
+	  - Code pénal - art. 435-9
 
 
 ##### Sous-section 3 : Dispositions communes
 
-###### Article 435-11
+###### Article 435-11-1
 
-La poursuite des délits mentionnés aux articles 435-7 à 435-10 ne peut être engagée qu'à la requête du ministère public, sauf
-lorsque les offres, promesses, dons, présents ou avantages quelconques sont soit sollicités ou agréés par une personne qui
-exerce ses fonctions dans un des Etats membres de l'Union européenne ou au sein ou auprès des Communautés européennes, soit
-proposés ou accordés à une telle personne, en vue de faire obtenir une décision ou un avis favorable, ou d'accomplir ou de
-s'abstenir d'accomplir un acte de sa fonction ou facilité par ses fonctions.
+La peine privative de liberté encourue par l'auteur ou le complice d'une des infractions prévues aux articles 435-7 à 435-10
+est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou
+d'identifier, le cas échéant, les autres auteurs ou complices.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-686 1992-07-22
-
 	**Créé par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 1
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 5
 
 	**Cite**:
 
@@ -33671,19 +33712,19 @@ laquelle l'infraction a été commise.
 
 ###### Article 445-1
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par quiconque, de proposer, sans droit, à tout
-moment, directement ou indirectement, à une personne qui, sans être dépositaire de l'autorité publique, ni chargée d'une
-mission de service public, ni investie d'un mandat électif public exerce, dans le cadre d'une activité professionnelle ou
-sociale, une fonction de direction ou un travail pour une personne physique ou morale ou pour un organisme quelconque, des
-offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle
-accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir  un acte de son activité ou
-de sa fonction ou facilité par son activité ou sa fonction, en violation de ses obligations légales, contractuelles ou
-professionnelles.
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout moment, directement ou indirectement, à une
+personne qui, sans être dépositaire de l'autorité publique, ni chargée d'une mission de service public, ni investie d'un
+mandat électif public exerce, dans le cadre d'une activité professionnelle ou sociale, une fonction de direction ou un
+travail pour une personne physique ou morale ou pour un organisme quelconque, des offres, des promesses, des dons, des
+présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou
+parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de son activité ou de sa fonction ou facilité par son activité
+ou sa fonction, en violation de ses obligations légales, contractuelles ou professionnelles. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à une personne visée au premier alinéa qui sollicite, sans droit,
 à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques,
-pour elle-même ou pour autrui,  pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte
-visé audit alinéa, en violation de ses obligations légales, contractuelles ou professionnelles.
+pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte visé
+audit alinéa, en violation de ses obligations légales, contractuelles ou professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -33713,7 +33754,7 @@ visé audit alinéa, en violation de ses obligations légales, contractuelles ou
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 
 ###### Article 445-1-1
@@ -33741,13 +33782,14 @@ le déroulement normal et équitable de cette manifestation.
 
 ###### Article 445-2
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende le fait, par une personne qui, sans être dépositaire de
-l'autorité publique, ni chargée d'une mission de service public, ni investie d'un mandat électif public exerce, dans le cadre
-d'une activité professionnelle ou sociale, une fonction de direction ou un travail pour une personne physique ou morale ou
-pour un organisme quelconque, de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres,
-des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,  pour accomplir ou avoir
-accompli, pour s'abstenir ou s'être abstenue  d'accomplir un acte de son activité ou de sa fonction ou facilité par son
-activité ou sa fonction, en violation de ses obligations légales, contractuelles ou professionnelles.
+Est puni de cinq ans d'emprisonnement et      d'une amende de 500 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par une personne qui, sans être dépositaire de l'autorité publique, ni chargée d'une mission
+de service public, ni investie d'un mandat électif public exerce, dans le cadre d'une activité professionnelle ou sociale,
+une fonction de direction ou un travail pour une personne physique ou morale ou pour un organisme quelconque, de solliciter
+ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou
+des avantages quelconques, pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être
+abstenue d'accomplir un acte de son activité ou de sa fonction ou facilité par son activité ou sa fonction, en violation de
+ses obligations légales, contractuelles ou professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -33757,7 +33799,7 @@ activité ou sa fonction, en violation de ses obligations légales, contractuell
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 154
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
 
 	**Cité par**:
 
