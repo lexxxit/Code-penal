@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2013-12-08
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -18152,12 +18152,12 @@ responsables.
 Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende : 
 
 1° La fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs
-techniques conçus pour réaliser les opérations pouvant constituer l'infraction prévue par le second alinéa de l'article
-226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue par
-l'article 226-1 ou ayant pour objet la captation de données informatiques prévue par l'article 706-102-1 du code de procédure
-pénale et figurant sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat, lorsque ces faits sont
-commis, y compris par négligence, en l'absence d'autorisation ministérielle dont les conditions d'octroi sont fixées par ce
-même décret ou sans respecter les conditions fixées par cette autorisation ; 
+techniques    de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa
+de l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
+par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue par l'article 706-102-1 du code de
+procédure pénale et figurant sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat, lorsque ces faits
+sont commis, y compris par négligence, en l'absence d'autorisation ministérielle dont les conditions d'octroi sont fixées par
+ce même décret ou sans respecter les conditions fixées par cette autorisation ; 
 
 2° Le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique susceptible de permettre la
 réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
@@ -18213,13 +18213,13 @@ frauduleux.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 44
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 23
 
 	**Cite**:
 
-	  - Code pénal - art. 226-1 (V)
-	  - Code pénal - art. 226-15 (V)
-	  - Code de procédure pénale - art. 706-102-1 (V)
+	  - Code pénal - art. 226-1
+	  - Code pénal - art. 226-15
+	  - Code de procédure pénale - art. 706-102-1
 
 
 ###### Article 226-4
@@ -19367,11 +19367,11 @@ d'aucune sanction disciplinaire.
 
 Le fait, commis de mauvaise foi, d'ouvrir, de supprimer, de retarder ou de détourner des correspondances arrivées ou non à
 destination et adressées à des tiers, ou d'en prendre frauduleusement connaissance, est puni d'un an d'emprisonnement et de
-45 000 euros d'amende.
+45 000 euros d'amende. 
 
 Est puni des mêmes peines le fait, commis de mauvaise foi, d'intercepter, de détourner, d'utiliser ou de divulguer des
-correspondances émises, transmises ou reçues par la voie électronique ou de procéder à l'installation d'appareils conçus pour
-réaliser de telles interceptions.
+correspondances émises, transmises ou reçues par la voie électronique ou de procéder à l'installation d'appareils  de nature
+à permettre la réalisation de telles interceptions.
 
 **Liens relatifs à cet article**
 
@@ -19396,7 +19396,7 @@ réaliser de telles interceptions.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 150
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 23
 
 
 ##### Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.
@@ -25003,28 +25003,24 @@ mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et �
 
 ###### Article 323-3-1
 
-Le fait, sans motif légitime, d'importer, de détenir, d'offrir, de céder ou de mettre à disposition un équipement, un
-instrument, un programme informatique ou toute donnée conçus ou spécialement adaptés pour commettre une ou plusieurs des
-infractions prévues par les articles 323-1 à 323-3 est puni des peines prévues respectivement pour l'infraction elle-même ou
-pour l'infraction la plus sévèrement réprimée.
+Le fait, sans motif légitime, notamment de recherche ou de sécurité informatique, d'importer, de détenir, d'offrir, de céder
+ou de mettre à disposition un équipement, un instrument, un programme informatique ou toute donnée conçus ou spécialement
+adaptés pour commettre une ou plusieurs des infractions prévues par les articles 323-1 à 323-3 est puni des peines prévues
+respectivement pour l'infraction elle-même ou pour l'infraction la plus sévèrement réprimée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
+	  - Loi n°92-685 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 46 () JORF 22 juin 2004
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 25
 
 	**Cite**:
 
-	  - Code pénal 323-1 à 323-3
+	  - Code pénal - art. 323-1
 
 
 ###### Article 323-4
@@ -26205,20 +26201,15 @@ qui régissent ces matières sont applicables en ce qui concerne la déterminati
 
 ###### Article 413-5
 
-Le fait, sans autorisation des autorités compétentes, de s'introduire frauduleusement sur un terrain, dans une construction
-ou dans un engin ou appareil quelconque affecté à l'autorité militaire ou placé sous son contrôle est puni d'un an
-d'emprisonnement et de 15 000 euros d'amende.
+Le fait, sans autorisation des autorités compétentes, de s'introduire frauduleusement sur un terrain, dans un port, dans une
+construction ou dans un engin ou appareil quelconque affecté à l'autorité militaire ou placé sous son contrôle est puni d'un
+an d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -26235,7 +26226,7 @@ d'emprisonnement et de 15 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 51
 
 
 ###### Article 413-6
