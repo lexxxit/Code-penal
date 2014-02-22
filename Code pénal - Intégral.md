@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-02-23
 
 # Partie législative
 
@@ -16116,16 +16116,16 @@ suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 �
 ###### Article 225-1
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
-de leur situation de famille, de leur grossesse, de leur apparence physique, de leur patronyme, de leur état de santé, de
-leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité sexuelle, de leur âge,
-de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance, vraie ou
-supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+de leur situation de famille, de leur grossesse, de leur apparence physique, de leur patronyme, de leur lieu de résidence, de
+leur état de santé, de leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité
+sexuelle, de leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-
+appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
-de la situation de famille, de l'apparence physique, du patronyme, de l'état de santé, du handicap, des caractéristiques
-génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des activités syndicales,
-de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
-des membres ou de certains membres de ces personnes morales.
+de la situation de famille, de l'apparence physique, du patronyme, du lieu de résidence, de l'état de santé, du handicap, des
+caractéristiques génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des
+activités syndicales, de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou
+une religion déterminée des membres ou de certains membres de ces personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -16155,7 +16155,7 @@ des membres ou de certains membres de ces personnes morales.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2014-173 du 21 février 2014 - art. 15
 
 
 ###### Article 225-1-1
@@ -16268,7 +16268,13 @@ privée et de la décence, la promotion de l'égalité des sexes ou des intérê
 d'association ou l'organisation d'activités sportives ; 
 
 5° Aux refus d'embauche fondés sur la nationalité lorsqu'ils résultent de l'application des dispositions statutaires
-relatives à la fonction publique.
+relatives à la fonction publique ;
+
+6° Aux discriminations liées au lieu de résidence lorsque la personne chargée de la fourniture d'un bien ou service se trouve
+en situation de danger manifeste.
+
+Les mesures prises en faveur des personnes résidant dans certaines zones géographiques et visant à favoriser l'égalité de
+traitement ne constituent pas une discrimination.
 
 **Liens relatifs à cet article**
 
@@ -16280,11 +16286,11 @@ relatives à la fonction publique.
 
 	**Modifié par**:
 
-	  - Loi n°2011-814 du 7 juillet 2011 - art. 7
+	  - Loi n°2014-173 du 21 février 2014 - art. 15
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1231-1 (V)
+	  - Code de la santé publique - art. L1231-1
 
 
 ###### Article 225-3-1
