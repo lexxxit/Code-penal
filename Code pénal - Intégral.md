@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-02-23
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -17817,8 +17817,17 @@ peines complémentaires suivantes :
 
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ; 
 
+4° bis La confiscation au profit de l'Etat de l'usufruit de tout ou partie de leurs biens, quelle qu'en soit la nature,
+meubles ou immeubles, divis ou indivis, ayant servi à commettre l'infraction prévue à l'article 225-14, les personnes
+physiques coupables gardant la nue-propriété de leurs biens ;
+
 5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis,
 ayant servi à commettre les infractions prévues aux articles 225-13 à 225-14-2 ; 
+
+5° bis Pour l'infraction prévue à l'article 225-14, l'interdiction d'acheter pour une durée de cinq ans au plus soit à titre
+personnel, soit en tant qu'associé ou mandataire social de la société civile immobilière ou en nom collectif se portant
+acquéreur, soit sous forme de parts immobilières un bien immobilier à usage d'habitation, à d'autres fins que son occupation
+à titre personnel, ou un fonds de commerce d'un établissement recevant du public à usage total ou partiel d'hébergement ; 
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1 ; 
 
@@ -17833,7 +17842,8 @@ d'exercice peuvent être prononcées cumulativement.
 
 	**Modifié par**:
 
-	  - Loi n°2013-711 du 5 août 2013 - art. 1
+	  - Loi n°2014-366 du 24 mars 2014 - art. 77
+	  - Loi n°2014-366 du 24 mars 2014 - art. 81
 
 	**Cité par**:
 
@@ -17850,6 +17860,7 @@ d'exercice peuvent être prononcées cumulativement.
 	  - Code pénal - art. 131-35
 	  - Code pénal - art. 131-5-1
 	  - Code pénal - art. 225-13
+	  - Code pénal - art. 225-14
 
 
 ###### Article 225-20
@@ -18267,6 +18278,23 @@ Cette infraction est punie des mêmes peines lorsqu'elle est commise sur un rés
 	**Créé par**:
 
 	  - Loi n°2011-267 du 14 mars 2011 - art. 2
+
+
+###### Article 226-4-2
+
+Le fait de forcer un tiers à quitter le lieu qu'il habite sans avoir obtenu le concours de l'Etat dans les conditions prévues
+à l'article L. 153-1 du code des procédures civiles d'exécution, à l'aide de manœuvres, menaces, voies de fait ou
+contraintes, est puni de trois ans d'emprisonnement et de 30 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 26
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. L153-1 (V)
 
 
 ###### Article 226-5
@@ -31490,11 +31518,14 @@ interdictions résultant des peines de suspension ou d'annulation du permis de c
 véhicules terrestres à moteur, d'interdiction de paraître dans certains lieux ou de rencontrer certaines personnes,
 d'obligation d'accomplir un stage, d'interdiction de détenir ou de porter une arme, de retrait du permis de chasser,
 d'interdiction de détenir un animal, d'interdiction d'émettre des chèques ou d'utiliser des cartes de paiement, de fermeture
-d'établissement ou d'exclusion des marchés publics prononcées en application des articles 131-5-1, 131-6, 
-131-10, 
+d'établissement ou d'exclusion des marchés publics prononcées en application des articles 131-5-1, 131-6,
+131-10,
 131-14, 131-16 ou 131-17, d'interdiction de souscrire un nouveau contrat d'abonnement à un service de communication au public
 en ligne résultant de la peine complémentaire prévue en matière délictuelle par l'article L. 335-7 du code de la propriété
-intellectuelle. 
+intellectuelle, d'interdiction d'acheter un bien immobilier ou un fonds de commerce d'un établissement recevant du public à
+usage total ou partiel d'hébergement résultant de la peine complémentaire prévue au 5° bis de l'article 225-19 du présent
+code, au 3° du III de l'article L. 511-6 du code de la construction et de l'habitation et au 3° du IV de l'article L. 1337-4
+du code de la santé publique. 
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire ou de détourner un véhicule immobilisé ou un
 véhicule, une arme, tout autre bien, corporel ou incorporel, ou un animal confisqués en application des articles 131-6,
@@ -31510,7 +31541,7 @@ décision.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 26
+	  - Loi n°2014-366 du 24 mars 2014 - art. 77
 
 	**Cite**:
 
@@ -31518,8 +31549,13 @@ décision.
 	  - Code pénal - art. 131-10
 	  - Code pénal - art. 131-14
 	  - Code pénal - art. 131-16
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 131-5-1
-	  - Code pénal - art. 131-6
+	  - Code pénal - art. 131-6 (VT)
+	  - Code pénal - art. 225-19
+	  - Code de la santé publique - art. L1337-4
+	  - Code de la construction et de l'habitation. - art. L511-6
 
 	**Cité par**:
 
