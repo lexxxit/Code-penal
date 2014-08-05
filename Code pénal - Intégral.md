@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-08-06
 
 # Partie législative
 
@@ -8720,7 +8720,7 @@ publique, lorsqu'il apparaît que le condamné fait usage de stupéfiants ou fai
 boissons alcooliques. Une copie de la décision ordonnant ces mesures est adressée par le juge de l'application des peines au
 médecin ou au psychologue qui doit suivre la personne condamnée. Les rapports des expertises réalisées pendant la procédure
 sont adressés au médecin ou au psychologue, à leur demande ou à l'initiative du juge de l'application des peines. Celui-ci
-peut également leur adresser toute autre pièce utile du dossier ;  
+peut également leur adresser toute autre pièce utile du dossier ; 
 
 4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les pensions alimentaires dont il est
 débiteur ; 
@@ -8767,7 +8767,13 @@ résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domic
 celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
 dispositions du présent 19° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
 la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
-de la victime.
+de la victime ; pour l'application du présent 19°, l'avis de la victime est recueilli, dans les meilleurs délais et par tous
+moyens, sur l'opportunité d'imposer au condamné de résider hors du logement du couple. Sauf circonstances particulières,
+cette mesure est prise lorsque sont en cause des faits de violences susceptibles d'être renouvelés et que la victime la
+sollicite. La juridiction peut préciser les modalités de prise en charge des frais afférents à ce logement. 
+
+20° Accomplir à ses frais un stage de responsabilisation pour la prévention et la lutte contre les violences au sein du
+couple et sexistes.
 
 **Liens relatifs à cet article**
 
@@ -8817,7 +8823,8 @@ de la victime.
 
 	**Modifié par**:
 
-	  - Loi n°2012-409 du 27 mars 2012 - art. 5
+	  - Loi n°2014-873 du 4 août 2014 - art. 35
+	  - Loi n°2014-873 du 4 août 2014 - art. 50
 
 	**Cite**:
 
@@ -11144,6 +11151,25 @@ habituellement sur le territoire français, la loi française est applicable par
 	  - Code pénal - art. 221-4
 
 
+###### Article 221-5-5
+
+En cas de condamnation pour un crime ou un délit prévu à la présente section, commis par le père ou la mère sur la personne
+de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité
+parentale, en application des articles 378 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises,
+celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 34
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
+
+
 ##### Section 2 : Des atteintes involontaires à la vie
 
 ###### Article 221-6
@@ -12779,19 +12805,19 @@ Lorsque les faits sont commis en réunion, les peines sont portées à sept ans 
 
 ###### Article 222-16
 
-Les appels téléphoniques malveillants réitérés ou les agressions sonores en vue de troubler la tranquillité d'autrui, sont
-punis d'un an d'emprisonnement et de 15 000 euros d'amende.
+Les appels téléphoniques malveillants réitérés, les envois réitérés de messages malveillants émis par la voie des
+communications électroniques ou les agressions sonores en vue de troubler la tranquillité d'autrui sont punis d'un an
+d'emprisonnement et de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 49 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 49
+	  - Loi n°2014-873 du 4 août 2014 - art. 39
 
 	**Cité par**:
 
@@ -13943,9 +13969,9 @@ laquelle l'infraction a été commise.
 
 ###### Article 222-33-2
 
-Le fait de harceler autrui par des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de
-travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de
-compromettre son avenir professionnel, est puni de deux ans d'emprisonnement et de 30 000 € d'amende.
+Le fait de harceler autrui par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation des
+conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou
+de compromettre son avenir professionnel, est puni de deux ans d'emprisonnement et de 30 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -13970,25 +13996,54 @@ compromettre son avenir professionnel, est puni de deux ans d'emprisonnement et 
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 2
+	  - Loi n°2014-873 du 4 août 2014 - art. 40
 
 
 ###### Article 222-33-2-1
 
-Le fait de harceler son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin par des agissements
-répétés ayant pour objet ou pour effet une dégradation de ses conditions de vie se traduisant par une altération de sa santé
-physique ou mentale est puni de trois ans d'emprisonnement et de 45 000 € d'amende lorsque ces faits ont causé une incapacité
-totale de travail inférieure ou égale à huit jours ou n'ont entraîné aucune incapacité de travail et de cinq ans
-d'emprisonnement et de 75 000 € d'amende lorsqu'ils ont causé une incapacité totale de travail supérieure à huit jours. 
+Le fait de harceler son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin par des propos ou
+comportements répétés ayant pour objet ou pour effet une dégradation de ses conditions de vie se traduisant par une
+altération de sa santé physique ou mentale est puni de trois ans d'emprisonnement et de 45 000 € d'amende lorsque ces faits
+ont causé une incapacité totale de travail inférieure ou égale à huit jours ou n'ont entraîné aucune incapacité de travail et
+de cinq ans d'emprisonnement et de 75 000 € d'amende lorsqu'ils ont causé une incapacité totale de travail supérieure à huit
+jours. 
 
 Les mêmes peines sont encourues lorsque cette infraction est commise par un ancien conjoint ou un ancien concubin de la
 victime, ou un ancien partenaire lié à cette dernière par un pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 40
+
+
+###### Article 222-33-2-2
+
+Le fait de harceler une personne par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation de
+ses conditions de vie se traduisant par une altération de sa santé physique ou mentale est puni d'un an d'emprisonnement et
+de 15 000 € d'amende lorsque ces faits ont causé une incapacité totale de travail inférieure ou égale à huit jours ou n'ont
+entraîné aucune incapacité de travail.
+
+Les faits mentionnés au premier alinéa sont punis de deux ans d'emprisonnement et de 30 000 € d'amende :
+
+1° Lorsqu'ils ont causé une incapacité totale de travail supérieure à huit jours ;
+
+2° Lorsqu'ils ont été commis sur un mineur de quinze ans ;
+
+3° Lorsqu'ils ont été commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une
+infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+4° Lorsqu'ils ont été commis par l'utilisation d'un service de communication au public en ligne.
+
+Les faits mentionnés au premier alinéa sont punis de trois ans d'emprisonnement et de 45 000 € d'amende lorsqu'ils sont
+commis dans deux des circonstances mentionnées aux 1° à 4°.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 31
+	  - Loi n°2014-873 du 4 août 2014 - art. 41
 
 
 ##### Section 3 ter : De l'enregistrement et de la diffusion d'images de violence
@@ -13996,10 +14051,10 @@ victime, ou un ancien partenaire lié à cette dernière par un pacte civil de s
 ###### Article 222-33-3
 
 Est constitutif d'un acte de complicité des atteintes volontaires à l'intégrité de la personne prévues par les articles 222-1
-à 222-14-1 et 222-23 à 222-31 et est puni des peines prévues par ces articles le fait d'enregistrer sciemment, par quelque
-moyen que ce soit, sur tout support que ce soit, des images relatives à la commission de ces infractions. 
+à 222-14-1 et 222-23 à 222-31 et 222-33 et est puni des peines prévues par ces articles le fait d'enregistrer sciemment, par
+quelque moyen que ce soit, sur tout support que ce soit, des images relatives à la commission de ces infractions. 
 
-Le fait de diffuser l'enregistrement de telles images est puni de cinq ans d'emprisonnement et de 75 000 Euros d'amende. 
+Le fait de diffuser l'enregistrement de telles images est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
 
 Le présent article n'est pas applicable lorsque l'enregistrement ou la diffusion résulte de l'exercice normal d'une
 profession ayant pour objet d'informer le public ou est réalisé afin de servir de preuve en justice.
@@ -14008,11 +14063,11 @@ profession ayant pour objet d'informer le public ou est réalisé afin de servir
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°2014-873 du 4 août 2014 - art. 43
 
 	**Cité par**:
 
@@ -14021,8 +14076,9 @@ profession ayant pour objet d'informer le public ou est réalisé afin de servir
 
 	**Cite**:
 
-	  - Code pénal - art. 222-1 (V)
-	  - Code pénal - art. 222-31 (V)
+	  - Code pénal - art. 222-1
+	  - Code pénal - art. 222-23
+	  - Code pénal - art. 222-33
 
 
 ##### Section 4 : Du trafic de stupéfiants
@@ -14425,13 +14481,13 @@ l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisatio
 
 ###### Article 222-44
 
-I. - Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
+I.-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
 complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 soit, pour les infractions prévues par les articles 222-1 à 222-6, 222-7, 222-8, 222-10, les 1° et 2° de l'article 222-14,
-les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34, 
+les 1° à 3° de l'article 222-14-1, les articles 222-15, 222-23 à 222-26, 222-34,
 222-35, 222-36, 222-37, 222-38 et 222-39, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de
 gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui,
 une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées
@@ -14484,14 +14540,17 @@ pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas
 construction d'un dispositif d'anti-démarrage par éthylotest électronique, homologué dans les conditions prévues à l'article
 L. 234-17 du code de la route. Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de
 suspension du permis de conduire, elle s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette
-peine. 
+peine ; 
+
+15° La réalisation, à leurs frais, d'un stage de responsabilisation pour la prévention et la lutte contre les violences au
+sein du couple et sexistes. 
 
 Toute condamnation pour les délits prévus par les 1° à 6° et le dernier alinéa de l'article 222-19-1 donne lieu de plein
-droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
+droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus. 
 
-II. - En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1, 3, 3 ter et 4 du
+II.-En cas de condamnation pour les crimes ou pour les délits commis avec une arme prévus aux sections 1, 3, 3 ter et 4 du
 présent chapitre, le prononcé des peines complémentaires prévues aux 2° et 6° du I est obligatoire. La durée de la peine
-prévue au 2° du I est portée à quinze ans au plus.
+prévue au 2° du I est portée à quinze ans au plus. 
 
 Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une
 juridiction correctionnelle, décider de ne pas prononcer ces peines, en considération des circonstances de l'infraction et de
@@ -14508,8 +14567,7 @@ la personnalité de son auteur.
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 20
-	  - Loi n°2012-304 du 6 mars 2012 - art. 8
+	  - Loi n°2014-873 du 4 août 2014 - art. 50
 
 	**Liens**:
 
@@ -14689,6 +14747,25 @@ prononcé d'un suivi socio-judiciaire.
 	  - Code pénal - art. 222-18-3 (V)
 	  - Code pénal - art. 222-23 (V)
 	  - Code pénal - art. 222-8 (V)
+
+
+###### Article 222-48-2
+
+En cas de condamnation pour un crime ou un délit prévu aux sections 1, 3 ou 3 bis, commis par le père ou la mère sur la
+personne de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de
+l'autorité parentale, en application des articles 378 et 379-1 du code civil. Si les poursuites ont lieu devant la cour
+d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 34
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
 
 
 ##### Section 6 : Dispositions communes aux personnes physiques et aux personnes morales
