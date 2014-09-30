@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-10-01
 
 # Partie législative
 
@@ -1434,15 +1434,14 @@ N'est pas pénalement responsable la personne qui était atteinte, au moment des
 neuropsychique ayant aboli son discernement ou le contrôle de ses actes.
 
 La personne qui était atteinte, au moment des faits, d'un trouble psychique ou neuropsychique ayant altéré son discernement
-ou entravé le contrôle de ses actes demeure punissable ; toutefois, la juridiction tient compte de cette circonstance
-lorsqu'elle détermine la peine et en fixe le régime.
+ou entravé le contrôle de ses actes demeure punissable. Toutefois, la juridiction tient compte de cette circonstance
+lorsqu'elle détermine la peine et en fixe le régime. Si est encourue une peine privative de liberté, celle-ci est réduite du
+tiers ou, en cas de crime puni de la réclusion criminelle ou de la détention criminelle à perpétuité, est ramenée à trente
+ans. La juridiction peut toutefois, par une décision spécialement motivée en matière correctionnelle, décider de ne pas
+appliquer cette diminution de peine. Lorsque, après avis médical, la juridiction considère que la nature du trouble le
+justifie, elle s'assure que la peine prononcée permette que le condamné fasse l'objet de soins adaptés à son état.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
@@ -1478,6 +1477,10 @@ lorsqu'elle détermine la peine et en fixe le régime.
 	  - Code de procédure pénale - art. D47-21 (V)
 	  - Code de procédure pénale - art. D47-34 (V)
 	  - Code de procédure pénale - art. R53-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 17
 
 
 ###### Article 122-2
@@ -1659,6 +1662,28 @@ l'atténuation de responsabilité dont ils bénéficient en raison de leur âge.
 
 ### Titre III : Des peines
 
+###### Article 130-1
+
+Afin d'assurer la protection de la société, de prévenir la commission de nouvelles infractions et de restaurer l'équilibre
+social, dans le respect des intérêts de la victime, la peine a pour fonctions : 
+
+1° De sanctionner l'auteur de l'infraction ; 
+
+2° De favoriser son amendement, son insertion ou sa réinsertion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 362 (VD)
+	  - Code de procédure pénale - art. 495-8 (VD)
+	  - Code pénal - art. 132-1 (VD)
+
+
 #### Chapitre Ier : De la nature des peines
 
 ##### Section 1 : Des peines applicables aux personnes physiques
@@ -1727,21 +1752,23 @@ plusieurs des peines complémentaires prévues à l'article 131-10.
 
 Les peines correctionnelles encourues par les personnes physiques sont : 
 
-1° L'emprisonnement ; 
+1° L'emprisonnement ;
 
-2° L'amende ; 
+2° La contrainte pénale ; 
 
-3° Le jour-amende ; 
+3° L'amende ; 
 
-4° Le stage de citoyenneté ; 
+4° Le jour-amende ; 
 
-5° Le travail d'intérêt général ; 
+5° Le stage de citoyenneté ; 
 
-6° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ; 
+6° Le travail d'intérêt général ; 
 
-7° Les peines complémentaires prévues à l'article 131-10 ; 
+7° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ; 
 
-8° La sanction-réparation.
+8° Les peines complémentaires prévues à l'article 131-10 ; 
+
+9° La sanction-réparation.
 
 **Liens relatifs à cet article**
 
@@ -1749,20 +1776,20 @@ Les peines correctionnelles encourues par les personnes physiques sont :
 
 	  - Loi n°92-683 du 22 juillet 1992 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
-
 	**Cité par**:
 
 	  - Décret n°2009-542 du 15 mai 2009 - art. 8 (V)
 	  - Décret n°2009-543 du 15 mai 2009 - art. 9 (V)
 	  - Décret n°2009-544 du 15 mai 2009 - art. 7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 19
+
 	**Cite**:
 
-	  - Code pénal - art. 131-10 (V)
-	  - Code pénal - art. 131-6 (V)
+	  - Code pénal - art. 131-10
+	  - Code pénal - art. 131-6
 
 
 ###### Article 131-4
@@ -1801,6 +1828,78 @@ L'échelle des peines d'emprisonnement est la suivante :
 
 	  - Loi n°2003-239 du 18 mars 2003 - art. 48 () JORF 19 mars 2003
 	  - Loi n°2003-239 du 18 mars 2003 - art. 48
+
+
+###### Article 131-4-1
+
+Lorsque la personnalité et la situation matérielle, familiale et sociale de l'auteur d'un délit puni d'une peine
+d'emprisonnement d'une durée inférieure ou égale à cinq ans et les faits de l'espèce justifient un accompagnement socio-
+éducatif individualisé et soutenu, la juridiction peut prononcer la peine de contrainte pénale. 
+
+La contrainte pénale emporte pour le condamné l'obligation de se soumettre, sous le contrôle du juge de l'application des
+peines, pendant une durée comprise entre six mois et cinq ans et qui est fixée par la juridiction, à des mesures de contrôle
+et d'assistance ainsi qu'à des obligations et interdictions particulières destinées à prévenir la récidive en favorisant son
+insertion ou sa réinsertion au sein de la société. 
+
+Dès le prononcé de la décision de condamnation, la personne condamnée est astreinte, pour toute la durée d'exécution de sa
+peine, aux mesures de contrôle prévues à l'article 132-44. 
+
+Les obligations et interdictions particulières auxquelles peut être astreint le condamné sont : 
+
+1° Les obligations et interdictions prévues à l'article 132-45 en matière de sursis avec mise à l'épreuve ; 
+
+2° L'obligation d'effectuer un travail d'intérêt général, dans les conditions prévues à l'article 131-8 ; 
+
+3° L'injonction de soins, dans les conditions prévues aux articles L. 3711-1 à L. 3711-5 du code de la santé publique, si la
+personne a été condamnée pour un délit pour lequel le suivi socio-judiciaire est encouru et qu'une expertise médicale a
+conclu qu'elle était susceptible de faire l'objet d'un traitement. 
+
+Le condamné peut, en outre, bénéficier des mesures d'aide prévues à l'article 132-46 du présent code. 
+
+Si elle dispose d'éléments d'information suffisants sur la personnalité du condamné et sur sa situation matérielle, familiale
+et sociale, la juridiction qui prononce la contrainte pénale peut définir les obligations et interdictions particulières
+auxquelles celui-ci est astreint parmi celles mentionnées aux 1° à 3° du présent article. 
+
+La juridiction fixe également la durée maximale de l'emprisonnement encouru par le condamné en cas d'inobservation des
+obligations et interdictions auxquelles il est astreint. Cet emprisonnement ne peut excéder deux ans, ni le maximum de la
+peine d'emprisonnement encourue. Les conditions dans lesquelles l'exécution de l'emprisonnement peut être ordonnée, en tout
+ou partie, sont fixées par le code de procédure pénale. 
+
+Après le prononcé de la décision, le président de la juridiction notifie à la personne condamnée, lorsqu'elle est présente,
+les obligations et interdictions qui lui incombent ainsi que les conséquences qui résulteraient de leur violation. 
+
+Dans des conditions et selon des modalités précisées par le code de procédure pénale, après évaluation de la personnalité et
+de la situation matérielle, familiale et sociale du condamné par le service pénitentiaire d'insertion et de probation, le
+juge de l'application des peines, lorsqu'il n'a pas été fait application du neuvième alinéa du présent article, détermine les
+obligations et interdictions auxquelles est astreint le condamné parmi celles mentionnées aux 1° à 3°, ainsi que les mesures
+d'aide dont il bénéficie. S'il a été fait application du neuvième alinéa, le juge de l'application des peines peut modifier,
+supprimer ou compléter les obligations et interdictions décidées par la juridiction ; il détermine les mesures d'aide dont le
+condamné bénéficie. Au cours de l'exécution de la contrainte pénale, les obligations et interdictions et les mesures d'aide
+peuvent être modifiées, supprimées ou complétées par le juge de l'application des peines au regard de l'évolution du
+condamné. 
+
+La condamnation à la contrainte pénale est exécutoire par provision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 19
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 713-42 (V)
+	  - Code de procédure pénale - art. 713-43 (VD)
+	  - Code de procédure pénale - art. 713-47 (VD)
+	  - Code de procédure pénale - art. 713-48 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-8 (VD)
+	  - Code pénal - art. 132-44 (VD)
+	  - Code pénal - art. 132-45 (VD)
+	  - Code pénal - art. 132-46 (V)
+	  - Code de la santé publique - art. L3711-1 (V)
 
 
 ###### Article 131-5
@@ -1896,7 +1995,7 @@ Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut pron
 plusieurs des peines privatives ou restrictives de liberté suivantes :
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée, selon des
-modalités déterminées par décret en conseil d'Etat, à la conduite en dehors de l'activité professionnelle ; cette limitation
+modalités déterminées par décret en Conseil d'Etat, à la conduite en dehors de l'activité professionnelle ; cette limitation
 n'est toutefois pas possible en cas de délit pour lequel la suspension du permis de conduire, encourue à titre de peine
 complémentaire, ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ;
 
@@ -1909,6 +2008,11 @@ plus ;
 
 5° L'immobilisation, pour une durée d'un an au plus, d'un ou de plusieurs véhicules appartenant au condamné, selon des
 modalités déterminées par décret en Conseil d'Etat ;
+
+5° bis L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un
+professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque
+cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
+s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine ;
 
 6° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
@@ -1965,7 +2069,7 @@ le compte d'autrui, une entreprise commerciale ou industrielle ou une société 
 	  - Code des douanes de Mayotte - art. 295 (V)
 	  - Code pénal - art. 131-3 (VD)
 	  - Code pénal - art. 131-7 (V)
-	  - Code pénal - art. 131-9 (V)
+	  - Code pénal - art. 131-9 (VD)
 	  - Code pénal - art. 132-31 (V)
 	  - Code pénal - art. 434-41 (V)
 	  - Code rural - art. L915-11 (T)
@@ -1974,7 +2078,7 @@ le compte d'autrui, une entreprise commerciale ou industrielle ou une société 
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2014-896 du 15 août 2014 - art. 52
 
 
 ###### Article 131-7
@@ -2004,9 +2108,9 @@ l'amende, pour les délits qui sont punis seulement d'une peine d'amende.
 ###### Article 131-8
 
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut prescrire, à la place de l'emprisonnement, que le
-condamné accomplira, pour une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit
-d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou
-d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
+condamné accomplira, pour une durée de vingt à deux cent quatre-vingts heures, un travail d'intérêt général non rémunéré au
+profit soit d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service
+public ou d'une association habilitées à mettre en oeuvre des travaux d'intérêt général.
 
 La peine de travail d'intérêt général ne peut être prononcée contre le prévenu qui la refuse ou qui n'est pas présent à
 l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
@@ -2050,7 +2154,7 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 	  - Code des transports - art. L5531-46 (VD)
 	  - Code pénal - art. 131-36 (V)
 	  - Code pénal - art. 131-4-1 (VD)
-	  - Code pénal - art. 131-9 (V)
+	  - Code pénal - art. 131-9 (VD)
 	  - Code pénal - art. 132-5 (V)
 	  - Code pénal - art. 434-42 (M)
 	  - Code pénal - art. R131-12 (M)
@@ -2058,7 +2162,7 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1436 du 24 novembre 2009 - art. 67
+	  - Loi n°2014-896 du 15 août 2014 - art. 21
 
 
 ###### Article 131-8-1
@@ -2109,7 +2213,7 @@ président de la juridiction en avertit le condamné après le prononcé de la d
 ###### Article 131-9
 
 L'emprisonnement ne peut être prononcé cumulativement avec une des peines privatives ou restrictives de droits prévues à
-l'article 131-6 ni avec la peine de travail d'intérêt général. 
+l'article 131-6 ni avec la peine de contrainte pénale ou la peine de travail d'intérêt général. 
 
 Lorsqu'elle prononce une ou plusieurs des peines prévues par les articles 131-5-1, 131-6 ou 131-8, la juridiction peut fixer
 la durée maximum de l'emprisonnement ou le montant maximum de l'amende dont le juge de l'application des peines pourra
@@ -2122,20 +2226,11 @@ peuvent excéder les peines encourues pour le délit pour lequel la condamnation
 
 La peine de jours-amende ne peut être prononcée cumulativement avec la peine d'amende.
 
-**Nota:**
-
-Loi 2004-204 du 9 mars 2004 art. 207 I : les références à l'article L. 712-6 du code de procédure pénale figurant au présent
-article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'article 722 du code de procédure pénale.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°92-683 du 22 juillet 1992 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -2147,13 +2242,17 @@ article sont, jusqu'au 1er janvier 2005, remplacées par une référence à l'ar
 	  - Code des douanes de Mayotte - art. 295 (V)
 	  - Code des postes et des communications électronique - art. L39-3 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 19
+
 	**Cite**:
 
-	  - Code pénal - art. 131-5-1 (V)
-	  - Code pénal - art. 131-6 (V)
-	  - Code pénal - art. 131-8 (V)
-	  - Code pénal - art. 434-41 (V)
-	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+	  - Code pénal - art. 131-5-1
+	  - Code pénal - art. 131-6 (VD)
+	  - Code pénal - art. 131-8 (VD)
+	  - Code pénal - art. 434-41
+	  - Code de procédure pénale - art. 712-6
 
 
 ##### Sous-section 3 : Des peines complémentaires encourues pour certains crimes ou délits
@@ -3148,11 +3247,11 @@ L'action en responsabilité et l'action récursoire sont portées devant les tri
 ###### Article 131-25
 
 En cas de condamnation à une peine de jours-amende, le montant global est exigible à l'expiration du délai correspondant au
-nombre de jours-amende prononcés.
+nombre de jours-amende prononcés. 
 
-Le défaut total ou partiel du paiement de ce montant entraîne l'incarcération du condamné pour une durée correspondant au
-nombre de jours-amende impayés. Il est procédé comme en matière de contrainte judiciaire. La détention ainsi subie est
-soumise au régime des peines d'emprisonnement.
+Sous réserve du second alinéa de l'article 747-1-2 du code de procédure pénale, le défaut total ou partiel du paiement de ce
+montant entraîne l'incarcération du condamné pour une durée correspondant au nombre de jours-amende impayés. Il est procédé
+comme en matière de contrainte judiciaire. La détention ainsi subie est soumise au régime des peines d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -3186,17 +3285,16 @@ soumise au régime des peines d'emprisonnement.
 	  - Code des assurances - art. L211-26 (V)
 	  - Code des transports - art. L5531-45 (VD)
 	  - Code des transports - art. L5531-46 (VD)
-	  - Code pénal - art. 132-57 (V)
+	  - Code pénal - art. 132-57 (VD)
 	  - Code pénal - art. 133-13 (V)
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 173 2, art. 198 V JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2014-896 du 15 août 2014 - art. 29
 
 
 ###### Article 131-26
@@ -6383,23 +6481,32 @@ conditions dans lesquelles les représentants du personnel sont avisés de la da
 ###### Article 132-1
 
 Lorsque la loi ou le règlement réprime une infraction, le régime des peines qui peuvent être prononcées obéit, sauf
-dispositions législatives contraires, aux règles du présent chapitre.
+dispositions législatives contraires, aux règles du présent chapitre. 
+
+Toute peine prononcée par la juridiction doit être individualisée. 
+
+Dans les limites fixées par la loi, la juridiction détermine la nature, le quantum et le régime des peines prononcées en
+fonction des circonstances de l'infraction et de la personnalité de son auteur ainsi que de sa situation matérielle,
+familiale et sociale, conformément aux finalités et fonctions de la peine énoncées à l'article 130-1.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
 	**Codifié par**:
 
 	  - Loi n°92-683 du 22 juillet 1992 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 2
+
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 362 (VD)
 	  - Code de procédure pénale - art. 495-8 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 130-1 (VD)
 
 
 ##### Section 1 : Dispositions générales
@@ -7541,149 +7648,30 @@ une peine d'emprisonnement qui ne peut être inférieure à un an.
 	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
 
 
-###### Article 132-18-1
-
-Pour les crimes commis en état de récidive légale, la peine d'emprisonnement, de réclusion ou de détention ne peut être
-inférieure aux seuils suivants :
-
-1° Cinq ans, si le crime est puni de quinze ans de réclusion ou de détention ;
-
-2° Sept ans, si le crime est puni de vingt ans de réclusion ou de détention ;
-
-3° Dix ans, si le crime est puni de trente ans de réclusion ou de détention ;
-
-4° Quinze ans, si le crime est puni de la réclusion ou de la détention à perpétuité.
-
-Toutefois, la juridiction peut prononcer une peine inférieure à ces seuils en considération des circonstances de
-l'infraction, de la personnalité de son auteur ou des garanties d'insertion ou de réinsertion présentées par celui-ci.
-
-Lorsqu'un crime est commis une nouvelle fois en état de récidive légale, la juridiction ne peut prononcer une peine
-inférieure à ces seuils que si l'accusé présente des garanties exceptionnelles d'insertion ou de réinsertion.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-2 (V)
-	  - Code de procédure pénale - art. 362 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°92-683 du 22 juillet 1992
-
-	**Créé par**:
-
-	  - Loi n°2007-1198 du 10 août 2007 - art. 1 () JORF 11 août 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2014-896 du 15 août 2014 - art. 7
-
-
 ###### Article 132-19
 
 Lorsqu'une infraction est punie d'une peine d'emprisonnement, la juridiction peut prononcer une peine d'emprisonnement pour
 une durée inférieure à celle qui est encourue.
 
-En matière correctionnelle, la juridiction ne peut prononcer une peine d'emprisonnement sans sursis qu'après avoir
-spécialement motivé le choix de cette peine. Toutefois, il n'y a pas lieu à motivation spéciale lorsque la personne est en
-état de récidive légale.
+En matière correctionnelle, une peine d'emprisonnement sans sursis ne peut être prononcée qu'en dernier recours si la gravité
+de l'infraction et la personnalité de son auteur rendent cette peine nécessaire et si toute autre sanction est manifestement
+inadéquate ; dans ce cas, la peine d'emprisonnement doit, si la personnalité et la situation du condamné le permettent, et
+sauf impossibilité matérielle, faire l'objet d'une des mesures d'aménagement prévues aux sous-sections 1 et 2 de la section 2
+du présent chapitre. 
+
+Lorsque le tribunal correctionnel prononce une peine d'emprisonnement sans sursis ou ne faisant pas l'objet d'une des mesures
+d'aménagement prévues aux mêmes sous-sections 1 et 2, il doit spécialement motiver sa décision, au regard des faits de
+l'espèce et de la personnalité de leur auteur ainsi que de sa situation matérielle, familiale et sociale.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-683 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 17 () JORF 13 décembre 2005
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
-
-
-###### Article 132-19-1
-
-Pour les délits commis en état de récidive légale, la peine d'emprisonnement ne peut être inférieure aux seuils suivants :
-
-1° Un an, si le délit est puni de trois ans d'emprisonnement ;
-
-2° Deux ans, si le délit est puni de cinq ans d'emprisonnement ;
-
-3° Trois ans, si le délit est puni de sept ans d'emprisonnement ;
-
-4° Quatre ans, si le délit est puni de dix ans d'emprisonnement.
-
-Toutefois, la juridiction peut prononcer, par une décision spécialement motivée, une peine inférieure à ces seuils ou une
-peine autre que l'emprisonnement en considération des circonstances de l'infraction, de la personnalité de son auteur ou des
-garanties d'insertion ou de réinsertion présentées par celui-ci.
-
-La juridiction ne peut prononcer une peine autre que l'emprisonnement lorsque est commis une nouvelle fois en état de
-récidive légale un des délits suivants :
-
-1° Violences volontaires ;
-
-2° Délit commis avec la circonstance aggravante de violences ;
-
-3° Agression ou atteinte sexuelle ;
-
-4° Délit puni de dix ans d'emprisonnement.
-
-Par décision spécialement motivée, la juridiction peut toutefois prononcer une peine d'emprisonnement d'une durée inférieure
-aux seuils prévus par le présent article si le prévenu présente des garanties exceptionnelles d'insertion ou de réinsertion.
-
-Les dispositions du présent article ne sont pas exclusives d'une peine d'amende et d'une ou plusieurs peines complémentaires.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-2 (V)
-	  - Code de procédure pénale - art. 362 (VD)
-	  - Code pénal - art. 132-24 (V)
 
 	**Codifié par**:
 
 	  - Loi n°92-683 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 2 () JORF 11 août 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2014-896 du 15 août 2014 - art. 7
-
-
-###### Article 132-19-2
-
-Pour les délits prévus aux articles 222-9, 222-12 et 222-13, au 3° de l'article 222-14, au 4° de l'article 222-14-1 et à
-l'article 222-15-1, la peine d'emprisonnement ne peut être inférieure aux seuils suivants : 
-
-1° Dix-huit mois, si le délit est puni de sept ans d'emprisonnement ; 
-
-2° Deux ans, si le délit est puni de dix ans d'emprisonnement. 
-
-Toutefois, la juridiction peut prononcer, par une décision spécialement motivée, une peine inférieure à ces seuils ou une
-peine autre que l'emprisonnement en considération des circonstances de l'infraction, de la personnalité de son auteur ou des
-garanties d'insertion ou de réinsertion présentées par celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 37 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-896 du 15 août 2014 - art. 7
-
-	**Cite**:
-
-	  - Code pénal - art. 222-12
-	  - Code pénal - art. 222-14
-	  - Code pénal - art. 222-14-1
-	  - Code pénal - art. 222-15-1
-	  - Code pénal - art. 222-9
+	  - Loi n°2014-896 du 15 août 2014 - art. 3
 
 
 ###### Article 132-20
@@ -7691,15 +7679,17 @@ garanties d'insertion ou de réinsertion présentées par celui-ci.
 Lorsqu'une infraction est punie d'une peine d'amende, la juridiction peut prononcer une amende d'un montant inférieur à celle
 qui est encourue.
 
+Le montant de l'amende est déterminé en tenant compte des ressources et des charges de l'auteur de l'infraction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005
+	  - Loi n°2014-896 du 15 août 2014 - art. 3
 
 	**Cité par**:
 
@@ -7710,17 +7700,17 @@ qui est encourue.
 
 Lorsque les circonstances de l'infraction ou la personnalité de l'auteur le justifient, le président de la juridiction
 avertit, lors du prononcé de la peine, le condamné des conséquences qu'entraînerait une condamnation pour une nouvelle
-infraction commise en état de récidive légale.
+infraction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1198 du 10 août 2007 - art. 3 () JORF 11 août 2007
+	  - Loi n°2014-896 du 15 août 2014 - art. 7
 
 
 ###### Article 132-21
@@ -7946,35 +7936,18 @@ sont prises en compte les peines équivalentes aux peines prévues par la loi fr
 
 ###### Article 132-24
 
-Dans les limites fixées par la loi, la juridiction prononce les peines et fixe leur régime en fonction des circonstances de
-l'infraction et de la personnalité de son auteur. Lorsque la juridiction prononce une peine d'amende, elle détermine son
-montant en tenant compte également des ressources et des charges de l'auteur de l'infraction. 
-
-La nature, le quantum et le régime des peines prononcées sont fixés de manière à concilier la protection effective de la
-société, la sanction du condamné et les intérêts de la victime avec la nécessité de favoriser l'insertion ou la réinsertion
-du condamné et de prévenir la commission de nouvelles infractions. 
-
-En matière correctionnelle, en dehors des condamnations en récidive légale prononcées en application de l'article 132-19-1,
-une peine d'emprisonnement sans sursis ne peut être prononcée qu'en dernier recours si la gravité de l'infraction et la
-personnalité de son auteur rendent cette peine nécessaire et si toute autre sanction est manifestement inadéquate ; dans ce
-cas, la peine d'emprisonnement doit, si la personnalité et la situation du condamné le permettent, et sauf impossibilité
-matérielle, faire l'objet d'une des mesures d'aménagement prévues aux articles 132-25 à 132-28.
+Les peines peuvent être personnalisées selon les modalités prévues à la présente section.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1436 du 24 novembre 2009 - art. 65
+	  - Loi n°2014-896 du 15 août 2014 - art. 3
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 495-8 (V)
 	  - Code de procédure pénale - art. 362 (VD)
-
-	**Cite**:
-
-	  - Code pénal - art. 132-19-1
-	  - Code pénal - art. 132-25
 
 
 ##### Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique
@@ -8652,19 +8625,16 @@ contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
 4° Prévenir le travailleur social de ses changements de résidence ou de tout déplacement dont la durée excéderait quinze
 jours et rendre compte de son retour ;
 
-5° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger et, lorsqu'il est
-de nature à mettre obstacle à l'exécution de ses obligations, pour tout changement d'emploi ou de résidence.
+5° Obtenir l'autorisation préalable du juge de l'application des peines pour tout changement d'emploi ou de résidence,
+lorsque ce changement est de nature à mettre obstacle à l'exécution de ses obligations ;
+
+6° Informer préalablement le juge de l'application des peines de tout déplacement à l'étranger.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -8702,7 +8672,7 @@ de nature à mettre obstacle à l'exécution de ses obligations, pour tout chang
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 124 () JORF 16 juin 2000
+	  - Loi n°2014-896 du 15 août 2014 - art. 9
 
 
 ###### Article 132-45
@@ -8733,12 +8703,16 @@ condamnation ;
 
 7° S'abstenir de conduire certains véhicules déterminés par les catégories de permis prévues par le code de la route ; 
 
+7° bis Sous réserve de son accord, s'inscrire et se présenter aux épreuves du permis de conduire, le cas échéant après avoir
+suivi des leçons de conduite ; 
+
 8° Ne pas se livrer à l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ou ne
 pas exercer une activité impliquant un contact habituel avec des mineurs ; 
 
 9° S'abstenir de paraître en tout lieu, toute catégorie de lieux ou toute zone spécialement désignés ; 
 
-10° Ne pas engager de paris, notamment dans les organismes de paris mutuels ; 
+10° Ne pas engager de paris, notamment dans les organismes de paris mutuels, et ne pas prendre part à des jeux d'argent et de
+hasard ; 
 
 11° Ne pas fréquenter les débits de boissons ; 
 
@@ -8752,7 +8726,7 @@ notamment des mineurs, à l'exception, le cas échéant, de ceux désignés par 
 15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, accomplir, à ses frais, un
 stage de sensibilisation à la sécurité routière ; 
 
-16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait l'auteur ou le co-auteur et qui porterait, en
+16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait l'auteur ou le coauteur et qui porterait, en
 tout ou partie, sur l'infraction commise et s'abstenir de toute intervention publique relative à cette infraction ; les
 dispositions du présent alinéa ne sont applicables qu'en cas de condamnation pour crimes ou délits d'atteintes volontaires à
 la vie, d'agressions sexuelles ou d'atteintes sexuelles ; 
@@ -8767,13 +8741,15 @@ résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domic
 celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
 dispositions du présent 19° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
 la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
-de la victime ; pour l'application du présent 19°, l'avis de la victime est recueilli, dans les meilleurs délais et par tous
+de la victime. Pour l'application du présent 19°, l'avis de la victime est recueilli, dans les meilleurs délais et par tous
 moyens, sur l'opportunité d'imposer au condamné de résider hors du logement du couple. Sauf circonstances particulières,
 cette mesure est prise lorsque sont en cause des faits de violences susceptibles d'être renouvelés et que la victime la
-sollicite. La juridiction peut préciser les modalités de prise en charge des frais afférents à ce logement. 
+sollicite. La juridiction peut préciser les modalités de prise en charge des frais afférents à ce logement ; 
 
 20° Accomplir à ses frais un stage de responsabilisation pour la prévention et la lutte contre les violences au sein du
-couple et sexistes.
+couple et sexistes ;
+
+21° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -8823,8 +8799,8 @@ couple et sexistes.
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 35
-	  - Loi n°2014-873 du 4 août 2014 - art. 50
+	  - Loi n°2014-896 du 15 août 2014 - art. 10
+	  - Loi n°2014-896 du 15 août 2014 - art. 9
 
 	**Cite**:
 
@@ -8913,8 +8889,6 @@ La mesure d'interdiction du territoire français est exécutoire de plein droit 
 
 ###### Article 132-49
 
-La révocation partielle du sursis ne peut être ordonnée qu'une fois.
-
 La décision ordonnant la révocation partielle du sursis ne met pas fin au régime de la mise à l'épreuve et n'attache pas à la
 condamnation les effets d'une condamnation sans sursis.
 
@@ -8922,12 +8896,11 @@ condamnation les effets d'une condamnation sans sursis.
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 11
 
 	**Cité par**:
 
@@ -8984,16 +8957,14 @@ Lorsque le bénéfice du sursis avec mise à l'épreuve n'a été accordé que p
 est réputée non avenue dans tous ses éléments si la révocation du sursis n'a pas été prononcée dans les conditions prévues
 par l'alinéa précédent.
 
+Le caractère non avenu de la condamnation ne fait pas obstacle à la révocation totale ou partielle du sursis avec mise à
+l'épreuve dès lors que le manquement ou l'infraction ont été commis avant l'expiration du délai d'épreuve.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -9002,7 +8973,11 @@ par l'alinéa précédent.
 	  - Code de procédure pénale - art. 746 (VD)
 	  - Code de procédure pénale - art. 747 (V)
 	  - Code pénal - art. 132-53 (V)
-	  - Code pénal - art. 132-56 (V)
+	  - Code pénal - art. 132-56 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 9
 
 
 ###### Article 132-53
@@ -9038,9 +9013,9 @@ pénale.
 ###### Article 132-54
 
 La juridiction peut, dans les conditions et selon les modalités prévues aux articles 132-40 et 132-41, prévoir que le
-condamné accomplira, pour une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit
-d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou
-d'une association habilitées à mettre en œuvre des travaux d'intérêt général. 
+condamné accomplira, pour une durée de vingt à deux cent quatre-vingts heures, un travail d'intérêt général non rémunéré au
+profit soit d'une personne morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service
+public ou d'une association habilitées à mettre en œuvre des travaux d'intérêt général. 
 
 La juridiction peut en outre soumettre le condamné à tout ou partie des obligations prévues à l'article 132-45 pour une durée
 qui ne peut excéder dix-huit mois. L'exécution du travail d'intérêt général avant la fin de ce délai ne met pas fin à ces
@@ -9059,11 +9034,11 @@ comme non avenue sauf s'il a été fait application des dispositions prévues au
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
 	  - Arrêté du 12 décembre 2008 (V)
-	  - Code pénal - art. 132-57 (V)
+	  - Code pénal - art. 132-57 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2009-1436 du 24 novembre 2009 - art. 69
+	  - Loi n°2014-896 du 15 août 2014 - art. 21
 
 	**Cite**:
 
@@ -9120,19 +9095,14 @@ spécialement imposées et dont celle-ci a précisé la durée qui ne peut excé
 
 Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général suit les mêmes règles que celles qui sont prévues
 pour le sursis avec mise à l'épreuve, à l'exception de celles qui sont contenues au second alinéa de l'article 132-42 et au
-second alinéa de l'article 132-52 ; l'obligation d'accomplir un travail d'intérêt général est assimilée à une obligation
+deuxième alinéa de l'article 132-52 ; l'obligation d'accomplir un travail d'intérêt général est assimilée à une obligation
 particulière du sursis avec mise à l'épreuve et le délai prévu à l'article 131-22 assimilé au délai d'épreuve.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -9140,11 +9110,15 @@ particulière du sursis avec mise à l'épreuve et le délai prévu à l'article
 	  - Loi n°2002-1062 du 6 août 2002 - art. 6 (V)
 	  - Code pénal - art. 132-57 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 9
+
 	**Cite**:
 
-	  - Code pénal - art. 131-22 (V)
-	  - Code pénal - art. 132-42 (V)
-	  - Code pénal - art. 132-52 (V)
+	  - Code pénal - art. 131-22
+	  - Code pénal - art. 132-42
+	  - Code pénal - art. 132-52 (VD)
 
 
 ###### Article 132-57
@@ -9152,12 +9126,12 @@ particulière du sursis avec mise à l'épreuve et le délai prévu à l'article
 Lorsqu'une condamnation pour un délit de droit commun comportant une peine d'emprisonnement ferme de six mois au plus a été
 prononcée, le juge de l'application des peines peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une
 voie de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, pour
-une durée de vingt à deux cent dix heures, un travail d'intérêt général non rémunéré au profit soit d'une personne morale de
-droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou d'une association
-habilitées à mettre en œuvre des travaux d'intérêt général.  L'exécution de l'obligation d'accomplir un travail d'intérêt
-général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56. Le juge de
-l'application des peines peut également décider que le condamné effectuera une peine de jours-amende, conformément aux
-dispositions des articles 131-5 et 131-25.
+une durée de vingt à deux cent quatre-vingts heures, un travail d'intérêt général non rémunéré au profit soit d'une personne
+morale de droit public, soit d'une personne morale de droit privé chargée d'une mission de service public ou d'une
+association habilitées à mettre en œuvre des travaux d'intérêt général. L'exécution de l'obligation d'accomplir un travail
+d'intérêt général est soumise aux prescriptions du troisième alinéa de l'article 132-54 et des articles 132-55 et 132-56. Le
+juge de l'application des peines peut également décider que le condamné effectuera une peine de jours-amende, conformément
+aux dispositions des articles 131-5 et 131-25.
 
 Le présent article est applicable aux peines d'emprisonnement ayant fait l'objet d'un sursis partiel, assorti ou non d'une
 mise à l'épreuve, lorsque la partie ferme de la peine est inférieure ou égale à six mois. Dans ce cas, la partie de la peine
@@ -9176,19 +9150,19 @@ de la partie non exécutée en jours-amende.
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
 	  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 6 (V)
-	  - Code de procédure pénale - art. 723-15 (V)
+	  - Code de procédure pénale - art. 723-15 (VD)
 	  - Code de procédure pénale - art. 747-2 (V)
 	  - Code de procédure pénale - art. D545 (T)
 
 	**Modifié par**:
 
-	  - Loi n°2009-1436 du 24 novembre 2009 - art. 69
+	  - Loi n°2014-896 du 15 août 2014 - art. 21
 
 	**Cite**:
 
-	  - Code pénal - art. 131-25
+	  - Code pénal - art. 131-25 (VD)
 	  - Code pénal - art. 131-5
-	  - Code pénal - art. 132-54
+	  - Code pénal - art. 132-54 (VD)
 	  - Code pénal - art. 132-55
 
 
@@ -9528,6 +9502,82 @@ L'astreinte ne donne pas lieu à contrainte judiciaire.
 	**Codifié par**:
 
 	  - Loi n°92-683 1992-07-22
+
+
+##### Paragraphe 5 : De l'ajournement aux fins d'investigations sur la personnalité ou la situation matérielle, familiale et sociale
+
+###### Article 132-70-1
+
+La juridiction peut ajourner le prononcé de la peine à l'égard d'une personne physique lorsqu'il apparaît nécessaire
+d'ordonner à son égard des investigations complémentaires sur sa personnalité ou sa situation matérielle, familiale et
+sociale, lesquelles peuvent être confiées au service pénitentiaire d'insertion et de probation ou à une personne morale
+habilitée. 
+
+Dans ce cas, elle fixe dans sa décision la date à laquelle il sera statué sur la peine. 
+
+La décision sur la peine intervient au plus tard dans un délai de quatre mois après la décision d'ajournement, sous réserve
+des délais plus courts prévus au troisième alinéa de l'article 397-3 du code de procédure pénale quand la personne est placée
+en détention provisoire. Ce délai peut être prolongé pour une nouvelle durée maximale de quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992
+
+	**Cité par**:
+
+	  - Loi n°98-349 du 11 mai 1998 - art. 44 (V)
+	  - Code de procédure pénale - art. 397-3-1 (V)
+	  - Code de procédure pénale - art. D548 (V)
+	  - Code de procédure pénale - art. D549 (V)
+	  - Code pénal - art. 711-1 (M)
+	  - Code pénal - art. 721-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 397-3 (V)
+
+
+###### Article 132-70-2
+
+Lorsque la juridiction ajourne le prononcé de la peine, elle peut octroyer immédiatement à la victime des dommages et
+intérêts soit à titre provisionnel, soit à titre définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 5
+
+
+##### Paragraphe 6 : De l'ajournement aux fins de consignation d'une somme d'argent
+
+###### Article 132-70-3
+
+La juridiction peut ajourner le prononcé de la peine à l'égard d'une personne en la soumettant à l'obligation de consigner
+une somme d'argent en vue de garantir le paiement d'une éventuelle peine d'amende. Elle détermine le montant de cette
+consignation et le délai dans lequel celle-ci doit être déposée au greffe, qui ne saurait être supérieur à un an. Elle peut
+prévoir que cette consignation est effectuée en plusieurs versements, selon un échéancier qu'elle détermine. 
+
+Elle fixe dans sa décision la date à laquelle il sera statué sur la peine. 
+
+La décision sur la peine intervient au plus tard dans un délai d'un an après la décision d'ajournement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-896 du 15 août 2014 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2016-479 du 18 avril 2016 - art. 15
+	  - Code de procédure pénale - art. D549 (V)
 
 
 ##### Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines
