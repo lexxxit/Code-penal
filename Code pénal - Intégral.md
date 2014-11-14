@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-11-02
+Version Consolidée au 2014-11-15
 
 # Partie législative
 
@@ -21191,9 +21191,10 @@ de l'enregistrement de son image.
 ###### Article 227-24
 
 Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message
-à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine ou à inciter des mineurs
-à se livrer à des jeux les mettant physiquement en danger, soit de faire commerce d'un tel message, est puni de trois ans
-d'emprisonnement et de 75 000 euros d'amende lorsque ce message est susceptible d'être vu ou perçu par un mineur. 
+à caractère violent, incitant au terrorisme, pornographique ou de nature à porter gravement atteinte à la dignité humaine ou
+à inciter des mineurs à se livrer à des jeux les mettant physiquement en danger, soit de faire commerce d'un tel message, est
+puni de trois ans d'emprisonnement et de 75 000 euros d'amende lorsque ce message est susceptible d'être vu ou perçu par un
+mineur. 
 
 Lorsque les infractions prévues au présent article sont soumises par la voie de la presse écrite ou audiovisuelle ou de la
 communication au public en ligne, les dispositions particulières des lois qui régissent ces matières sont applicables en ce
@@ -21224,7 +21225,7 @@ qui concerne la détermination des personnes responsables.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 5
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 7
 
 
 ###### Article 227-24-1
@@ -25152,8 +25153,9 @@ mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et �
 
 ###### Article 323-3
 
-Le fait d'introduire frauduleusement des données dans un système de traitement automatisé ou de supprimer ou de modifier
-frauduleusement les données qu'il contient est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
+Le fait d'introduire frauduleusement des données dans un système de traitement automatisé, d'extraire, de détenir, de
+reproduire, de transmettre, de supprimer ou de modifier frauduleusement les données qu'il contient est puni de cinq ans
+d'emprisonnement et de 75 000 euros d'amende.
 
 Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
 mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
@@ -25166,7 +25168,7 @@ mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et �
 
 	**Modifié par**:
 
-	  - Loi n°2012-410 du 27 mars 2012 - art. 9
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 16
 
 
 ###### Article 323-3-1
@@ -25214,6 +25216,29 @@ pour l'infraction elle-même ou pour l'infraction la plus sévèrement réprimé
 	**Cite**:
 
 	  - Code pénal 323-1 à 323-3-1
+
+
+###### Article 323-4-1
+
+Lorsque les infractions prévues aux articles 323-1 à 323-3-1 ont été commises en bande organisée et à l'encontre d'un système
+de traitement automatisé de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à dix ans
+d'emprisonnement et à 150 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 17
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 28
+	  - Code de procédure pénale - art. 706-72 (V)
+	  - Code de procédure pénale - art. 706-73-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 323-1
 
 
 ###### Article 323-5
@@ -27000,11 +27025,12 @@ informatique définis par le livre III du présent code ;
 3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
 infractions définies par les articles 434-6 et 441-2 à 441-5 ; 
 
-4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par le I de l'article L.
-1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6,
-L. 2339-2, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L.
-2353-5 et l'article L. 2353-13 du code de la défense, ainsi que les  articles L. 317-4, L. 317-7 et L. 317-8  à l'exception
-des armes de la catégorie D définies par décret en Conseil d'Etat, du code de la sécurité intérieure ;  
+4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les articles 322-6-1 et
+322-11-1 du présent code, le I de l'article L. 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L.
+1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6, L. 2339-2, L. 2339-14, 
+L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L.
+2353-13 du code de la défense, ainsi que les articles L. 317-4, L. 317-7 et L. 317-8 à l'exception des armes de la catégorie
+D définies par décret en Conseil d'Etat, du code de la sécurité intérieure ; 
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
@@ -27069,24 +27095,23 @@ des armes de la catégorie D définies par décret en Conseil d'Etat, du code de
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 4
 
 	**Cite**:
 
+	  - Code pénal - art. 322-11-1
+	  - Code pénal - art. 322-6-1
 	  - Code pénal - art. 431-13
 	  - Code pénal - art. 434-6
 	  - Code pénal - art. 441-2
 	  - Code de la défense. - art. L1333-11
 	  - Code de la défense. - art. L1333-13-2
 	  - Code de la défense. - art. L1333-13-3
-	  - Code de la défense. - art. L1333-13-4
 	  - Code de la défense. - art. L1333-13-6
 	  - Code de la défense. - art. L1333-9
 	  - Code de la défense. - art. L2339-14
 	  - Code de la défense. - art. L2339-16
 	  - Code de la défense. - art. L2339-2
-	  - Code de la défense. - art. L2339-5
-	  - Code de la défense. - art. L2339-8
 	  - Code de la défense. - art. L2341-1
 	  - Code de la défense. - art. L2341-4
 	  - Code de la défense. - art. L2342-57
@@ -27094,6 +27119,8 @@ des armes de la catégorie D définies par décret en Conseil d'Etat, du code de
 	  - Code de la défense. - art. L2353-4
 	  - Code de la défense. - art. L2353-5
 	  - Code monétaire et financier - art. L465-1
+	  - Code de la sécurité intérieure - art. L317-4
+	  - Code de la sécurité intérieure - art. L317-7
 
 
 ###### Article 421-2
@@ -27239,6 +27266,95 @@ pas été suivi d'effet, de dix ans d'emprisonnement et de 150 000 € d'amende.
 	  - Code pénal - art. 421-2-1 (V)
 
 
+###### Article 421-2-5
+
+Le fait de provoquer directement à des actes de terrorisme ou de faire publiquement l'apologie de ces actes est puni de cinq
+ans d'emprisonnement et de 75 000 € d'amende.
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende lorsque les faits ont été commis en utilisant un
+service de communication au public en ligne.
+
+Lorsque les faits sont commis par la voie de la presse écrite ou audiovisuelle ou de la communication au public en ligne, les
+dispositions particulières des lois qui régissent ces matières sont applicables en ce qui concerne la détermination des
+personnes responsables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6-1 (V)
+	  - Décret n°2015-125 du 5 février 2015 (V)
+	  - Décret n°2015-125 du 5 février 2015 - art. 2 (V)
+	  - Décret n°2015-125 du 5 février 2015 - art. 5 (V)
+	  - Décret n°2015-253 du 4 mars 2015 (V)
+	  - Décret n°2015-253 du 4 mars 2015 - art. 1 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 18
+	  - Code de procédure pénale - art. 706-23 (V)
+	  - Code de procédure pénale - art. 706-24-1 (V)
+	  - Code de procédure pénale - art. 706-25-1 (Ab)
+	  - Code de procédure pénale - art. 706-25-4 (V)
+	  - Code de procédure pénale - art. 720-1 (V)
+	  - Code de procédure pénale - art. 721-1-1 (V)
+	  - Code de procédure pénale - art. 723-1 (V)
+	  - Code de procédure pénale - art. 730-2-1 (V)
+	  - Code de procédure pénale - art. 8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 5
+
+
+###### Article 421-2-6
+
+I.-Constitue un acte de terrorisme le fait de préparer la commission d'une des infractions mentionnées au II, dès lors que la
+préparation de ladite infraction est intentionnellement en relation avec une entreprise individuelle ayant pour but de
+troubler gravement l'ordre public par l'intimidation ou la terreur et qu'elle est caractérisée par : 
+
+1° Le fait de détenir, de rechercher, de se procurer ou de fabriquer des objets ou des substances de nature à créer un danger
+pour autrui ; 
+
+2° Et l'un des autres faits matériels suivants : 
+
+a) Recueillir des renseignements sur des lieux ou des personnes permettant de mener une action dans ces lieux ou de porter
+atteinte à ces personnes ou exercer une surveillance sur ces lieux ou ces personnes ; 
+
+b) S'entraîner ou se former au maniement des armes ou à toute forme de combat, à la fabrication ou à l'utilisation de
+substances explosives, incendiaires, nucléaires, radiologiques, biologiques ou chimiques ou au pilotage d'aéronefs ou à la
+conduite de navires ; 
+
+c) Consulter habituellement un ou plusieurs services de communication au public en ligne ou détenir des documents provoquant
+directement à la commission d'actes de terrorisme ou en faisant l'apologie ; 
+
+d) Avoir séjourné à l'étranger sur un théâtre d'opérations de groupements terroristes. 
+
+II.-Le I s'applique à la préparation de la commission des infractions suivantes : 
+
+1° Soit un des actes de terrorisme mentionnés au 1° de l'article 421-1 ; 
+
+2° Soit un des actes de terrorisme mentionnés au 2° du même article 421-1, lorsque l'acte préparé consiste en des
+destructions, dégradations ou détériorations par substances explosives ou incendiaires devant être réalisées dans des
+circonstances de temps ou de lieu susceptibles d'entraîner des atteintes à l'intégrité physique d'une ou plusieurs
+personnes ; 
+
+3° Soit un des actes de terrorisme mentionnés à l'article 421-2, lorsque l'acte préparé est susceptible d'entraîner des
+atteintes à l'intégrité physique d'une ou plusieurs personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code pénal - art. 421-1
+	  - Code pénal - art. 421-2
+
+	**Cité par**:
+
+	  - Code pénal - art. 421-5 (V)
+
+
 ###### Article 421-3
 
 Le maximum de la peine privative de liberté encourue pour les infractions mentionnées à l'article 421-1 est relevé ainsi
@@ -27337,6 +27453,8 @@ criminelle et de 500 000 euros d'amende.
 
 La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines. 
 
+L'acte de terrorisme défini à l'article 421-2-6 est puni de dix ans d'emprisonnement et de 150 000 € d'amende. 
+
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
 
@@ -27344,11 +27462,7 @@ présent article.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -27365,11 +27479,16 @@ présent article.
 	  - Code général des collectivités territoriales - art. L1414-4 (VD)
 	  - Code pénal - art. 422-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-1353 du 13 novembre 2014 - art. 6
+
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
-	  - Code pénal - art. 421-2-1 (V)
-	  - Code pénal - art. 421-2-2 (V)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 421-2-1
+	  - Code pénal - art. 421-2-2
+	  - Code pénal - art. 421-2-6
 
 
 ###### Article 421-6
