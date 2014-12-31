@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2014-11-15
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -8163,19 +8163,18 @@ La juridiction qui prononce une peine peut, dans les cas et selon les conditions
 à son exécution. 
 
 Le président de la juridiction, après le prononcé de la peine assortie du sursis simple, avertit le condamné, lorsqu'il est
-présent, des conséquences qu'entraînerait une condamnation pour une nouvelle infraction qui serait commise dans les délais
-prévus par les articles 132-35 et 132-37.
+présent, qu'en cas de condamnation pour une nouvelle infraction qui serait commise dans les délais prévus aux articles 132-35
+et 132-37, le sursis pourra être révoqué par la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 	**Cité par**:
 
@@ -8183,7 +8182,8 @@ prévus par les articles 132-35 et 132-37.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-35 (V)
+	  - Code pénal - art. 132-35 (VD)
+	  - Code pénal - art. 132-37 (VD)
 
 
 ##### Paragraphe 1 : Des conditions d'octroi du sursis simple
@@ -8350,49 +8350,56 @@ pour les contraventions de la 5e classe.
 
 La condamnation pour crime ou délit assortie du sursis simple est réputée non avenue si le condamné qui en bénéficie n'a pas
 commis, dans le délai de cinq ans à compter de celle-ci, un crime ou un délit de droit commun suivi d'une nouvelle
-condamnation sans sursis qui emporte révocation.
+condamnation ayant ordonné la révocation totale du sursis dans les conditions définies à l'article 132-36 ; le caractère non
+avenu de la condamnation ne fait pas obstacle à la révocation totale ou partielle du sursis en cas d'infraction commise dans
+le délai de cinq ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 736 (VD)
 	  - Code pénal - art. 132-29 (VD)
 
+	**Cite**:
+
+	  - Code pénal - art. 132-36 (VD)
+
 
 ###### Article 132-36
 
-Toute nouvelle condamnation à une peine d'emprisonnement ou de réclusion révoque le sursis antérieurement accordé quelle que
-soit la peine qu'il accompagne.
+La juridiction peut, par décision spéciale, révoquer totalement ou partiellement, pour une durée ou un montant qu'elle
+détermine, le sursis antérieurement accordé, quelle que soit la peine qu'il accompagne, lorsqu'elle prononce une nouvelle
+condamnation à une peine de réclusion ou à une peine d'emprisonnement sans sursis.
 
-Toute nouvelle condamnation d'une personne physique ou morale à une peine autre que l'emprisonnement ou la réclusion révoque
-le sursis antérieurement accordé qui accompagne une peine quelconque autre que l'emprisonnement ou la réclusion.
+La juridiction peut, par décision spéciale, révoquer totalement ou partiellement, pour une durée ou un montant qu'elle
+détermine, le sursis antérieurement accordé qui accompagne une peine quelconque autre que la réclusion ou l'emprisonnement
+lorsqu'elle prononce une nouvelle condamnation d'une personne physique ou morale à une peine autre que la réclusion ou
+l'emprisonnement sans sursis.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 735 (VD)
 	  - Code pénal - art. 132-35 (VD)
-	  - Code pénal - art. 132-37 (V)
+	  - Code pénal - art. 132-37 (VD)
 	  - Code pénal - art. 132-39 (VD)
 
 
@@ -8400,19 +8407,18 @@ le sursis antérieurement accordé qui accompagne une peine quelconque autre que
 
 La condamnation pour contravention assortie du sursis simple est réputée non avenue si le condamné qui en bénéficie n'a pas
 commis, pendant le délai de deux ans à compter de celle-ci, un crime ou un délit de droit commun ou une contravention de la
-5e classe suivie d'une nouvelle condamnation sans sursis emportant révocation dans les conditions définies à l'article
+5e classe suivie d'une nouvelle condamnation ayant ordonné la révocation du sursis dans les conditions définies à l'article
 132-36.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 	**Cité par**:
 
@@ -8420,28 +8426,23 @@ commis, pendant le délai de deux ans à compter de celle-ci, un crime ou un dé
 
 	**Cite**:
 
-	  - Code pénal - art. 132-36 (V)
+	  - Code pénal - art. 132-36 (VD)
 
 
 ###### Article 132-38
 
-En cas de révocation du sursis simple, la première peine est exécutée sans qu'elle puisse se confondre avec la seconde.
-
-Toutefois, la juridiction peut, par décision spéciale et motivée, dire que la condamnation qu'elle prononce n'entraîne pas la
-révocation du sursis antérieurement accordé ou n'entraîne qu'une révocation partielle, pour une durée qu'elle détermine, du
-sursis antérieurement accordé. Elle peut également limiter les effets de la dispense de révocation à l'un ou plusieurs des
-sursis antérieurement accordés.
+En cas de révocation du sursis simple ordonnée par la juridiction, la première peine est exécutée sans qu'elle puisse se
+confondre avec la seconde.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 	**Cité par**:
 
@@ -8451,19 +8452,22 @@ sursis antérieurement accordés.
 ###### Article 132-39
 
 Lorsque le bénéfice du sursis simple n'a été accordé que pour une partie de la peine, la condamnation est réputée non avenue
-dans tous ses éléments si la révocation du sursis n'a pas été encourue, la peine de jours-amende ou l'amende ou la partie de
-l'amende non assortie du sursis restant due.
+dans tous ses éléments si la révocation totale du sursis n'a pas été prononcée dans les conditions prévues à l'article
+132-36, la peine de jours-amende ou l'amende ou la partie de l'amende non assortie du sursis restant due.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
+
+	**Cite**:
+
+	  - Code pénal - art. 132-36 (VD)
 
 
 ##### Sous-section 4 : Du sursis avec mise à l'épreuve
@@ -8910,19 +8914,18 @@ condamnation les effets d'une condamnation sans sursis.
 ###### Article 132-50
 
 Si la juridiction ordonne l'exécution de la totalité de l'emprisonnement et si le sursis avec mise à l'épreuve a été accordé
-après une première condamnation déjà prononcée sous le même bénéfice, la première peine est d'abord exécutée à moins que, par
-décision spéciale et motivée, elle ne dispense le condamné de tout ou partie de son exécution.
+après une première condamnation déjà prononcée sous le même bénéfice, elle peut, par décision spéciale, ordonner que la
+première peine sera également exécutée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2014-896 du 15 août 2014 - art. 8
 
 
 ###### Article 132-51
@@ -10264,33 +10267,22 @@ incapacités et déchéances qui résultent de la condamnation.
 
 Toutefois, lorsque la personne a été condamnée au suivi socio-judiciaire prévu à l'article 131-36-1 ou à la peine
 d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
-réhabilitation ne produit ses effets qu'à la fin de la mesure. 
+réhabilitation ne produit ses effets qu'à la fin de la mesure. Par ailleurs, la réhabilitation ne produit ses effets qu'à
+l'issue d'un délai de quarante ans lorsqu'a été prononcée, comme peine complémentaire, une interdiction, incapacité ou
+déchéance à titre définitif. 
 
 La réhabilitation n'interdit pas la prise en compte de la condamnation, par les seules autorités judiciaires, en cas de
 nouvelles poursuites, pour l'application des règles sur la récidive légale.
-
-**Nota:**
-
-Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions de l'article 43 de la loi n° 2007-297 entrent en vigueur un an
-après la date de publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant
-toujours au casier judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de
-réhabilitation en cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la
-présente loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 43 () JORF 7 mars 2007 en vigueur le 7 mars 2008
+	  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
 
 	**Cité par**:
 
@@ -10299,8 +10291,8 @@ présente loi.
 
 	**Cite**:
 
-	  - Code pénal - art. 131-36-1 (V)
-	  - Code pénal - art. 133-10 (V)
+	  - Code pénal - art. 131-36-1
+	  - Code pénal - art. 133-10
 
 
 ###### Article 133-16-1
