@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-14
 
 # Partie législative
 
@@ -42564,8 +42564,8 @@ confiscation de la chose qui a servi ou était destinée à commettre l'infracti
 ###### Article R644-1
 
 Hors le cas prévu par l'article 413-5, le fait, sans autorisation des autorités compétentes, de pénétrer, séjourner ou
-circuler sur un terrain, dans une construction ou dans un engin ou appareil quelconque affecté à l'autorité militaire ou
-placé sous son contrôle est puni de l'amende prévue pour les contraventions de la 4e classe. 
+circuler sur un terrain, dans un port, dans une construction ou dans un engin ou appareil quelconque affecté à l'autorité
+militaire ou placé sous son contrôle est puni de l'amende prévue pour les contraventions de la 4e classe. 
 
 L'interdiction d'accès aux terrains, constructions, engins ou appareils visés à l'alinéa précédent fait l'objet d'une
 signalisation particulière lorsque aucune marque distinctive ne signale qu'ils sont affectés à l'autorité militaire ou placés
@@ -42573,13 +42573,9 @@ sous son contrôle.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
@@ -42587,9 +42583,13 @@ sous son contrôle.
 	  - Décret n°2015-159 du 11 février 2015 (V)
 	  - Code de la défense. - art. R2361-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 11
+
 	**Cite**:
 
-	  - Code pénal - art. 413-5 (V)
+	  - Code pénal - art. 413-5
 
 
 ##### Section 2 : Des entraves à la libre circulation sur la voie publique
