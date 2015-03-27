@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-02-14
+Version Consolidée au 2015-03-28
 
 # Partie législative
 
@@ -41924,26 +41924,20 @@ suivantes :
 
 #### Chapitre II : Des contraventions de la 2e classe contre les biens
 
-##### Section unique : De l'abandon d'ordures, déchets, matériaux ou autres objets.
+##### Section unique : Du non-respect de la réglementation en matière de collecte des ordures
 
 ###### Article R632-1
 
-Hors le cas prévu par l'article R. 635-8, est puni de l'amende prévue pour les contraventions de la 2e classe le fait de
-déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à l'exception des emplacements désignés à cet effet
-par l'autorité administrative compétente, des ordures, déchets, déjections, matériaux, liquides insalubres ou tout autre
-objet de quelque nature qu'il soit, y compris en urinant sur la voie publique, si ces faits ne sont pas accomplis par la
-personne ayant la jouissance du lieu ou avec son autorisation. 
-
-Est puni de la même peine le fait de déposer ou d'abandonner sur la voie publique des ordures, déchets, matériaux ou tout
-autre objet de quelque nature qu'il soit, en vue de leur enlèvement par le service de collecte, sans respecter les conditions
-fixées par l'autorité administrative compétente, notamment en matière de jours et d'horaires de collecte ou de tri des
-ordures.
+Est puni de l'amende prévue pour les contraventions de la 2e classe le fait de déposer, aux emplacements désignés à cet effet
+par l'autorité administrative compétente, des ordures, déchets, matériaux ou tout autre objet de quelque nature qu'il soit,
+en vue de leur enlèvement par le service de collecte, sans respecter les conditions fixées par cette autorité, notamment en
+matière d'adaptation du contenant à leur enlèvement, de jours et d'horaires de collecte ou de tri des ordures.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-671 du 18 juin 2010 - art. 4
+	  - Décret n°2015-337 du 25 mars 2015 - art. 1
 
 	**Liens**:
 
@@ -41954,10 +41948,6 @@ ordures.
 	  - Code de l'environnement - art. R541-76 (V)
 	  - Code de procédure pénale - art. R15-33-29-3 (V)
 	  - Code de procédure pénale - art. R48-1 (VT)
-
-	**Cite**:
-
-	  - Code pénal - art. R635-8
 
 
 #### Chapitre III : Des contraventions de la 3e classe contre les biens
@@ -42068,6 +42058,33 @@ contraventions de la 3e classe.
 	  - Code pénal - art. 321-7
 	  - Code pénal - art. R321-10
 	  - Code pénal - art. R321-9
+
+
+##### Section 3 : De l'abandon d'ordures, déchets, matériaux ou autres objets
+
+###### Article R633-6
+
+Hors les cas prévus par les articles R. 635-8 et R. 644-2, est puni de l'amende prévue pour les contraventions de la 3e
+classe le fait de déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à l'exception des emplacements
+désignés à cet effet par l'autorité administrative compétente, des ordures, déchets, déjections, matériaux, liquides
+insalubres ou tout autre objet de quelque nature qu'il soit, y compris en urinant sur la voie publique, si ces faits ne sont
+pas accomplis par la personne ayant la jouissance du lieu ou avec son autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-337 du 25 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-29-3 (V)
+	  - Code de procédure pénale - art. R48-1 (VT)
+
+	**Cite**:
+
+	  - Code pénal - art. R635-8
+	  - Code pénal - art. R644-2
 
 
 #### Chapitre IV : Des contraventions de la 4e classe contre les biens
@@ -43299,24 +43316,25 @@ ininterrompue peut être établie.
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2015-337 du 25 mars 2015.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Cite**:
 
-	  - Code pénal - art. R321-1 (V)
-	  - Code pénal - art. R633-1 (V)
-	  - Code pénal - art. R635-3 (V)
-	  - Code pénal - art. R645-6 (V)
+	  - Décret n°2015-337 du 25 mars 2015
+	  - Code pénal - art. R321-1
+	  - Code pénal - art. R633-1
+	  - Code pénal - art. R635-3
+	  - Code pénal - art. R645-6
+
+	**Modifié par**:
+
+	  - Décret n°2015-337 du 25 mars 2015 - art. 3
 
 	**Cité par**:
 
