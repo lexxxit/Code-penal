@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-06-26
+Version Consolidée au 2015-07-27
 
 # Partie législative
 
@@ -25092,13 +25092,13 @@ suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 �
 ###### Article 323-1
 
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données
-est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+est puni de deux ans d'emprisonnement et de 60 000 € d'amende. 
 
 Lorsqu'il en est résulté soit la suppression ou la modification de données contenues dans le système, soit une altération du
-fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 45 000 euros d'amende.
+fonctionnement de ce système, la peine est de trois ans d'emprisonnement et de 100 000 € d'amende. 
 
 Lorsque les infractions prévues aux deux premiers alinéas ont été commises à l'encontre d'un système de traitement automatisé
-de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à cinq ans d'emprisonnement et à 75 000 €
+de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à cinq ans d'emprisonnement et à  150 000 €
 d'amende.
 
 **Liens relatifs à cet article**
@@ -25109,7 +25109,7 @@ d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2012-410 du 27 mars 2012 - art. 9
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 	**Cité par**:
 
@@ -25125,10 +25125,10 @@ d'amende.
 ###### Article 323-2
 
 Le fait d'entraver ou de fausser le fonctionnement d'un système de traitement automatisé de données est puni de cinq ans
-d'emprisonnement et de 75 000 euros d'amende.
+d'emprisonnement et de 150 000 € d'amende. 
 
 Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
-mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25138,17 +25138,17 @@ mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et �
 
 	**Modifié par**:
 
-	  - Loi n°2012-410 du 27 mars 2012 - art. 9
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 
 ###### Article 323-3
 
 Le fait d'introduire frauduleusement des données dans un système de traitement automatisé, d'extraire, de détenir, de
 reproduire, de transmettre, de supprimer ou de modifier frauduleusement les données qu'il contient est puni de cinq ans
-d'emprisonnement et de 75 000 euros d'amende.
+d'emprisonnement et de 150 000 € d'amende. 
 
 Lorsque cette infraction a été commise à l'encontre d'un système de traitement automatisé de données à caractère personnel
-mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à 100 000 € d'amende.
+mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -25158,7 +25158,7 @@ mis en œuvre par l'Etat, la peine est portée à sept ans d'emprisonnement et �
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 16
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 
 ###### Article 323-3-1
@@ -25212,13 +25212,13 @@ pour l'infraction elle-même ou pour l'infraction la plus sévèrement réprimé
 
 Lorsque les infractions prévues aux articles 323-1 à 323-3-1 ont été commises en bande organisée et à l'encontre d'un système
 de traitement automatisé de données à caractère personnel mis en œuvre par l'Etat, la peine est portée à dix ans
-d'emprisonnement et à 150 000 € d'amende.
+d'emprisonnement et à  300 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 17
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 4
 
 	**Cité par**:
 
@@ -25315,6 +25315,25 @@ La tentative des délits prévus par les articles 323-1 à 323-3-1 est punie des
 	**Cite**:
 
 	  - Code pénal 323-1 à 323-3-1
+
+
+###### Article 323-8
+
+Le présent chapitre n'est pas applicable aux mesures mises en œuvre, par les agents habilités des services de l'Etat désignés
+par arrêté du Premier ministre parmi les services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la
+sécurité intérieure, pour assurer hors du territoire national la protection des intérêts fondamentaux de la Nation mentionnés
+à l'article L. 811-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 18
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-3
 
 
 #### Chapitre IV : Du blanchiment
