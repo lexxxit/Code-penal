@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-10-03
 
 # Partie législative
 
@@ -18292,18 +18292,25 @@ responsables.
 Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende : 
 
 1° La fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs
-techniques    de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa
-de l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
-par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue par l'article 706-102-1 du code de
-procédure pénale et figurant sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat, lorsque ces faits
-sont commis, y compris par négligence, en l'absence d'autorisation ministérielle dont les conditions d'octroi sont fixées par
-ce même décret ou sans respecter les conditions fixées par cette autorisation ; 
+techniques de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa de
+l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
+par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue aux articles 706-102-1 du code de
+procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des conditions fixées
+par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence d'autorisation
+ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions fixées par cette
+autorisation ; 
 
 2° Le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique susceptible de permettre la
 réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
-constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données informatiques prévue par
-l'article 706-102-1 du code de procédure pénale lorsque cette publicité constitue une incitation à en faire un usage
-frauduleux.
+constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données informatiques prévue aux
+articles 706-102-1 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette publicité
+constitue une incitation à en faire un usage frauduleux.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -18329,6 +18336,7 @@ frauduleux.
 	  - Loi n°2016-731 du 3 juin 2016 - art. 3
 	  - Arrêté du 11 août 2016 (V)
 	  - Code de la défense. - art. D1132-9 (Ab)
+	  - Code de la sécurité intérieure - art. L851-6 (V)
 	  - Code de la sécurité intérieure - art. L852-1 (V)
 	  - Code de la sécurité intérieure - art. R114-5 (VD)
 	  - Code de procédure pénale - art. 706-95-4 (V)
@@ -18353,13 +18361,14 @@ frauduleux.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 23
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 7
 
 	**Cite**:
 
 	  - Code pénal - art. 226-1
 	  - Code pénal - art. 226-15
 	  - Code de procédure pénale - art. 706-102-1
+	  - Code de la sécurité intérieure - art. L853-2
 
 
 ###### Article 226-4
@@ -26716,10 +26725,10 @@ La tentative des délits prévus au premier alinéa de l'article 413-10 et à l'
 ###### Article 413-13
 
 La révélation de toute information qui pourrait conduire, directement ou indirectement, à la découverte de l'usage, en
-application de l'article L. 2371-1 du code de la défense, d'une identité d'emprunt ou d'une fausse qualité, de l'identité
-réelle d'un agent des services spécialisés de renseignement mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17
-novembre 1958 relative au fonctionnement des assemblées parlementaires ou de son appartenance à l'un de ces services est
-punie de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+application de l'article L. 861-2 du code de la sécurité intérieure, d'une identité d'emprunt ou d'une fausse qualité, de
+l'identité réelle d'un agent d'un service mentionné à l'article L. 811-2 du même code ou d'un service désigné par le décret
+en Conseil d'Etat prévu à l'article L. 811-4 dudit code ou de son appartenance à l'un de ces services est punie de cinq ans
+d'emprisonnement et de 75 000 € d'amende. 
 
 Lorsque cette révélation a causé une atteinte à l'intégrité physique ou psychique à l'encontre de ces personnes ou de leur
 conjoint ou partenaire lié par un pacte civil de solidarité ou de leurs descendants ou ascendants directs, les peines sont
@@ -26734,22 +26743,30 @@ raison d'une fonction ou d'une mission temporaire ou permanente, de l'informatio
 trois ans d'emprisonnement et de 45 000 € d'amende. 
 
 Le présent article est applicable à la révélation de toute information qui pourrait conduire, directement ou indirectement, à
-l'identification réelle ou supposée d'une personne comme source ou collaborateur d'un service spécialisé de renseignement.
+l'identification réelle ou supposée d'une personne comme source ou collaborateur d'un service mentionné au premier alinéa du
+présent article.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
-	  - Code de la défense. - art. L2371-1
-
-	**Créé par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 27
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cité par**:
 
 	  - Code pénal - art. 413-14 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
+	  - Code de la sécurité intérieure - art. L811-4
+	  - Code de la sécurité intérieure - art. L861-2
 
 
 #### Chapitre IV : Dispositions particulières
