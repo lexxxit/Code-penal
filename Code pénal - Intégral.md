@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-10-03
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -39432,8 +39432,6 @@ Le stage de citoyenneté est organisé en sessions collectives, continues ou dis
 de formation adaptés à la personnalité des condamnés et à la nature de l'infraction commise. Pour les mineurs, les modules
 sont en outre adaptés à leur âge.
 
-Ces sessions ont lieu soit dans le ressort du tribunal de grande instance, soit dans le ressort de la cour d'appel.
-
 Les stages sont mis en oeuvre sous le contrôle du délégué du procureur de la République du lieu d'exécution de la peine. Ils
 peuvent également être mis en oeuvre sous le contrôle du service pénitentiaire d'insertion ou de probation.
 
@@ -39445,11 +39443,11 @@ grande instance.
 
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1021 du 27 septembre 2004 - art. 1 () JORF 29 septembre 2004
+	  - Décret n°2015-1272 du 13 octobre 2015 - art. 4
 
 
 ###### Article R131-38
@@ -43369,7 +43367,8 @@ ininterrompue peut être établie.
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2015-337 du 25 mars 2015.
+des îles Wallis et Futuna dans leur rédaction résultant du 
+décret n° 2015-1272 du 13 octobre 2015.
 
 **Liens relatifs à cet article**
 
@@ -43380,6 +43379,7 @@ des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2015-3
 	**Cite**:
 
 	  - Décret n°2015-337 du 25 mars 2015
+	  - Décret n°2015-1272 du 13 octobre 2015
 	  - Code pénal - art. R321-1
 	  - Code pénal - art. R633-1
 	  - Code pénal - art. R635-3
@@ -43387,7 +43387,7 @@ des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2015-3
 
 	**Modifié par**:
 
-	  - Décret n°2015-337 du 25 mars 2015 - art. 3
+	  - Décret n°2015-1272 du 13 octobre 2015 - art. 7
 
 	**Cité par**:
 
