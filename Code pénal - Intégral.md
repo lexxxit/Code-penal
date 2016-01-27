@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2016-01-28
 
 # Partie législative
 
@@ -11300,8 +11300,8 @@ concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure 
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
 établir l'existence d'un état alcoolique ; 
 
-3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
-stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+3° Il résulte d'une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées
+comme stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
 conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
@@ -11345,7 +11345,7 @@ avec deux ou plus des circonstances mentionnées aux 1° et suivants du présent
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 185
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 	**Liens**:
 
@@ -13195,8 +13195,8 @@ concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure 
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
 établir l'existence d'un état alcoolique ; 
 
-3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
-stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+3° Il résulte d'une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées
+comme stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
 conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
@@ -13241,7 +13241,7 @@ de la personne a été commise avec deux ou plus des circonstances mentionnées 
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 185
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 	**Liens**:
 
@@ -13351,8 +13351,8 @@ concentration d'alcool dans le sang ou dans l'air expiré égale ou supérieure 
 ou réglementaires du code de la route, ou a refusé de se soumettre aux vérifications prévues par ce code et destinées à
 établir l'existence d'un état alcoolique ; 
 
-3° Il résulte d'une analyse sanguine que le conducteur avait fait usage de substances ou de plantes classées comme
-stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
+3° Il résulte d'une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées
+comme stupéfiants, ou a refusé de se soumettre aux vérifications prévues par le code de la route destinées à établir s'il
 conduisait en ayant fait usage de stupéfiants ; 
 
 4° Le conducteur n'était pas titulaire du permis de conduire exigé par la loi ou le règlement ou son permis avait été annulé,
@@ -13394,7 +13394,7 @@ la personne a été commise avec deux ou plus des circonstances mentionnées aux
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 185
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 45
 
 	**Liens**:
 
@@ -17744,18 +17744,19 @@ l'article 225-14.
 ###### Article 225-16-1
 
 Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui, contre son gré ou
-non, à subir ou à commettre des actes humiliants ou dégradants lors de manifestations ou de réunions liées aux milieux
-scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
+non, à subir ou à commettre des actes humiliants ou dégradants ou à consommer de l'alcool de manière excessive, lors de
+manifestations ou de réunions liées aux milieux scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 7 500
+euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 12
 
 	**Liens**:
 
@@ -20989,34 +20990,32 @@ ans d'emprisonnement et de 300 000 euros d'amende.
 
 ###### Article 227-19
 
-Le fait de provoquer directement un mineur à la consommation habituelle et excessive de boissons alcooliques est puni de deux
-ans d'emprisonnement et de 45 000 euros d'amende.
+Le fait de provoquer directement un mineur à la consommation excessive d'alcool est puni d'un an d'emprisonnement et de 15
+000 € d'amende. 
+
+Le fait de provoquer directement un mineur à la consommation habituelle d'alcool est puni de deux ans d'emprisonnement et de
+45 000 € d'amende.
 
 Lorsqu'il s'agit d'un mineur de quinze ans ou que les faits sont commis dans des établissements d'enseignement ou d'éducation
 ou dans les locaux de l'administration, ainsi que lors des entrées ou sorties des élèves ou du public ou dans un temps très
-voisin de celles-ci, aux abords de ces établissements ou locaux, l'infraction définie par le présent article est punie de
-trois ans d'emprisonnement et de 75 000 euros d'amende.
+voisin de celles-ci, aux abords de ces établissements ou locaux le fait de se rendre coupable de l'une des infractions
+définies au présent article porte au double le maximum des peines encourues.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 48 () JORF 7 mars 2007
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Cité par**:
 
 	  - Loi n°2016-41 du 26 janvier 2016 - art. 12
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de la santé publique - art. L3353-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 12
 
 
 ###### Article 227-21
