@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-02-01
 
 # Partie législative
 
@@ -39932,7 +39932,7 @@ justice et, le cas échéant, le ou les ministres ayant procédé à l'examen pr
 
 ###### Article R226-1
 
-La liste d'appareils prévue par l'article 226-3 est établie par arrêté du Premier ministre. 
+La liste d'appareils et de dispositifs techniques prévue par l'article 226-3 est établie par arrêté du Premier ministre. 
 
 Par dérogation aux dispositions de l'article 1er du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des
 décisions administratives individuelles, les autorisations prévues aux articles R. 226-3 et R. 226-7 sont délivrées par le
@@ -39940,22 +39940,14 @@ Premier ministre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cite**:
 
-	  - Décret n°97-34 du 15 janvier 1997 - art. 1 (V)
-	  - Code pénal - art. 226-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°97-757 du 10 juillet 1997 - art. 1 () JORF 13 juillet 1997
+	  - Décret n°97-34 du 15 janvier 1997 - art. 1
+	  - Code pénal - art. 226-3
 
 	**Cité par**:
 
@@ -39965,8 +39957,12 @@ Premier ministre.
 	  - Code pénal - art. R226-10 (V)
 	  - Code pénal - art. R226-2 (V)
 	  - Code pénal - art. R226-3 (V)
-	  - Code pénal - art. R226-7 (M)
+	  - Code pénal - art. R226-7 (V)
 	  - Code pénal - art. R625-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 
 ###### Article R226-2
@@ -39987,7 +39983,7 @@ Il est institué auprès du Premier ministre une commission consultative compos�
 
 7° Un représentant du ministre chargé des télécommunications ; 
 
-8° Un représentant de la Commission nationale de contrôle des interceptions de sécurité ; 
+8° Un représentant de la Commission nationale de contrôle des techniques de renseignement ; 
 
 9° Un représentant du directeur général de l'Agence nationale des fréquences ; 
 
@@ -40026,31 +40022,30 @@ porter atteinte à l'intimité de la vie privée et au secret des correspondance
 	  - Arrêté du 17 juillet 2015 (V)
 	  - Arrêté du 15 décembre 2015 (V)
 	  - Arrêté du 11 août 2016 (V)
-	  - Code pénal - art. R226-10 (M)
+	  - Code pénal - art. R226-10 (V)
 	  - Code pénal - art. R226-3 (V)
 	  - Code pénal - art. R226-7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+
 	**Cite**:
 
-	  - Code pénal - art. R226-1 (V)
+	  - Code pénal - art. R226-1
 
 
 ###### Article R226-3
 
-La fabrication, l'importation, l'exposition, l'offre, la location ou la vente de tout appareil figurant sur la liste
-mentionnée à l'article R. 226-1 est soumise à une autorisation délivrée par le Premier ministre, après avis de la commission
-mentionnée à l'article R. 226-2.
+La fabrication, l'importation, l'exposition, l'offre, la location ou la vente de tout appareil ou dispositif technique
+figurant sur la liste mentionnée à l'article R. 226-1 est soumise à une autorisation délivrée par le Premier ministre, après
+avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Décret n°97-1184 du 19 décembre 1997 - art. 1 (V)
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
@@ -40065,7 +40060,7 @@ mentionnée à l'article R. 226-2.
 	  - Code pénal - art. R226-1 (V)
 	  - Code pénal - art. R226-10 (V)
 	  - Code pénal - art. R226-11 (V)
-	  - Code pénal - art. R226-12 (M)
+	  - Code pénal - art. R226-12 (V)
 	  - Code pénal - art. R226-2 (V)
 	  - Code pénal - art. R226-4 (V)
 	  - Code pénal - art. R226-5 (V)
@@ -40074,13 +40069,13 @@ mentionnée à l'article R. 226-2.
 
 	**Modifié par**:
 
-	  - Décret n°97-757 du 10 juillet 1997 - art. 3 () JORF 13 juillet 1997
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 
 ###### Article R226-4
 
 La demande d'autorisation est déposée auprès du directeur général de l'Agence nationale de la sécurité des systèmes
-d'information. Elle comporte pour chaque type d'appareil : 
+d'information. Elle comporte pour chaque type d'appareil ou de dispositif technique : 
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
 morale ; 
@@ -40088,9 +40083,11 @@ morale ;
 2° La ou les opérations mentionnées à l'article R. 226-3 pour lesquelles l'autorisation est demandée et, le cas échéant, la
 description des marchés visés ; 
 
-3° L'objet et les caractéristiques techniques du type de l'appareil, accompagnés d'une documentation technique ; 
+3° L'objet et les caractéristiques techniques du type de l'appareil ou du dispositif technique, accompagnés d'une
+documentation technique ; 
 
-4° Le lieu prévu pour la fabrication de l'appareil ou pour les autres opérations mentionnées à l'article R. 226-3 ; 
+4° Le lieu prévu pour la fabrication de l'appareil ou du dispositif technique ou pour les autres opérations mentionnées à
+l'article R. 226-3 ; 
 
 5° L'engagement de se soumettre aux contrôles nécessaires à la vérification du respect des indications fournies dans la
 demande d'autorisation.
@@ -40102,72 +40099,71 @@ demande d'autorisation.
 	  - Décret n°97-757 du 10 juillet 1997 - art. 10 (V)
 	  - Arrêté du 15 janvier 1998 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+
 	**Cite**:
 
-	  - Code pénal - art. R226-3 (V)
+	  - Code pénal - art. R226-3
 
 
 ###### Article R226-5
 
 L'autorisation mentionnée à l'article R. 226-3 est délivrée pour une durée maximale de six ans. 
 
-Elle peut fixer les conditions de réalisation de l'opération et le nombre des appareils concernés.
+Elle peut fixer les conditions de réalisation de l'opération et le nombre des appareils ou des dispositifs techniques
+concernés.
+
+Elle est accordée de plein droit aux services de l'Etat désignés par arrêté du Premier ministre pour la fabrication
+d'appareils ou de dispositifs techniques.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. R226-3 (V)
+	  - Code pénal - art. R226-3
 
 
 ###### Article R226-6
 
-Chaque appareil fabriqué, importé, exposé, offert, loué ou vendu doit porter la référence du type correspondant à la demande
-d'autorisation et un numéro d'identification individuel.
+Chaque appareil ou dispositif technique fabriqué, importé, exposé, offert, loué ou vendu doit porter la référence du type
+correspondant à la demande d'autorisation et un numéro d'identification individuel.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
-
-	**Modifié par**:
-
-	  - Décret n°97-757 du 10 juillet 1997 - art. 5 () JORF 13 juillet 1997
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
 	  - Décret n°97-757 du 10 juillet 1997 - art. 10 (V)
 	  - Arrêté du 15 janvier 1998 - art. ANNEXE (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+
 
 ###### Article R226-7
 
-L'acquisition ou la détention de tout appareil figurant sur la liste mentionnée à l'article R. 226-1 est soumise à une
-autorisation délivrée par le Premier ministre, après avis de la commission mentionnée à l'article R. 226-2.
+L'acquisition ou la détention de tout appareil ou dispositif technique figurant sur la liste mentionnée à l'article R. 226-1
+est soumise à une autorisation délivrée par le Premier ministre, après avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Décret n°97-1184 du 19 décembre 1997 - art. 1 (V)
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
@@ -40183,22 +40179,23 @@ autorisation délivrée par le Premier ministre, après avis de la commission me
 	  - Code pénal - art. R226-11 (V)
 	  - Code pénal - art. R226-12 (V)
 	  - Code pénal - art. R226-2 (V)
-	  - Code pénal - art. R226-9 (M)
+	  - Code pénal - art. R226-9 (V)
 
 	**Modifié par**:
 
-	  - Décret n°97-757 du 10 juillet 1997 - art. 6 () JORF 13 juillet 1997
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 
 ###### Article R226-8
 
-La demande d'autorisation est déposée auprès du     directeur général de l'Agence nationale de la sécurité des systèmes
-d'information. Elle comporte pour chaque type d'appareil : 
+La demande d'autorisation est déposée auprès du directeur général de l'Agence nationale de la sécurité des systèmes
+d'information. Elle comporte pour chaque type d'appareil ou de dispositif technique : 
 
 1° Le nom et l'adresse du demandeur, s'il est une personne physique, ou sa dénomination et son siège, s'il est une personne
 morale ; 
 
-2° Le type de l'appareil et le nombre d'appareils pour la détention desquels l'autorisation est demandée ; 
+2° Le type de l'appareil ou du dispositif technique et le nombre d'appareils ou de dispositifs techniques pour la détention
+desquels l'autorisation est demandée ; 
 
 3° L'utilisation prévue ; 
 
@@ -40211,29 +40208,34 @@ demande d'autorisation.
 
 	  - Décret n°97-757 du 10 juillet 1997 - art. 10 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+
 
 ###### Article R226-9
 
 L'autorisation mentionnée à l'article R. 226-7 est délivrée pour une durée maximale de trois ans. 
 
-Elle peut subordonner l'utilisation des appareils à des conditions destinées à en éviter tout usage abusif. 
+Elle peut subordonner l'utilisation des appareils ou des dispositifs techniques à des conditions destinées à en éviter tout
+usage abusif. 
 
-Elle est accordée de plein droit aux agents ou services de l'Etat habilités à réaliser des interceptions autorisées par la
-loi.
+Elle est accordée de plein droit aux agents ou services de l'Etat pour l'acquisition et la détention des appareils ou
+dispositifs techniques qu'ils sont autorisés à utiliser en application de la loi.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
 	  - Arrêté du 15 janvier 1998 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 	**Cite**:
 
@@ -40243,21 +40245,17 @@ loi.
 ###### Article R226-10
 
 Les titulaires de l'une des autorisations mentionnées à l'article R. 226-3 ne peuvent proposer, céder, louer ou vendre les
-appareils figurant sur la liste prévue à l'article R. 226-1 qu'aux titulaires de l'une des autorisations mentionnées à
-l'article R. 226-3 ou à l'article R. 226-7. 
+appareils ou dispositifs techniques figurant sur la liste prévue à l'article R. 226-1 qu'aux titulaires de l'une des
+autorisations mentionnées à l'article R. 226-3 ou à l'article R. 226-7. 
 
 Ils tiennent un registre retraçant l'ensemble des opérations relatives à ces matériels. Le modèle de ce registre est
 déterminé par arrêté du Premier ministre, pris après avis de la commission mentionnée à l'article R. 226-2.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
@@ -40270,13 +40268,13 @@ déterminé par arrêté du Premier ministre, pris après avis de la commission 
 
 	**Modifié par**:
 
-	  - Décret n°97-757 du 10 juillet 1997 - art. 8 () JORF 13 juillet 1997
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. R226-1 (V)
-	  - Code pénal - art. R226-3 (V)
-	  - Code pénal - art. R226-7 (V)
+	  - Code pénal - art. R226-1
+	  - Code pénal - art. R226-3
+	  - Code pénal - art. R226-7
 
 
 ###### Article R226-11
@@ -40319,29 +40317,31 @@ articles 226-1, 226-15 ou 432-9.
 
 ###### Article R226-12
 
-Les personnes qui fabriquent, importent, détiennent, exposent, offrent, louent ou vendent des appareils figurant sur la liste
-prévue à l'article R. 226-1 doivent se mettre en conformité avec les prescriptions de la présente section en sollicitant les
-autorisations nécessaires dans un délai de trois mois à compter de la publication de l'arrêté prévu à l'article R. 226-1. 
+Les personnes qui fabriquent, importent, détiennent, exposent, offrent, louent ou vendent des appareils ou des dispositifs
+techniques figurant sur la liste prévue à l'article R. 226-1 doivent se mettre en conformité avec les prescriptions de la
+présente section en sollicitant les autorisations nécessaires dans un délai de trois mois à compter de la publication de
+l'arrêté prévu à l'article R. 226-1. 
 
 Si l'autorisation n'est pas délivrée, ces personnes disposent d'un délai d'un mois pour procéder à la destruction de ces
-appareils ou pour les vendre ou les céder à une personne titulaire de l'une des autorisations prévues à l'article R. 226-3 ou
-à l'article R. 226-7. Il en est de même dans les cas d'expiration ou de retrait de l'autorisation.
+appareils ou dispositifs techniques ou pour les vendre ou les céder à une personne titulaire de l'une des autorisations
+prévues à l'article R. 226-3 ou à l'article R. 226-7. Il en est de même dans les cas d'expiration ou de retrait de
+l'autorisation.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
+
+	**Modifié par**:
+
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. 226-1 (V)
+	  - Code pénal - art. 226-1
 	  - Code pénal - art. R226-3 (V)
-	  - Code pénal - art. R226-7 (V)
+	  - Code pénal - art. R226-7
 
 
 ## Livre III : Des crimes et délits contre les biens
@@ -43393,8 +43393,8 @@ ininterrompue peut être établie.
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du 
-décret n° 2015-1272 du 13 octobre 2015.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de
+recueil de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -43413,7 +43413,7 @@ décret n° 2015-1272 du 13 octobre 2015.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1272 du 13 octobre 2015 - art. 7
+	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
 
 	**Cité par**:
 
