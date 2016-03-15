@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-03-09
+Version Consolidée au 2016-03-16
 
 # Partie législative
 
@@ -11197,14 +11197,14 @@ habituellement sur le territoire français, la loi française est applicable par
 
 En cas de condamnation pour un crime ou un délit prévu à la présente section, commis par le père ou la mère sur la personne
 de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité
-parentale, en application des articles 378 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises,
+parentale, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour d'assises,
 celle-ci statue sur cette question sans l'assistance des jurés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 34
+	  - Loi n°2016-297 du 14 mars 2016 - art. 39
 
 	**Cite**:
 
@@ -13880,11 +13880,40 @@ La tentative des délits prévus par les articles 222-27 à 222-30 est punie des
 
 ##### Paragraphe 3 : De l'inceste commis sur les mineurs
 
+###### Article 222-31-1
+
+Les viols et les agressions sexuelles sont qualifiés d'incestueux lorsqu'ils sont commis sur la personne d'un mineur par : 
+
+1° Un ascendant ; 
+
+2° Un frère, une sœur, un oncle, une tante, un neveu ou une nièce ; 
+
+3° Le conjoint, le concubin d'une des personnes mentionnées aux 1° et 2° ou le partenaire lié par un pacte civil de
+solidarité avec l'une des personnes mentionnées aux mêmes 1° et 2°, s'il a sur le mineur une autorité de droit ou de fait.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
+
+	**Cité par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 47 (V)
+	  - Code de procédure pénale - art. 356 (V)
+	  - Code de procédure pénale - art. 706-50 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 378
+	  - Code civil - art. 379-1
+
+
 ###### Article 222-31-2
 
-Lorsque le viol ou l'agression sexuelle est commis contre un mineur par une personne titulaire sur celui-ci de l'autorité
-parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des
-articles 378 et 379-1 du code civil. 
+Lorsque le viol  incestueux ou l'agression sexuelle incestueuse est commis contre un mineur par une personne titulaire sur
+celui-ci de l'autorité parentale, la juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette
+autorité en application des articles 378 et 379-1 du code civil. 
 
 Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
 
@@ -13894,7 +13923,7 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 	**Modifié par**:
 
-	  - Loi n°2013-711 du 5 août 2013 - art. 6
+	  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
 
 	**Cite**:
 
@@ -14795,14 +14824,14 @@ prononcé d'un suivi socio-judiciaire.
 
 En cas de condamnation pour un crime ou un délit prévu aux sections 1, 3 ou 3 bis, commis par le père ou la mère sur la
 personne de son enfant ou de l'autre parent, la juridiction de jugement se prononce sur le retrait total ou partiel de
-l'autorité parentale, en application des articles 378 et 379-1 du code civil. Si les poursuites ont lieu devant la cour
+l'autorité parentale, en application des articles 378, 379 et 379-1 du code civil. Si les poursuites ont lieu devant la cour
 d'assises, celle-ci statue sur cette question sans l'assistance des jurés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 34
+	  - Loi n°2016-297 du 14 mars 2016 - art. 39
 
 	**Cite**:
 
@@ -21403,11 +21432,34 @@ La tentative des délits prévus aux articles 227-25, 227-26 et 227-27 est punie
 	  - Code pénal - art. 227-25
 
 
+###### Article 227-27-2-1
+
+Les infractions définies aux articles 227-25 à 227-27 sont qualifiées d'incestueuses lorsqu'elles sont commises sur la
+personne d'un mineur par : 
+
+1° Un ascendant ; 
+
+2° Un frère, une sœur, un oncle, une tante, un neveu ou une nièce ; 
+
+3° Le conjoint, le concubin d'une des personnes mentionnées aux 1° et 2° ou le partenaire lié par un pacte civil de
+solidarité avec l'une des personnes mentionnées aux mêmes 1° et 2°, s'il a sur le mineur une autorité de droit ou de fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 356 (V)
+
+
 ###### Article 227-27-3
 
-Lorsque l'atteinte sexuelle est commise par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de
-jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378 et 379-1 du code
-civil. 
+Lorsque l'atteinte sexuelle incestueuse est commise par une personne titulaire de l'autorité parentale sur le mineur, la
+juridiction de jugement doit se prononcer sur le retrait total ou partiel de cette autorité en application des articles 378
+et 379-1 du code civil. 
 
 Elle peut alors statuer sur le retrait de cette autorité en ce qu'elle concerne les frères et sœurs mineurs de la victime. 
 
@@ -21417,7 +21469,7 @@ Si les poursuites ont lieu devant la cour d'assises, celle-ci statue sur cette q
 
 	**Modifié par**:
 
-	  - Loi n°2013-711 du 5 août 2013 - art. 6
+	  - Loi n°2016-297 du 14 mars 2016 - art. 44 (V)
 
 	**Cite**:
 
@@ -30314,7 +30366,7 @@ Le fait, pour quiconque ayant connaissance d'un crime dont il est encore possibl
 dont les auteurs sont susceptibles de commettre de nouveaux crimes qui pourraient être empêchés, de ne pas en informer les
 autorités judiciaires ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
-Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs de quinze ans : 
+Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs :
 
 1° Les parents en ligne directe et leurs conjoints, ainsi que les frères et soeurs et leurs conjoints, de l'auteur ou du
 complice du crime ; 
@@ -30328,20 +30380,15 @@ par l'article 226-13.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-297 du 14 mars 2016 - art. 45 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
 
 	**Cité par**:
 
@@ -30382,8 +30429,8 @@ prévue par le titre Ier du présent livre ou un acte de terrorisme prévu par l
 
 ###### Article 434-3
 
-Le fait, pour quiconque ayant eu connaissance de privations, de mauvais traitements ou d'atteintes sexuelles infligés à un
-mineur de quinze ans ou à une personne qui n'est pas en mesure de se protéger en raison de son âge, d'une maladie, d'une
+Le fait, pour quiconque ayant eu connaissance de privations, de mauvais traitements ou d'agressions ou atteintes sexuelles
+infligés à un mineur ou à une personne qui n'est pas en mesure de se protéger en raison de son âge, d'une maladie, d'une
 infirmité, d'une déficience physique ou psychique ou d'un état de grossesse, de ne pas en informer les autorités judiciaires
 ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
@@ -30394,16 +30441,11 @@ dans les conditions prévues par l'article 226-13.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-297 du 14 mars 2016 - art. 46
 
 	**Cité par**:
 
@@ -30411,7 +30453,7 @@ dans les conditions prévues par l'article 226-13.
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
 
 
 ###### Article 434-4
