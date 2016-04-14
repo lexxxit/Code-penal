@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-03-16
+Version Consolidée au 2016-04-15
 
 # Partie législative
 
@@ -2774,14 +2774,17 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 9° L'obligation d'accomplir, à ses frais, un stage de responsabilité parentale, selon les modalités fixées à l'article
 131-35-1 ; 
 
+9° bis L'obligation d'accomplir, le cas échéant à ses frais, un stage de sensibilisation à la lutte contre l'achat d'actes
+sexuels ;
+
 10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été
 commise ; 
 
 11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal ;
 
-12°  Le retrait pour une durée d'un an au plus des titres de conduite en mer  des navires de plaisance à moteur et, à
-l'encontre de toute personne  embarquée sur un navire étranger, l'interdiction pour un an au plus de  pratiquer la navigation
-dans les eaux territoriales ou les eaux  intérieures maritimes françaises.
+12° Le retrait pour une durée d'un an au plus des titres de conduite en mer des navires de plaisance à moteur et, à
+l'encontre de toute personne embarquée sur un navire étranger, l'interdiction pour un an au plus de pratiquer la navigation
+dans les eaux territoriales ou les eaux intérieures maritimes françaises.
 
 **Liens relatifs à cet article**
 
@@ -2819,7 +2822,7 @@ dans les eaux territoriales ou les eaux  intérieures maritimes françaises.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 13
+	  - Loi n°2016-444 du 13 avril 2016 - art. 21
 
 	**Cite**:
 
@@ -4565,8 +4568,9 @@ L'affichage et la diffusion peuvent être ordonnés cumulativement.
 ###### Article 131-35-1
 
 Lorsqu'elle est encourue à titre de peine complémentaire, l'obligation d'accomplir un stage de sensibilisation à la sécurité
-routière, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ou un stage de responsabilité parentale
-est exécutée dans un délai de six mois à compter de la date à laquelle la condamnation est définitive.
+routière, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, un stage de sensibilisation à la lutte
+contre l'achat d'actes sexuels ou un stage de responsabilité parentale est exécutée dans un délai de six mois à compter de la
+date à laquelle la condamnation est définitive.
 
 La juridiction précise si le stage est exécuté aux frais du condamné. Le stage de sensibilisation à la sécurité routière est
 toujours exécuté aux frais du condamné.
@@ -4578,7 +4582,7 @@ République.
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -4594,7 +4598,7 @@ République.
 	  - Code pénal - art. 222-45 (V)
 	  - Code pénal - art. 223-18 (V)
 	  - Code pénal - art. 224-9 (V)
-	  - Code pénal - art. 225-20 (M)
+	  - Code pénal - art. 225-20 (V)
 	  - Code pénal - art. 227-29 (V)
 	  - Code pénal - art. 227-32 (V)
 	  - Code pénal - art. 311-14 (V)
@@ -4604,7 +4608,7 @@ République.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+	  - Loi n°2016-444 du 13 avril 2016 - art. 21
 
 
 ###### Article 131-36
@@ -11951,6 +11955,9 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
+l'exercice de cette activité ;
+
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
@@ -11979,7 +11986,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cité par**:
 
@@ -12212,6 +12219,9 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
+l'exercice de cette activité ;
+
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
@@ -12259,7 +12269,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cite**:
 
@@ -12345,6 +12355,9 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
+l'exercice de cette activité ;
+
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus
@@ -12394,7 +12407,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cite**:
 
@@ -12470,6 +12483,9 @@ race ou une religion déterminée ;
 
 5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
 
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
+l'exercice de cette activité ;
+
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
 6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la
@@ -12532,7 +12548,7 @@ précédent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cite**:
 
@@ -12577,6 +12593,9 @@ nationale ou devant la Cour pénale internationale ;
 race ou une religion déterminée ; 
 
 5° ter A raison de l'orientation ou identité sexuelle de la victime ; 
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans
+l'exercice de cette activité ;
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ; 
 
@@ -12630,7 +12649,7 @@ deux des circonstances prévues aux 1° et suivants du présent article. Les pei
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cite**:
 
@@ -13636,13 +13655,16 @@ destination d'un public non déterminé, d'un réseau de communication électron
 solidarité ; 
 
 12° Lorsqu'il est commis par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
-stupéfiants.
+stupéfiants ;
+
+13° Lorsqu'il est commis, dans l'exercice de cette activité, sur une personne qui se livre à la prostitution, y compris de
+façon occasionnelle.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cité par**:
 
@@ -13756,19 +13778,22 @@ fait ;
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ; 
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à
-destination d'un public non déterminé, d'un réseau de communication électronique   ; 
+destination d'un public non déterminé, d'un réseau de communication électronique ; 
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil
 de solidarité ; 
 
 8° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits
-stupéfiants.
+stupéfiants ;
+
+9° Lorsqu'elle est commise, dans l'exercice de cette activité, sur une personne qui se livre à la prostitution, y compris de
+façon occasionnelle.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 150
+	  - Loi n°2016-444 du 13 avril 2016 - art. 11
 
 	**Cite**:
 
@@ -17130,36 +17155,6 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 	  - Code pénal - art. 132-23 (V)
 
 
-###### Article 225-10-1
-
-Le fait, par tout moyen, y compris par une attitude même passive, de procéder publiquement au racolage d'autrui en vue de
-l'inciter à des relations sexuelles en échange d'une rémunération ou d'une promesse de rémunération est puni de deux mois
-d'emprisonnement et de 3 750 euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 du 22 juillet 1992
-
-	**Cité par**:
-
-	  - Décret n°2001-583 du 5 juillet 2001 - art. 7 (VT)
-	  - Décret n°2006-1411 du 20 novembre 2006 - art. 7 (VT)
-	  - Code de procédure pénale - art. 398-1 (M)
-	  - Code de procédure pénale - art. R40-27 (V)
-	  - Code pénal - art. 225-25 (V)
-
-	**Créé par**:
-
-	  - Loi n°2003-239 2003-03-18 art. 50 2° JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 50
-
-	**Abrogé par**:
-
-	  - Loi n°2016-444 du 13 avril 2016 - art. 15
-
-
 ###### Article 225-11
 
 La tentative des délits prévus par la présente section est punie des mêmes peines.
@@ -17255,22 +17250,26 @@ prévues par l'article 131-39.
 
 ##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.
 
+##### Section 2 bis : Du recours à la prostitution
+
 ###### Article 225-12-1
 
-Le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de rémunération, des
-relations de nature sexuelle de la part d'un mineur qui se livre à la prostitution, y compris de façon occasionnelle, est
-puni de trois ans d'emprisonnement et 45 000 euros d'amende.
+Lorsqu'il est commis en récidive dans les conditions prévues au second alinéa de l'article 132-11, le fait de solliciter,
+d'accepter ou d'obtenir des relations de nature sexuelle d'une personne qui se livre à la prostitution, y compris de façon
+occasionnelle, en échange d'une rémunération, d'une promesse de rémunération, de la fourniture d'un avantage en nature ou de
+la promesse d'un tel avantage est puni de 3 750 € d'amende. 
 
-Est puni des mêmes peines le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de
-rémunération, des relations sexuelles de la part d'une personne qui se livre à la prostitution, y compris de façon
-occasionnelle, lorsque cette personne présente une particulière vulnérabilité, apparente ou connue de son auteur, due à une
-maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse.
+Est puni de trois ans d'emprisonnement et de 45 000 € d'amende le fait de solliciter, d'accepter ou d'obtenir, en échange
+d'une rémunération, d'une promesse de rémunération, de la fourniture d'un avantage en nature ou de la promesse d'un tel
+avantage, des relations de nature sexuelle de la part d'une personne qui se livre à la prostitution, y compris de façon
+occasionnelle, lorsque cette personne est mineure ou présente une particulière vulnérabilité, apparente ou connue de son
+auteur, due à une maladie, à une infirmité, à un handicap ou à un état de grossesse.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -17290,13 +17289,12 @@ maladie, à une infirmité, à une déficience physique ou psychique ou à un é
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 50 3°, 4° JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 50
+	  - Loi n°2016-444 du 13 avril 2016 - art. 20
 
 
 ###### Article 225-12-2
 
-Les peines sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende :
+Les peines prévues au second alinéa de l'article 225-12-1 sont portées à cinq ans d'emprisonnement et 75 000 euros d'amende :
 
 1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de plusieurs personnes ;
 
@@ -17308,13 +17306,14 @@ destination d'un public non déterminé, d'un réseau de communication ;
 4° Lorsque l'auteur des faits a délibérément ou par imprudence mis la vie de la personne en danger ou a commis contre elle
 des violences.
 
-Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsqu'il s'agit d'un mineur de quinze ans.
+Les peines prévues au second alinéa de l'article 225-12-1 sont portées à sept ans d'emprisonnement et 100 000 euros d'amende
+lorsqu'il s'agit d'un mineur de quinze ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -17325,31 +17324,31 @@ Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende 
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 50
-	  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
+	  - Loi n°2016-444 du 13 avril 2016 - art. 20
 
 
 ###### Article 225-12-3
 
-Dans le cas où les délits prévus par les articles 225-12-1 et 225-12-2 sont commis à l'étranger par un Français ou par une
-personne résidant habituellement sur le territoire français, la loi française est applicable par dérogation au deuxième
-alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas applicables.
+Dans le cas où les délits prévus au second alinéa de l'article 225-12-1 et à l'article 225-12-2 sont commis à l'étranger par
+un Français ou par une personne résidant habituellement sur le territoire français, la loi française est applicable par
+dérogation au deuxième alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article 113-8 ne sont pas
+applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 50 3° JORF 19 mars 2003
+	  - Loi n°2016-444 du 13 avril 2016 - art. 20
 
 	**Cite**:
 
-	  - Code pénal - art. 113-6 (V)
-	  - Code pénal - art. 113-8 (V)
-	  - Code pénal - art. 225-12-1 (V)
+	  - Code pénal - art. 113-6
+	  - Code pénal - art. 113-8
+	  - Code pénal - art. 225-12-1
 
 
 ###### Article 225-12-4
@@ -18026,10 +18025,10 @@ chapitre encourent également les peines complémentaires suivantes :
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 soit, pour les infractions prévues par les articles 225-4-3
-, 225-4-4, 225-5, 225-6, 225-7, 225-7-1, 225-8, 225-9, 225-10, 225-10-1, 225-12-1 et 225-12-2, d'exercer une profession
-commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou
-indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société
-commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+, 225-4-4, 225-5, 225-6, 225-7, 225-7-1, 225-8, 225-9, 225-10, 225-12-1 et 225-12-2, d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
+interdictions d'exercice peuvent être prononcées cumulativement ; 
 
 3° L'interdiction de séjour ; 
 
@@ -18044,7 +18043,10 @@ quelconque participation financière ;
 7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou
 bénévole impliquant un contact habituel avec des mineurs ; 
 
-8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1. 
+8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1 ;
+
+9° L'obligation d'accomplir, le cas échéant à ses frais, un stage de sensibilisation à la lutte contre l'achat d'actes
+sexuels, selon les modalités fixées à l'article 131-35-1.
 
 II. - En cas de condamnation pour les infractions prévues aux sections 1 bis, 2 et 2 ter du présent chapitre, le prononcé de
 la peine complémentaire prévue au 5° du I est obligatoire et la durée de l'interdiction est portée à dix ans au plus. 
@@ -18057,15 +18059,14 @@ de la personnalité de son auteur.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 64
-	  - Loi n°2012-304 du 6 mars 2012 - art. 10
-	  - Loi n°2012-304 du 6 mars 2012 - art. 20
+	  - Loi n°2016-444 du 13 avril 2016 - art. 16
+	  - Loi n°2016-444 du 13 avril 2016 - art. 21
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26
 	  - Code pénal - art. 131-27
-	  - Code pénal - art. 131-35-1
+	  - Code pénal - art. 131-35-1 (V)
 	  - Code pénal - art. 225-4-3
 	  - Code pénal - art. 225-4-4
 
@@ -18165,37 +18166,37 @@ restaurant.
 
 ###### Article 225-24
 
-Les personnes physiques ou morales coupables de l'une des infractions prévues par les articles 225-5 à 225-10 encourent
-également : 
+Les personnes physiques ou morales coupables de l'une des infractions prévues par les articles 225-4-1 à 225-4-9 et 225-5 à
+225-10 encourent également : 
 
 1° La confiscation des biens meubles ou immeubles, divis ou indivis ayant servi directement ou indirectement à commettre
-l'infraction ainsi que les produits de l'infraction détenus par une personne autre que la personne se livrant à la
-prostitution elle-même ; 
+l'infraction ainsi que les produits de l'infraction détenus par une personne autre que la personne victime de la traite des
+êtres humains ou se livrant à la prostitution elle-même ; 
 
 2° Le remboursement des frais de rapatriement de la ou des victimes.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-768 du 9 juillet 2010 - art. 13
 
 	**Cité par**:
 
 	  - Loi n°2016-444 du 13 avril 2016 - art. 7 (M)
 	  - Code de procédure pénale - art. 706-163 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 7 (V)
+
 	**Cite**:
 
-	  - Code pénal - art. 225-5 (V)
+	  - Code pénal - art. 225-5
 
 
 ###### Article 225-25
 
-Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre, à
-l'exception de celle prévue par l'article 225-10-1, encourent également la peine complémentaire de confiscation de tout ou
-partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi, dont elles ont la libre
-disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+Les personnes physiques et morales reconnues coupables des infractions prévues aux sections 1 bis et 2 du présent chapitre
+encourent également la peine complémentaire de confiscation de tout ou partie des biens leur appartenant ou, sous réserve des
+droits du propriétaire de bonne foi, dont elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles,
+divis ou indivis.
 
 **Liens relatifs à cet article**
 
@@ -18203,13 +18204,9 @@ disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis
 
 	  - Loi n°92-684 du 22 juillet 1992
 
-	**Créé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 37
-
 	**Modifié par**:
 
-	  - Loi n°2012-409 du 27 mars 2012 - art. 13 (V)
+	  - Loi n°2016-444 du 13 avril 2016 - art. 16
 
 	**Cité par**:
 
@@ -18217,7 +18214,7 @@ disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis
 
 	**Cite**:
 
-	  - Code pénal - art. 225-10-1 (V)
+	  - Code pénal - art. 225-10-1
 
 
 #### Chapitre VI : Des atteintes à la personnalité
@@ -36849,6 +36846,27 @@ prescriptions fixées par décret en Conseil d'Etat est puni des peines prévues
 	  - Code pénal - art. 716-16 (V)
 	  - Code pénal - art. R716-1 (V)
 	  - Code rural - art. L915-7 (T)
+
+
+## Livre VI : Des contraventions
+
+### Titre unique : Du recours à la prostitution
+
+###### Article 611-1
+
+Le fait de solliciter, d'accepter ou d'obtenir des relations de nature sexuelle d'une personne qui se livre à la
+prostitution, y compris de façon occasionnelle, en échange d'une rémunération, d'une promesse de rémunération, de la
+fourniture d'un avantage en nature ou de la promesse d'un tel avantage est puni de l'amende prévue pour les contraventions de
+la 5e classe. 
+
+Les personnes physiques coupables de la contravention prévue au présent article encourent également une ou plusieurs des
+peines complémentaires mentionnées à l'article 131-16 et au second alinéa de l'article 131-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-444 du 13 avril 2016 - art. 20
 
 
 ## Livre VII : Dispositions relatives à l'outre-mer
