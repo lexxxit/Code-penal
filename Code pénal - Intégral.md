@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-04-22
 
 # Partie législative
 
@@ -17248,8 +17248,6 @@ prévues par l'article 131-39.
 	  - Code pénal - art. 225-5 (V)
 
 
-##### Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.
-
 ##### Section 2 bis : Du recours à la prostitution
 
 ###### Article 225-12-1
@@ -26777,6 +26775,8 @@ La tentative des délits prévus au premier alinéa de l'article 413-10 et à l'
 
 ##### Section 3 : Des atteintes aux services spécialisés  de renseignement
 
+##### Section 3 : Des atteintes à certains services ou unités spécialisés
+
 ###### Article 413-13
 
 La révélation de toute information qui pourrait conduire, directement ou indirectement, à la découverte de l'usage, en
@@ -26822,6 +26822,31 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	  - Code de la sécurité intérieure - art. L811-2
 	  - Code de la sécurité intérieure - art. L811-4
 	  - Code de la sécurité intérieure - art. L861-2
+
+
+###### Article 413-14
+
+La révélation ou la divulgation, par quelque moyen que ce soit, de toute information qui pourrait conduire, directement ou
+indirectement, à l'identification d'une personne comme membre des unités des forces spéciales désignées par arrêté du
+ministre de la défense ou des unités d'intervention spécialisées dans la lutte contre le terrorisme désignées par arrêté du
+ministre de l'intérieur est punie de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+
+Les deuxième à avant-dernier alinéas de l'article 413-13 sont applicables à cette révélation ou à cette divulgation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 22
+
+	**Cité par**:
+
+	  - Arrêté du 20 octobre 2016 - art. 1 (V)
+	  - Code de procédure pénale - art. 656-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 413-13 (V)
 
 
 #### Chapitre IV : Dispositions particulières
@@ -29098,13 +29123,13 @@ municipal ne peut décider de se réunir à huis clos.
 
 ###### Article 432-13
 
-Est puni de            trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du
-produit tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire
-d'une fonction exécutive locale, fonctionnaire ou agent d'une administration publique, dans le cadre des fonctions qu'elle a
-effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats
-de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement à
-l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis sur
-de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
+Est puni de trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du produit
+tiré de l'infraction, le fait, par une personne ayant été chargée, en tant que membre du Gouvernement, titulaire d'une
+fonction exécutive locale, fonctionnaire, militaire ou agent d'une administration publique, dans le cadre des fonctions
+qu'elle a effectivement exercées, soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des
+contrats de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer directement
+à l'autorité compétente des décisions relatives à des opérations réalisées par une entreprise privée ou de formuler un avis
+sur de telles décisions, de prendre ou de recevoir une participation par travail, conseil ou capitaux dans l'une de ces
 entreprises avant l'expiration d'un délai de trois ans suivant la cessation de ces fonctions. 
 
 Est punie des mêmes peines toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au
@@ -29161,7 +29186,7 @@ sont reçus par dévolution successorale.
 
 	**Modifié par**:
 
-	  - Loi n°2013-907 du 11 octobre 2013 - art. 28
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3
 
 
 ##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public
