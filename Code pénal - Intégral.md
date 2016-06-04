@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -235,6 +235,25 @@ territoire.
 
 	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+
+###### Article 113-2-1
+
+Tout crime ou tout délit réalisé au moyen d'un réseau de communication électronique, lorsqu'il est tenté ou commis au
+préjudice d'une personne physique résidant sur le territoire de la République ou d'une personne morale dont le siège se situe
+sur le territoire de la République, est réputé commis sur le territoire de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 28
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 382 (V)
+	  - Code de procédure pénale - art. 43 (V)
+	  - Code de procédure pénale - art. 52 (VT)
 
 
 ###### Article 113-3
@@ -1548,6 +1567,30 @@ manifestement illégal.
 	  - Code de la santé publique - art. L3411-8 (V)
 
 
+###### Article 122-4-1
+
+N'est  pas pénalement responsable le fonctionnaire de la police nationale, le  militaire de la gendarmerie nationale, le
+militaire déployé sur le  territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la
+défense  ou l'agent des douanes qui fait un usage absolument nécessaire et  strictement proportionné de son arme dans le but
+exclusif d'empêcher la  réitération, dans un temps rapproché, d'un ou plusieurs meurtres ou  tentatives de meurtre venant
+d'être commis, lorsque l'agent a des  raisons réelles et objectives d'estimer que cette réitération est  probable au regard
+des informations dont il dispose au moment où il fait  usage de son arme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 51
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1321-1
+
+
 ###### Article 122-5
 
 N'est pas pénalement responsable la personne qui, devant une atteinte injustifiée envers elle-même ou autrui, accomplit, dans
@@ -1961,9 +2004,15 @@ d'Etat, et qui a pour objet de lui rappeler les valeurs républicaines de tolér
 lesquelles est fondée la société. La juridiction précise si ce stage, dont le coût ne peut excéder celui des amendes
 contraventionnelles de la 3e classe, doit être effectué aux frais du condamné.
 
-Cette peine ne peut être prononcée contre le prévenu qui la refuse ou n'est pas présent à l'audience.
+Cette peine ne peut être prononcée contre le prévenu qui la refuse ou n'est pas présent à l'audience. Toutefois, cette peine
+peut être prononcée lorsque le prévenu, absent à l'audience, a fait connaître par écrit son accord et qu'il est représenté
+par son avocat.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 (V)
 
 	**Cité par**:
 
@@ -1980,13 +2029,9 @@ Cette peine ne peut être prononcée contre le prévenu qui la refuse ou n'est p
 	  - Code pénal - art. R131-48 (V)
 	  - Code pénal - art. R132-45 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-683 du 22 juillet 1992 (V)
-
-	**Créé par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 44 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2016-731 du 3 juin 2016 - art. 106
 
 
 ###### Article 131-6
@@ -2116,6 +2161,9 @@ La peine de travail d'intérêt général ne peut être prononcée contre le pr�
 l'audience. Le président du tribunal, avant le prononcé du jugement, informe le prévenu de son droit de refuser
 l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
+La peine de travail d'intérêt général peut être prononcée lorsque le prévenu, absent à l'audience, a fait connaître par écrit
+son accord et qu'il est représenté par son avocat.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2154,7 +2202,7 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 	  - Code des transports - art. L5531-46 (VD)
 	  - Code pénal - art. 131-36 (V)
 	  - Code pénal - art. 131-4-1 (VD)
-	  - Code pénal - art. 131-9 (VD)
+	  - Code pénal - art. 131-9 (V)
 	  - Code pénal - art. 132-5 (V)
 	  - Code pénal - art. 434-42 (M)
 	  - Code pénal - art. R131-12 (M)
@@ -2162,7 +2210,7 @@ l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 21
+	  - Loi n°2016-731 du 3 juin 2016 - art. 107
 
 
 ###### Article 131-8-1
@@ -4609,6 +4657,18 @@ République.
 	**Modifié par**:
 
 	  - Loi n°2016-444 du 13 avril 2016 - art. 21
+
+
+###### Article 131-35-2
+
+Lorsqu'une peine consiste dans l'obligation d'accomplir un stage, la durée de celui-ci ne peut excéder un mois et son coût,
+s'il est à la charge du condamné, ne peut excéder le montant de l'amende encourue pour les contraventions de la 3e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 108
 
 
 ###### Article 131-36
@@ -7569,6 +7629,22 @@ sont considérés, au regard de la récidive, comme une même infraction.
 	  - Code de procédure pénale - art. 465-1 (V)
 
 
+###### Article 132-16-4-1
+
+Les délits relatifs au trafic d'armes prévus aux articles 222-52 à 222-67 sont considérés, au regard de la récidive, comme
+une même infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 222-52 (V)
+
+
 ###### Article 132-16-5
 
 L'état de récidive légale peut être relevé d'office par la juridiction de jugement même lorsqu'il n'est pas mentionné dans
@@ -7663,7 +7739,7 @@ inadéquate ; dans ce cas, la peine d'emprisonnement doit, si la personnalité e
 sauf impossibilité matérielle, faire l'objet d'une des mesures d'aménagement prévues aux sous-sections 1 et 2 de la section 2
 du présent chapitre. 
 
-Lorsque le tribunal correctionnel prononce une peine d'emprisonnement sans sursis ou ne faisant pas l'objet d'une des mesures
+Lorsque le tribunal correctionnel prononce une peine d'emprisonnement sans sursis et ne faisant pas l'objet d'une des mesures
 d'aménagement prévues aux mêmes sous-sections 1 et 2, il doit spécialement motiver sa décision, au regard des faits de
 l'espèce et de la personnalité de leur auteur ainsi que de sa situation matérielle, familiale et sociale.
 
@@ -7675,15 +7751,20 @@ l'espèce et de la personnalité de leur auteur ainsi que de sa situation matér
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 3
+	  - Loi n°2016-731 du 3 juin 2016 - art. 110
 
 
 ###### Article 132-20
 
 Lorsqu'une infraction est punie d'une peine d'amende, la juridiction peut prononcer une amende d'un montant inférieur à celle
-qui est encourue.
+qui est encourue. 
 
-Le montant de l'amende est déterminé en tenant compte des ressources et des charges de l'auteur de l'infraction.
+Le montant de l'amende est déterminé en tenant compte des ressources et des charges de l'auteur de l'infraction. 
+
+Les amendes prononcées en matière contraventionnelle, correctionnelle et criminelle, à l'exception des amendes forfaitaires,
+peuvent faire l'objet d'une majoration, dans la limite de 10 % de leur montant, perçue lors de leur recouvrement. Cette
+majoration, prononcée dans les conditions prévues à l'article 707-6 du code de procédure pénale, est destinée à financer
+l'aide aux victimes.
 
 **Liens relatifs à cet article**
 
@@ -7693,7 +7774,7 @@ Le montant de l'amende est déterminé en tenant compte des ressources et des ch
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 3
+	  - Loi n°2016-731 du 3 juin 2016 - art. 82
 
 	**Cité par**:
 
@@ -8757,7 +8838,11 @@ sollicite. La juridiction peut préciser les modalités de prise en charge des f
 20° Accomplir à ses frais un stage de responsabilisation pour la prévention et la lutte contre les violences au sein du
 couple et sexistes ;
 
-21° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger.
+21° Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger ;
+
+22° Respecter les conditions d'une prise en charge sanitaire, sociale, éducative ou psychologique, destinée à permettre sa
+réinsertion et l'acquisition des valeurs de la citoyenneté ; cette prise en charge peut, le cas échéant, intervenir au sein
+d'un établissement d'accueil adapté dans lequel le condamné est tenu de résider.
 
 **Liens relatifs à cet article**
 
@@ -8807,8 +8892,7 @@ couple et sexistes ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 10
-	  - Loi n°2014-896 du 15 août 2014 - art. 9
+	  - Loi n°2016-731 du 3 juin 2016 - art. 10
 
 	**Cite**:
 
@@ -9029,7 +9113,8 @@ qui ne peut excéder dix-huit mois. L'exécution du travail d'intérêt généra
 obligations. 
 
 Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général ne peut être ordonné lorsque le prévenu le refuse
-ou n'est pas présent à l'audience. 
+ou n'est pas présent à l'audience. Toutefois, ce sursis peut être ordonné lorsque le prévenu, absent à l'audience, a fait
+connaître par écrit son accord et qu'il est représenté par son avocat. 
 
 Les modalités d'application de l'obligation d'accomplir un travail d'intérêt général sont régies par les dispositions des
 articles 131-22 à 131-24. Dès l'accomplissement de la totalité du travail d'intérêt général, la condamnation est considérée
@@ -9041,11 +9126,11 @@ comme non avenue sauf s'il a été fait application des dispositions prévues au
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
 	  - Arrêté du 12 décembre 2008 (V)
-	  - Code pénal - art. 132-57 (VD)
+	  - Code pénal - art. 132-57 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2014-896 du 15 août 2014 - art. 21
+	  - Loi n°2016-731 du 3 juin 2016 - art. 109
 
 	**Cite**:
 
@@ -14577,8 +14662,8 @@ l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisatio
 
 ###### Article 222-44
 
-I.-Les personnes physiques coupables des infractions prévues au présent chapitre encourent également les peines
-complémentaires suivantes : 
+I.-Les personnes physiques coupables des infractions prévues aux sections 1 à 4 du présent chapitre encourent également les
+peines complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
@@ -14663,7 +14748,7 @@ la personnalité de son auteur.
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 50
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Liens**:
 
@@ -14969,6 +15054,342 @@ restaurant.
 	**Cite**:
 
 	  - Code pénal - art. 222-50 (V)
+
+
+##### Section 7 : Du trafic d'armes
+
+###### Article 222-52
+
+Le fait d'acquérir, de détenir ou de céder des matériels de guerre, armes, éléments d'armes ou munitions relevant des
+catégories A ou B, sans l'autorisation prévue au I de l'article L. 2332-1 du code de la défense, en violation des articles L.
+312-1 à L. 312-4, L. 312-4-3, L. 314-2 et L. 314-3 du code de la sécurité intérieure, est puni de cinq ans d'emprisonnement
+et de 75 000 € d'amende. 
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende si l'auteur des faits a été antérieurement
+condamné pour une ou plusieurs infractions mentionnées aux articles 706-73 et 706-73-1 du code de procédure pénale à une
+peine égale ou supérieure à un an d'emprisonnement ferme. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise par au moins deux
+personnes agissant en qualité d'auteur ou de complice.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 46 (V)
+	  - Code de la défense. - art. L2339-14 (V)
+	  - Code de la sécurité intérieure - art. L312-3 (V)
+	  - Code de procédure pénale - art. 706-55 (V)
+	  - Code de procédure pénale - art. 706-73 (V)
+	  - Code pénal - art. 132-16-4-1 (V)
+	  - Code pénal - art. 222-60 (V)
+	  - Code pénal - art. 321-6-1 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la sécurité intérieure - art. L312-1 (V)
+	  - Code de la sécurité intérieure - art. L314-2 (V)
+
+
+###### Article 222-53
+
+Le fait de détenir un dépôt d'armes ou de munitions des catégories A ou B est puni de cinq ans d'emprisonnement et de 75 000
+€ d'amende. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende si l'auteur des faits a été antérieurement
+condamné pour une ou plusieurs infractions mentionnées aux articles 706-73 et 706-73-1 du code de procédure pénale à une
+peine égale ou supérieure à un an d'emprisonnement ferme. 
+
+Les mêmes peines sont applicables lorsque l'infraction est commise par au moins deux personnes agissant en qualité d'auteur
+ou de complice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-73 (V)
+
+
+###### Article 222-54
+
+Le fait de porter ou de transporter, hors de son domicile, sans motif légitime, et sous réserve des exceptions résultant des
+articles L. 315-1 et L. 315-2 du code de la sécurité intérieure, des matériels de guerre, armes, éléments d'armes ou
+munitions relevant des catégories A ou B, même en en étant régulièrement détenteur, est puni de sept ans d'emprisonnement et
+de 100 000 € d'amende. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende si l'auteur des faits a été antérieurement
+condamné pour une ou plusieurs infractions mentionnées aux articles 706-73 et 706-73-1 du code de procédure pénale à une
+peine égale ou supérieure à un an d'emprisonnement ferme. 
+
+Les mêmes peines sont applicables si deux personnes au moins sont trouvées ensemble porteuses de matériels de guerre, armes,
+éléments d'armes ou munitions ou si le transport est effectué par au moins deux personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 78-2-2 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-73 (V)
+	  - Code de la sécurité intérieure - art. L315-1 (V)
+
+
+###### Article 222-55
+
+Le fait pour une personne habilitée ou autorisée à pénétrer dans un établissement scolaire de pénétrer ou de se maintenir
+dans un tel établissement en étant porteuse d'une arme sans motif légitime est puni de sept ans d'emprisonnement et de 100
+000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+
+###### Article 222-56
+
+Le fait de frauduleusement supprimer, masquer, altérer ou modifier de façon quelconque les marquages, poinçons, numéros de
+série, emblèmes ou signes de toute nature apposés ou intégrés sur des matériels mentionnés à l'article L. 311-2 du code de la
+sécurité intérieure, des armes ou leurs éléments essentiels afin de garantir leur identification de manière certaine suivant
+les modalités fixées par un décret en Conseil d'Etat est puni de cinq ans d'emprisonnement et de 75 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cité par**:
+
+	  - Code pénal - art. 222-57 (V)
+	  - Code pénal - art. 222-59 (V)
+	  - Code pénal - art. 222-60 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L311-2 (V)
+
+
+###### Article 222-57
+
+L'acquisition, la vente, la livraison ou le transport de matériels, d'armes et de leurs éléments essentiels mentionnés à
+l'article L. 311-2 du code de la sécurité intérieure dépourvus des marquages, poinçons, numéros de série, emblèmes ou signes
+de toute nature apposés ou intégrés sur les matériels, les armes ou leurs éléments essentiels, nécessaires à leur
+identification de manière certaine suivant les modalités fixées par le décret en Conseil d'Etat prévu à l'article 222-56 du
+présent code, ou dont les marquages, poinçons, numéros de série, emblèmes ou signes de toute nature ont été supprimés,
+masqués, altérés ou modifiés, est puni de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
+organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 222-56 (V)
+	  - Code de la sécurité intérieure - art. L311-2 (V)
+
+
+###### Article 222-58
+
+Le fait de contrefaire un poinçon d'épreuve ou d'utiliser frauduleusement des poinçons contrefaits est puni de cinq ans
+d'emprisonnement et de 75 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+
+###### Article 222-59
+
+Le fait de constituer ou de reconstituer une arme est puni de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+
+Est puni des mêmes peines le fait de modifier une arme et d'en changer ainsi la catégorie au sens de l'article L. 311-2 du
+code de la sécurité intérieure ou de détenir en connaissance de cause une arme ayant fait l'objet d'une modification
+mentionnée à l'article 222-56 du présent code. 
+
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende si l'auteur des faits a été antérieurement
+condamné pour une ou plusieurs infractions mentionnées aux articles 706-73 et 706-73-1 du code de procédure pénale à une
+peine égale ou supérieure à un an d'emprisonnement ferme. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
+organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 222-56 (V)
+	  - Code de procédure pénale - art. 706-73 (V)
+	  - Code de la sécurité intérieure - art. L311-2 (V)
+
+
+###### Article 222-60
+
+La tentative des délits prévus aux articles 222-52 et 222-56 à 222-58 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 222-52 (V)
+	  - Code pénal - art. 222-56 (V)
+
+
+###### Article 222-61
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2, des infractions
+définies à la présente section encourent, outre l'amende suivant les modalités prévues à l'article 131-38, les peines prévues
+à l'article 131-39. 
+
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+
+
+###### Article 222-62
+
+I.-Les personnes physiques coupables des infractions prévues à la présente section encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction de détenir ou de porter, pour une durée maximale de quinze ans, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition. 
+
+II.-En cas de condamnation pour les infractions prévues à la présente section, le prononcé des peines complémentaires est
+obligatoire. Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines,
+en considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+
+###### Article 222-63
+
+Pour les infractions prévues à la présente section, peut être prononcée à titre de peine complémentaire l'interdiction de
+séjour, suivant les modalités prévues à l'article 131-31.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 131-31 (V)
+
+
+###### Article 222-64
+
+L'interdiction du territoire français peut être prononcée dans les conditions prévues à l'article 131-30, soit à titre
+définitif, soit pour une durée maximale de dix ans, à l'encontre de tout étranger coupable de l'une des infractions prévues à
+la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30 (V)
+
+
+###### Article 222-65
+
+Les personnes physiques coupables d'une infraction prévue à la présente section peuvent également être condamnées à un suivi
+socio-judiciaire, selon les modalités prévues aux articles 131-36-1 à 131-36-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (V)
+
+
+###### Article 222-66
+
+Dans les cas prévus à la présente section, doit être prononcée, à l'encontre des personnes physiques et des personnes
+morales, la confiscation des installations, des matériels et de tout bien ayant servi, directement ou indirectement, à la
+commission de l'infraction, ainsi que de tout produit provenant de celle-ci, à quelque personne qu'ils appartiennent et en
+quelque lieu qu'ils se trouvent, dès lors que leur propriétaire ne pouvait en ignorer l'origine ou l'utilisation
+frauduleuse. 
+
+Peut également être prononcée la confiscation de tout ou partie des biens du condamné ou, sous réserve des droits du
+propriétaire de bonne foi, dont il a la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+
+###### Article 222-67
+
+L'article L. 317-1 du code de la sécurité intérieure est applicable à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L317-1 (V)
 
 
 #### Chapitre III : De la mise en danger de la personne
@@ -18319,23 +18740,17 @@ Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende :
 1° La fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs
 techniques de nature à permettre la réalisation d'opérations pouvant constituer l'infraction prévue par le second alinéa de
 l'article 226-15 ou qui, conçus pour la détection à distance des conversations, permettent de réaliser l'infraction prévue
-par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue aux articles 706-102-1 du code de
-procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des conditions fixées
-par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence d'autorisation
-ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions fixées par cette
-autorisation ; 
+par l'article 226-1 ou ayant pour objet la captation de données informatiques prévue aux articles    706-102-1 et 706-102-2
+du code de procédure pénale et L. 853-2 du code de la sécurité intérieure et figurant sur une liste dressée dans des
+conditions fixées par décret en Conseil d'Etat, lorsque ces faits sont commis, y compris par négligence, en l'absence
+d'autorisation ministérielle dont les conditions d'octroi sont fixées par ce même décret ou sans respecter les conditions
+fixées par cette autorisation ; 
 
 2° Le fait de réaliser une publicité en faveur d'un appareil ou d'un dispositif technique susceptible de permettre la
 réalisation des infractions prévues par l'article 226-1 et le second alinéa de l'article 226-15 lorsque cette publicité
 constitue une incitation à commettre cette infraction ou ayant pour objet la captation de données informatiques prévue aux
-articles 706-102-1 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette publicité
-constitue une incitation à en faire un usage frauduleux.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+articles    706-102-1 et 706-102-2 du code de procédure pénale et L. 853-2 du code de la sécurité intérieure lorsque cette
+publicité constitue une incitation à en faire un usage frauduleux.
 
 **Liens relatifs à cet article**
 
@@ -18361,10 +18776,10 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	  - Loi n°2016-731 du 3 juin 2016 - art. 3
 	  - Arrêté du 11 août 2016 (V)
 	  - Code de la défense. - art. D1132-9 (Ab)
-	  - Code de la sécurité intérieure - art. L851-6 (V)
 	  - Code de la sécurité intérieure - art. L852-1 (V)
 	  - Code de la sécurité intérieure - art. R114-5 (VD)
 	  - Code de procédure pénale - art. 706-95-4 (V)
+	  - Code de procédure pénale - art. 706-95-5 (V)
 	  - Code de procédure pénale - art. 706-99 (V)
 	  - Code de procédure pénale - art. 727-1 (M)
 	  - Code monétaire et financier - art. R153-2 (V)
@@ -18386,7 +18801,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 7
+	  - Loi n°2016-731 du 3 juin 2016 - art. 5
 
 	**Cite**:
 
@@ -19596,17 +20011,21 @@ correspondances émises, transmises ou reçues par la voie électronique ou de p
 
 Le fait, y compris par négligence, de procéder ou de faire procéder à des traitements de données à caractère personnel sans
 qu'aient été respectées les formalités préalables à leur mise en oeuvre prévues par la loi est puni de cinq ans
-d'emprisonnement et de 300 000 euros d'amende. 
+d'emprisonnement et de 300 000 euros d'amende.
 
 Est puni des mêmes peines le fait, y compris par négligence, de procéder ou de faire procéder à un traitement qui a fait
 l'objet de l'une des mesures prévues au 2° du I de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
+Est puni des mêmes peines le fait de permettre l'accès aux données contenues dans un traitement mentionné à l'article L.
+4123-9-1 du code de la défense sans avoir recueilli l'avis favorable mentionné au II du même article.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 45
+	  - Code de la défense. - art. L4123-9-1
 
 	**Cité par**:
 
@@ -19616,11 +20035,11 @@ l'informatique, aux fichiers et aux libertés.
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-801 du 6 août 2004 - art. 14 () JORF 7 août 2004
+	  - Loi n°2016-731 du 3 juin 2016 - art. 117
 
 
 ###### Article 226-16-1
@@ -19700,15 +20119,20 @@ de données à caractère personnel à la Commission nationale de l'informatique
 méconnaissance des dispositions du II de l'article 34 bis de la loi n° 78-17 du 6 janvier 1978, est puni de cinq ans
 d'emprisonnement et de 300 000 € d'amende.
 
+Est puni des mêmes peines le fait pour un responsable de traitement de ne pas procéder à la notification à la Commission
+nationale de l'informatique et des libertés d'une divulgation ou d'un accès non autorisé de données à un traitement mentionné
+à l'article L. 4123-9-1 du code de la défense.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 34 bis
+	  - Code de la défense. - art. L4123-9-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 39
+	  - Loi n°2016-731 du 3 juin 2016 - art. 117
 
 
 ###### Article 226-18
@@ -24035,8 +24459,9 @@ et délits sont commis par un mineur sur lequel la personne ne pouvant justifier
 
 Elles sont portées à sept ans d'emprisonnement et 200 000 euros d'amende lorsque les infractions commises constituent les
 crimes ou délits de traite des êtres humains, d'extorsion ou d'association de malfaiteurs ou les délits et crimes en matière
-d'armes et de produits explosifs prévus par les articles L. 2339-2, L. 2339-3, L. 2339-10, L. 2341-4, 
-L. 2353-4 et L. 2353-5 du code de la défense ainsi que par les articles L. 317-2, L. 317-4 et L. 317-7 du code de la sécurité
+d'armes et de produits explosifs prévus par les articles 222-52 et 222-53 du code pénal, par les articles L. 2339-2, L.
+2339-3, L. 2339-10, L. 2341-4, 
+L. 2353-4 et L. 2353-5 du code de la défense ainsi que par les articles L. 317-2 et L. 317-7 du code de la sécurité
 intérieure. Il en est de même lorsqu'elles constituent les crimes ou délits de trafic de stupéfiants, y compris en cas de
 relations habituelles avec une ou plusieurs personnes faisant usage de stupéfiants. 
 
@@ -24058,17 +24483,18 @@ l'alinéa précédent commise par un ou plusieurs mineurs.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
 	  - Code de procédure pénale - art. 704 (VT)
-	  - Code de procédure pénale - art. 706-73 (M)
+	  - Code de procédure pénale - art. 706-73 (V)
 	  - Code de procédure pénale - art. 706-73-1 (V)
 	  - Code pénal - art. 321-10-1 (V)
 	  - Code pénal - art. 450-5 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 8
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
+	  - Code pénal - art. 222-52 (V)
 	  - Code pénal - art. 321-6
 	  - Code de la défense. - art. L2339-10
 	  - Code de la défense. - art. L2339-2
@@ -24528,6 +24954,28 @@ dégradé ou détérioré.
 	  - Code pénal - art. 724-1 (V)
 
 
+###### Article 322-3-2
+
+Est puni de sept ans d'emprisonnement et de 100 000 € d'amende le fait d'importer, d'exporter, de faire transiter, de
+transporter, de détenir, de vendre, d'acquérir ou d'échanger un bien culturel présentant un intérêt archéologique,
+artistique, historique ou scientifique en sachant que ce bien a été soustrait d'un territoire qui constituait, au moment de
+la soustraction, un théâtre d'opérations de groupements terroristes et sans pouvoir justifier la licéité de l'origine de ce
+bien. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 150 000 € d'amende lorsque l'infraction prévue au présent article est
+commise avec la circonstance mentionnée au 1° de l'article 322-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 29
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 706-73-1 (V)
+
+
 ###### Article 322-4
 
 La tentative des infractions prévues à la présente section est punie des mêmes peines.
@@ -24669,11 +25117,11 @@ peines sont portées à quinze ans de réclusion criminelle et à 150 000 euros 
 
 Le fait de diffuser par tout moyen, sauf à destination des professionnels, des procédés permettant la fabrication d'engins de
 destruction élaborés à partir de poudre ou de substances explosives, de matières nucléaires, biologiques ou chimiques, ou à
-partir de tout autre produit destiné à l'usage domestique, industriel ou agricole, est puni d'un an d'emprisonnement et de 15
-000 euros d'amende.
+partir de tout autre produit destiné à l'usage domestique, industriel ou agricole, est puni de trois ans d'emprisonnement et
+de 45 000 euros d'amende.
 
-Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsqu'il a été utilisé, pour la diffusion
-des procédés, un réseau de communication électronique à destination d'un public non déterminé.
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsqu'il a été utilisé, pour la diffusion des
+procédés, un réseau de communication électronique à destination d'un public non déterminé.
 
 **Liens relatifs à cet article**
 
@@ -24681,16 +25129,16 @@ des procédés, un réseau de communication électronique à destination d'un pu
 
 	  - Loi n°92-685 du 22 juillet 1992
 
-	**Modifié par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 150
-
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 25
 	  - Code de procédure pénale - art. 706-73 (V)
 	  - Code de procédure pénale - art. D147-31 (V)
 	  - Code pénal - art. 421-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 
 ###### Article 322-7
@@ -24843,17 +25291,17 @@ La tentative du délit prévu par l'article 322-6 est punie des mêmes peines.
 
 La détention ou le transport de substances ou produits incendiaires ou explosifs ainsi que d'éléments ou substances destinés
 à entrer dans la composition de produits ou engins incendiaires ou explosifs en vue de la préparation, caractérisée par un ou
-plusieurs faits matériels, des infractions définies à l'article 322-6 ou d'atteintes aux personnes est puni de cinq ans
-d'emprisonnement et de 75 000 euros d'amende.
+plusieurs faits matériels, des infractions définies à l'article 322-6 ou d'atteintes aux personnes est puni de sept ans
+d'emprisonnement et de 100 000 euros d'amende. 
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque ces faits sont commis en bande
-organisée.
+organisée. 
 
-Hors les cas prévus aux deux premiers alinéas, est puni d'un an d'emprisonnement et de 15 000 euros d'amende la détention ou
-le transport sans motif légitime :
+Hors les cas prévus aux deux premiers alinéas, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende la
+détention ou le transport sans motif légitime : 
 
 1° De substances ou produits explosifs permettant de commettre les infractions définies à l'article 322-6, lorsque ces
-substances ou produits ne sont pas soumis, pour la détention ou le transport, à un régime particulier ;
+substances ou produits ne sont pas soumis, pour la détention ou le transport, à un régime particulier ; 
 
 2° De substances ou produits incendiaires permettant de commettre les infractions définies à l'article 322-6 ainsi que
 d'éléments ou substances destinés à entrer dans la composition de produits ou engins incendiaires ou explosifs, lorsque leur
@@ -24864,11 +25312,7 @@ public.
 
 	**Codifié par**:
 
-	  - Loi n°92-685 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 45 () JORF 7 mars 2007
+	  - Loi n°92-685 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -24877,9 +25321,13 @@ public.
 	  - Code de procédure pénale - art. 78-2-2 (V)
 	  - Code pénal - art. 421-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
 	**Cite**:
 
-	  - Code pénal - art. 322-6 (M)
+	  - Code pénal - art. 322-6 (V)
 
 
 ##### Section 3 : Des menaces de destruction, de dégradation ou de détérioration et des fausses alertes
@@ -26773,8 +27221,6 @@ La tentative des délits prévus au premier alinéa de l'article 413-10 et à l'
 	  - Code pénal - art. 413-11 (V)
 
 
-##### Section 3 : Des atteintes aux services spécialisés  de renseignement
-
 ##### Section 3 : Des atteintes à certains services ou unités spécialisés
 
 ###### Article 413-13
@@ -27131,12 +27577,12 @@ informatique définis par le livre III du présent code ;
 3° Les infractions en matière de groupes de combat et de mouvements dissous définies par les articles 431-13 à 431-17 et les
 infractions définies par les articles 434-6 et 441-2 à 441-5 ; 
 
-4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les articles 322-6-1 et
-322-11-1 du présent code, le I de l'article L. 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des articles L.
-1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6, L. 2339-2, L. 2339-14, 
+4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les articles 222-52 à
+222-54,322-6-1 et 322-11-1 du présent code, le I de l'article L. 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des
+articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6, L. 2339-2, L. 2339-14, 
 L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L.
-2353-13 du code de la défense, ainsi que les articles L. 317-4, L. 317-7 et L. 317-8 à l'exception des armes de la catégorie
-D définies par décret en Conseil d'Etat, du code de la sécurité intérieure ; 
+2353-13 du code de la défense, ainsi que les articles L. 317-7 et L. 317-8 à l'exception des armes de la catégorie D définies
+par décret en Conseil d'Etat, du code de la sécurité intérieure ; 
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
@@ -27201,12 +27647,12 @@ D définies par décret en Conseil d'Etat, du code de la sécurité intérieure 
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 4
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
-	  - Code pénal - art. 322-11-1
-	  - Code pénal - art. 322-6-1
+	  - Code pénal - art. 222-52 (V)
+	  - Code pénal - art. 322-6-1 (V)
 	  - Code pénal - art. 431-13
 	  - Code pénal - art. 434-6
 	  - Code pénal - art. 441-2
@@ -27225,8 +27671,7 @@ D définies par décret en Conseil d'Etat, du code de la sécurité intérieure 
 	  - Code de la défense. - art. L2353-4
 	  - Code de la défense. - art. L2353-5
 	  - Code monétaire et financier - art. L465-1
-	  - Code de la sécurité intérieure - art. L317-4
-	  - Code de la sécurité intérieure - art. L317-7
+	  - Code de la sécurité intérieure - art. L317-7 (V)
 
 
 ###### Article 421-2
@@ -27410,6 +27855,59 @@ personnes responsables.
 	  - Loi n°2014-1353 du 13 novembre 2014 - art. 5
 
 
+###### Article 421-2-5-1
+
+Le fait d'extraire, de reproduire et de transmettre intentionnellement des données faisant l'apologie publique d'actes de
+terrorisme ou provoquant directement à ces actes afin d'entraver, en connaissance de cause, l'efficacité des procédures
+prévues à l'article 6-1 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ou à l'article
+706-23 du code de procédure pénale est puni de cinq ans d'emprisonnement et de 75 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6-1 (V)
+	  - Code de procédure pénale - art. 706-23 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 18
+
+
+###### Article 421-2-5-2
+
+Le  fait de consulter habituellement un service de communication au public  en ligne mettant à disposition des messages,
+images ou représentations  soit provoquant directement à la commission d'actes de terrorisme, soit  faisant l'apologie de ces
+actes lorsque, à cette fin, ce service  comporte des images ou représentations montrant la commission de tels  actes
+consistant en des atteintes volontaires à la vie est puni de deux  ans d'emprisonnement et de 30 000 € d'amende. 
+
+Le  présent article n'est pas applicable lorsque la consultation est  effectuée de bonne foi, résulte de l'exercice normal
+d'une profession  ayant pour objet d'informer le public, intervient dans le cadre de  recherches scientifiques ou est
+réalisée afin de servir de preuve en  justice.
+
+**Nota:**
+
+Dans sa décision n° 2016-611 QPC du 10 février 2017 (NOR: CSCX1704352S), le Conseil constitutionnel a déclaré l'article
+421-2-5-2 du code pénal, dans sa rédaction issue de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, contraire à
+la Constitution. La déclaration d'inconstitutionnalité prend effet dans les conditions prévues au paragraphe 18 de cette
+décision, à compter de sa date de publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 18
+
+	**Abrogé par**:
+
+	  - Décision n°2016-611 QPC du 10 février 2017 - art. 1, v. init.
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 720-1 (V)
+
+
 ###### Article 421-2-6
 
 I.-Constitue un acte de terrorisme le fait de préparer la commission d'une des infractions mentionnées au II, dès lors que la
@@ -27479,10 +27977,7 @@ criminelle ;
 
 6° Il est porté à sept ans d'emprisonnement lorsque l'infraction est punie de cinq ans d'emprisonnement ; 
 
-7° Il est porté au double lorsque l'infraction est punie d'un emprisonnement de trois ans au plus. 
-
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes, ainsi qu'aux délits
-punis de dix ans d'emprisonnement, prévus par le présent article.
+7° Il est porté au double lorsque l'infraction est punie d'un emprisonnement de trois ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -27495,22 +27990,16 @@ punis de dix ans d'emprisonnement, prévus par le présent article.
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 4 () JORF 23 juillet 1996
+	  - Loi n°2016-731 du 3 juin 2016 - art. 11
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
-	  - Code pénal - art. 421-1 (V)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 421-1
 
 
 ###### Article 421-4
@@ -27518,25 +28007,17 @@ punis de dix ans d'emprisonnement, prévus par le présent article.
 L'acte de terrorisme défini à l'article 421-2 est puni de vingt ans de réclusion criminelle et de 350 000 euros d'amende. 
 
 Lorsque cet acte a entraîné la mort d'une ou plusieurs personnes, il est puni de la réclusion criminelle à perpétuité et de
-750 000 euros d'amende. 
-
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables au crime prévu par le présent
-article.
+750 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 46 () JORF 10 septembre 2002
+	  - Loi n°2016-731 du 3 juin 2016 - art. 11
 
 	**Cité par**:
 
@@ -27545,8 +28026,8 @@ article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
-	  - Code pénal - art. 421-2 (V)
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 421-2
 
 
 ###### Article 421-5
@@ -27559,10 +28040,7 @@ criminelle et de 500 000 euros d'amende.
 
 La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines. 
 
-L'acte de terrorisme défini à l'article 421-2-6 est puni de dix ans d'emprisonnement et de 150 000 € d'amende. 
-
-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
-présent article.
+L'acte de terrorisme défini à l'article 421-2-6 est puni de dix ans d'emprisonnement et de 150 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -27587,7 +28065,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1353 du 13 novembre 2014 - art. 6
+	  - Loi n°2016-731 du 3 juin 2016 - art. 11
 
 	**Cite**:
 
@@ -27611,20 +28089,13 @@ définie à l'article 421-2-1 a pour objet la préparation :
 personnes. 
 
 Le fait de diriger ou d'organiser un tel groupement ou une telle entente est puni de trente ans de réclusion criminelle et
-500 000 euros d'amende. 
-
-Les deux premiers alinéas de l'article 132-23 relatifs à la période de sûreté sont applicables aux crimes prévus par le
-présent article.
+500 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Créé par**:
-
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -27633,12 +28104,58 @@ présent article.
 	  - Code de procédure pénale - art. 720-1 (V)
 	  - Code pénal - art. 422-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 11
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+	  - Code pénal - art. 421-1 (V)
+	  - Code pénal - art. 421-2
+	  - Code pénal - art. 421-2-1
+
+
+###### Article 421-7
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux crimes ainsi qu'aux délits
+punis de dix ans d'emprisonnement prévus au présent chapitre. Toutefois, lorsque le crime prévu au présent chapitre est puni
+de la réclusion criminelle à perpétuité, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté
+jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées au
+même article 132-23 ne pourra être accordée au condamné. En cas de commutation de la peine, et sauf si le décret de grâce en
+dispose autrement, la période de sûreté est égale à la durée de la peine résultant de la mesure de grâce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 11
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 720-3 (V)
+	  - Code de procédure pénale - art. 720-5 (V)
+
 	**Cite**:
 
 	  - Code pénal - art. 132-23 (V)
+
+
+###### Article 421-8
+
+Les personnes coupables des infractions définies aux articles 421-1 à 421-6 peuvent également être condamnées à un suivi
+socio-judiciaire selon les modalités prévues aux articles 131-36-1 à 131-36-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 131-36-1 (V)
 	  - Code pénal - art. 421-1 (V)
-	  - Code pénal - art. 421-2 (V)
-	  - Code pénal - art. 421-2-1 (V)
 
 
 #### Chapitre II : Dispositions particulières
@@ -28532,50 +29049,6 @@ définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étra
 
 	  - Code pénal - art. 131-30
 	  - Code pénal - art. 431-25
-
-
-##### Section 6 : De l'introduction d'armes dans un établissement scolaire
-
-###### Article 431-28
-
-Le fait pour une personne habilitée ou autorisée à pénétrer dans un établissement scolaire de pénétrer ou de se maintenir
-dans un tel établissement en étant porteuse d'une arme sans motif légitime est puni d'une peine de trois ans d'emprisonnement
-et 45 000 € d'amende. 
-
-Les personnes coupables de l'infraction prévue par le premier alinéa encourent également les peines complémentaires
-suivantes : 
-
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; 
-
-2° (Abrogé) ;
-
-3° Une peine de travail d'intérêt général ; 
-
-4° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition.
-
-En outre, en cas de condamnation pour l'infraction prévue par le premier alinéa, le prononcé de la peine complémentaire
-d'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation est obligatoire.
-Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine, en
-considération des circonstances de l'infraction et de la personnalité de son auteur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-304 du 6 mars 2012 - art. 18
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la sécurité intérieure - art. L312-3 (VD)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-26
 
 
 ##### Section 7 : De la distribution d'argent à des fins publicitaires sur la voie publique 
@@ -30421,7 +30894,8 @@ par l'article 226-13.
 
 Lorsque le crime visé au premier alinéa de l'article 434-1 constitue une atteinte aux intérêts fondamentaux de la nation
 prévue par le titre Ier du présent livre ou un acte de terrorisme prévu par le titre II du présent livre, la peine est portée
-à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+à cinq ans d'emprisonnement et à 75 000 euros d'amende. Les deuxième, troisième et avant-dernier alinéas de l'article 434-1
+ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -30433,20 +30907,15 @@ prévue par le titre Ier du présent livre ou un acte de terrorisme prévu par l
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2016-731 du 3 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code pénal - art. 434-1 (V)
+	  - Code pénal - art. 434-1
 
 
 ###### Article 434-3
@@ -31074,27 +31543,23 @@ par lui pour y être entendue comme témoin est puni de 3 750 euros d'amende.
 
 ###### Article 434-15-2
 
-Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, pour quiconque ayant connaissance de la
-convention secrète de déchiffrement d'un moyen de cryptologie susceptible d'avoir été utilisé pour préparer, faciliter ou
-commettre un crime ou un délit, de refuser de remettre ladite convention aux autorités judiciaires ou de la mettre en oeuvre,
-sur les réquisitions de ces autorités délivrées en application des titres II et III du livre Ier du code de procédure pénale.
+Est puni de trois ans d'emprisonnement et de  270 000 €  d'amende le fait, pour quiconque ayant connaissance de la convention
+secrète de déchiffrement d'un moyen de cryptologie susceptible d'avoir été utilisé pour préparer, faciliter ou commettre un
+crime ou un délit, de refuser de remettre ladite convention aux autorités judiciaires ou de la mettre en oeuvre, sur les
+réquisitions de ces autorités délivrées en application des titres II et III du livre Ier du code de procédure pénale.
 
 Si le refus est opposé alors que la remise ou la mise en oeuvre de la convention aurait permis d'éviter la commission d'un
-crime ou d'un délit ou d'en limiter les effets, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+crime ou d'un délit ou d'en limiter les effets, la peine est portée à cinq ans d'emprisonnement et à 450 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 31 () JORF 16 novembre 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 16
 
 
 ###### Article 434-16
@@ -36902,27 +37367,24 @@ peines complémentaires mentionnées à l'article 131-16 et au second alinéa de
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, le livre Ier, à l'exclusion de l'article 132-70-1, et les livres II à
-V du présent code sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis
-et Futuna.
-
-**Nota:**
-
-L'article 132-70-1 du code pénal a été abrogé par l'article 44 de la loi n° 98-349 du 11 mai 1998.
+Sous réserve des adaptations prévues au présent titre,  les livres Ier à V du présent code sont applicables, dans leur
+rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur
+financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en Nouvelle-Calédonie et, en Polynésie
+française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
+
+	**Cite**:
+
+	  - Loi n°2016-731 du 3 juin 2016
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
@@ -36934,15 +37396,11 @@ L'article 132-70-1 du code pénal a été abrogé par l'article 44 de la loi n°
 	  - Code de la santé publique - art. L1534-7 (V)
 	  - Code de la santé publique - art. L1543-1 (V)
 	  - Code de la santé publique - art. L1543-7 (V)
-	  - Code pénal - art. 711-4 (M)
+	  - Code pénal - art. 711-4 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1543-1 (M)
-
-	**Cite**:
-
-	  - Code pénal - art. 132-70-1 (M)
 
 
 ###### Article 711-2
@@ -36966,23 +37424,14 @@ Les livres Ier à V du présent code sont applicables dans les Terres australes 
 
 ###### Article 711-3
 
-En Nouvelle-Calédonie, dans les territoires de la Polynésie française et des îles Wallis et Futuna, les sanctions pécuniaires
-encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette monnaie de
-l'euro.
+En Nouvelle-Calédonie, en  Polynésie française et dans les îles Wallis et Futuna, les sanctions pécuniaires encourues en
+vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette monnaie de l'euro.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 16 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Cité par**:
 
@@ -36995,38 +37444,40 @@ l'euro.
 	  - Code rural et de la pêche maritime - art. L957-1 (VT)
 	  - Code rural et de la pêche maritime - art. L957-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+
 
 ###### Article 711-4
 
-Pour l'application du présent code dans les territoires visés à l'article 711-1, les termes énumérés ci-après sont remplacés
-comme suit :
+Pour l'application du présent code dans les collectivités d'outre-mer et en Nouvelle-Calédonie :
 
-- " tribunal de grande instance " par " tribunal de première instance " ;
+1° Les références au département sont remplacées par la référence à la collectivité ;
 
-- " département " par " territoire " ;
+2° Les références au préfet et au sous-préfet sont remplacées par la référence au représentant de l'Etat dans la
+collectivité.
 
-- " préfet " et " sous-préfet " par " représentant de l'Etat dans le territoire ". 
+En l'absence d'adaptation, les références faites, par des dispositions du présent code applicables dans les collectivités
+d'outre-mer et en Nouvelle-Calédonie, à des dispositions qui n'y sont pas applicables sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
 
-De même, " les références à des dispositions non applicables dans ces territoires " sont remplacées par " les références aux
-dispositions ayant le même objet applicables localement ".
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-
+Futuna, les références au tribunal de grande instance sont remplacées par la référence au tribunal de première instance.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Ordonnance 96-267 1996-03-28
+	  - Ordonnance n°96-267 du 28 mars 1996
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
-	  - Code pénal - art. 711-1 (V)
+	  - Code pénal - art. 711-1 (M)
 
 
 #### Chapitre II : Adaptation du livre Ier
@@ -37462,6 +37913,22 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 717-2 (V)
 
+
+### Titre Ier : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Adaptation du livre Ier
+
+#### Chapitre III : Adaptation du livre II
+
+#### Chapitre IV : Adaptation du livre III
+
+#### Chapitre V : Adaptation du livre IV
+
+#### Chapitre VI : Adaptation du livre V
+
+#### Chapitre VII : Dispositions diverses
 
 ### Titre II : Dispositions particulières au Département de Mayotte
 
