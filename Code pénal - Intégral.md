@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-26
 
 # Partie législative
 
@@ -16714,16 +16714,18 @@ suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 �
 ###### Article 225-1
 
 Constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe,
-de leur situation de famille, de leur grossesse, de leur apparence physique, de leur patronyme, de leur lieu de résidence, de
-leur état de santé, de leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité
-sexuelle, de leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-
-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+de leur situation de famille, de leur grossesse, de leur apparence physique, de la particulière vulnérabilité résultant de
+leur situation économique, apparente ou connue de son auteur, de leur patronyme, de leur lieu de résidence, de leur état de
+santé, de leur handicap, de leurs caractéristiques génétiques, de leurs moeurs, de leur orientation ou identité sexuelle, de
+leur âge, de leurs opinions politiques, de leurs activités syndicales, de leur appartenance ou de leur non-appartenance,
+vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Constitue également une discrimination toute distinction opérée entre les personnes morales à raison de l'origine, du sexe,
-de la situation de famille, de l'apparence physique, du patronyme, du lieu de résidence, de l'état de santé, du handicap, des
-caractéristiques génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des
-activités syndicales, de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou
-une religion déterminée des membres ou de certains membres de ces personnes morales.
+de la situation de famille, de l'apparence physique, de la particulière vulnérabilité résultant de la situation économique,
+apparente ou connue de son auteur, du patronyme, du lieu de résidence, de l'état de santé, du handicap, des caractéristiques
+génétiques, des moeurs, de l'orientation ou identité sexuelle, de l'âge, des opinions politiques, des activités syndicales,
+de l'appartenance ou de la non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée
+des membres ou de certains membres de ces personnes morales.
 
 **Liens relatifs à cet article**
 
@@ -16753,7 +16755,7 @@ une religion déterminée des membres ou de certains membres de ces personnes mo
 
 	**Modifié par**:
 
-	  - Loi n°2014-173 du 21 février 2014 - art. 15
+	  - Loi n°2016-832 du 24 juin 2016 - art. unique
 
 
 ###### Article 225-1-1
@@ -37361,7 +37363,7 @@ peines complémentaires mentionnées à l'article 131-16 et au second alinéa de
 
 ## Livre VII : Dispositions relatives à l'outre-mer
 
-### Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie.
+### Titre Ier : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie
 
 #### Chapitre Ier : Dispositions générales
 
@@ -37913,22 +37915,6 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-39 (V)
 	  - Code pénal - art. 717-2 (V)
 
-
-### Titre Ier : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie
-
-#### Chapitre Ier : Dispositions générales
-
-#### Chapitre II : Adaptation du livre Ier
-
-#### Chapitre III : Adaptation du livre II
-
-#### Chapitre IV : Adaptation du livre III
-
-#### Chapitre V : Adaptation du livre IV
-
-#### Chapitre VI : Adaptation du livre V
-
-#### Chapitre VII : Dispositions diverses
 
 ### Titre II : Dispositions particulières au Département de Mayotte
 
