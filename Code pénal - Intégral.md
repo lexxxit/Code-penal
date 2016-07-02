@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-06-26
+Version Consolidée au 2016-07-03
 
 # Partie législative
 
@@ -27580,17 +27580,17 @@ informatique définis par le livre III du présent code ;
 infractions définies par les articles 434-6 et 441-2 à 441-5 ; 
 
 4° Les infractions en matière d'armes, de produits explosifs ou de matières nucléaires définies par les articles 222-52 à
-222-54,322-6-1 et 322-11-1 du présent code, le I de l'article L. 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des
-articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6, L. 2339-2, L. 2339-14, 
-L. 2339-16, L. 2341-1, L. 2341-4, L. 2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L.
-2353-13 du code de la défense, ainsi que les articles L. 317-7 et L. 317-8 à l'exception des armes de la catégorie D définies
-par décret en Conseil d'Etat, du code de la sécurité intérieure ; 
+222-54, 322-6-1 et 322-11-1 du présent code, le I de l'article L. 1333-9, les articles L. 1333-11 et L. 1333-13-2, le II des
+articles L. 1333-13-3 et L. 1333-13-4, les articles L. 1333-13-6, L. 2339-2, L. 2339-14, L. 2339-16, L. 2341-1, L. 2341-4, L.
+2341-5, L. 2342-57 à L. 2342-62, L. 2353-4, le 1° de l'article L. 2353-5 et l'article L. 2353-13 du code de la défense, ainsi
+que les articles L. 317-7 et L. 317-8 à l'exception des armes de la catégorie D définies par décret en Conseil d'Etat, du
+code de la sécurité intérieure ; 
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ; 
 
 6° Les infractions de blanchiment prévues au chapitre IV du titre II du livre III du présent code ; 
 
-7° Les délits d'initié prévus à l'article L. 465-1 du code monétaire et financier.
+7° Les délits d'initié prévus aux articles L. 465-1 à L. 465-3 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -27649,11 +27649,12 @@ par décret en Conseil d'Etat, du code de la sécurité intérieure ;
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+	  - Loi n°2016-819 du 21 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 222-52 (V)
+	  - Code pénal - art. 222-52
+	  - Code pénal - art. 322-11-1 (V)
 	  - Code pénal - art. 322-6-1 (V)
 	  - Code pénal - art. 431-13
 	  - Code pénal - art. 434-6
@@ -27663,7 +27664,7 @@ par décret en Conseil d'Etat, du code de la sécurité intérieure ;
 	  - Code de la défense. - art. L1333-13-3
 	  - Code de la défense. - art. L1333-13-6
 	  - Code de la défense. - art. L1333-9
-	  - Code de la défense. - art. L2339-14
+	  - Code de la défense. - art. L2339-14 (V)
 	  - Code de la défense. - art. L2339-16
 	  - Code de la défense. - art. L2339-2
 	  - Code de la défense. - art. L2341-1
@@ -27673,7 +27674,7 @@ par décret en Conseil d'Etat, du code de la sécurité intérieure ;
 	  - Code de la défense. - art. L2353-4
 	  - Code de la défense. - art. L2353-5
 	  - Code monétaire et financier - art. L465-1
-	  - Code de la sécurité intérieure - art. L317-7 (V)
+	  - Code de la sécurité intérieure - art. L317-7
 
 
 ###### Article 421-2
