@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-07-22
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -18735,6 +18735,23 @@ responsables.
 	  - Code pénal - art. 226-1 (V)
 
 
+###### Article 226-2-1
+
+Lorsque  les délits prévus aux articles 226-1 et 226-2 portent sur des paroles  ou des images présentant un caractère sexuel
+prises dans un lieu public  ou privé, les peines sont portées à deux ans d'emprisonnement et à 60  000 € d'amende.
+
+Est puni des mêmes peines le fait, en  l'absence d'accord de la personne pour la diffusion, de porter à la  connaissance du
+public ou d'un tiers tout enregistrement ou tout  document portant sur des paroles ou des images présentant un caractère
+sexuel, obtenu, avec le consentement exprès ou présumé de la personne ou  par elle-même, à l'aide de l'un des actes prévus à
+l'article 226-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 67
+
+
 ###### Article 226-3
 
 Est puni de cinq ans d'emprisonnement et de 300 000 € d'amende : 
@@ -18887,23 +18904,22 @@ La tentative des infractions prévues par la présente section est punie des mê
 
 ###### Article 226-6
 
-Dans les cas prévus par les articles 226-1 et 226-2, l'action publique ne peut être exercée que sur plainte de la victime, de
-son représentant légal ou de ses ayants droit.
+Dans les cas prévus par les articles 226-1 à 226-2-1, l'action publique ne peut être exercée que sur plainte de la victime,
+de son représentant légal ou de ses ayants droit.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-684 1992-07-22
+	  - Loi n°92-684 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-684 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 67
 
 	**Cite**:
 
-	  - Code pénal - art. 226-1 (V)
+	  - Code pénal - art. 226-1
 
 
 ###### Article 226-7
@@ -20016,7 +20032,7 @@ qu'aient été respectées les formalités préalables à leur mise en oeuvre pr
 d'emprisonnement et de 300 000 euros d'amende.
 
 Est puni des mêmes peines le fait, y compris par négligence, de procéder ou de faire procéder à un traitement qui a fait
-l'objet de l'une des mesures prévues au 2° du I de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'objet de l'une des mesures prévues au 3° du I de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
 Est puni des mêmes peines le fait de permettre l'accès aux données contenues dans un traitement mentionné à l'article L.
@@ -20041,7 +20057,7 @@ Est puni des mêmes peines le fait de permettre l'accès aux données contenues 
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 117
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 64
 
 
 ###### Article 226-16-1
