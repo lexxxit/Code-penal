@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-11-01
+Version Consolidée au 2016-11-16
 
 # Partie législative
 
@@ -19018,7 +19018,8 @@ La dénonciation, effectuée par tout moyen et dirigée contre une personne dét
 des sanctions judiciaires, administratives ou disciplinaires et que l'on sait totalement ou partiellement inexact,
 lorsqu'elle est adressée soit à un officier de justice ou de police administrative ou judiciaire, soit à une autorité ayant
 le pouvoir d'y donner suite ou de saisir l'autorité compétente, soit aux supérieurs hiérarchiques ou à l'employeur de la
-personne dénoncée, est punie de cinq ans d'emprisonnement et de 45 000 euros d'amende.
+personne dénoncée, soit, en dernier ressort, à un journaliste, au sens de l'article 2 de la loi du 29 juillet 1881 sur la
+liberté de la presse  est punie de cinq ans d'emprisonnement et de 45 000 euros d'amende.
 
 La fausseté du fait dénoncé résulte nécessairement de la décision, devenue définitive, d'acquittement, de relaxe ou de non-
 lieu, déclarant que le fait n'a pas été commis ou que celui-ci n'est pas imputable à la personne dénoncée.
@@ -19049,7 +19050,7 @@ celui-ci.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 16
+	  - Loi n°2016-1524 du 14 novembre 2016 - art. 5
 
 
 ###### Article 226-11
