@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -1701,6 +1701,25 @@ l'atténuation de responsabilité dont ils bénéficient en raison de leur âge.
 	**Modifié par**:
 
 	  - Loi n°2002-1138 du 9 septembre 2002 - art. 11 () JORF 10 septembre 2002
+
+
+###### Article 122-9
+
+N'est pas pénalement responsable la personne qui porte atteinte à un secret protégé par la loi, dès lors que cette
+divulgation est nécessaire et proportionnée à la sauvegarde des intérêts en cause, qu'elle intervient dans le respect des
+procédures de signalement définies par la loi et que la personne répond aux critères de définition du lanceur d'alerte prévus
+à l'article 6 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la
+modernisation de la vie économique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 6 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 7
 
 
 ### Titre III : Des peines
@@ -5084,7 +5103,7 @@ Les peines criminelles ou correctionnelles encourues par les personnes morales s
 
 1° L'amende ; 
 
-2° Dans les cas prévus par la loi, les peines énumérées à l'article 131-39. 
+2° Dans les cas prévus par la loi, les peines énumérées à l'article 131-39 et la peine prévue à l'article 131-39-2. 
 
 En matière correctionnelle, les personnes morales encourent également la peine de sanction-réparation prévue par l'article
 131-39-1.
@@ -5093,21 +5112,16 @@ En matière correctionnelle, les personnes morales encourent également la peine
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-683 du 22 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
 
 	**Cite**:
 
-	  - Code pénal - art. 131-39 (V)
-	  - Code pénal - art. 131-39-1 (V)
+	  - Code pénal - art. 131-39
+	  - Code pénal - art. 131-39-1
 
 	**Cité par**:
 
@@ -6037,6 +6051,72 @@ l'obligation de réparation.
 
 	  - Code pénal - art. 131-8-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 712-6 (V)
+
+
+###### Article 131-39-2
+
+I.-Lorsque la loi le prévoit à l'encontre d'une personne morale, un délit peut être sanctionné par l'obligation de se
+soumettre, sous le contrôle de l'Agence française anticorruption, pour une durée maximale de cinq ans, à un programme de mise
+en conformité destiné à s'assurer de l'existence et de la mise en œuvre en son sein des mesures et procédures définies au
+II. 
+
+II.-La peine prévue au I comporte l'obligation de mettre en œuvre les mesures et procédures suivantes : 
+
+1° Un code de conduite définissant et illustrant les différents types de comportements à proscrire comme étant susceptibles
+de caractériser des faits de corruption ou de trafic d'influence ; 
+
+2° Un dispositif d'alerte interne destiné à permettre le recueil des signalements émanant d'employés et relatifs à
+l'existence de conduites ou de situations contraires au code de conduite de la personne morale ; 
+
+3° Une cartographie des risques prenant la forme d'une documentation régulièrement actualisée et destinée à identifier,
+analyser et hiérarchiser les risques d'exposition de la personne morale à des sollicitations externes aux fins de corruption,
+en fonction notamment des secteurs d'activités et des zones géographiques dans lesquels la personne morale exerce son
+activité ; 
+
+4° Des procédures d'évaluation de la situation des clients, fournisseurs de premier rang et intermédiaires au regard de la
+cartographie des risques ; 
+
+5° Des procédures de contrôles comptables, internes ou externes, destinées à s'assurer que les livres, registres et comptes
+ne sont pas utilisés pour masquer des faits de corruption ou de trafic d'influence. Ces contrôles peuvent être réalisés soit
+par les services de contrôle comptable et financier propres à la personne morale, soit en ayant recours à un auditeur externe
+à l'occasion de l'accomplissement des audits de certification de comptes prévus à l'article L. 823-9 du code de commerce ; 
+
+6° Un dispositif de formation destiné aux cadres et aux personnels les plus exposés aux risques de corruption et de trafic
+d'influence ; 
+
+7° Un régime disciplinaire permettant de sanctionner les salariés de la personne morale en cas de violation du code de
+conduite de la personne morale. 
+
+III.-Lorsque le tribunal prononce la peine prévue au I du présent article, les frais occasionnés par le recours par l'Agence
+française anticorruption à des experts ou à des personnes ou autorités qualifiées pour l'assister dans la réalisation
+d'analyses juridiques, financières, fiscales et comptables sont supportés par la personne morale condamnée, sans que le
+montant de ces frais ne puisse excéder le montant de l'amende encourue pour le délit au titre duquel cette peine est
+prononcée. 
+
+Un décret en Conseil d'Etat précise les règles déontologiques applicables à ces experts et à ces personnes ou autorités
+qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 3 (V)
+	  - Arrêté du 14 mars 2017 - art. 3 (V)
+	  - Code de procédure pénale - art. 41-1-2 (V)
+	  - Code de procédure pénale - art. 764-44 (V)
+	  - Code pénal - art. 433-26 (V)
+	  - Code pénal - art. 434-43-1 (V)
+	  - Code pénal - art. 434-48 (V)
+	  - Code pénal - art. 435-15 (V)
+	  - Code pénal - art. 445-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
+
+	**Cite**:
+
+	  - Code de commerce - art. L823-9 (V)
 
 
 ##### Sous-section 2 : Des peines contraventionnelles
@@ -19022,14 +19102,19 @@ La dénonciation, effectuée par tout moyen et dirigée contre une personne dét
 des sanctions judiciaires, administratives ou disciplinaires et que l'on sait totalement ou partiellement inexact,
 lorsqu'elle est adressée soit à un officier de justice ou de police administrative ou judiciaire, soit à une autorité ayant
 le pouvoir d'y donner suite ou de saisir l'autorité compétente, soit aux supérieurs hiérarchiques ou à l'employeur de la
-personne dénoncée, soit, en dernier ressort, à un journaliste, au sens de l'article 2 de la loi du 29 juillet 1881 sur la
-liberté de la presse  est punie de cinq ans d'emprisonnement et de 45 000 euros d'amende.
+personne dénoncée est punie de cinq ans d'emprisonnement et de 45 000 euros d'amende.
 
 La fausseté du fait dénoncé résulte nécessairement de la décision, devenue définitive, d'acquittement, de relaxe ou de non-
 lieu, déclarant que le fait n'a pas été commis ou que celui-ci n'est pas imputable à la personne dénoncée.
 
 En tout autre cas, le tribunal saisi des poursuites contre le dénonciateur apprécie la pertinence des accusations portées par
 celui-ci.
+
+**Nota:**
+
+Conformément à la décision n° 2016-741 DC du 8 décembre 2016, Art. 4 : Les mots " , soit, en dernier ressort, à un
+journaliste, au sens de l'article 2 de la loi du 29 juillet 1881 sur la liberté de la presse " figurant au premier alinéa de
+l'article 226-10 du code pénal sont contraires à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -19054,7 +19139,7 @@ celui-ci.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1524 du 14 novembre 2016 - art. 5
+	  - Décision n°2016-741 DC du 8 décembre 2016 - art. 4, v. init.
 
 
 ###### Article 226-11
@@ -29705,7 +29790,7 @@ sont reçus par dévolution successorale.
 	  - Loi n°2016-483 du 20 avril 2016 - art. 3
 
 
-##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les délégations de service public
+##### Paragraphe 4 : Des atteintes à la liberté d'accès et à l'égalité des candidats dans les marchés publics et les contrats de concession
 
 ###### Article 432-14
 
@@ -29716,7 +29801,7 @@ collectivités territoriales, des établissements publics, des sociétés d'éco
 mission de service public et des sociétés d'économie mixte locales ou par toute personne agissant pour le compte de l'une de
 celles susmentionnées de procurer ou de tenter de procurer à autrui un avantage injustifié par un acte contraire aux
 dispositions législatives ou réglementaires ayant pour objet de garantir la liberté d'accès et l'égalité des candidats dans
-les marchés publics et les délégations de service public.
+les marchés publics et les contrats de concession.
 
 **Liens relatifs à cet article**
 
@@ -29732,7 +29817,7 @@ les marchés publics et les délégations de service public.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 19 (V)
 
 
 ##### Paragraphe 5 : De la soustraction et du détournement de biens
@@ -29802,28 +29887,33 @@ public ou d'un dépositaire public, celle-ci est punie d'un an d'emprisonnement 
 
 ###### Article 432-17
 
-Dans les cas prévus par le présent chapitre, peuvent être prononcées, à titre complémentaire, les peines suivantes : 
+Dans les cas prévus par le présent chapitre, peuvent être prononcées, à titre complémentaire, les peines suivantes :
 
-1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues aux articles 131-26 et 131-26-1 ; 
+1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues aux articles 131-26 et 131-26-1 ;
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer
 l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise,
 soit, pour les infractions prévues par le second alinéa de l'article 432-4 et les articles 432-11, 432-15 et 432-16,
 d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
 quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; 
+industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, des sommes ou objets irrégulièrement reçus par
 l'auteur de l'infraction, à l'exception des objets susceptibles de restitution ;
 
-4° Dans les cas prévus par les article 432-7 et 432-11, l'affichage ou la diffusion de la décision prononcée, dans les
-conditions prévues par l'article 131-35.
+4° Dans les cas prévus aux articles 432-7, 432-10, 432-11 et 432-12 à 432-16, l'affichage ou la diffusion de la décision
+prononcée, dans les conditions prévues par l'article 131-35.
+
+Par dérogation au 1° du présent article, le prononcé de la peine complémentaire d'inéligibilité mentionnée au 2° de l'article
+131-26 et à l'article 131-26-1 est obligatoire à l'encontre de toute personne coupable de l'une des infractions définies à la
+section 3 du présent chapitre. Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas
+prononcer cette peine, en considération des circonstances de l'infraction et de la personnalité de son auteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-907 du 11 octobre 2013 - art. 27
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 19 (V)
 
 	**Cité par**:
 
@@ -29838,10 +29928,12 @@ conditions prévues par l'article 131-35.
 	  - Code pénal - art. 131-26
 	  - Code pénal - art. 131-27
 	  - Code pénal - art. 131-35
+	  - Code pénal - art. 432-10 (V)
 	  - Code pénal - art. 432-11
+	  - Code pénal - art. 432-12 (V)
 	  - Code pénal - art. 432-15
 	  - Code pénal - art. 432-4
-	  - Code pénal - art. 432-7
+	  - Code pénal - art. 432-7 (V)
 
 
 #### Chapitre III : Des atteintes à l'administration publique commises par les particuliers
@@ -30769,11 +30861,16 @@ cumulativement ;
 
 3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
+Par dérogation au 1° du présent article, le prononcé de la peine  d'inéligibilité mentionnée au 2° de l'article 131-26 et à
+l'article  131-26-1 est obligatoire à l'encontre de toute personne coupable de  l'une des infractions définies aux articles
+433-1 et 433-2. Toutefois,  la juridiction peut, par une décision spécialement motivée, décider de  ne pas prononcer cette
+peine, en considération des circonstances de  l'infraction et de la personnalité de son auteur.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 19 (V)
 
 	**Cité par**:
 
@@ -30782,11 +30879,11 @@ cumulativement ;
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 433-1 (V)
-	  - Code pénal - art. 433-2 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 433-1
+	  - Code pénal - art. 433-2
 
 
 ###### Article 433-23
@@ -30892,6 +30989,24 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-35
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
+
+
+###### Article 433-26
+
+Les personnes morales reconnues pénalement responsables dans les conditions prévues à l'article 121-2 des infractions prévues
+aux articles 433-1 et 433-2 encourent également la peine prévue à l'article 131-39-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-39-2 (V)
+	  - Code pénal - art. 433-1 (V)
 
 
 #### Chapitre IV : Des atteintes à l'action de justice
@@ -32504,6 +32619,37 @@ précédent, la peine est portée à cinq ans d'emprisonnement et 75 000 euros d
 	  - Code pénal - art. 131-39 (V)
 
 
+###### Article 434-43-1
+
+Le fait, pour les organes ou représentants d'une personne morale condamnée à la peine prévue à l'article 131-39-2, de
+s'abstenir de prendre les mesures nécessaires ou de faire obstacle à la bonne exécution des obligations qui en découlent est
+puni de deux ans d'emprisonnement et de 50 000 € d'amende. 
+
+Le montant de l'amende prononcée à l'encontre des personnes morales déclarées responsables pénalement pour le délit prévu au
+premier alinéa du présent article peut être porté au montant de l'amende encourue au titre du délit pour lequel elles ont été
+condamnées et qui a donné lieu au prononcé de la peine prévue à l'article 131-39-2. Les personnes morales déclarées
+responsables pénalement encourent également l'ensemble des autres peines encourues au titre du délit pour lequel elles ont
+été condamnées et qui a donné lieu au prononcé de cette peine. 
+
+Les personnes physiques et les personnes morales déclarées responsables pénalement encourent également la peine
+complémentaire d'affichage ou de diffusion de la décision prononcée dans les conditions prévues à l'article 131-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 705 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 131-39-2 (V)
+
+
 ##### Section 4 : Peines complémentaires et responsabilité des personnes morales
 
 ###### Article 434-44
@@ -32654,6 +32800,26 @@ laquelle l'infraction a été commise.
 	  - Code pénal - art. 434-9-1 (V)
 
 
+###### Article 434-48
+
+Les personnes morales reconnues pénalement responsables dans les conditions prévues à l'article 121-2 des infractions prévues
+à l'avant-dernier alinéa de l'article 434-9 et au second alinéa de l'article 434-9-1 encourent également la peine prévue à
+l'article 131-39-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-39-2 (V)
+	  - Code pénal - art. 434-9 (V)
+	  - Code pénal - art. 434-9-1 (V)
+
+
 #### Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques
 
 ##### Section 1 : Des atteintes à l'administration publique
@@ -32701,7 +32867,7 @@ tiré de l'infraction, le fait, par quiconque, de solliciter ou d'agréer, à to
 offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour abuser ou
 avoir abusé de son influence réelle ou supposée en vue de faire obtenir des distinctions, des emplois, des marchés ou toute
 autre décision favorable d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou
-investie d'un mandat électif public au sein d'une organisation internationale publique.
+investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation internationale publique.
 
 **Liens relatifs à cet article**
 
@@ -32711,7 +32877,7 @@ investie d'un mandat électif public au sein d'une organisation internationale p
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 20
 
 	**Cité par**:
 
@@ -32773,7 +32939,8 @@ tiré de l'infraction, le fait, par quiconque, de proposer, sans droit, à tout 
 offres, des promesses, des dons, des présents ou des avantages quelconques à une personne, pour elle-même ou pour autrui,
 pour qu'elle abuse ou parce qu'elle a abusé de son influence réelle ou supposée en vue de faire obtenir des distinctions, des
 emplois, des marchés ou toute autre décision favorable d'une personne dépositaire de l'autorité publique, chargée d'une
-mission de service public ou investie d'un mandat électif public au sein d'une organisation internationale publique. 
+mission de service public ou investie d'un mandat électif public dans un Etat étranger ou au sein d'une organisation
+internationale publique. 
 
 Est puni des mêmes peines le fait, par quiconque, de céder à toute personne qui sollicite, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui,
@@ -32786,10 +32953,6 @@ marchés ou toute autre décision favorable d'une personne visée au premier ali
 
 	  - Loi n°92-686 du 22 juillet 1992
 
-	**Modifié par**:
-
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 6
-
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
@@ -32799,6 +32962,10 @@ marchés ou toute autre décision favorable d'une personne visée au premier ali
 	  - Code général des collectivités territoriales - art. L1414-4 (VD)
 	  - Code pénal - art. 435-15 (V)
 	  - Code pénal - art. 435-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 20
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -32834,6 +33001,31 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 	**Cite**:
 
 	  - Code pénal - art. 435-1
+
+
+###### Article 435-6-2
+
+Dans le cas où les infractions prévues aux articles 435-1 à 435-4 sont commises à l'étranger par un Français ou par une
+personne résidant habituellement ou exerçant tout ou partie de son activité économique sur le territoire français, la loi
+française est applicable en toutes circonstances, par dérogation au deuxième alinéa de l'article 113-6, et l'article 113-8
+n'est pas applicable. 
+
+Pour la poursuite de la personne qui s'est rendue coupable sur le territoire français, comme complice, d'une infraction
+prévue aux articles 435-1 à 435-4 commise à l'étranger, la condition de constatation de l'infraction par une décision
+définitive de la juridiction étrangère prévue à l'article 113-5 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 21
+
+	**Cite**:
+
+	  - Code pénal - art. 113-5 (V)
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 435-1 (V)
 
 
 ##### Section 2 : Des atteintes à l'action de la justice
@@ -33015,6 +33207,31 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 	  - Code pénal - art. 435-7
 
 
+###### Article 435-11-2
+
+Dans le cas où les infractions prévues aux articles 435-7 à 435-10 sont commises à l'étranger par un Français ou par une
+personne résidant habituellement ou exerçant tout ou partie de son activité économique sur le territoire français, la loi
+française est applicable en toutes circonstances, par dérogation au deuxième alinéa de l'article 113-6, et l'article 113-8
+n'est pas applicable. 
+
+Pour la poursuite de la personne qui s'est rendue coupable sur le territoire français, comme complice, d'une infraction
+prévue aux articles 435-7 à 435-10 commise à l'étranger, la condition de constatation de l'infraction par une décision
+définitive de la juridiction étrangère prévue à l'article 113-5 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 21
+
+	**Cite**:
+
+	  - Code pénal - art. 113-5 (V)
+	  - Code pénal - art. 113-6 (V)
+	  - Code pénal - art. 113-8 (V)
+	  - Code pénal - art. 435-7 (V)
+
+
 ##### Sous-section 4 : Des autres entraves à l'exercice de la justice
 
 ###### Article 435-12
@@ -33106,28 +33323,31 @@ prévues aux articles 435-3, 435-4, 435-9 et 435-10 encourent les peines suivant
 3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit ;
 
-4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+
+5° La peine prévue à l'article 131-39-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
+	  - Loi n°92-686 du 22 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1598 du 13 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-21 (M)
-	  - Code pénal - art. 131-35 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39-2 (V)
 	  - Code pénal - art. 435-10 (V)
-	  - Code pénal - art. 435-3 (M)
-	  - Code pénal - art. 435-4 (M)
+	  - Code pénal - art. 435-3 (V)
+	  - Code pénal - art. 435-4 (V)
 	  - Code pénal - art. 435-9 (V)
 
 
@@ -34818,7 +35038,7 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets sus
 ###### Article 445-4
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions
-définies aux articles 445-1, 445-1-1, 445-2 et 445-2-1 encourent, outre l'amende suivant les modalités prévues par l'article
+définies aux articles 445-1,445-1-1,445-2 et 445-2-1 encourent, outre l'amende suivant les modalités prévues par l'article
 131-38 : 
 
 1° (Abrogé) ; 
@@ -34831,20 +35051,24 @@ l'infraction a été commise ;
 3° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ; 
 
-4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+4° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ; 
+
+5° La peine prévue à l'article 131-39-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 9
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 18
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-21 (V)
+	  - Code pénal - art. 131-35 (V)
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
+	  - Code pénal - art. 131-39-2 (V)
 	  - Code pénal - art. 445-1
 
 
@@ -37411,12 +37635,8 @@ peines complémentaires mentionnées à l'article 131-16 et au second alinéa de
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la 
-loi n° 2016-987 du 21 juillet 2016
-prorogeant l'application de la 
-loi n° 55-385 du 3 avril 1955
-relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, en Nouvelle-Calédonie et, en
-Polynésie française et dans les îles Wallis et Futuna.
+rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et
+à la modernisation de la vie économique, en Nouvelle-Calédonie et, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -37431,7 +37651,7 @@ Polynésie française et dans les îles Wallis et Futuna.
 
 	**Modifié par**:
 
-	  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 	**Cité par**:
 
