@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-15
 
 # Partie législative
 
@@ -39660,10 +39660,7 @@ les articles R. 223-5 à R. 223-13 du code de la route, par les personnes agré�
 articles. 
 
 Un arrêté conjoint du garde des sceaux, ministre de la justice, et du   ministre chargé de la sécurité routière peut fixer un
-programme et une durée de stage différents, sans que cette durée puisse excéder cinq jours. 
-
-Les frais de stage, à la charge du condamné, ne peuvent excéder le montant maximum de l'amende encourue pour les
-contraventions de la 3e classe.
+programme et une durée de stage différents, sans que cette durée puisse excéder cinq jours.
 
 **Liens relatifs à cet article**
 
@@ -39673,7 +39670,7 @@ contraventions de la 3e classe.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1295 du 31 octobre 2014 - art. 12
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 2
 
 	**Cite**:
 
@@ -40524,26 +40521,22 @@ produits.
 
 Les dispositions des articles R. 131-36 à R. 131-44 sont applicables à ces stages, dont les modules peuvent être élaborés
 avec le concours des personnes privées dont l'activité est d'assister ou d'aider les usagers de stupéfiants, telles que les
-associations de lutte contre la toxicomanie et le trafic de stupéfiants prévues à l'article 2-16 du code de procédure
-pénale. 
-
-Si les frais du stage sont mis à la charge du condamné, ils ne peuvent excéder le montant maximum de l'amende encourue pour
-les contraventions de la 3e classe.
+associations de lutte contre la toxicomanie et le trafic de stupéfiants prévues à l'article 2-16 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code pénal - art. 131-36 (V)
-	  - Code de procédure pénale - art. 2-16 (V)
+	  - Code pénal - art. 131-36
+	  - Code de procédure pénale - art. 2-16
 
 
 #####   Sous-section 6 : De la peine de stage de responsabilité parentale.
@@ -40572,27 +40565,23 @@ juridiques, économiques, sociales et morales qu'implique l'éducation d'un enfa
 
 Les dispositions des articles R. 131-36 à R. 131-44 sont applicables à ce stage, dont les modules peuvent être élaborés avec
 le concours des personnes publiques ou privées mettant en oeuvre les accompagnements parentaux prévus par l'article L. 141-1
-du code de l'action sociale et des familles ou les contrats de responsabilité parentale prévus par l'article L. 222-4-1 du
-même code. 
-
-Si les frais du stage sont mis à la charge du condamné, ils ne peuvent excéder le montant maximum de l'amende encourue pour
-les contraventions de la 3e classe.
+du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1388 du 26 septembre 2007 - art. 3 () JORF 28 septembre 2007
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code pénal - art. 131-36 (V)
-	  - Code de l'action sociale et des familles - art. L141-1 (VT)
-	  - Code de l'action sociale et des familles - art. L222-4-1 (Ab)
+	  - Code pénal - art. 131-36
+	  - Code de l'action sociale et des familles - art. L141-1
+	  - Code de l'action sociale et des familles - art. L222-4-1
 
 
 #####   Sous-section 7 : De la peine de confiscation d'un animal.
@@ -40637,6 +40626,77 @@ du condamné des frais de placement.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 99-1 (V)
+
+
+##### Sous-section 8 : De la peine de stage de responsabilisation pour la prévention et la lutte contre les violences au sein du couple et sexistes 
+
+###### Article R131-51-1
+
+Le  contenu du stage de responsabilisation pour la prévention et la lutte  contre les violences au sein du couple et sexistes
+doit permettre de  rappeler au condamné le principe républicain d'égalité entre les femmes  et les hommes, la gravité des
+violences, quelle que soit leur forme, au  sein du couple ou à caractère sexiste et, le cas échéant, le devoir de  respect
+mutuel qu'implique la vie en couple. Il vise également à lui  faire prendre conscience de sa responsabilité pénale et civile
+pour les  faits commis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-55-9 (V)
+	  - Code pénal - art. R132-45 (V)
+
+
+###### Article R131-51-2
+
+Les dispositions des articles R. 131-36 à R. 131-44, qui régissent le stage de citoyenneté, sont applicables à ces stages,
+dont les modules de formation peuvent être élaborés avec le concours des personnes publiques ou privées dont l'activité est
+d'assister ou d'aider les victimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. R131-36 (V)
+
+
+##### Sous-section 9 : De la peine de stage de sensibilisation à la lutte contre l'achat d'actes sexuels 
+
+###### Article R131-51-3
+
+Le  contenu du stage sensibilisation à la lutte contre l'achat d'actes  sexuels doit permettre de rappeler au condamné ce que
+sont les réalités  de la prostitution et les conséquences de la marchandisation du corps.  Il vise également à lui faire
+prendre conscience de sa responsabilité  pénale et civile pour les faits commis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 1
+
+
+###### Article R131-51-4
+
+Les dispositions des articles R. 131-36 à R. 131-44, qui régissent le stage de citoyenneté, sont applicables à ces stages,
+dont les modules de formation peuvent être élaborés avec le concours des personnes publiques ou privées dont l'activité est
+d'assister ou d'aider les victimes de la prostitution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. R131-36 (V)
 
 
 ##### Section 2 : Des peines applicables aux personnes morales
@@ -40702,27 +40762,40 @@ secrétaire du comité central d'entreprise et, en l'absence de tels comités, a
 
 ###### Article R132-45
 
-L'attestation de stage de sensibilisation à la sécurité routière prévue au second alinéa de l'article 131-35-1 est adressée
-au juge de l'application des peines ou au service pénitentiaire d'insertion et de probation chargé du suivi de cette
-obligation.
+Lorsque le sursis avec mise à l'épreuve comprend comme obligation l'accomplissement d'un stage de sensibilisation à la
+sécurité routière prévu au 15° de l'article 132-45, les dispositions de l'article R. 131-11-1 sont applicables. 
+
+Lorsqu'il comprend comme obligation l'accomplissement d'un stage de citoyenneté prévu au 18° de l'article 132-45, les
+dispositions des articles R. 131-36 à R. 131-44 qui régissent le stage de citoyenneté sont applicables. 
+
+Lorsqu'il comprend comme obligation l'accomplissement d'un stage de responsabilisation pour la prévention et la lutte contre
+les violences au sein du couple et sexistes prévu au 20° de l'article 132-45, les dispositions des articles R. 131-51-1 et R.
+131-51-2 sont applicables. 
+
+Lorsque le stage n'a pas été organisé par le service pénitentiaire d'insertion et de probation, son accomplissement donne
+lieu à la remise au condamné d'une attestation que celui-ci adresse au service pénitentiaire d'insertion et de probation. Ce
+service en avise le juge de l'application des peines.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
-
-	**Créé par**:
-
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 1 () JORF 12 juillet 2003
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
 	  - Arrêté du 25 février 2004 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 2
+
 	**Cite**:
 
-	  - Code pénal - art. 131-5-1 (V)
+	  - Code pénal - art. 132-45 (V)
+	  - Code pénal - art. R131-11-1 (V)
+	  - Code pénal - art. R131-36 (V)
+	  - Code pénal - art. R131-51-1 (V)
 
 
 #### Chapitre III : De l'extinction des peines et de l'effacement des condamnations
@@ -44240,8 +44313,7 @@ ininterrompue peut être établie.
 Sous réserve des adaptations prévues au présent titre, les livres Ier à VI de la deuxième partie du présent code (Décrets en
 Conseil d'Etat), à l'exception des articles R. 321-1 à R. 321-12, R. 633-1 à R. 633-5, 
 R. 635-3 à R. 635-7 et R. 645-6, sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et
-des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de
-recueil de renseignement.
+des îles Wallis et Futuna dans leur rédaction résultant du décret n° 2016-1709 du 12 décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -44260,7 +44332,7 @@ recueil de renseignement.
 
 	**Modifié par**:
 
-	  - Décret n°2016-67 du 29 janvier 2016 - art. 6
+	  - Décret n°2016-1709 du 12 décembre 2016 - art. 4
 
 	**Cité par**:
 
