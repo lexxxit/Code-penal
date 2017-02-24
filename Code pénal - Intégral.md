@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-02-19
+Version Consolidée au 2017-02-25
 
 # Partie législative
 
@@ -36531,33 +36531,35 @@ d'emprisonnement et de 30 000 euros d'amende.
 
 ###### Article 511-8-2
 
-Le fait d'importer ou d'exporter des organes, tissus, cellules et produits cellulaires à finalité thérapeutique, en violation
-des dispositions prises pour l'application des articles L. 1235-1 et L. 1245-5 du code de la santé publique, est puni de cinq
-ans d'emprisonnement et de 75 000 euros d'amende.
+Le fait de se procurer auprès d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou
+de lui fournir ou d'importer ou d'exporter des organes, des tissus, leurs dérivés, des cellules issus du corps humain et des
+préparations de thérapie cellulaires, en violation des dispositions prises pour l'application des articles L. 1235-1, L.
+1245-5 et L. 1245-5-1 du code de la santé publique, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-1336 1992-12-16
+	  - Loi n°92-1336 du 16 décembre 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-800 2004-08-06 art. 15 7° JORF 7 août 2004
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1272-8 (M)
-	  - Code de la santé publique - art. L674-10 (Ab)
+	  - Loi n°2017-220 du 23 février 2017 - art. 3
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1272-8 (V)
 
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1272-8 (V)
+	  - Code de la santé publique - art. L674-10 (Ab)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L1235-1 (M)
-	  - Code de la santé publique - art. L1245-5 (M)
+	  - Code de la santé publique - art. L1235-1
+	  - Code de la santé publique - art. L1245-5
+	  - Code de la santé publique - art. L1245-5-1
 
 
 ###### Article 511-9
