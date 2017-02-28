@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-02-25
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -10116,19 +10116,25 @@ La réhabilitation efface la condamnation.
 
 ###### Article 133-2
 
-Sous réserve des dispositions de l'article 213-5, les peines prononcées pour un crime se prescrivent par vingt années
-révolues à compter de la date à laquelle la décision de condamnation est devenue définitive.
+Les peines prononcées pour un crime se prescrivent par vingt années révolues à compter de la date à laquelle la décision de
+condamnation est devenue définitive.
+
+Par dérogation au premier alinéa, les peines prononcées pour les crimes mentionnés aux articles 214-1 à 214-4 et 221-12 et au
+livre IV bis du présent code ainsi qu'aux articles 706-16, 706-26 et 706-167 du code de procédure pénale se prescrivent par
+trente années révolues à compter de la date à laquelle la décision de condamnation est devenue définitive.
+
+Par dérogation au premier alinéa du présent article, les peines prononcées pour les crimes mentionnés aux articles 211-1 à
+212-3 du présent code sont imprescriptibles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2017-242 du 27 février 2017 - art. 2
 
 	**Cité par**:
 
@@ -10136,28 +10142,42 @@ révolues à compter de la date à laquelle la décision de condamnation est dev
 
 	**Cite**:
 
-	  - Code pénal - art. 213-5 (V)
+	  - Code pénal - art. 211-1
+	  - Code pénal - art. 214-1
+	  - Code pénal - art. 221-12
+	  - Code de procédure pénale - art. 706-16
+	  - Code de procédure pénale - art. 706-167
+	  - Code de procédure pénale - art. 706-26
 
 
 ###### Article 133-3
 
-Les peines prononcées pour un délit se prescrivent par cinq années révolues à compter de la date à laquelle la décision de
-condamnation est devenue définitive.
+Les peines prononcées pour un délit se prescrivent par six années révolues à compter de la date à laquelle la décision de
+condamnation est devenue définitive. 
+
+Les peines prononcées pour les délits mentionnés au livre IV bis du présent code, aux articles 706-16 et 706-26 du code de
+procédure pénale et, lorsqu'ils sont punis de dix ans d'emprisonnement, à l'article 706-167 du même code se prescrivent par
+vingt années révolues à compter de la date à laquelle la décision de condamnation est devenue définitive.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-683 1992-07-22
+	  - Loi n°92-683 du 22 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°92-683 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°2017-242 du 27 février 2017 - art. 2
 
 	**Cité par**:
 
 	  - Code de justice militaire. - art. L263-5 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-16
+	  - Code de procédure pénale - art. 706-167
+	  - Code de procédure pénale - art. 706-26
 
 
 ###### Article 133-4
@@ -10185,6 +10205,22 @@ Ces dispositions s'appliquent aux condamnations prononcées à compter du 1er ja
 	**Modifié par**:
 
 	  - Loi - art. 81 (V) JORF 31 décembre 2002
+
+
+###### Article 133-4-1
+
+Le délai de prescription des peines est interrompu dans les conditions prévues à l'avant-dernier alinéa de l'article 707-1 du
+code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 707-1
 
 
 ###### Article 133-5
@@ -10856,32 +10892,6 @@ responsabilité et de son contrôle effectifs.
 	  - Code pénal - art. 121-7
 
 
-###### Article 213-5
-
-L'action publique relative aux crimes prévus par le présent sous-titre, ainsi que les peines prononcées, sont
-imprescriptibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 1992-07-22
-
-	**Modifié par**:
-
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2017-242 du 27 février 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code de justice militaire. - art. L212-37 (M)
-	  - Code de procédure pénale - art. 7 (M)
-	  - Code pénal - art. 133-2 (M)
-
-
 #### Sous-titre II : Des crimes contre l'espèce humaine
 
 ##### Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif
@@ -11074,33 +11084,6 @@ du code du travail pour une durée de cinq ans.
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
 	  - Code du travail - art. L6313-1
-
-
-###### Article 215-4
-
-L'action publique relative aux crimes prévus par le présent sous-titre, ainsi que les peines prononcées, se prescrivent par
-trente ans. 
-
-En outre, pour le crime de clonage reproductif prévu par l'article 214-2, le délai de prescription de l'action publique ne
-commence à courir, lorsque le clonage a conduit à la naissance d'un enfant, qu'à partir de la majorité de cet enfant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-684 du 22 juillet 1992
-
-	**Créé par**:
-
-	  - Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2017-242 du 27 février 2017 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. 214-2
 
 
 ### Titre II : Des atteintes à la personne humaine
@@ -12015,25 +11998,6 @@ l'article 131-39.
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code pénal - art. 221-12
-
-
-###### Article 221-18
-
-L'action publique à l'égard du crime défini à l'article 221-12 ainsi que les peines prononcées se prescrivent par trente ans.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-711 du 5 août 2013 - art. 15
-
-	**Abrogé par**:
-
-	  - Loi n°2017-242 du 27 février 2017 - art. 3
-
-	**Cite**:
-
 	  - Code pénal - art. 221-12
 
 
@@ -31894,19 +31858,11 @@ images de toute nature tendant à la réformation, la cassation ou la révision 
 Lorsque l'infraction est commise par la voie de la presse écrite ou audiovisuelle, les dispositions particulières des lois
 qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes responsables.
 
-L'action publique se prescrit par trois mois révolus, à compter du jour où l'infraction définie au présent article a été
-commise, si dans cet intervalle il n'a été fait aucun acte d'instruction ou de poursuite.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -31916,7 +31872,7 @@ commise, si dans cet intervalle il n'a été fait aucun acte d'instruction ou de
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 
 ###### Article 434-26
@@ -35984,27 +35940,6 @@ employés et la gravité du danger couru.
 	  - Loi n°2010-930 du 9 août 2010 - art. 7
 
 
-###### Article 462-10
-
-L'action publique à l'égard des crimes de guerre définis au présent livre se prescrit par trente ans. La peine prononcée en
-cas de condamnation pour l'un de ces crimes se prescrit par trente ans à compter de la date à laquelle la condamnation est
-devenue définitive. 
-
-L'action publique à l'égard des délits de guerre définis au présent livre se prescrit par vingt ans. La peine prononcée en
-cas de condamnation pour l'un de ces délits se prescrit par vingt ans à compter de la date à laquelle la condamnation est
-devenue définitive.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-930 du 9 août 2010 - art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°2017-242 du 27 février 2017 - art. 3
-
-
 ###### Article 462-11
 
 N'est pas constitutif d'une infraction visée par le présent livre le fait, pour accomplir un acte nécessaire à l'exercice par
@@ -37538,9 +37473,9 @@ peines complémentaires mentionnées à l'article 131-16 et au second alinéa de
 
 ###### Article 711-1
 
-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables en Nouvelle-
-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2017-86 du 27
-janvier 2017 relative à l'égalité et à la citoyenneté.
+Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
+rédaction résultant de la loi n° 2017-242 du 27 février 2017 portant réforme de la prescription en matière pénale, en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -37550,11 +37485,11 @@ janvier 2017 relative à l'égalité et à la citoyenneté.
 
 	**Cite**:
 
-	  - Loi n°2017-86 du 27 janvier 2017
+	  - Loi n°2017-242 du 27 février 2017
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
+	  - Loi n°2017-242 du 27 février 2017 - art. 5 (V)
 
 	**Cité par**:
 
