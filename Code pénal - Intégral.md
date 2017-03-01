@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -1565,30 +1565,6 @@ manifestement illégal.
 	  - Code de justice militaire - art. 396 (Ab)
 	  - Code de justice militaire. - art. L311-14 (V)
 	  - Code de la santé publique - art. L3411-8 (V)
-
-
-###### Article 122-4-1
-
-N'est  pas pénalement responsable le fonctionnaire de la police nationale, le  militaire de la gendarmerie nationale, le
-militaire déployé sur le  territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la
-défense  ou l'agent des douanes qui fait un usage absolument nécessaire et  strictement proportionné de son arme dans le but
-exclusif d'empêcher la  réitération, dans un temps rapproché, d'un ou plusieurs meurtres ou  tentatives de meurtre venant
-d'être commis, lorsque l'agent a des  raisons réelles et objectives d'estimer que cette réitération est  probable au regard
-des informations dont il dispose au moment où il fait  usage de son arme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 51
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1321-1
 
 
 ###### Article 122-5
@@ -25186,16 +25162,18 @@ Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou 
 
 ###### Article 322-8
 
-L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende :
+L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende : 
 
-1° Lorsqu'elle est commise en bande organisée ;
+1° Lorsqu'elle est commise en bande organisée ; 
 
-2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours ;
+2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours ; 
 
-3° (abrogé)
+3° Lorsqu'elle est commise en raison de la qualité de magistrat, de militaire de la gendarmerie nationale, de fonctionnaire
+de la police nationale, des douanes ou de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité
+publique, ou de sapeur-pompier professionnel ou volontaire, de la personne propriétaire ou utilisatrice du bien. 
 
 Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées
-à trente ans de réclusion criminelle et à 200 000 euros d'amende.
+à trente ans de réclusion criminelle et à 200 000 euros d'amende. 
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le
 présent article.
@@ -25208,7 +25186,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 171
+	  - Loi n°2017-258 du 28 février 2017 - art. 22
 
 	**Cité par**:
 
@@ -25217,8 +25195,8 @@ présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23
-	  - Code pénal - art. 322-6
+	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 322-6 (V)
 
 
 ###### Article 322-9
@@ -27890,6 +27868,30 @@ prévues à l'article 6-1 de la loi n° 2004-575 du 21 juin 2004 pour la confian
 	  - Loi n°2016-731 du 3 juin 2016 - art. 18
 
 
+###### Article 421-2-5-2
+
+Le fait de consulter habituellement et sans motif légitime un service de communication au public en ligne mettant à
+disposition des messages, images ou représentations soit provoquant directement à la commission d'actes de terrorisme, soit
+faisant l'apologie de ces actes lorsque, à cette fin, ce service comporte des images ou représentations montrant la
+commission de tels actes consistant en des atteintes volontaires à la vie est puni de deux ans d'emprisonnement et de 30 000
+€ d'amende lorsque cette consultation s'accompagne d'une manifestation de l'adhésion à l'idéologie exprimée sur ce service. 
+
+Constitue notamment un motif légitime tel que défini au premier alinéa la consultation résultant de l'exercice normal d'une
+profession ayant pour objet d'informer le public, intervenant dans le cadre de recherches scientifiques ou réalisée afin de
+servir de preuve en justice ou le fait que cette consultation s'accompagne d'un signalement des contenus de ce service aux
+autorités publiques compétentes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 24
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 720-1 (V)
+
+
 ###### Article 421-2-6
 
 I.-Constitue un acte de terrorisme le fait de préparer la commission d'une des infractions mentionnées au II, dès lors que la
@@ -29944,7 +29946,7 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 
 ###### Article 433-3
 
-Est punie de deux ans d'emprisonnement et de 30 000 euros d'amende la menace de commettre un crime ou un délit contre les
+Est punie de trois ans d'emprisonnement et de 45 000 euros d'amende la menace de commettre un crime ou un délit contre les
 personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré,
 d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police
 nationale, des douanes, de l'inspection du travail, de l'administration pénitentiaire ou de toute autre personne dépositaire
@@ -29994,8 +29996,7 @@ d'une administration publique des distinctions, des emplois, des marchés ou tou
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 59
-	  - Loi n°2010-201 du 2 mars 2010 - art. 11
+	  - Loi n°2017-258 du 28 février 2017 - art. 23
 
 	**Cite**:
 
@@ -30049,27 +30050,21 @@ rendus publics ou l'envoi d'objets quelconques adressés à une personne chargé
 l'exercice ou à l'occasion de l'exercice de sa mission, et de nature à porter atteinte à sa dignité ou au respect dû à la
 fonction dont elle est investie.
 
-Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, l'outrage est puni de six mois d'emprisonnement et
-de 7 500 euros d'amende.
+Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, l'outrage est puni d'un an d'emprisonnement et de 15
+000 euros d'amende.
 
 Lorsqu'il est adressé à une personne chargée d'une mission de service public et que les faits ont été commis à l'intérieur
 d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou sorties des élèves, aux abords d'un tel
 établissement, l'outrage est puni de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de six mois d'emprisonnement et de 7 500 euros
-d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+d'amende, et l'outrage prévu au deuxième alinéa est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -30087,14 +30082,14 @@ d'amende, et l'outrage prévu au deuxième alinéa est puni d'un an d'emprisonne
 	  - Code de la route. - art. L221-5 (V)
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de procédure pénale - art. 398-1 (M)
-	  - Code de procédure pénale - art. 41-1-1 (VD)
+	  - Code de procédure pénale - art. 41-1-1 (V)
 	  - Code de procédure pénale - art. 837 (V)
 	  - Code du travail - art. L8114-2 (V)
 	  - Code rural - art. L717-6 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 45 () JORF 10 septembre 2002
+	  - Loi n°2017-258 du 28 février 2017 - art. 25
 
 
 ###### Article 433-5-1
@@ -30162,24 +30157,15 @@ l'autorité publique, des décisions ou mandats de justice.
 
 ###### Article 433-7
 
-La rébellion est punie d'un an d'emprisonnement et de 15 000 euros d'amende.
+La rébellion est punie de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
-La rébellion commise en réunion est punie de deux ans d'emprisonnement et de 30 000 euros d'amende.
+La rébellion commise en réunion est punie de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-686 1992-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-686 1992-07-22 art. 1
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 44 () JORF 7 mars 2007
+	  - Loi n°92-686 du 22 juillet 1992
 
 	**Cité par**:
 
@@ -30192,6 +30178,10 @@ La rébellion commise en réunion est punie de deux ans d'emprisonnement et de 3
 	  - Code de la route. - art. R212-4 (V)
 	  - Code des transports - art. L6372-6 (VD)
 	  - Code rural - art. L717-6 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 25
 
 
 ###### Article 433-8
@@ -32150,6 +32140,12 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, en quelqu
 faire parvenir à un détenu, ou de recevoir de lui et de transmettre des sommes d'argent, correspondances, objets ou
 substances quelconques en dehors des cas autorisés par les règlements.
 
+Est puni des mêmes peines le fait, pour une personne se trouvant à l'extérieur d'un établissement pénitentiaire ou d'un
+établissement de santé habilité à recevoir des détenus, de communiquer avec une personne détenue à l'intérieur de l'un de ces
+établissements, y compris par la voie des communications électroniques, hors les cas où cette communication est autorisée en
+application de l'article 145-4 du code de procédure pénale ou des articles 39 et 40 de la loi n° 2009-1436 du 24 novembre
+2009 pénitentiaire et réalisée par les moyens autorisés par l'administration pénitentiaire.
+
 La peine est portée à trois ans d'emprisonnement et à 45 000 euros d'amende si le coupable est chargé de la surveillance de
 détenus ou s'il est habilité par ses fonctions à pénétrer dans un établissement pénitentiaire ou à approcher, à quelque titre
 que ce soit, des détenus.
@@ -32164,14 +32160,20 @@ intérieure. La déclaration d'inconstitutionnalité prend effet dans les condit
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 39
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 40
+	  - Code de procédure pénale - art. 145-4
+
 	**Modifié par**:
 
-	  - Décision n°2016-608 QPC du 24 janvier 2017 - art. 1, v. init.
+	  - Loi n°2017-258 du 28 février 2017 - art. 30
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. D274 (V)
-	  - Code pénal - art. 434-44 (M)
+	  - Code pénal - art. 434-44 (V)
 
 
 ###### Article 434-35-1
@@ -32520,7 +32522,7 @@ Dans les cas prévus aux articles 434-9, 434-9-1, 434-16 et 434-25, peuvent êtr
 diffusion de la décision prononcée dans les conditions prévues par l'article 131-35. 
 
 Les personnes physiques coupables de l'une des infractions prévues au troisième alinéa de l'article 434-9, à l'article 434-33
-et au second alinéa de l'article 434-35 encourent également la peine complémentaire d'interdiction, suivant les modalités
+et au dernier alinéa de l'article 434-35 encourent également la peine complémentaire d'interdiction, suivant les modalités
 prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans
 l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit, pour les seules infractions prévues au
 dernier alinéa des articles 434-9 et 434-33, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer,
@@ -32535,25 +32537,25 @@ Dans tous les cas prévus au présent chapitre, est en outre encourue la confisc
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
+	  - Loi n°2017-258 du 28 février 2017 - art. 30
 
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 434-11 (V)
-	  - Code pénal - art. 434-13 (V)
-	  - Code pénal - art. 434-16 (V)
-	  - Code pénal - art. 434-17 (V)
-	  - Code pénal - art. 434-25 (V)
-	  - Code pénal - art. 434-27 (V)
-	  - Code pénal - art. 434-29 (V)
-	  - Code pénal - art. 434-33 (V)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 434-11
+	  - Code pénal - art. 434-13
+	  - Code pénal - art. 434-16
+	  - Code pénal - art. 434-17
+	  - Code pénal - art. 434-25
+	  - Code pénal - art. 434-27
+	  - Code pénal - art. 434-29
+	  - Code pénal - art. 434-33
 	  - Code pénal - art. 434-35 (V)
-	  - Code pénal - art. 434-4 (V)
-	  - Code pénal - art. 434-40 (V)
-	  - Code pénal - art. 434-9 (V)
+	  - Code pénal - art. 434-4
+	  - Code pénal - art. 434-40
+	  - Code pénal - art. 434-9
 
 
 ###### Article 434-45
@@ -37474,8 +37476,8 @@ peines complémentaires mentionnées à l'article 131-16 et au second alinéa de
 ###### Article 711-1
 
 Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur
-rédaction résultant de la loi n° 2017-242 du 27 février 2017 portant réforme de la prescription en matière pénale, en
-Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+rédaction résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique, en Nouvelle-Calédonie, en
+Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -37485,11 +37487,11 @@ Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
 
 	**Cite**:
 
-	  - Loi n°2017-242 du 27 février 2017
+	  - Loi n°2017-258 du 28 février 2017
 
 	**Modifié par**:
 
-	  - Loi n°2017-242 du 27 février 2017 - art. 5 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cité par**:
 
