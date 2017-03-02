@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-03
 
 # Partie législative
 
@@ -34791,14 +34791,15 @@ audit alinéa, en violation de ses obligations légales, contractuelles ou profe
 
 Les peines prévues à l'article 445-1 sont applicables à toute personne qui promet ou offre, sans droit, à tout moment,
 directement ou indirectement, des présents, des dons ou des avantages quelconques, pour lui-même ou pour autrui, à un acteur
-d'une manifestation sportive donnant lieu à des paris sportifs, afin que ce dernier modifie, par un acte ou une abstention,
-le déroulement normal et équitable de cette manifestation.
+d'une manifestation sportive donnant lieu à des paris sportifs,            pour que ce dernier accomplisse ou s'abstienne
+d'accomplir, ou parce qu'il a accompli ou s'est abstenu d'accomplir, un acte modifiant  le déroulement normal et équitable de
+cette manifestation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 9
+	  - Loi n°2017-261 du 1er mars 2017 - art. 10
 
 	**Cité par**:
 
@@ -34841,15 +34842,15 @@ ses obligations légales, contractuelles ou professionnelles.
 ###### Article 445-2-1
 
 Les peines prévues à l'article 445-2 sont applicables à tout acteur d'une manifestation sportive donnant lieu à des paris
-sportifs qui, en vue de modifier ou d'altérer le résultat de paris sportifs, accepte des présents, des dons ou des avantages
-quelconques, pour lui-même ou pour autrui, afin qu'il modifie, par un acte ou une abstention, le déroulement normal et
-équitable de cette manifestation.
+sportifs qui sollicite ou accepte, à tout moment, des présents, des dons ou des avantages quelconques, pour lui-même ou pour
+autrui, pour modifier ou avoir modifié, par un acte ou une abstention, le déroulement normal et équitable de la
+manifestation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 9
+	  - Loi n°2017-261 du 1er mars 2017 - art. 10
 
 	**Cité par**:
 
