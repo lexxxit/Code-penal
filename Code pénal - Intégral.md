@@ -1,5 +1,5 @@
 # Code pénal  
-Version Consolidée au 2017-03-03
+Version Consolidée au 2017-03-04
 
 # Partie législative
 
@@ -43605,15 +43605,12 @@ La récidive de la contravention prévue au présent article est réprimée conf
 ###### Article R645-3
 
 Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, par un officier d'état civil ou une personne
-déléguée par lui en vertu des dispositions de l'article 6 du décret n° 62-921 du 3 août 1962 : 
+déléguée par lui en vertu des dispositions de l'article R. 2122-10 du code général des collectivités territoriales : 
 
 1° De contrevenir aux dispositions réglementaires concernant la tenue des registres et la publicité des actes d'état civil ; 
 
 2° De ne pas s'assurer de l'existence du consentement des père, mère ou autres personnes lorsque la loi le prescrit pour la
-validité d'un mariage ; 
-
-3° De recevoir, avant le temps prescrit par l'article 228 du code civil, l'acte de mariage d'une femme ayant déjà été
-mariée. 
+validité d'un mariage. 
 
 Les contraventions prévues par le présent article sont constituées même lorsque la nullité des actes de l'état civil n'a pas
 été demandée ou a été couverte. 
@@ -43622,25 +43619,24 @@ La récidive des contraventions prévues au présent article est réprimée conf
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-921 du 3 août 1962 - art. 6 (Ab)
-	  - Code pénal - art. 132-11 (V)
-	  - Code civil - art. 228 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Codifié par**:
 
-	  - Décret n°93-726 1993-03-29
+	  - Décret n°93-726 du 29 mars 1993
 
 	**Cité par**:
 
 	  - Arrêté du 1 juin 2006 - art. Annexe I (V)
 	  - Décret n°2017-270 du 1er mars 2017 (V)
 	  - Code général des collectivités territoriales - art. R2122-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-270 du 1er mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2122-10
+	  - Code pénal - art. 132-11
 
 
 ###### Article R645-4
